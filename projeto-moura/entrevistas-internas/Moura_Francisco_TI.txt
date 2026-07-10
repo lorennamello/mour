@@ -1,0 +1,478 @@
+00:00:00 Speaker 1
+Mas a ideia é a gente falar um pouquinho do projeto do Moro Energia e um olhar para a Telecom. A sua visão é bem importante aqui. Acho que você está desde o começo do projeto. Está acompanhando o desenvolvimento, tem um olhar da plataforma. Primeiro, para a gente começar a conversa, você me conta um pouquinho, assim, qual que é o papel da TI quando a gente começou o desenho do projeto? Do Moro Energia, quais eram esses principais atributos? Como é essa entrega? E como ela foi se conectando com o desenho de negócio? Assim, uma visão bem inicial aqui.
+00:00:35 Speaker 2
+Vamos lá, deixa eu restar a minha memória aqui, mas por volta de 2022, a gente começou a discutir novos modelos de negócio. Agente e organização, não só TI. E nessa mesma época a gente tinha uma aproximação boa com a AWS, por vários fatores, por outros projetos inclusive. E a AWS tem um programa de inovação, tem uma metodologia de inovação própria deles.
+00:01:07 Speaker 2
+E aí surgiu o dilema, pô, por que a gente não faz uma rodada olhando para algum tipo de produto, que é, meu Deus, é working backwards, é isso mesmo. Aí culminou de a gente ter tido essa aproximação com a AWS. A organização está discutindo sobre a servitização, como a gente vai servitizar a bateria ou serviço de backup de energia, mas tudo muito em incipiente, ninguém sabia qual seria o caminho a ser seguido, porque isso tinha nascido lá atrás com a demanda do comercial, mas depois passou para a PID, que é o ITEM, e ficou ali naquela...
+00:01:55 Speaker 2
+Aquele brilho, ninguém sabia mesmo para onde ir. E aí foi destacada uma pessoa, a Ana Beatriz, que na época trabalhava diretamente com o Tiago, O Tiago D'Azo, e o Tiago foi um dos diretores gerais incumbidos de fazer a coisa acontecer, porque ele já vinha incentivando a organização, que óbvio, precisando pensar em serviço. Isso há anos atrás. Aí as três coisas, os achos se alinharam e a gente topou. Fechou junto com a AWS esse momento para estar discutindo sobre como seria essa questão da servitização.
+00:02:31 Speaker 2
+Coincidentemente, no mesmo ano, no final de 2022, eu tinha ido para um evento, para um Gartner Symposium lá nos Estados Unidos, que tinha se falado muito sobre servitização. Nessa, uma dessas reuniões que eu tive lá com o pessoal, com os analistas, ficou muito claro como é que a gente deveria montar o modelo inicial. Aí a gente juntou as competências, aí eu acabei embarcando numa perspectiva de tecnologia. Malveira, que é do ITEM, embarcou numa perspectiva de pesquisa e desenvolvimento.
+00:03:06 Speaker 2
+Ana Beatriz, do ponto de vista de negócio. Na época ainda participou o Tiago Mello. O Mello participou e um outro cara do comercial, que hoje já não está mais na empresa, que era o Danilo, eu acho. Danilo Campado. Aí a gente foi... Foi, fez um momento lá em São Paulo, na sede da AWS, um dia de imersão para a gente estar discutindo e o objetivo era sair de lá com um present list, qual seria o present list que a gente ia apresentar para o mercado nessa linha de servitização. No paralelo, o time do comercial conversou com a team para ver se eles topavam ser ali.
+00:03:44 Speaker 2
+Os pilotos, a gente fazia uma prova de conceito junto com a team. E aí depois desse trabalho da AWS... Com essa prova de conceito já estabelecida com a TIM, nós montamos um time, o time do produto, Produto, Energia como Serviço, que a gente chama de MEX, para fazer esse MVP. Desde o início, a gente tinha muita... A única certeza que a gente tinha é que precisava fazer funcionar de alguma forma. Ou seja, a gente sempre vem usando a analogia, vamos montar um Lego. Quais são, numa perspectiva
+00:04:21 Speaker 2
+O que a gente precisa usar para conseguir colocar para rodar e rodar esse MVP. Porque se a gente for construir tudo do zero, a gente não vai conseguir tocar o barco. Porque ficou muito claro, nesse momento que a gente teve com a AWS, o output desse frame que a gente usou da AWS foi. Tem três perspectivas importantes. Eu tenho o hardware, que vai ficar fisicamente na estação rádio base. Eu tenho um firmware que vai controlar o vacinamento desse hardware e eu tenho um software.
+00:04:55 Speaker 2
+Vai ser a minha camada livre, eu fronteio com o cliente final para poder fazer os inputs e outputs da solução. Então isso já tem ficado claro desde lá do início e já tem ficado claro também que os grandes desafios da gente neste MPP seria telecomunicação, ou seja, sem o site, sem eu conseguir obter as informações do site, eu não consigo fazer nada remotamente.
+00:05:20 Speaker 2
+Sem a gente ter uma boa gestão e um controle de ativos, eu também teria problemas no médio prazo, quando a solução começasse a escalar. A gente também precisava ter um dispositivo lá na ponta que conseguisse capturar todos os sensores, encapsulasse isso e mandasse para fora da ERB para poder a gente interpretar. É essencialmente fazer o que a gente estava sendo pago, que era monitorar e ser proativo.
+00:05:50 Speaker 2
+Esse era o grande intuito. Na época também, com a evolução do produto, a gente já tinha mapeado, colocar como se fosse um VPP, onde cada herbe poderia servir como capturar a energia solar, para poder abastecer o sistema, enfim, mais em menor porte. Mas isso tinha ficado para uma fase 2. Em resumo, assim, começou em 22, a gente fez o present lease, muita coisa do que está hoje funcionando foi em detrimento daquilo que foi discutido.
+00:06:23 Speaker 2
+A gente já sabia que a gente ia ter esses três pilares para trabalhar, hardware, software e firmware. Já sabia que um dos grandes problemáticas seria a telecomunicação, primeiro que quando você está em uma app fica com sombra, então você não pode usar a mesma operadora. E dada a capilaridade... Das estações aí no Brasil afora, a gente está falando mais de 100 mil antenas, então a gente tem a certeza que nos depararíamos, para além do furto, o furto é uma das grandes coisas, que é uma dor das telefônicas, então a gente na verdade tem um grande estandarte sobre a redução de furto, sobre o não custo do furto na totalidade por parte das telefônicas,
+00:07:07 Speaker 1
+Então isso é o geral.
+00:07:11 Speaker 1
+Olhando hoje, como a gente tem, quando você olha a TI nesse momento do produto, qual é o grande desafio que você tem? Quais são os objetivos que você está traçando hoje para o produto?
+00:07:23 Speaker 2
+O grande desafio da TI hoje é ser o agente ali para mudar a forma como a empresa trabalha.
+00:07:39 Speaker 2
+Há dois anos a gente mudou a estrutura organizacional da gente, a arquitetura organizacional, para poder enxergar agora não apenas os projetos, mas na verdade os produtos da empresa. A gente organizou a TI para que ela possa atuar nos produtos e não apenas nas disciplinas transversais. Basicamente, a gente fatiou a organização em quatro grandes pilares, que a gente está chamando de Business Units.
+00:08:11 Speaker 2
+Que é a distribuição, a manufatura, mora participações e outros negócios. Energia como serviço está em outros negócios. E cada fatia dessa tem seus produtos, serviços e projetos que precisam ser tocados. E aí a gente tem um grupo de pessoas alocadas em cada B.U. Dessa e eu tenho um grupo de pessoas transversais aqui para disciplinas que são padrão. Então eu acho que um dos principais papéis da gente hoje, no processo, é fazer com que a empresa empurrar a empresa para essa transição de projeto para produto, porque a gente entende
+00:08:45 Speaker 2
+Como a gente já entendeu e a gente já está fazendo esse processo de transição, devemos concluir esse ano. Eu acho que a gente é um grande agente de transformação e, por outro lado, a gente está participando e sendo uma parte essencial deste tipo de produto que, porventura, vai. A gente já está composto, só não está ainda institucionalizado. Então eu enxergo dessa forma, porque tecnologia pela tecnologia, a gente só precisa usar a solução certa para o problema que está posto.
+00:09:21 Speaker 2
+Mas eu diria que agora, nesse momento, a gente está em uma fase de lançar uma versão 2.0 da plataforma. No início foi um MVP que acabou... Entramos em produção com algumas melhorias e a gente montou um lego, pega um sistema tal, integra essa galera e faz o negócio acontecer. Agora a gente está dando um upgrade nesse ecossistema para conseguir sustentar o crescimento. Lá atrás a gente tinha, na época, uns 15 sites, hoje a gente está com mais de 400.
+00:09:57 Speaker 2
+Então a realidade é completamente diferente.
+00:10:00 Speaker 1
+E se a gente fosse falar dos desafios hoje, quando a gente olha para a energia, para a plataforma, eu vou chegar na visão do futuro para a gente entender o que vai ser. Mas o que ela é hoje? Quando você olha, quais os principais desafios? O que ela está entregando de valor? Como você entende que ela está conectando com o negócio hoje?
+00:10:18 Speaker 2
+Eu acho que o maior desafio da gente hoje é a gente poder extrair o máximo do hardware, software e firmware. Por quê? Porque como foi lá atrás, é concebido de uma forma em caráter preliminar e a coisa evoluiu muito rápido. Nesse meio tempo a gente aprendeu, a gente acabou sendo provado em diferentes frentes, inclusive de furto, de falta de apagão de conectividade, de falta de energia.
+00:10:50 Speaker 2
+Então eu acho que a gente está num processo ainda de aprendizagem. E aí eu tenho problemas que são problemas básicos, mas ao mesmo tempo críticos. Por exemplo, a grande fonte de informação da gente é a fonte, que faz parte da composição do hardware que está na ponta. Essa fonte passou por uma série de atualizações e no processo de instalação, ela foi feita a instalação da forma errada.
+00:11:22 Speaker 2
+E aí, para você descobrir que a fonte naqueles sites foi feita de uma forma errada, você leva um tempo.
+00:11:30 Speaker 2
+Requer um investimento não só de tempo, mas de recurso humano.
+00:11:34 Speaker 1
+De Uma pessoa ir até lá para verificar. De uma pessoa ir até lá
+00:11:36 Speaker 2
+De um conjunto de pessoas, na verdade, analisar site a site para entender quais são as particularidades. Definir um padrão. Porque no final, a gente não está conseguindo ser efetivo na totalidade do ponto de vista de alarmística. Mas por que a gente não está sendo efetivo? Não está chegando informação por telecomunicação, que era um dos problemas que a gente achava que já teria. Mas quando a gente vai investigando, quando a gente vai fazendo um drill down, a gente vê que não é telecomunicação puramente, existe o desafio da telecomunicação, mas.
+00:12:09 Speaker 2
+Existe uma questão ainda fundamental e fundacional que é a parte de como foi feita a instalação do hardware e do firmware em determinados sites. Eu diria que a padronização hoje é um dos maiores desafios que a gente tem.
+00:12:24 Speaker 1
+Quando a gente fala plataforma, você está falando desses três componentes juntos?
+00:12:27 Speaker 2
+Quando eu falo de plataforma é isso, porque a plataforma, na verdade, se fosse olhar num conceito, seria o front-end para o cliente final. Certo? Aí a gente não está falando plataforma e ecossistema, a galera ia endoidar com essa nomenclatura. Então a plataforma, quando a gente se refere, é o conjunto de hardware, firmware e software que está englobado para comunicação, gestão de firmware, ativo, etc.
+00:12:53 Speaker 1
+Quando a gente fala dessa plataforma, eu só queria entender uma coisa. O que ela entrega hoje de informação? Ou o que ela deveria entregar e talvez ela não tenha entregue?
+00:13:03 Speaker 2
+Veja, recursos básicos, alarmística, ou seja, eu deveria ter a capacidade preditiva de saber quando o site está sendo furtado.
+00:13:11 Speaker 1
+Na hora, assim, meio...
+00:13:13 Speaker 2
+O cara está lá arrombando o cadeado, o cara está arrombando o CAVE, que é o gabinete, o cara tirou uma bateria, eu sei que o cara deveria saber que o cara tirou, então esse é um ponto. O segundo ponto é eu conseguir agir proativamente em detrimento de alguma falha, alguma falha de hardware ou firmware localmente. Então eu poderia atuar, poderia fazer essa visita para garantir que quando a ARM precise de energia, eu possa fornecer, porque teoricamente está no SLA do contrato, etc.
+00:13:47 Speaker 2
+Então seria o segundo ponto. E o terceiro ponto, deveria fornecer informações para a própria operadora, como está o uso dos recursos, como está a oscilação de energia, em quais momentos entraram, como foram feitos os acionamentos e os tickets do mês anterior. Então gerar algumas informações que necessariamente não deveriam ser passadas. Nós não temos a obrigação de passá-las, mas no nosso ponto de vista é um diferencial para o negócio como um todo, que no futuro poderia ser rentabilizado inclusive.
+00:14:21 Speaker 1
+Tá, e aí essas informações hoje, parte dos sites conseguem entregar, parte não por causa dessa questão de instalação.
+00:14:29 Speaker 2
+Por conta, dentre outras coisas, mas na sua maioria, por conta da questão da instalação.
+00:14:36 Speaker 3
+Posso fazer uma pergunta?
+00:14:38 Speaker 2
+Veja, eu estou tentando ser o mais sintético possível. Se eu for muito sintético, vocês não vão me entenderem.
+00:14:43 Speaker 3
+Não, é porque a gente está conversando com outras pessoas, então eu estou tentando cruzar as informações. Quando tu falaste que existe esse problema da instalação, que falta essa padronização para vocês conseguirem capturar tudo o que está acontecendo lá. Esse problema da instalação, você fala da galera que vai instalar, o RSM e coisas do tipo?
+00:15:00 Speaker 2
+É um combo, porque o RSM só executa aquilo que ela foi ensinada a executar.
+00:15:05 Speaker 3
+Então, desde como é o processo de instalação e isso tudo.
+00:15:08 Speaker 2
+Exatamente, porque imagina o seguinte: a Moura Energia é cliente da Moura, a Andrea é da Moura. A plataforma foi concebida pela Moura, ela não foi concebida pela Moura Energia. Na teoria, a Moura Energia paga uma mensalidade para a Moura para usar a plataforma e paga para poder ter conectividade, então cada ponto de conectividade em cada ERP a Moura Energia também paga por isso. A RSM entra como o braço de campo da Moura, ou no caso é da Moura porque a RSM faz parte.
+00:15:44 Speaker 2
+Da responsabilidade do grupo, então da Moura. Para poder fazer essa instalação. E o ITEM, que é o Instituto de P&D, é quem deveria criar as normativas, as diretrizes de instalação lá em campo. Isso é o resumo da obra.
+00:16:00 Speaker 3
+Pronto, aí era esse cara crachá que eu ia fazer. Eu conversei com a Vanessa do ITEM, acho que alguns dias atrás. Ela até compartilhou comigo na hora uma apresentação que era como se fosse um compilado de todos os erros que foram encontrados em campo. Então ela mostrou umas fotos... Usaram um fio que não podia, aqui instalaram, mas nem ligaram a energia. Colocaram uma porta que não era para colocar. Seria tipo isso, só que a cadeia inteira, desde o momento em que se queria direcionar.
+00:16:23 Speaker 2
+Exatamente. Na minha cabeça, se a gente tivesse efetivamente conseguido colocar o time do produto para funcionar, isso já teria sido resolvido mais rápido, porque no final ainda está departamentalizado. Esse é o ponto.
+00:16:41 Speaker 3
+E aí esse departamentalizado seria quais times juntos?
+00:16:44 Speaker 2
+Hoje, por exemplo, o time de TI tem destacado 4 ou 5 pessoas dedicadas para o produto Moro Energia como serviço. Então deveria ter alguém de engenharia ou alguém, assim como do ITEM. O ITEM, teoricamente, é aquela galera que entra, faz a concepção e entrega para a engenharia e a partir daí a engenharia toca o barco e faz a melhoria contínua. Mas hoje ainda não está desse jeito. Teve, na minha visão, uma deficiência no handover de algumas questões.
+00:17:16 Speaker 2
+De alguns produtos que foram entregues, tem a deficiência do fato dessa galera não estar. Sobre a gestão, não a gestão funcional, mas a gestão de priorização de André. Então, teoricamente, André seria a grande orquestradora desse time disciplinar, apesar de não fazer a gestão da pessoa, mas a gestão do time e do resultado do time deveria estar com ela, que é o que a gente vem, entre aspas, costurando.
+00:17:56 Speaker 1
+Eu tenho um número
+00:17:58 Speaker 2
+Talvez o André tenha um número melhor que eu, mas na minha cabeça, a gente está falando em torno de 70, 80 sites que foram detectados, principalmente na fonte.
+00:18:10 Speaker 2
+Então arredondando aí uns 30, 35%. 80% que não funciona. Quase que eu acerto. Perfeito.
+00:18:18 Speaker 1
+E aí só para entender uma coisa, esses dados, a gente tem uma entrega para a operadora. A gente está falando que ela não precisa, mas a gente disponibiliza. Ele tem acesso à plataforma? Como que funciona esse acesso? Hoje ele não tem acesso.
+00:18:30 Speaker 2
+Hoje eu só entrego os relatórios.
+00:18:32 Speaker 1
+Tá. Quem tem acesso hoje à plataforma? A turma de Moro Energia
+00:18:37 Speaker 2
+Que faz a operacionalização e faz o NOC. Tem mais um terceiro fazendo essa parte de NOC. A galera da operação da Mora, gestão de ativos, RSM, etc.
+00:18:51 Speaker 1
+E aí ela pega e gera um relatório?
+00:18:53 Speaker 2
+E, Teoricamente, o espinosa ali como gerente da operação é quem faz essa interrupção, Com a operadora.
+00:18:59 Speaker 1
+Não necessariamente em tempo real, ele deve ter um...
+00:19:01 Speaker 2
+Não necessariamente em tempo real, mas assim, tem muita coisa que já, se você olhar pra Plataforma em si, tem muita coisa que ela já evoluiu do meio pra cima. A parte de software puramente evoluiu muito, a parte de hardware e firmware é que ainda estamos ali na luta pra conseguir afinar.
+00:19:24 Speaker 1
+Olhando para essa questão dos dados, monitoramento. Como que você, talvez tenha até uma visão de futuro aqui. A gente trouxe aqui alguns planos importantes. Garantir o funcionamento, garantir que esse conforto não está acontecendo. Ou ser acionado num tempo real ali para tomar uma medida. E talvez uma eficiência da bateria, uma oscilação. Como que você olha para esses dados assim, gerados pela plataforma? E o uso deles, tanto pela Amora, talvez a energia, quanto para o cliente final? Talvez aonde está exatamente o valor desses dados para eles, se tem nesse momento.
+00:19:55 Speaker 1
+Se de repente você está falando assim, esse daqui é o básico e eu sei lá, tem um valor que eu vou entregar na minha visão de futuro quando a gente falar dela.
+00:20:02 Speaker 2
+Se eu parar para analisar hoje, para a Moura, eu acho extremamente positivo, porque eu vou saber os ciclos da bateria, eu vou saber o tempo de carga, o tempo de descarga, eu começo a entender como é que eu devo mensurar a capacidade necessária de baterias ou de amperes para poder sustentar um determinado tipo de site.
+00:20:25 Speaker 2
+A grosso modo, para a Moura, eu acho que olhando para o produto, ela tem a aprender nessa perspectiva, inclusive para possíveis falhas, para problemas de qualidade e tudo. Então isso a gente conseguiria essencialmente capturar para a Moura, para a fábrica.
+00:20:42 Speaker 1
+Há um monitoramento ali, um teste não comum
+00:20:46 Speaker 2
+Exatamente, na verdade assim, eu estou conseguindo fazer um teste em grande escala com diferentes ambientes, diferentes temperaturas e que podem servir para novos produtos ou otimização de produtos futuros. Para a Moura, na minha visão, é isso. Quando eu olho para a Moura Energia, eu acho que quanto mais a operação for eficiente, mais rentabilidade a Moura Energia terá. Quanto mais eu puder ser preditivo, quanto menos eu precisar ir em campo.
+00:21:21 Speaker 2
+E quanto mais eu conseguir automatizar as problemáticas em detrimento dos inputs de dados Que eu conseguir capturar, mais lucratividade a Amor Energia vai ter, Porque a operação vai reduzir, não vai precisar fazer as visitas em campo. Então, esse é um ponto. Tem um ponto ainda da Amor que eu esqueci, os spare parts, por exemplo. Quando eu começar a... Hoje eu estou com 400, daqui a pouco eu vou ter um 3000, então eu vou conseguir otimizar A gestão dos ativos e dos spare parts. A RSM, por exemplo, que é da Mora e que é paga pela Mora Energia para fazer o processo.
+00:21:55 Speaker 2
+De instalação e manutenção, eu também vou conseguir otimizar essa parte aqui, o que também vai gerar para a Mora algum retorno financeiro direto. Para a Mora Energia, olhando para a operação, tem essa questão do preditivo. Como é que eu vou conseguir me comportar e, na minha visão, a gente com alguns poucos sensores colocados em forma adicional nessas estações de rádio base e com alguns poucos novos produtos acoplados a esse ecossistema, eu conseguiria vender para a operadora.
+00:22:30 Speaker 2
+Além dos dados, materializar a entrega com energia adicional, principalmente nos momentos de pico, porque a partir do momento que eu tenho uma acumulação de energia. Mas eu passo a recarregar essas baterias, não com a fonte externa da rua, mas a própria dela. Eu começo a comercializar energia. Você fica quase sustentável ali. Virar um mini ecossistema. Um mini ou, de fato, um grid maior que possa fornecer, ou seja, a operadora passa a comercializar.
+00:23:03 Speaker 2
+Energia captada dessas fontes solares que eu estou
+00:23:08 Speaker 1
+Retroalimentando. Assorbendo, se ricaricando... Esattamente.
+00:23:10 Speaker 2
+Porque se eu sei a capacidade necessária para manter uma ou duas horas de funcionamento da ERB em falta de energia, e eu sei que a falta de energia não ocorre de forma linear, é muito esporádica, eu posso correr o risco de descarregar a bateria jogando energia para a rua e recarregar com a fonte solar e por aí vai. Então tem várias...
+00:23:31 Speaker 1
+Mas hoje não é o caminho. Hoje é só a bateria no ar instalado.
+00:23:34 Speaker 2
+Hoje não é a realidade, o caminho é.
+00:23:39 Speaker 1
+Hoje é o primeiro estágio.
+00:23:42 Speaker 2
+Primeiríssimo estágio, na verdade.
+00:23:44 Speaker 1
+Monitoramento, antifurto. Uma capacidade de olhar para essas oscilações e garantir a bateria ali.
+00:23:48 Speaker 2
+Exatamente. Tem um detalhe que eu esqueci de falar, da composição, que é a parte do cadeado, é o meio físico de controle de acesso.
+00:23:58 Speaker 2
+Esse controle, na minha visão, eu acho que ele faz parte do rol de componentes que deveria ser primarizado pela organização. Hoje a gente tem terceirizado e é muito sensível. Sensível porque eu estou compartilhando os dados, inclusive de localização, de acesso, etc., com terceiros. Eu dependo do terceiro estar totalmente funcional para conseguir garantir que vou ter o controle de acesso.
+00:24:29 Speaker 2
+Ainda é uma fragilidade do ecossistema termos esse produto que compõe o ecossistema com terceiros.
+00:24:42 Speaker 3
+Aí deixa me te fazer uma pergunta, aí perdoe a ignorância, quando tu fala esse terceiro seria quem?
+00:24:48 Speaker 2
+É uma empresa terceira.
+00:24:50 Speaker 3
+Que cria todo o sistema que destrava ou... Beleza. Que aí quando eu fui lá ver, só pra ver se é isso, o rapaz mostrou que tinha um aplicativo, que a pessoa faz a leitura.
+00:25:00 Speaker 2
+Na minha concepção, porque isso não serviria apenas pra telecomunicação, isso serviria pra outras aplicações que a gente tem e acabaria sendo um negócio novo, mas também só dependendo da gente, né, pra o... Porque eu fico imaginando assim, ó, o chapéu de segurança da informação, né, um cara desse é invadido, ferrou, assim, não tem absolutamente nada o que fazer, eu não tenho redundância nenhuma no processo.
+00:25:29 Speaker 1
+Ele pode abrir, ele vai liberar todas as baterias, leva os dados e a gente utiliza zero, sete.
+00:25:35 Speaker 2
+Zero. É muito sensível.
+00:25:37 Speaker 3
+É muito sensível. Mas vocês não conseguem isso hoje, por quê?
+00:25:40 Speaker 2
+Na verdade, é que eu acho que nem tem tanto problema básico pra mim.
+00:25:45 Speaker 2
+Ele vai abraçar, mas se eu levantar a mão pra abrir a boca, os caras vão...
+00:25:51 Speaker 2
+Mas tem que estar no ponto médio, na minha visão.
+00:25:54 Speaker 1
+Aí, só uma coisa, eu entendi esse valor agora para a Moura, e o valor para esse cliente final operadora, quando a gente fala dos dados, e talvez você podia trazer essa visão, o valor desses dados atuais e talvez uma visão de futuro aqui, como você vai vendo essa evolução.
+00:26:09 Speaker 2
+Veja, vamos tentando ser pragmático aqui, se ele está pagando pelo serviço e eu tenho a obrigação de entregar o bom funcionamento da ERG, teoricamente, esses dados serviriam apenas para o entendimento dele, do ponto de vista de compliance ou não com a Anatel, porque eles são regulados. Até para alguma eventual notificação, na linha da legalidade, eu acho que eles precisariam ter isso material.
+00:26:39 Speaker 2
+Para algum tipo de situação como essa, eu acho que serviria para eles poderem entender... Como é que o ecossistema dele funciona, porque ele não tem tudo como serviço, ele tem parcialmente, talvez, eu diria que menos de um terço das antenas dele vai ficar como serviço, então ele poderia usar essas informações para definir a capacidade necessária instalada de bateria nos demais sites, porque hoje eu arrisco dizer que 50% do CAPEX das operadoras são em bateria, para conseguir, eu não sei se o texto número é o mesmo.
+00:27:19 Speaker 2
+É muito alto, assim, porque o furto é muito recorrente. Ele não tem controle nenhum.
+00:27:29 Speaker 1
+Era isso que eu ia perguntar, porque em algum momento que a gente passou e falou, a gente entendeu que eles têm algum conjunto de dados ou de informações desse site. Aí, eu não sei o que é esse dado, e é só para entender se a gente está entregando o mesmo dado, esse dado mais trabalhado, ou se a gente está entregando um dado que ele não tem.
+00:27:47 Speaker 2
+Ele não tem absolutamente nada. Hoje, nos sites, a gente pegou uma situação totalmente assim, ele disse: "Ó, vá nesse site fazer a instalação." Quando a gente chegou lá, só tinha o terreno. Não tinha antena, nem gabinete, nem bateria.
+00:28:02 Speaker 1
+E ele tinha certeza que ele tinha uma antena ali. Meu Deus, tá, entendi. Tem, mas não tem.
+00:28:09 Speaker 2
+Diz que tem. Assim, eu acho que é um terreno que a gente nunca vai conseguir explorar. Como as torreiras fazem o processo de terceirização das torres físicas, pra eles é meio que assim, isso não é meu negócio, eu vou te pagar, tu se vira pra conseguir e tal. Com exceção das baterias e do gabinete que ele precisa colocar os equipamentos dele. Na minha visão, eles têm muito a aprender pra o parque instalado que eles já têm.
+00:28:35 Speaker 1
+Mas eles trazem, você vê eles com essa dor ou eles olhando pra isso?
+00:28:40 Speaker 2
+Eu Vejo eles querendo que a gente faça uma recompra do parque deles pra gente assumir a operação. Então, significa que o negócio deve ser um...
+00:28:48 Speaker 2
+Bom demônio.
+00:28:51 Speaker 1
+Boa, tá bom. Aí, vamos só olhar, você tem alguma pergunta? Não, eu tenho uma, mas eu vou deixar no final. Não, tá bom. Porque, aí eu ia falar assim, tá, a gente olhou alguns desafios que você tem hoje, Que é de instalação. Mas, você tem algum desafio, vocês estão terminando, né, vocês tem um contrato aí, Vocês estão com 300, 400?
+00:29:08 Speaker 2
+Tá Com 400 sites de 3 mil.
+00:29:10 Speaker 1
+Isso, aí vocês têm uma evolução deles. Só pra entender assim, quais são os desafios desse crescimento, como ele tá.
+00:29:18 Speaker 2
+Eu acho que a gente não cresce hoje por dois motivos, não é que não cresce, a gente não acelera de forma exponencial por dois motivos, por três. Primeiro, ainda não existe uma confiabilidade 100% do ecossistema que foi posto, que está aqui na composição. Eu estou falando assim, não existe uma confiabilidade porque a gente está tendo essas eventualidades.
+00:29:43 Speaker 2
+Dois, eu acho que a questão da falta de produto, gabinete e tal requer um CAPEX muito alto para a gente, para poder acelerar também. Eu precisaria ter muita certeza e muita eficiência na instalação disso para que a gente começasse a faturar e começasse a pagar a depreciação, enfim, o investimento que foi feito. E eu tenho um terceiro ponto, que na minha visão
+00:30:10 Speaker 2
+A gente ainda não aprendeu a trabalhar de forma disciplinar e estabelecer os padrões necessários de instalação e checagem daquele serviço que foi feito para poder garantir que realmente isso aí vai dar. Eu vou lá e só vou voltar para tocar a bateria ou para um eventual furto. Acho que essas três questões aí tem impactado a velocidade. A gente já aloçou muito. Hoje a gente está instalando pontos de saída de 100 por mês.
+00:30:43 Speaker 3
+30, 50, depende de quanto a gente recebe no eixo, mas é uma proporção de 80% do que é recebido.
+00:30:54 Speaker 2
+O que é recebido significa que a operadora libera para a instalação.
+00:30:57 Speaker 1
+E ela direciona vocês assim?
+00:31:00 Speaker 2
+Ela diz assim, tem esse lote aqui disponível, para que você consiga me atender. Ela vai dando de forma cadenciada.
+00:31:07 Speaker 1
+Mas se vocês quisessem acelerar, ainda teriam essa barreira.
+00:31:10 Speaker 2
+Teria essa barreira, mas eu acho que essa menos. A gente tem o quê? Um pool de 200 sites disponíveis já para a instalação?
+00:31:16 Speaker 1
+Tem 710 sites no nome da gente e tem 400 de tal.
+00:31:20 Speaker 2
+50 % de 4.
+00:31:22 Speaker 1
+Tá. Tá bom.
+00:31:27 Speaker 1
+Aí você, só para entender, você falou assim, a gente está indo para uma segunda versão. Como que está essa transição e qual que é a diferença do que você vê hoje?
+00:31:37 Speaker 2
+A diferença, basicamente, é a língua de arquitetura, a IELA. Tecnicamente falando, para que eu consiga, por exemplo, duplicar ou triplicar a interpretação do volume de dados que é gerado na ponta, para que eu possa garantir a performance na geração dos dashboards e monitoramento. É muito mais de capacidade de execução do que o dado final.
+00:32:02 Speaker 3
+Deixa eu pegar o gancho para ver se a minha pergunta tem a ver com isso. Quando eu fui conversar com a Vanessa, ela falou sobre a questão de Onde começou? Ela falou do Moracube e falou que esse primeiro passo que aconteceu com a TIN e que está com a Vivo ainda era a versão POC.
+00:32:19 Speaker 2
+É o MVP que virou produção.
+00:32:20 Speaker 3
+É, pronto, é isso. Aí eu ia perguntar se essa versão, segunda versão, você já achou esse desenvolvimento para sair dessa POC que nunca saiu da POC?
+00:32:28 Speaker 2
+Veja, a gente tem duas frentes de trabalho. A gente tem uma frente olhando para a plataforma PSI, ou seja, para o software que faz a gestão das informações e tal. E a gente tem uma segunda versão para sair do Connect, que é o Cool, que nada mais é do que um Raspberry com um sistema operacional lá rodando e captando informações da fonte, que é quem pega todos os sensores que estão lá disponíveis.
+00:32:52 Speaker 1
+E está em logo, isso, certo? Está em logo,
+00:32:53 Speaker 2
+Está em logo. Ele que manda o dado. Aí, veja, aí na minha visão, não tenho tanta propriedade, mas eu acho que o fato de a gente ter...
+00:33:08 Speaker 2
+Eu conecto lá na ponta, ele requer uma atenção especial no sentido de ter uma versão final estável. Eu acho que essa versão final estável nunca chegou, em termos de hardware.
+00:33:22 Speaker 3
+Estável no nível industrial.
+00:33:24 Speaker 2
+É, não é no patamar industrial. Então, imagina que o VG é um Raspberry. É um modelo X lá, que comprou na Itália, que continua comprando e voltou pra rodar. Eu não tenho uma...
+00:33:44 Speaker 2
+Porque teoricamente assim, o ITEM deveria entregar um produto final, óbvio, esse aqui é o produto final versão 1, pode colocar que vai funcionar, você só precisa ficar fazendo atualização de firmware por questões de segurança de informação. Então nunca existiu isso, para que eles pudessem aí sim partir para um 2. E a partir do momento que ele faz essa entrega, engenharia deveria assumir esse papel, colocar o chapéu e falar assim: 'Eu sou dono deste Produto, se precisar evoluir alguma coisa eu posso evoluir.'
+00:34:15 Speaker 3
+Não precisa mais de item, seria partir daqui comigo.
+00:34:18 Speaker 2
+Porque o item é basicamente olhando para H2 e H3, o item existe para olhar para frente. Se ele passa a fornecer os produtos, se ele mesmo passa a fazer monitoramento, operação, etc., ele vai perder completamente o...
+00:34:31 Speaker 1
+Que é isso que acontece hoje, né? Ele assume uma parte ainda e continua, ele não está nem criando, ele está evoluindo o que já tem. É isso aí.
+00:34:38 Speaker 2
+É estabilizando, talvez essa seja a palavra mais forte.
+00:34:42 Speaker 1
+Pois tá. Estabilizando o que existe hoje para ir para as outras visões.
+00:34:50 Speaker 1
+Muitas vezes eles são engenheiros de produto.
+00:34:51 Speaker 2
+Exato. Eles fazem o papel mais de engenheiro de produto do que ele.
+00:34:54 Speaker 1
+Fez dentro.
+00:34:59 Speaker 1
+Aí, conectando isso, esse é o ponto, esses são os desafios, qual é essa visão de futuro? Você chegou num ponto que é essa bateria, tendo essa inteligência pra entender que momento ela pode descarregar, ofertar, capturar. Isso aqui é o que? H2 ou H3?
+00:35:14 Speaker 2
+Veja, na minha visão, a gente tá com um projeto, na verdade, rodando, que é o VPP. Eu acho que pode acabar entregando isso, eu diria pra você que é H2.
+00:35:23 Speaker 1
+H2. E o que é o H3? O que é essa visão de futuro? Não faço a mínima ideia. Tudo bem.
+00:35:28 Speaker 3
+E a energia? Minha energia é boa. A gente tá no H2, que é fotovoltaico e béis, por exemplo, e quando a gente olha pra H3 é o hidrogênio. É algo que tá um pouquinho longe, o custo tá bem alto ainda. Você não consegue enxergar ainda. Aqui a gente tem um banco de hidrogênio pra transportar pra ir lá pra Europa a energia. Isso é uma coisa meio doida pra gente, mas daqui até 15 anos isso vai ser normal. Todo mundo vai estar.
+00:35:57 Speaker 2
+Para o produto específico, para o ecossistema específico da Moro Energia ou da Energia, como serviço, eu não consigo ter essa visibilidade ainda. Eu particularmente não consigo.
+00:36:07 Speaker 1
+Mas então a nossa visão de futuro é essa, que é essa bateria assim fazendo
+00:36:13 Speaker 2
+É que é uma realidade lá fora, inclusive, essa questão dos grids e tal, isso já acontece naturalmente. A agenda aqui no Brasil está tradando.
+00:36:29 Speaker 1
+O que fica só na minha cabeça é, a gente entende essa necessidade, talvez não sei se ela fica muito clara. Na necessidade que ela tem hoje, que é bateria. A gente sabe que ela tem uma dor, que é o furto, que é isso, que talvez ela diga que tem dado, mas ela talvez não tenha se dado.
+00:36:45 Speaker 2
+Não, Zero, a gente tem certeza. Falando que eu vou pegar um café depois dessa.
+00:36:50 Speaker 1
+Mas o que é, talvez, essa necessidade ou essa demanda, de fato, que ela quer no serviço? Você consegue enxergar isso? Essa operadora, assim, quando a gente fala?
+00:37:00 Speaker 2
+Essa operadora, eu tenho conversado muito, inclusive semana passada, lá em São Paulo. Ela foi adquirida pela TIN, chama V8. É uma negociação interessante.
+00:37:13 Speaker 3
+É um move-in.
+00:37:14 Speaker 2
+A gente fazendo com a V8? Eu tenho conversado muito com eles, inclusive, assim, o plano da TIN, não vou falar especificamente da TIN, mas isso acaba reverberando para as demais. O plano do cara é o seguinte, ó bicho. Enquanto telecomunicação, eu não tenho como me sustentar a operação, ou seja, toda a parte de minutagem, de uso de dados, isso não sustenta a minha operação. Eu preciso partir para quê agora? Eu preciso partir para algo mais complexo, que é fazer tecnologia. É tanto que a Claro se juntou com a HITS, a Kim comprou a V8 e a Vivo está patinando ainda nesse meio de campo.
+00:37:53 Speaker 2
+Então assim.
+00:37:57 Speaker 2
+Assim, o que os caras têm em mente é o seguinte: a gente está partindo agora para soluções compostas. Estão fazendo um projeto lá em São Paulo que se chama Anel Verde. É um distrito chamado Distrito Itaqui. Fica ali no império, não sei se vocês conhecem, mas fica ali no... É próximo a São Paulo, talvez nas paredes, mas eu não sei. O governo do estado encomendou a eles fazer um Anel Verde. Que é prover telecomunicação ao longo de toda a rodovia de São Paulo até esse distrito, que precisa vir funcionar 24 por 7.
+00:38:29 Speaker 2
+E as concessionárias que fazem pedágio vão tirar aquelas cabines de pedágio e tudo vai ser via visão computacional. Então você imagina a capacidade de processamento, de telecomunicação e da operação em tempo real que precisa acontecer. Então elas estão indo para soluções compostas. Que telecomunicação, por eles já terem expertise e terem toda a infra física, eles já largam na frente e quando ele coloca uma empresa de tecnologia, compondo o ecossistema de empresas do grupo, aí ele consegue...
+00:39:00 Speaker 2
+Na minha visão, assim, talvez seja uma questão de tempo para eles conseguirem montar algo similar. Mas eles não vão ser competitivos porque eles não têm o que é o principal, que é o ativo, o hardware, que é a bateria.
+00:39:17 Speaker 2
+Teoricamente, continuaria na mesma problemática, eles teriam que comprar bateria para poder compor, então para eles não é interessante, para a gente é.
+00:39:23 Speaker 1
+Que aí vocês podem entrar compondo esse ecossistema e facilitando a vida dele ali, organizando.
+00:39:29 Speaker 2
+Exatamente. É tanto que eles, muito provavelmente, vão nos ajudar com a parte da telecomunicação, porque hoje, apesar de não estar latente diretamente, a gente tem um problema de telecomunicação. Eu tenho que contratar uma empresa terceira que faz um chip multi-operadora para poder garantir que independente do local vai funcionar. Aí a ti já chegou para o outro. De repente eu posso te oferecer um serviço satélite de alta latência, de baixa largura de banda, para poder eu te entregar isso em qualquer lugar.
+00:40:01 Speaker 2
+Talvez possa ser até uma composição.
+00:40:03 Speaker 1
+A gente tem que trabalhar essa troca de valores.
+00:40:05 Speaker 2
+Exatamente. Só que este modelo da gente pode ser replicado para outros. Esse é o tipo de negócio. Quem tá discutindo banco? Tem banco, enfim. Tem uma série de coisas. Aí tem home base, enfim, que pode capilarizar, o próprio base, então, assim, se a gente acerta a mão nesta composição, eu consigo replicar isso pra qualquer coisa.
+00:40:28 Speaker 1
+Perfeito. Só antes da gente entrar num ponto... Se eu estiver engajando demais
+00:40:35 Speaker 2
+Vocês me aterrizem.
+00:40:37 Speaker 1
+Eu ia perguntar, você trouxe uma questão assim, quando a gente olha hoje os componentes. Obviamente era uma POC, vocês entenderam o que vocês tinham de mercado e construíram. Então você tem outros fornecedores aqui para você fazer essa entrega. Então você trouxe um ponto sensível, por exemplo, do cadeado dos dados dessa conexão. Enfim, existem outros pontos que podem ser aqui um desafio quando a gente fala dessa composição de fornecedores?
+00:41:00 Speaker 2
+Tem, sabe, sabe o sentido. Hoje, eu diria para você que a gente... Deus é moreno.
+00:41:10 Speaker 2
+Amém! Em duas palavras. É isso. Assim, veja, a gente tem... Se não foi dar errado, deu certo.
+00:41:19 Speaker 2
+Assim, você pega a operação de base, é uma operação mais robusta do que uma operação de energia como serviço. Mas, teoricamente, a grosso modo, é o mesmo modo de operando. Uma capacidade de armazenamento maior e uma complexidade maior. Eu hoje não tenho estabelecido um padrão de segurança da informação, por exemplo, para isso. E tem me preocupado muito, tirado meu sono, na verdade, alguns componentes chineses que a gente tem usado. Tem tudo para dar errado.
+00:41:53 Speaker 2
+Mas está dando certo. Está gravando agora depois do outro. Eu não falei isso não. Eu não tirei isso que vai vir aqui.
+00:42:03 Speaker 2
+Mas essa parte sabe, quem está na casa do outro, talvez uma parte das informações são informações do outro, que são segredos de competitividade.
+00:42:18 Speaker 3
+A Gente já evoluiu com o de México também.
+00:42:20 Speaker 2
+Já, Já evoluímos, mas não tem um padrão estabelecido. A gente não tem, por exemplo, um... Um monitoramento contínuo, 24 por 7, para todas as operações que a gente tem ofertado Como serviço, principalmente para aquelas que já estão rodando.
+00:42:36 Speaker 1
+Isso é factível de fazer?
+00:42:37 Speaker 2
+Total. Isso vai, inclusive, mexer no business case de cada produto, porque não precisa fazer Um investimento adicional.
+00:42:47 Speaker 1
+Isso vocês já estão programando?
+00:42:48 Speaker 2
+A gente está discutindo. Já estamos validando, pelo menos para o BES, a solução que seria a solução final.
+00:42:58 Speaker 3
+E quando a Telecom e tudo esse custo é muito alto?
+00:43:02 Speaker 2
+É, porque a Telecom, o FII é muito pequeno mensal, é muito grande, o CAPEX inicial. O contrato também é muito grande, são dados muito longos, mas o FII mensal não comporta a solução. A gente tem que ser criativo.
+00:43:17 Speaker 1
+Faz sentido quando vocês olham o que vocês estão vendo para a Beza depois. É como que isso vai replicar? Faz, mas num escalamento bem menor. Sim, mas uma adaptação. Uma adaptação, Senhor. O preço também está aqui. Precisa de custo. Um mês são milhões.
+00:43:30 Speaker 3
+Um equipamento, então, um exemplo, 10 mil. Vou dar mais exemplo, porque o seu valor, 10 mil e milhões. Um coque, menino, mas 10 mil e 100 mil, é basicamente.
+00:43:41 Speaker 1
+É nesse sentido. É basicamente isso. Tá bom. Chegando assim, fechando, pensando em... Você tem uma pergunta? Pode ficar, eu estou tranquilo.
+00:43:52 Speaker 2
+Vai estar sobre isso ou a conversa está toda?
+00:43:59 Speaker 1
+Inspiração. Quando você olha para o modelo que vocês têm hoje, H1 ou H2, esse ecossistema, que empresa, solução, país vem para você como referência? E aí talvez desenhando três grandes coisas. Modelo de monitoramento. O modelo de tipo de serviço ou oferta ali que tem e o uso dos dados, quando a gente fala de energia.
+00:44:22 Speaker 2
+Cara, assim, eu particularmente tenho visto muita coisa, principalmente nos Estados Unidos. A China, eu estive lá recentemente e pesquiso muito sobre a temática. Só que eu acho que tem uma coisa boa e uma ruim na China. A coisa boa é que eles conseguem dar velocidade porque eles aceitam um nível de qualidade mais baixo.
+00:44:44 Speaker 1
+Uhum, ok.
+00:44:46 Speaker 2
+Pra mim, o que? A velocidade é massa. O problema é o nível de qualidade. A gente não pode. A gente não deve.
+00:44:55 Speaker 2
+Tirar o olho, ou deixar de entregar qualidade em detrimento do que é atrelado à marca, amor. Pra mim, assim, a China deixa de ser uma inspiração nessa perspectiva de qualidade. Agora, da perspectiva de velocidade, aí eu acho que a gente precisa aprender com os caras. E que, para mim, está muito claro que esse modelo de produto, a empresa consegue entender que se eu conseguir virar a chave de projeto para produto, eu vou conseguir acertar a mão e vou conseguir dar celeridade, principalmente após a primeira entrega.
+00:45:31 Speaker 2
+Para mim, esse é o ponto. Estados Unidos, eu acho que muito da linha de...
+00:45:37 Speaker 2
+É o oposto da China, né? Talvez não tenha tanta velocidade, mas tem uma qualidade acima da média. E eu acho que, principalmente no oeste da Califórnia, temos muito o que aprender com As empresas de lá. Pela questão da geografia, pela questão do clima, eu acho que é muito parecido com Boa parte do que a gente tem no Brasil hoje, então nessa linha. E do ponto de vista de cyber, eu acho que Israel, assim, pra mim é indiscutível o.
+00:46:10 Speaker 2
+Nível que eles estão de cyber.
+00:46:17 Speaker 1
+Tem algumas empresas que são sua inspiração, assim, que se acompanham?
+00:46:22 Speaker 2
+Cara, especificamente nessa temática de energia, não.
+00:46:27 Speaker 1
+Não porque eu não... Ou monitoramento, ou esses dados?
+00:46:34 Speaker 2
+Olhando pra uma perspectiva um pouco com o meu chapéu de cyber, assim, eu tenho um... Vejo muito bons olhos a turma da Palo Alto e da Fortinet, eu acho que são duas empresas Que estão se destacando nesse cenário global.
+00:46:53 Speaker 2
+Olhando para a parte de dados, principalmente de ar, no que tange a processamento, eu acho, Que a Oracle, apesar de não estar no holofote, é a que vai se sobressair, na minha visão, No médio prazo, do ponto de vista de capacidade, de capacidade sem dúvida nenhuma.
+00:47:13 Speaker 2
+Basicamente, de energia eu não tenho porque eu nunca aprofundei nesse mercado especificamente. Mas eu acho que essas aí, do ponto de vista de tecnologia, eu acho que são... Agora, por outro lado, eu tenho observado muito os movimentos da WEG, né? Eu acho que é uma boa... Eu sei que benchmark não é possível, mas...
+00:47:37 Speaker 2
+Mas, assim, eu acho que as ações que eles fazem. Eles são um pouco diferentes da gente. Os caras são muito mais ousados, na minha visão. O risco é muito mais alto. A gente sempre vai. A gente aqui na Amor sempre vai ser um passo de cada vez. Lá os caras já chegam realmente pra desbancar o pequeno. Não tem muita dó não.
+00:48:00 Speaker 1
+O que você acha que, além dessa velocidade, essa coisa do risco, aquilo, não, sei se é isso, mas o que mais chama atenção, quando você olha como...
+00:48:13 Speaker 2
+Eu Acho que a capacidade que eles estão tendo, e talvez seja com a falta de conhecimento da minha parte, Mas a capacidade que eles estão tendo de primarizarem aquilo que é core do negócio que eles estão entrando. Eu acho que a composição com a China nos dá muita velocidade. Da capitalidade e diversificação do produto. Por outro lado, é a China, e eu não tenho nada contra a China, pelo amor de Deus,
+00:48:48 Speaker 1
+Mas eu.
+00:48:51 Speaker 2
+Me preocupo muito porque, assim, eles copiam tudo, absolutamente tudo, eu só não acredito que eles invadiram ainda o Brasil e colonizaram porque a gente tem as barreiras tarifárias e tem algumas regulamentações, para eles não é interessante. Mas, se não fosse isso, eu não sei o que seria da indústria nacional. Porque o governo entra em tudo, né? Sim. O governo de lá, então... É interessante. Eu visitei lá algumas empresas de tecnologia e sem ser tecnologia.
+00:49:23 Speaker 2
+Porra, você olha, por exemplo, o Ixete, muito pobre do ponto de vista visual e tal. Mas todo mundo usa. Então, a quantidade de usuários que esse cara tem, de dados que o cara tem, é um negócio absurdo. E para muita coisa. É.
+00:49:38 Speaker 2
+Câmera em tudo quanto é buraco, assim, você pega o próprio WeChat. Tem uns conceitos que são uns conceitos bacanas, que eles, nessa outra visita que eu fiz, Eu fico muito claro nisso, chamam lá de mini-programas. É tipo assim, ó, eu não preciso fazer um aplicativo dentro do WeChat. Na verdade, eu digo assim, WeChat, eu tenho aqui essa, a minha linguagem, a minha língua é essa. Ele vai, se conecta e o cara pode fazer um pedido em qualquer KFC, por exemplo, que tenha na China.
+00:50:06 Speaker 2
+Eu acho que esses conceitos específicos, a gente pode aproveitar o entendimento, Mas, fora isso, eu não posso nem falar isso, principalmente.
+00:50:18 Speaker 2
+Porque a gente acabou de assinar o contrato com a K-12, né, hoje. Então, a gente está comprando uma linha nova, um forno novo para a Metalúrgica e tal.
+00:50:26 Speaker 3
+Mas foi uma coisa não 100% alinhada, né?
+00:50:29 Speaker 2
+É. Ou bandida. Correu atrás de mim.
+00:50:32 Speaker 3
+É, eu disse assim.
+00:50:33 Speaker 2
+Mas assim, eu diria para você que é mais ou menos isso. E hoje, enquanto tecnologia, o meu maior desafio, sem dúvida nenhuma, é mudar a perspectiva do que o negócio tem sobre tecnologia. A gente tem, acho que a grande missão de democratizar o uso de tecnologia pelos negócios de uma forma não friccionada. As pessoas deveriam usar tecnologia, enfim, como quem usa o celular. E a gente ficar, de fato, na governança e provendo cada vez mais conhecimento.
+00:51:09 Speaker 2
+Quem está usando e acesso, até quando o IA tem que tirar dúvidas.
+00:51:18 Speaker 1
+E aí, por último, pensando hoje, acho que talvez duas visões. O que você acha que hoje é o grande diferencial que a gente tem dentro da plataforma e olhando para o futuro?
+00:51:38 Speaker 2
+Eu acho que o futuro, sem dúvida nenhuma, é a gente conseguir vender aquilo que é intangível. Eu acho que os dados, e não só para as telecoms, eu acho que os dados que são capturados hoje em diferentes localidades, em diferentes formas, em diferentes situações, eles têm algum valor. O que a gente não descobriu ainda, pelo menos não está claro ainda, é como interpretar esses caras. Como eu transformar o dado em informação.
+00:52:10 Speaker 2
+Eu acho que, primeiro, perpassa muito por aí.
+00:52:15 Speaker 2
+Inclusivo, usando um pouco o conceito que a própria Amazon fez, que o Magazine está fazendo agora. Eu deixei de ser um varejo, passo a vender tecnologia. E como eu uso tecnologia, eu faço a infra para me atender, mas vendo a sobressalência para o mercado. Acho que esse modelo de negócio é um modelo vencedor. A Amazon está aí para provar isso, que mais de 70% da receita dos caras vem de tecnologia, não vem da venda. Dá para a gente copiar. Eu acho que um ponto é essa questão dos dados
+00:52:47 Speaker 2
+Poxa, essa infraestrutura que eu estou conseguindo colocar, materializar, em vários locais diferentes, como é que eu consigo utilizá-la para outros fins que não apenas para a telecom? Como é que eu consigo usar a capacidade instalada para gerar uma receita adicionada com a outra perspectiva? Eu acho que sem dúvida nenhuma isso é o futuro, assim, dessas duas frentes. A parte de dados, dúvida zero, que a gente só precisa saber qual é a informação ou
+00:53:19 Speaker 2
+Conjunto de informações que a gente vai gerar e como usar essa capacidade física, instalada para poder gerar outras receitas. Para outros negócios, seja carregamento veicular. Imagina, sei lá, 3 mil sites. Daqui a pouco eu estou com 50 mil sites. Dependendo do local do dado site, eu poderia, por exemplo, colocar um eletroporto. Sei lá, aí só Deus sabe.
+00:53:41 Speaker 1
+Quando a gente olha para a evolução da plataforma, o próximo passo de maior impacto seria esse ou você teria outro?
+00:53:47 Speaker 2
+Na minha visão, sem dúvida nenhuma, a parte de dados. Eu acho que a gente precisa, o quanto antes, prover uma estrutura, uma infraestrutura de hardware e software para conseguir primeiro suportar o crescimento, armazenar a maior quantidade, processar a maior quantidade de dados possíveis para poder transformar isso em informação.
+00:54:06 Speaker 1
+E o segundo passo, como você traz e amplia esse potencial?
+00:54:10 Speaker 2
+Como é que eu amplio esse potencial e essa receita que não seja uma receita direta do FII mensal pago pelo operador.
+00:54:17 Speaker 3
+Falando em chassi, o que tu pensas? Por exemplo, eu tenho um chassi que vai ser uma visão boa. Vocês entenderiam como ele enxerga a plataforma para longo prazo?
+00:54:31 Speaker 2
+A gente entende o seguinte, por exemplo, a gente tem a plataforma específica para a telecom. Agora está entrando o BES, daqui a pouco deveria entrar o HomeBES. Teoricamente, eu deveria concentrar o que fosse para o cliente final, seja pessoa física, seja pessoa jurídica, dentro desse ecossistema. Porque a partir daqui eu vou conseguir gerar a informação que você imaginar, por exemplo, o home base eu vou estar na casa de CPFs e CNPJs de pequeno porte. Eu vou estar na casa dos caras e imagine a quantidade de informação.
+00:55:05 Speaker 2
+Que eu não vou ter rodando essa operação.
+00:55:10 Speaker 2
+Seja do quanto as pessoas estão economizando em detrimento da entrada na ponta, seja das quedas de energia, seja da oscilação e da qualidade da energia, então, assim, por exemplo.
+00:55:23 Speaker 2
+Os caras que vendem eletrônicos, se souberem a qualidade da energia de determinada região, teoricamente eles poderiam otimizar o produto deles para poder suportar essa má qualidade. Por exemplo, e aí tem N fatores. Mas eu posso colocar sensores adicionais de meteorologia, de temperatura, várias outras coisas eu posso estar capturando porque teoricamente eu estou presente fisicamente naquele lugar. Aí você bicicleta ela. Não tem nada a ver, mas tem tudo a ver.
+00:55:56 Speaker 2
+É assim, como é que eu consigo interligar os dados gerados pela bicicleta com os dados capturados e gerados pela estação rádio base do ponto de vista de energia?
+00:56:09 Speaker 2
+Eu acho que tem uma série de coisas aí que podem ser vistas. Podem ser conectadas.
+00:56:15 Speaker 2
+Esse é o sonho.
+00:56:16 Speaker 1
+Esse é o sonho, maravilhoso. Olhando hoje para esse cliente, esse operador... Você acha que acelera ou traria maior engajamento, adesão delas a essa solução, esse serviço que a gente está fazendo?
+00:56:29 Speaker 2
+Eu acho que a gente tem que escapar um pouquinho da questão apenas do custo, sabe? Eu acho que a gente tem que ir em uma linha de, por exemplo, se um site for roubado, um site que é da operadora, Quanto tempo ele leva para poder reestabelecer, quanto tempo eu levo para reestabelecer, Quanto tempo eu contratualmente estou lá disponível para... Mudar essa situação, dada a regulamentação da Anatel, por exemplo. Porque a partir do momento que você é roubado, o seu banco de baterias é roubado,
+00:57:00 Speaker 2
+Se faltar energia, você vai descumprir a legislação. Qual é a penalidade nesse descumprimento? Se o percentual de furto é muito alto, existe uma composição financeira importante.
+00:57:16 Speaker 2
+Principalmente CAPEX e OPEX, mas eu acho que... Para além disso, e eu acho que a gente tem que livrar isso, tirar isso da frente, tem, Essa questão da regulação, nível de serviço, enfim, acho que tem que ir nessa linha. Isso, teoricamente, deveria abrir os olhos deles. Agora, olhando para a linha financeira, se a gente tivesse a capacidade de injetar energia, Dado o ecossistema que já está instalado fisicamente, aí sim eu acho que a gente teria, Uma entrada...
+00:57:47 Speaker 2
+Muito mais rápido, acelerado, assim, de longe.
+00:57:53 Speaker 1
+Acho que é isso. Tem alguma pergunta?
+00:57:59 Speaker 1
+Não? André, quer ter algum ponto? Falei alguma besteira? É maravilhoso, foi maravilhoso. Obrigada. De nada, eu que agradeço. Adorei a conversa. Qualquer coisa, Se surgir mais alguma dúvida, a gente volta contigo. Mas obrigada. Vocês ficam até quando aqui?
+00:58:15 Speaker 2
+Até amanhã.
+00:58:18 Speaker 1
+Depois a gente volta pra discutir.
+00:58:21 Speaker 2
+Andaguris, como é que vai estar lá? A gente vai ver lá na tarde.
+00:58:25 Speaker 2
+Muitíssimo obrigada. Tá bom, fiquem à vontade. Se vocês precisarem de alguma coisa, têm meu número.
+00:58:29 Speaker 1
+Tá bom, qualquer coisa a gente vai falando com vocês.
+00:58:33 Speaker 2
+Obrigado, viu? Boa história pra vocês. Valeu, Deus.
+00:58:37 Speaker 1
+Eu não sei se ele veio ali na porta quando a gente tava falando. Foi eu, acho que não era ele.

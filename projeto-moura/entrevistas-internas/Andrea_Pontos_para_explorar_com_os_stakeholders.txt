@@ -1,0 +1,176 @@
+# Andrea - Pontos para explorar com os stakeholderes - Gravação de Tela 2026-07-06 094031
+
+  Meeting started: 06/07/2026, 10:31:05
+  Duration: 35 minutes
+  Participants: Speaker 1, Speaker 2, Speaker 3
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/tGrqg8RKrDuZHO0yms1X?o=txt)
+
+    
+
+  
+
+  
+
+  ## Transcript
+
+  00:00 Speaker 1: eu falei, acumuladores, é a CMO, que é a fábrica, e Morenergia, MEI, e a AM você já trabalha, então já sabe a sigla, né? Então, Morenergia, quem é da Morenergia? É Daniel, Daniel, ele é focado, focado na Morenergia, tá? Só um minuto. Eu, tá avisando que tá sendo tão escrito, eu fico... O robozinho falando. Não, sem problema. Aí, Daniel, ele é a parte administrativa, então toda a parte de negócios, de contrato, de pagamento, de faturamento, de orçamento, tudo fica na mão de Daniel. Só que quando é para novos negócios,
+00:49 Speaker 2: quando é,
+00:50 Speaker 1: vamos lá, Moro Energia, ela é dividida em três grandes partes. Uma é renováveis, que aí a gente não compete a gente, porque isso aqui não é servitização, não é nada. E as duas outras partes, que é a servitização, hoje a gente tem contratos com o sistema de armazenamento e com a parte de telecom. Essa conversa da gente é focada no telefone, só estou reforçando para vocês entenderem o todo. Então, esses dois negócios, Daniel, atuam bastante. No BES, ele faz a parte de modelagem, tudo ok. Na parte de telecom, o contrato já vigente, que é com a telefônica, ele acompanha faturamentos, sinergia com o contrato, a questão de furto, a questão de balanço, etc. Beleza? Passão sábio fiscal, jurídica. Agora, quando vai para novos negócios, mesmo na parte de telecom ou não, aí esses novos negócios, a área de PO se envolve para modelar. Então a parte financeira fica com a gente também, mas em sinergia com o Daniel. Então o Daniel é como se fosse também um validador dessa modelagem. Mas quem aprova são, claro, CFO, diretores. Então assim, ele faz parte, mas ele não tem a responsabilidade na modelagem dos novos negócios.
+02:12 Speaker 3: Então no caso que a gente colocou de modelo financeiro, não seria com ele, seria mais com você.
+02:17 Speaker 1: Isso, com o time que está junto comigo, isso é exatamente.
+02:21 Speaker 3: Porque até a gente conversou com a Aline sobre isso também, ela então falou que quando vocês vão para a parte do financeiro para ver se o projeto se sustenta, é com vocês, geralmente, se vai e volta. Então o Daniel não entra tanto aqui. Isso. Só que nas outras áreas, então, da Amor à Energia, ele entra?
+02:39 Speaker 1: Nas outras áreas da Amor à Energia, sim, ele entra. Mas é por BES, só para você estar ciente, BES. A parte de modelagem fica entre o comercial do BES e ele. Ele fica fazendo, ah, esse é aprovado ou não, tal. Então, assim, não tem interferência da área de PO, de área de energia como serviço, tá? Tá.
+03:03 Speaker 3: Mas o resto, então, rentabilidade, contratos de habilidade, escalabilidade, riscos e futuros, faz sentido a gente conversar com ele sobre esse negócio. Isso.
+03:12 Speaker 1: E aí,
+03:13 Speaker 3: há quanto tempo ele tá na Moura? Pra gente também entender, assim, ele tem a
+03:18 Speaker 1: conversa do início? Menos de cinco anos. Menos de cinco anos. Você vai ver, assim, é bom dividir cinco, dez, quinze, porque vai ter gente... Mas é menos de cinco anos. Vai ser.
+03:29 Speaker 2: Então, uma dúvida, Sandra, por que no modelo aqui... Ele não faz, porque não é um padrão, por exemplo, que nem ele cuidar de tudo, porque nesse modelo que a gente está com a telefônica, é diferente, só para entender ali.
+03:42 Speaker 1: Vamos lá, vamos lá. O que é a maturidade do negócio, tá? Vamos lá. A maturidade do BES, ela já está alta no sentido da servitização. Então, as relações comerciais ao comercial, junto com a Moura Energia, já está equilibrado. Tem uma planilha, um modelezinho padrão, eles desenham, vê a margem, isso, aquilo, outro, aqui e tal, já está bem desenhado. O comercial manda o tamanho do sistema, o tamanho do sistema vai lá, eles modelam e refinam. Quando a gente vai para a telecom, é algo totalmente não padronizável. A gente depende do produto, não é um produto. O base é uma coisa só. O produto do Telecom, às vezes, não é uma coisa só, porque a telefônica tem um padrão, a TIM tem outro padrão, tem isso.
+04:32 Speaker 1: O OIM é diferenciado por requisitos da operadora. Então, tem muita customização, acho que a palavra acerta, tem muita customização que o comercial... de estacionárias, que é o DCBE, ainda não assumiu. E que com o tempo vai assumir, né? Com o tempo vai assumir. É porque isso é o ramp-up, né? É o comecinho, é a curva que a gente está fazendo crescer e que vai migrar para eles em breve, tá? Mas você está bem incorreta. Por que isso não está lá? É porque isso ainda está no modelo de prospecção, vamos dizer assim, né? Vai de prospecção para depois virar negócio. Mas o BES já é um negócio, é um negócio de prateleira. E aqui não. Por isso, vocês estão aqui para ajudar a gente no sentido de... Porque a gente consegue contratos recorrentes com BES e não consegue com Telecom. Aí veio, a gente conseguiu com o Telefônica, mas não consegue com outras empresas. O que está acontecendo? É a nossa premissa, ou as empresas não estão confortáveis com esse negócio, ou é uma coisa que ninguém faz ainda. Então, é esse tipo de questionamento que os diretores e presidentes fizeram para a gente seguir desse formato, desenhar e entender os desafios problemáticos, as assertividades que a gente precisa caminhar.
+05:52 Speaker 3: Perfeito.
+05:52 Speaker 1: Não sei se eu tô sendo repetitiva, mas é bom que a gente vai lembrando, né? Até eu mesmo vou lembrando, né?
+05:57 Speaker 2: Não, não tá não. Eu acho que a gente não tinha falado exatamente disso nesse detalhe.
+06:03 Speaker 3: E até me veio uma pergunta, Andréia. Quanto, no teu ponto de vista,
+06:08 Speaker 2: assim, quanto da
+06:10 Speaker 3: estratégia do BES foi servido de inspiração para a estratégia agora para a Telecom?
+06:18 Speaker 1: O Invesio nasceu o primeiro Telecom, depois que veio. Na verdade, eles meio que foram contemporâneos, mas o BES rampou mais rápido, porque era o negócio mais maduro de mercado. O mercado já estava querendo, entendeu? Telecom provavelmente não é uma coisa que eles querem, a gente que está fazendo eles quererem, entendeu?
+06:39 Speaker 2: Entendi.
+06:40 Speaker 3: Beleza. Mais alguma coisa aqui sobre o Daniel? Meliana, você pode passar para o próximo?
+06:46 Speaker 2: Pode.
+06:47 Speaker 3: Beleza. Aí a gente vai ter a conversa com o Washington, depois do Daniel, né, então a gente tem de que o Washington é responsável pela engenharia, e aí a gente também queria entender com ele questões mais técnicas, né, dimensionamento, solução, evolução, escalabilidade. Tem algum outro ponto que você acha que a gente deve tratar com ele, assim, que fala sobre proposta do Chico, ali nas perspectivas de proposta de valor?
+07:13 Speaker 1: Papel da engenharia, desenvolvimento da solução, evolução da solução, escalabilidade. Isso, entendo que a percepção dele de... Não sei se isso cabe aqui, tá? Mas pensando aqui, ele já trabalha com as outras operadoras, que, claro, etc., de uma forma de bateria. Ele faz o desenvolvimento de bateria. Qual é a percepção dele? de a gente não estar indo para outras. O que diz caso da Vivo, da Claro, da Tim? Porque ele vai ter uma opinião porque ele está desde o começo. Esse energia como serviço está desde o comecinho mesmo, desde o P&D
+07:56 Speaker 2: até agora.
+07:57 Speaker 1: Então ele vai ter essas percepções. Pode ser que ele não saiba responder, mas eu acho que vocês puxando alguns aspectos você pode ir compreendendo. Mas ele está desde o começo, desde a primeira imersão sobre o assunto até agora.
+08:13 Speaker 2: Posso fazer uma pergunta? Claro. Ele também consegue, se a gente explorar com ele também, as pessoas envolvidas, quem são os principais contatos dentro das, que é um ponto que o Tiago trouxe, que a gente, vocês têm dúvidas, se vocês estão falando com a pessoa certa, a
+08:30 Speaker 1: gente consegue explorar isso com ele? Consegue, consegue.
+08:37 Speaker 3: A gente, desculpa, eu tô com uma tosse meio chata.
+08:40 Speaker 2: Não, não.
+08:41 Speaker 1: Eu tô aqui falando, por isso eu tô rapidinho respondendo aqui, viu, gente?
+08:45 Speaker 2: Não, tranquilo. Claro, fica tranquilo. Quando eu... Se quiser dar uns minutinhos, a gente acorda.
+08:53 Speaker 1: Já respondi. Não é coisa densa, não. Era só mais um negócio de agendamento aqui.
+09:00 Speaker 3: Sobre o Austin, tudo certo, então?
+09:03 Speaker 1: Posso... O Austin pode explorar. O que vocês sentirem confortável de técnico, de modelo de negócio, tudo. Podem puxar qualquer coisinha que vocês acharem oportuno. Puxem, porque ele é daquelas pessoas bem abertas. O Daniel, ele estava também, desde o começo. Então ele vai poder contribuir, mas ele não está no dia a dia, no suado, como a gente gosta de dizer, não vamos ver. Por quê? Porque ele está querendo, a empresa tem que continuar, né? Ele não pode descer para fazer isso aqui. A empresa tem que continuar.
+09:39 Speaker 1: No futuro, provavelmente, ele vai ter que ter uma célula de prospecção ou junto com o comercial, e isso são próximos passos, né? Mas é só para vocês entenderem que quem vai mergulhar muito, o Austin, com certeza. Daniel, ele vai dizer da parte visão helicóptero, que eu gostaria de dizer, de cima, uma visão de ponta a ponta, mas ele não vai mergulhar nos assuntos. Ele vai ser um pouco mais tranquilo.
+10:03 Speaker 3: E o Washington está em Moura Bateria, no ACMO, não está em Moura Energia.
+10:09 Speaker 1: O ACMO, é, isso. É sempre assim, fábrica, que é a ACMO, é sempre engenharia, comercial. Engenharia comercial e áreas de apoio. Áreas de apoio não é a CMO, é Moro Participações, mas aí vamos botar tudo na mesma caixinha aqui para vocês não enlouquecerem. Tá? Aí eu vou dizendo, tudo que for Moro Energia, alguma coisa diferente, eu vou avisando aqui, para vocês terem noção.
+10:38 Speaker 2: Beleza.
+10:40 Speaker 3: Bom, aí a gente tem a conversa com o José Espinosa, que é o gerente de operações. Com a diferença. A gente entende que o José Espinoza é o cara que tá ali no dia a dia, né,
+10:50 Speaker 1: no suado que você falou. Isso, e...
+10:53 Speaker 3: E aí ele tem bastante também essa perspectiva sobre o que acontece hoje, as dores dos clientes, a questão com o avivo, o relacionamento com ela, os desafios operacionais, seria sobre isso?
+11:08 Speaker 1: Isso, isso. É a operação do contrato. A operação do contrato, só para deixar claro aqui, é a execução. Porque quem faz a gestão, já estou olhando ali, a gestão do contrato é a Josiele. Ah, tá. E a gestão do... É, o papel dele. Isso, é gestão de atendimento, né? Atendimento do cliente, atendimento do contrato é a Josiele. A operação do contrato, a gestão do contrato de Morenergia é Daniel. A operação do contrato é Spinoza. Deixa eu falar de novo.
+11:42 Speaker 1: Tem um contrato. É aquele contrato, quem faz o atendimento ao cliente é Josiel. Mas quem é esse cliente? O cliente é Moro Energia. Então, a ACMO tem um cliente chamado Moro Energia. Moro Energia tem um contrato com a Telefônica. Quem faz a gestão desse contrato com a Telefônica dentro da Moro Energia é Daniel. Quem faz a operação desse contrato é Spinoza.
+12:04 Speaker 3: Tá. Deixa eu fazer um exemplo real, assim. A Vivo está com um problema em campo. Sim. Tipo assim, acabou, roubaram uma bateria. Com quem que a Vivo entra em contato dentro da Moura Energia?
+12:22 Speaker 1: Está um problema espinosa.
+12:25 Speaker 2: Espinosa?
+12:26 Speaker 1: É, o ponto de contato da operação é espinosa, mas se tiver um ponto de contato comercial, Aí vai ser Aline e Karinez.
+12:39 Speaker 3: E aí a Josiele é o ponto de contato da Moura Bateria para a Moura Energia. Ela faz a conexão dos dois.
+12:46 Speaker 1: Isso, é interno. Porque assim, na visão macro, a Moura Energia é uma operadora de ativos e de operação de controle, de atendimento, de gestão de NOC, vamos dizer assim. E quem é que faz essa fabricação, manufatura, requisitos mínimos? Quem atende isso é Josiele. Então, Josiele faz um exemplo de requisitos, alinha os requisitos com a fábrica, alinha os requisitos com a engenharia, faz tudo de dentro de casa. Para fora, é Espinosa, Daniel, Karina.
+13:19 Speaker 2: Tá, entendi.
+13:22 Speaker 3: Mais algum ponto sobre Espinosa aqui, gente?
+13:26 Speaker 1: Não, é bom que ele é especialista, né? Ele já trabalhou bastante, ele tem mais de 10 anos, se eu não me engano, na TIM, nessa parte de infraestrutura. Então, assim, o negócio de telecom, ele vai saber bastante. Ele vai dizer, ah, tem pontos de melhoria aqui, acolá, vai dizer os problemas que a gente tem. É bom absorver isso, tá? A gente não está aqui para negligenciar nenhuma informação. E é pelo contrário, a gente quer entender cada vez mais quais são os nossos déficits. para melhorar também, até dentro da telefônica mesmo. Para nos próximos, a gente está cada vez mais no processo evolutivo.
+14:02 Speaker 3: E ele está há mais de cinco anos acompanhando? Menos,
+14:06 Speaker 1: muito menos. Se não me engano, tem menos de três. Ou vai fazer três. É bem novinho. A cultura ainda está sendo inserida na veia dele.
+14:18 Speaker 3: E ele veio por causa também desse background aqui, por causa dessa questão do segmento. Beleza. Então a Josiele faz esse médio entre as duas CNPJs, né? Ela está dentro da SMO. Oi. Ela está dentro da SMO ou ela está dentro da
+14:46 Speaker 1: Mora Energia? A SMO. Ela está dentro do DCBE, que é o Departamento Comercial de Baterias Estacionárias. Ela está no mesmo... Ela
+14:56 Speaker 3: vende para a Mora Energia?
+14:58 Speaker 1: Isso. É assim, Tiago Melo. Tiago Melo tem uma caixinha que é o comercial efetivo e tem a área de produtos. Essa área de produtos toma conta de todos os produtos dos comerciais, entendeu? Ela está dentro da diretoria de baterias industriais. E dentro dessa diretoria de baterias industriais, ela tem os comerciais efetivos e quem faz a gestão desses produtos que esses comerciais vendem.
+15:26 Speaker 3: Entendeu? Tá, então a gente estava entendendo que ela é coordenadora de produtos no sentido mais engenhariano. Então, não. Então, ela é do comercial também.
+15:33 Speaker 1: Não, é mais de interface. Ela é coordenadora de produtos e de atendimento ao cliente. Ela é produto aqui, não é o produto... É gestão de produto mais para marketing, vamos dizer assim. Não sei se vocês captam. É mais de marketing do que de engenharia.
+15:55 Speaker 3: E assim, do teu ponto de vista, o que a gente precisa extrair dela?
+16:02 Speaker 1: de Neuziele. Veja, ela faz atendimento de outros clientes, como Tim, claro. Ela tem outros produtos que já estão nessas operadoras. Ela entende bem essas operadoras. Então, na minha visão, é extrair essa visão dela. De o que é que a gente não está acertando, por que a gente erra aqui e acolá, é ter a percepção dela. Pode ser que, para o Energia como Serviço, de Telecom, ela vai olhar muito para dentro. Eu acho que é olhar essas observações de dentro também de casa, mas também perguntar as coisas de fora.
+16:32 Speaker 2: Entendeu? Entendi.
+16:35 Speaker 3: Bom, aí também depois a gente tem o Spartacus, que é diretor da operação de lítio. Então a gente está entendendo que ele também serve muito sobre o produto, né? Então toda essa parte de operação de lítio hoje, evolução tecnológica, mercado, viabilidade do modelo, visão de futuro.
+16:56 Speaker 1: de Spartacus, de Spartacus, é, vamos lá, geração de lítio, Spartacus, ele, só contar uma historinha dele, ele, a época que isso foi desenvolvido, ele era o diretor do ITEM, que é o Estudo de Tecnologia do Seu Moro no Moro, né, que Lore foi lá, de Recife aqui, então ele era o diretor do ITEM, então tudo que era P&D passava na mão dele, né, ele é meio que o CTO da gente. Então, aqui não tem esse termo, mas tudo que é técnico passa por ele. Então, assim, depois disso, ele saiu do item e assumiu a operação de litro. A operação de litro, ele tem fábrica, tem negócio, tem engenharia, tem escritório china, então tem vários itens aqui dentro. Mas quando a gente, no Energia como Serviço, ele viu, ele definiu junto com o Marcos Malveira a solução técnica. Depois que isso deu tão certo, é que veio para a Moura, entendeu? Virou engenharia dentro da Moura, virou a área dentro da Moura, começou o pior, mas no começo foi tudo dentro do ITEM. O nascedor desses projetos, desses produtos, foram no ITEM.
+18:09 Speaker 1: Então, ele aqui, vocês podem explorar tudo. Tudo, tudo imaginava e imaginava. Porque ele desenhou junto com o Thiago Melo a solução.
+18:21 Speaker 3: Tá? Tá. Então, o Thiago Melo fez a parte comercial, o gerenciamento, e o Spartacus fez a parte do produto, solução, que a gente vai ter, vai ter o gabinete, vai ter...
+18:31 Speaker 1: Isso. E menos financeiro e mais... Mais técnico, né? Exatamente.
+18:39 Speaker 3: Beleza. Show.
+18:42 Speaker 2: E aí? E aí, por
+18:56 Speaker 3: fim, a gente tem a última, né, que é com Gustavo Moura. Nós já ouvimos falar que ele não gosta de perguntas repetitivas, não gosta de rodeios. Mas a gente vai trazer, então, essa grande ambição do projeto, do ponto de vista estratégico, do ponto de vista dele que funcionou, que não funcionou, qual é a estratégia de crescimento, como que isso pode ser escalável, a
+19:21 Speaker 1: extensão, a liberdade. Olha para frente.
+19:24 Speaker 1: Ele é o que olha para frente. Pode trazer, pode pegar lições aprendidas no sentido, mas é perguntar para ele qual o objetivo, qual a expectativa dele pelo projeto, na visão dele, que ele até falou, né, no kickoff, ah, eu quero um contrato, certo, mas o contrato, de que tamanho, qual o nível de, de, como é que é, claridade não, qual o nível de, de risco que está disposto. Porque aqui é um risco, se a gente vai entrar em várias empresas, qual o risco que a gente vai ter? Então, assim, como ele enxerga os riscos, ele é muito... Ele é um executivo que bota a mão na massa. Ele é acionista, né? Acionista, diretor executivo, mas ele está muito por dentro. Quando tem um problema, por exemplo, de furto, ele liga para a gente, gente, eu quero entender isso, aquilo ou outro. Então, tem muita coisa que ele se engaja. Então, um ponto, uma dor dele, que eu sei, é furto. Então, se vocês quiserem explorar isso, alguma coisa do tipo, mas para nosso objetivo, da nossa consultoria, é olhar o visão de longo.
+20:32 Speaker 2: Tá bom.
+20:35 Speaker 3: Legal. Bom, aí a gente tem, então, o Gustavo é a última de quarta-feira. Eu vou até confirmar
+20:40 Speaker 1: todas as agendas, né? Deixa eu só ver aqui.
+20:43 Speaker 3: Ah, seria bom.
+21:01 Speaker 1: Deixa eu ver aqui.
+21:07 Speaker 2: O
+21:08 Speaker 1: de Daniel está ok, confirmado. O Austin não está aqui como assento. Mas deixa eu ver se tem alguma coisa. Pode ser que o Austin estuda no jardim amanhã. Mas qualquer coisa a gente faz online com ele, tá? Tá bom? Eu vou só confirmar, deixa eu anotar aqui o que eu preciso confirmar.
+21:38 Speaker 2: Tudo bem.
+21:47 Speaker 1: O Austin...
+21:49 Speaker 2: A
+21:53 Speaker 1: gente tá com as visitas aqui. E o outro é Spinoza, né? E aqui, 8 horas, não é isso? Espinosa, esse equipamento, não está com o macete, mas eu sei que ele vai estar, mas assim, vou confirmar também o Espinosa. Na verdade, eu tento evitar a reunião de logo cedinho, porque eu sou da madrugada, mas nem todo
+22:29 Speaker 2: mundo é, né? Eu também sou.
+22:33 Speaker 1: Eu sou da madrugada. Josiele, deixa eu ver se ela aceitou. Mas está aqui, não tem nada marcado com ela não, sabe? Eu vou ligar para ela. Aí depois... É espartacos. É espartacos. Pode ser que esteja embalado, mas eu vou pôr ele aqui. É essencial, então. E aqui, Gustavo não aceitou. Eu fico impressionada. Gustavo aceitou e a galera não aceitou antes.
+23:22 Speaker 2: Tu
+23:23 Speaker 1: volta que horas, Fê? Só para eu saber aqui o limite de... O
+23:31 Speaker 2: voo é seis e meia.
+23:40 Speaker 1: Se for o caso, no máximo, tu poderia ter reunião até 2016. Vai evitar. Vou evitar. Acho que os horários são bons. É só agora a gente ver o Esparta. Gustavo, ok. Ela está. Espinosa, acredito que sim. Daniel, sim. Então, para amanhã. Daniel já está confirmado. Hoje a gente vai só revalidar. Josiele, acho que é tranquila. Agora a Aline disse que estaria por aqui, né? Mas vocês já fizeram as entrevistas com a Aline, não foi?
+24:17 Speaker 3: A gente fez entrevista com ela, a imersão, assim, a gente tem até essa sexta-feira com o time dela, né? E daí a gente vai conversar com eles, também com perspectiva deles, ali do comercial do dia a dia.
+24:31 Speaker 2: Ela, como ela falou, provavelmente vai estar aí.
+24:34 Speaker 1: Acho que o Tiago Melo vai estar por aqui. A princípio a
+24:39 Speaker 3: gente tinha Tiago Melo na sexta, né?
+24:44 Speaker 2: Se ele estiver no escritório de Recife, é mais fácil. Melhor,
+24:49 Speaker 1: exatamente.
+24:51 Speaker 3: Até amanhã, né? Que hora você chega amanhã? Desculpa.
+24:55 Speaker 2: É que o voo chega a 10, eu acho que a parte da manhã não contaria. É, não, né? É porque eu... Na hora do almoço, eu acho que no escritório.
+25:05 Speaker 3: Não, é porque amanhã está melhor de agenda do que partes, mas...
+25:18 Speaker 1: Eu vou mandar mensagem aqui pra Tiago.
+25:20 Speaker 3: Tá. Ela até, enquanto você manda, até a gente queria... Claro, a gente conhece o Tiago, ele tá no cortinho, já conversamos algumas coisas, mas acho que no teu ponto de vista, André, o que a gente tem que conversar com o Tiago, sabe?
+25:33 Speaker 1: Tiago é o...
+25:35 Speaker 2: É o pai da...
+25:37 Speaker 1: É, ele é o comercial. Ele é o comercial. Ele que foi atrás dessa... desse negócio. Ele que se juntou com o Gustavo. Ele é o diretor, mas que é o dono disso aí, assim como o Thiago Tasso, o Thiago Tasso mais na estruturação e fazendo acontecer, provendo. Aí o Thiago Mello era o que ia lá, é o que conversa com o meu Deus, com os
+26:07 Speaker 3: executivos da Telefônica. É, com os executivos
+26:08 Speaker 1: da Telefônica, então ele é que tem contato das pessoas, então ele... Ao meu ver, é a pessoa que vocês precisam mais explorar. Mais explorar. Estar bem preparado no sentido de perguntar um pouquinho de tudo com ele. E ele é aquele cara que gosta de participar, sabe? De integrar, de conversar, de falar o que for preciso, de dar contribuições. Ele nunca vai ser só um respondedor de perguntas, sabe? Ele vai sempre estimular, sempre vai gerar...
+26:41 Speaker 1: Vai prover dúvidas na gente, reflexões, né? Então é uma pessoa muito boa para a gente estar junto.
+26:49 Speaker 2: Entendi. Legal.
+26:52 Speaker 3: Alguma dúvida sobre as pessoas? Porque assim, André, eu queria bater contigo aqui, ó. A gente tinha feito inicialmente essa lista para a gente conversar, né? Então, só para ter as pessoas que talvez, assim, até entender se talvez, do ponto de vista, não precise falar com elas, mas as que estão faltando no agendamento. O Thiago Tasso que está de férias, a gente iria fazer essa reunião
+27:21 Speaker 1: online. Francisco, não foi a gente que não botou.
+27:26 Speaker 2: Francisco está sem agenda.
+27:30 Speaker 3: O que falta? Tiago Tasso, Francisco, a Karina também está de férias, a gente não tem agendamento com ela, a gente falou com a Aline, mas enfim.
+27:39 Speaker 2: Carol
+27:40 Speaker 3: Duarte também a gente ficou sem.
+27:44 Speaker 1: E o Aleph.
+27:46 Speaker 3: O Aston, a gente já vai falar com o Aston, o Aleph é o engenheiro do Aston, não é? É
+27:51 Speaker 1: Francisco, Tiago, Aline, Karina,
+27:55 Speaker 2: Carol, Aline. Não entendo.
+28:00 Speaker 1: E que mais? Claro. Tá bom. Isso aqui, as pessoas mais operacionais é mais fácil. Mas eu queria ver. Tiago tá de férias, tá? Não vai conseguir.
+28:16 Speaker 2: Semana que vem. Tá
+28:17 Speaker 1: na próxima semana. Deixa eu só ver aqui, Francisco, se a gente não segue. Eu pensei que eu tinha mudado de Francisco.
+28:35 Speaker 2: Olha só, podemos bater de novo. Carina ficou
+28:38 Speaker 1: segunda, né? E Carol também. Online, né? Vocês receberam o convite? Recebi.
+28:47 Speaker 3: Segunda, dia 13?
+28:50 Speaker 1: Também eu não mandei. Eu não tinha como adivinhar.
+28:55 Speaker 2: É, não, não estou na nossa agenda, não.
+28:58 Speaker 1: Eu só botei como se fosse interna, sabe? Mas é bom, eu botei online, tá?
+29:05 Speaker 2: Tá bom.
+29:09 Speaker 1: Aí se ficar ruim, vocês dão um grito. Agora Francisco, eu virei que eu tinha mandado. Isso aqui. Na sexta, online, vocês fariam com o Dri, né? Adriele e Luciano, mas eles vão estar online, né? Vocês estão cientes disso?
+29:39 Speaker 3: Sim, sim.
+29:40 Speaker 1: Tudo bem para nós. Ai, tá bem. Francis, pode comentar. Eu estou procurando aqui um horário para a Francis.
+29:46 Speaker 2: Não, é só uma coisa para a gente falar, porque se a agenda do Tiago Melo ficar na sexta... no escritório de São Paulo, eu ia pedir para chegar lá cedo, para eu fazer a online também, senão eu não consigo me locomover para ir, elas estão coladinhas.
+30:02 Speaker 1: Não, não, com certeza, não se preocupe.
+30:05 Speaker 2: Não, então tá bom, é só saber se eu podia chegar antes.
+30:07 Speaker 1: Com certeza. Ó, que Francisco, na teça, tô até achando estranho. Teça, a gente falando em teça, isso. Eu vou botar duas horas aqui. Eu estou aqui no escritório hoje. Pergunta a ele, tá?
+30:31 Speaker 2: Tá bom.
+30:33 Speaker 1: Pior dos casos, a gente faz online, mas não queria com o Francisco online, não. Mas presencial, presencial.
+30:50 Speaker 3: E o que a gente tem que conversar com o Francisco, do seu ponto de vista, Andréia?
+30:55 Speaker 1: Eu vou pedir só um ponto, eu vou pedir para vocês virem para o moinho, tá, Fê?
+31:01 Speaker 2: Eu ia fazer essa pergunta,
+31:03 Speaker 1: tá bom. Então, o endereço aqui, eu vou ver se tem sala aqui, mas eu vou querer, era melhor você daqui.
+31:12 Speaker 2: Tá bom.
+31:14 Speaker 1: Sala. Mas no dia 8, eu acho que é a unidade 2, porque a gente gostava, sabe? Não. Só um minuto, viu, Débora? Eu lembrei dessa pergunta. Não estou fugindo dela, não. Entrevista. Não, fica tranquila. Então, agora, senão a gente esquece. Eu desligo com vocês, aí fico devendo. Vamos ver se Chico aceita. A Yaline já foi, Karina já foi, Carol já foi. A gente botou online. Se elas aceitaram, Tiago Melo já mandei mensagem aqui, vamos ver o que ele responde. E tu tinha perguntado o que a gente fala com o Francisco, vamos lá. Francisco, ele é o diretor de TI, tá? Então, a visão dele é mais estrutural de plataforma, no viés de plataforma. Então, vocês deveriam explorar isso. Ele está também desde o começo dessa estruturação, porque a gente acredita que o negócio só dá certo se a gente tem monitoramento na nossa visão. Por quê? Se a gente monitora, a gente sabe como o nosso ativo está. Se a gente sabe como o nosso ativo está, a gente... Otimiza o OPEX, né? A gente otimiza a ir da campo, otimiza acionamento, a gente deixa o negócio mais seguro, na visão de furto, tararará. Então, Chico, ele é um cara... bem inovador, então ele pode trazer isso,
+32:56 Speaker 1: essas visões, sabe, de como a gente melhorar, o que a gente tem que melhorar, se a gente um dia vai querer vender essa plataforma para a operadora, ou se ela já tem isso, então é um papo mais estruturante, vamos dizer assim, mais bate-papo da visão do todo. O que vocês acham? Vale a pena, não vale? É porque a plataforma, a visão de plataforma. O que eu trouxe para vocês foi a visão de várias pessoas, de vários negócios, para não ficar, vou falar uma palavra chata, feia, assim, bitolado no sentido de, ah, é só isso, eu vou dizer as pessoas só que se envolvem, isso não dá, né? A gente tem que abrir um pouquinho para captar, como isso também, quando a gente desenhar lá no final do projeto, como é que vai internalizar, né? Não adianta. A gente trazer algo que ninguém patrocina, né? Vamos dizer assim, ninguém patrocina, ninguém acredita,
+33:48 Speaker 3: então... Não, e são pessoas que inseram a proposta de valor de diferentes formas também, né? Então, acho que vão trazer essa abordagem ali do todo para a gente ouvir.
+34:00 Speaker 1: Isso. Ótimo.
+34:02 Speaker 3: Olha, Andréia, Fê, Lore, tem mais alguma outra dúvida amanhã mais tática, assim, para a chegada?
+34:10 Speaker 2: É, não, eu ia pedir o endereço. Aí, Andréia, você vai estar presencial também, a gente te encontra lá. Como que a gente pode fazer? Botar os
+34:18 Speaker 1: dois, botar com você, os dois dias nesse, para botar de mesa com vocês. Eu posso, pode ser que eu falte em alguma reunião, por causa de outra reunião, mas assim, eu quero estar com vocês também, até para ter a visão, vou ficar caladinha, vou mais anotando, mas é bom para eu ter a noção também de como estruturar isso também. pra gente, né, no futuro, quando a gente tivesse dados, como é que a gente interpreta?
+34:43 Speaker 2: Sim, sim, não, perfeito, tá bom? Então tá, aí a hora que a gente chegar, ou a gente pousar, eu vou te avisando do horário, pra gente ir combinando, aí a gente vai direto pro escritório.
+34:52 Speaker 1: Certo, já tô contando aqui, enviar endereços, confirmar agendas, confirmar agendas, e confirmar salas, tá?
+35:02 Speaker 2: Tá bom.
+35:04 Speaker 1: Só pra, se vocês saberem o que eu tenho que fazer.
+35:08 Speaker 2: Tá bom.
+35:09 Speaker 3: Se quiser, mandar no WhatsApp. E também amanhã, no WhatsApp, essas confirmações, vai ser ótimo. Amanhã também, às novas, a gente tem a reunião de checkpoint. A ideia é passar com todo mundo o que a gente tem feito, a agenda dessa semana. A gente mandou até, inclusive, ver um... status, assim, do projeto, mas é mais essa parte, assim, de só acompanhamento de projeto mesmo.
+35:31 Speaker 1: Tá bom? Pronto. Era até um ponto que ia conversar com vocês, a gente sempre tem um start report, que eu acho que é isso que vocês mandaram, né? Que eu não consegui ver, pra gente encaminhar tanto pra Gustavo, como pra Tiago Melo, que são os sponsors, né? Então, sempre tá encaminhando isso pra eles, eu vou criar um grupinho, eu e os dois, e vou sempre tá mandando o que tá acontecendo. Porque aí, qualquer dúvida, se eles estiveram confortáveis em algum assunto mais denso, solta nós três lá, entendeu? Aí ele comenta, Dé, vai por esse...
+  

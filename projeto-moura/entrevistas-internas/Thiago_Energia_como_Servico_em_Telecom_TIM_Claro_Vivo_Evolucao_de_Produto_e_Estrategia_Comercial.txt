@@ -1,0 +1,374 @@
+00:00:01 Speaker 1
+Depois a gente se inscreve e faz a IA organizar tudo
+00:00:06 Speaker 2
+Não sei como é. A Andrea falou, eu já uso, a gente usa, acho ótimo, que é igual o que ela tem, a gente ficou trocando um pouquinho. Ela tá numa avançada do uso, eu ainda só tiro a informação e a gente usa em algum sistema nosso, ela consegue montar, tem template dela, bem legal.
+00:00:27 Speaker 1
+Eu comprei um aparelho que chama Aplaudi, esse também é Aplaudi.
+00:00:31 Speaker 2
+Só que você comprou o cartão, provavelmente.
+00:00:34 Speaker 1
+Esattamente.
+00:00:35 Speaker 2
+Que foi o que eu contei pra ela, né? Eu comprei o cartãozinho que era o inicial e aí eu fui pro South By o ano passado, que eu comprei, e eu perdi no primeiro dia. Nossa senhora. Foi muito desesperador. E aí eu fiquei... E aí não colou, eu não vi, era pequenininho, né? Eu vou perdendo as coisas, e aí eles tinham acabado de lançar esse pin, que você prende no pescoço, tem... Esse é o mais difícil de perder.
+00:00:57 Speaker 1
+Prender no pescoço.
+00:00:58 Speaker 2
+Exato. Ele é menor, mas eu acho que ele é mais difícil, porque eu coloco no pescoço, tem uma travinha aqui e aí não sai de mim.
+00:01:06 Speaker 1
+Eu usava aqui atrás no celular, ele tem aquele MagSafe, e aí funcionava. Mas vamos lá, vamos conversar.
+00:01:13 Speaker 2
+Boa. A gente já teve algumas conversas. O que é o objetivo agora? Você tá na frente dessa estratégia, tá liderando. Isso não aparece muito. Às vezes a gente faz algumas perguntas e fala: não, isso aqui tem que ser com o Thiago. A gente fala que é com o Thiago.
+00:01:27 Speaker 2
+É um pouco da sua visão estratégica do negócio, então eu queria entender um pouquinho como esse negócio surgiu, como de fato esse modelo surgiu, que eu acho que você estava muito envolvido.
+00:01:41 Speaker 2
+Acho que talvez a gente possa começar por aqui, porque depois eu queria entender a estratégia comercial, como você está vendo esses desafios e barreiras para frente. Se fosse para começar, como surgiu essa ideia e como você fez essas primeiras conexões para chegar nesse contrato agora com a Telefônica? O que você entendeu como diferencial?
+00:02:00 Speaker 1
+Eu gosto bastante de falar. A gente também gosta. Veja, a gente, desde os anos 2000, entrou no mercado de telecomunicações, com baterias para telecomunicações, um pouco antes dos anos 2000. Falei em 1998, mais ou menos. A gente importando baterias, não fabricávamos na época e revendendo. Foi na época em que o Brasil tinha aquela quase paridade do dólar.
+00:02:31 Speaker 1
+Importar qualquer coisa era muito melhor do que produzir. Aí veio a máxima desvalorização, segundo o governo Fernando Henrique, em 1999, inviabilizou a importação e a gente iniciou uma fabricação própria de bateria. Eu vou ser rápido para chegarmos finalmente, mas só para pegar o contexto histórico. A gente teve um sucesso nessa época absurdo. Por quê?
+00:02:56 Speaker 1
+Porque foi a onda da privatização e a onda do boom de telecomunicações no Brasil. Não existia nenhum equipamento adaptado aos padrões brasileiros. Tudo vinha de fora, porque lá eles estavam muito mais avançados do que a gente aqui na época. A gente botava conta de telefone no imposto de renda como um ativo. Então eles estavam muito mais avançados do que a gente. Quando começou-se a implantar a telecom aqui no Brasil, a massificada, depois da privatização
+00:03:27 Speaker 1
+Que eles trouxeram os equipamentos de fora, disse que o Brasil é um país tropical.
+00:03:32 Speaker 1
+Os equipamentos precisam estar dentro de um gabinete com ar-condicionado para que eles durem, incluindo as baterias. A gente desenvolveu uma bateria que não precisava do ar-condicionado.
+00:03:46 Speaker 1
+E ainda era um pouco mais barato do que as baterias importadas. Entramos assim de uma forma avassaladora, porque era um saving absurdo para quem estava implantando as redes. Porque não só a bateria em si era mais barata, mas como ele tirava o ar condicionado do gabinete, que era um treco caríssimo, que não só era caro para implantar, mas era caro para manter, para a conta de luz, etc. Isso fez com que a gente tivesse
+00:04:13 Speaker 1
+Para ser conservador, 90% do mercado de baterias no Brasil para telecomunicações. O baixo era 90% de market share, para não dizer mais. O mercadeiro é nosso.
+00:04:28 Speaker 1
+Pouco a pouco, depois que foram os investimentos, tudo o boom foi acontecendo. A gente já começou a receber isso, vamos botar, em 2010. Em 2009, mais ou menos, indicações dos nossos clientes disseram que não queriam assumir esse negócio. Minto, eu sei quando é que isso aconteceu, isso foi exatamente quando começou a onda das empresas se desfazerem das torres de telecomunicação, que começaram a surgir as torreiras.
+00:05:07 Speaker 1
+E naquela época, as operadoras já nos provocavam dizendo: 'mas vocês não querem assumir essa parte de bateria? Não, porque isso não é o meu negócio. Meu negócio é acesso, meu negócio é vender bit-byte e essa coisa. Não é backup de bateria, não é backup de energia, não é esse negócio tanto.' Só que a gente, assim, apesar das provocações, estava muito distante de ter condições de fazer um negócio desse. E até comentei ontem no painel. A gente veio, pouco a pouco, eu acho que até de maneira inconsciente.
+00:05:42 Speaker 1
+Sendo empurrado pelo mercado nessa direção. Em que sentido? Qual foi o passo a passo que a gente fez? A gente, durante muito tempo, de 2098 a 2010, vamos botar assim, A gente simplesmente vendia bateria, disse, onde é que eu entrego, no armazém, onde é que eu endereço, tal, está aqui o produto. Era esse o nosso escopo. E aí começou com uma provocação, dizendo, rapaz, eu quero esse negócio instalado, eu quero essa bateria funcionando.
+00:06:15 Speaker 1
+Eu não quero mais que eu tenha que me preocupar em inserir o produto, instalar e etc. A gente resolveu encarar esse desafio porque naquele momento a gente tinha, por um outro motivo, iniciado uma rede de instalação, uma rede de serviços em baterias especiais, RSM. Perfeito, isso que eu ia contar. A RSM foi criada por algo muito distinto disso. Ela foi criada de uma maneira de 30 segundos para dizer, porque a gente fornecia uma bateria.
+00:06:47 Speaker 1
+Para partida de locomotiva, para aqueles trens de carga, que dava muito problema, aí tinha um grande cliente que se chamava MRS, que é um concessionário de ferrovia, que contratou um diretor de compras. Da Fiat, que era nosso cliente da bateria automotiva, já nos conhecia. Disse: olha, quando ele assumiu lá a MRF, disse: olha Moura, conheço vocês, sei da capacidade. Aqui é o seguinte: para vocês ficarem fornecendo essa bateria aqui para a bateria automotiva, eu quero que vocês montem uma unidade aqui para prestar serviço, porque eu não confio no meu time. Eu tenho uma bagunça, e a gente resolveu fazer isso. Sei lá, 3, 4 anos antes.
+00:07:31 Speaker 1
+Perfeito, tá bom. Então as coisas foram... Por isso que eu digo de maneira inconsciente
+00:07:36 Speaker 2
+Foram ganhando culpa
+00:07:39 Speaker 1
+Viabilidade, etc. A gente começou a criar essa rede de serviços por outro motivo, que começou com esse case da MRS, mas depois foi se expandindo para o negócio de bateria para empilhadeira. Foi se desenvolvendo por esse lado. Quando chegou aqui o teleaconte, se eu quero a bateria instalada, a gente se aperta e topa o desafio. A gente não tem ainda cobertura nacional, mas tem algumas bases que a gente serve como padrão para controlar o processo. E me indiquem empresas que eu possa contratar em regiões onde eu não estou.
+00:08:10 Speaker 1
+E eu as gerencio para fazer a instalação. Perfeito. Demos esse passo para entregar a bateria funcionando. Depois a gente começou a incluir nos nossos contratos, acordado com o cliente, a obrigação da logística reversa, onde é a genética.
+00:08:31 Speaker 1
+Levava bateria nova, instalava, recolhia antiga e ia pra reciclagem. Depois a gente começou o cliente dizendo o seguinte: "Ó gente, eu tenho aqui um problema gravíssimo de gestão de ativo patrimonial. O meu Excel é uma beleza, tudo organizado, só que ele não bate com o que está em campo. Por que ele não bate com o que está em campo? Porque eu registro aqui que eu instalei uma bateria nova semana passada numa antena tal. Só que por alguma razão, a antena que fica do lado da casa do meu presidente, roubaram."
+00:09:03 Speaker 1
+A bateria dessa antena e eu não vou deixar lá de guarnecido. Então acionei o técnico para tirar a bateria daqui e botar para lá. E não anotamos no nosso controle patrimonial. Estou fazendo um exemplo aqui para explicar como é que a coisa na prática acontece e eles perdiam o controle. Então por muitas vezes a gente recebia, a gente ia lá, trocava a bateria daquele site, a gente ia lá, trocava e quando voltava... Cara, essa bateria foi fabricada quatro meses atrás, como assim tu quer que descarte? E aí propusemos a eles um serviço de triagem dessas baterias, então a gente passou a ir.
+00:09:38 Speaker 1
+Lá, instalava, recolhia, olhava pra isso aqui, a idade e tudo mais, como é que tava, esse ativo, fazia um relatório pra eles e ó, isso aqui pode voltar pra campo, aqui tá bom ainda, não descarta. Por muitas vezes pode parecer menos... Assim, é contra-intuitivo dizer, pô, descarta esse negócio, você vende mais bateria. Mas a gente entendia que, no longo prazo, uma postura desse jeito era muito mais construtiva para o relacionamento do que uma questão transacional.
+00:10:10 Speaker 1
+A gente foi, pouco a pouco, mergulhando na operação de telecomunicações de maneira geral.
+00:10:18 Speaker 2
+Isso Vocês faziam para todas?
+00:10:21 Speaker 1
+Algumas... Com o escopo completo, do jeito que eu estou descrevendo aqui, que era o caso, por exemplo, da TIM.
+00:10:27 Speaker 1
+Na Claro, a gente instalava e recolhia, mas não tinha o serviço de triagem. Na Telefônica, a gente instalava, mas não recolhia, porque eles ainda vendiam essa sucata. A gente ia, pouco a pouco, caminhando nessa direção em todas elas, mas não no mesmo timing. Porque cada um tinha o seu processo que tinha que modificar, tinha que adaptar a essa evolução. Então não foi de maneira uniforme, mas foi mais ou menos todas elas caminhando nessa direção.
+00:10:59 Speaker 1
+Algumas mais avançadas, outras menos. Aí chegou ali 2018, 2019, quando começou a transição de tecnologia da bateria. Do chumbo para o lítio. A PUM, na época, chegou para a gente e disse: Ó gente, dado que trocar de chumbo para lítio, para a gente aqui representa uma modernização tecnológica. Que essa bateria tem eletrônica embarcada.
+00:11:32 Speaker 1
+A gente vai conseguir saber como é que ela vai ser usada, etc. A gente vai aproveitar para não só trocar a bateria, mas poder fazer um retrofit em todo o nosso sistema de energia. Isso significava trocar um componente chave, que é um equipamento que se chama fonte retificadora. Todo equipamento de telecom, as antenas, elas funcionam em corrente contínua e vêm da tomada corrente alternada, então passa por esse equipamento que transforma a corrente alternada.
+00:12:02 Speaker 1
+Em corrente contínua, retifica, por isso é retificador, para abastecer os equipamentos de telecom. E nesse equipamento, pluga a bateria e esse equipamento diz que tem energia na tomada, ótimo. Torno-a contínua e forneço. Quando eu detecto que não tem mais energia da tomada, eu chaveio aqui e sugo a energia da bateria. Voltou, eu recarrego a bateria. Então ela tem uma função meio como no-break e meio como transformador de corrente de alternada para contínua. Eles tomaram essa decisão de dizer que querem fazer uma atualização geral.
+00:12:35 Speaker 1
+Disso, porque a gente tem muitas fontes retificadoras antigas, ineficientes e que não vão se comunicar com essa bateria de lítio. Moro, é o seguinte: adoro vocês, vocês estão aqui maravilhosos e tal. Agora tomamos a decisão de trocar, quando a gente for comprar a bateria, comprar também os retificadores.
+00:12:55 Speaker 1
+Para que vocês continuem fornecendo a bateria, vocês precisam arrumar um jeito de também entregar o retificador, instalar o retificador e fazer tudo isso funcionar. A gente, de novo, rapaz, nunca fizemos isso, mas vamos tentar fazer. Tá, legal.
+00:13:14 Speaker 1
+Fizemos isso com um parceiro na época, que era cliente nosso, que era uma empresa chamada Delta. A Delta treinou a nossa rede de serviços para isso.
+00:13:24 Speaker 1
+Eles só tinham o retificador, a gente só tinha a bateria. Eles queriam vender o retificador, a gente queria vender a bateria. Então eles, olha, eu vou fazer o Billy pra telefônica com a minha fonte, com a sua bateria. E a gente fez o Billy com a nossa bateria e com a fonte deles. Obviamente não éramos só nós dois, tinha competidor pra caramba, mas fizemos esse acordo. A gente treinou ele na nossa bateria e eles treinaram no equipamento deles, no retificador. E ganhamos o negócio.
+00:13:51 Speaker 1
+Então veja que... De novo, eu estou contando tudo isso para ver que o negócio foi, pouco a pouco, construindo da instalação, da retirada, da avaliação, de ter avançado para instalar também o retificador. Até que em alguns casos muito específicos, era quase nunca, eles nos pediam para instalar o gabinete completo, não só fazer o retrofit.
+00:14:22 Speaker 1
+Era algo como o plano C deles para instalar um gabinete quando eles já tinham um contrato para isso. Quando ganhamos um último contrato com a TIM, que tinha esse escopo, que de vez em quando instalava gabinete, fazia o retrofit da fonte, fazia a avaliação do que estava lá, entregava tudo funcionando, a gente foi chamado pela diretoria da TIM e disse: nossa intenção é que esse seja da TIM, viu? Seja o único... Não estou confundindo não. Seja o último contrato que a gente vai fazer de compra de equipamento.
+00:14:55 Speaker 1
+A gente quer, daqui pra frente, fazer um outsourcing disso e entregar pra vocês esse negócio.
+00:15:02 Speaker 1
+Tudo certo? Vamos nos preparar pra isso. E foi aí que começou essa jornada dentro da Moura, Do Energia como Serviço, que na época era Mouras a Service. Isso foi 2023, se não me engano. Já estava aqui pertinho.
+00:15:23 Speaker 1
+E aí foi que a gente começou, vocês deviam falar inclusive com uma pessoa chamada Ana Beatriz Rocha, que iniciou também esse processo junto.
+00:15:35 Speaker 1
+Foi aí que a gente começou a se estruturar e disse, pô gente, isso aqui não é só instalar
+00:15:41 Speaker 1
+Porque até instalar a gente sabe, está tudo redoninho. O nosso problema depois vai ser cuidar. Não cai na mesma armadilha que as operadoras têm, por exemplo, de controle patrimonial. Como é que a gente não cai na mesma armadilha deles de ter um produto que vai atender o Brasil inteiro, quando a gente claramente sabe que tem regiões que caem mais energia, menos energia. A gente, de certa forma, já tinha um pouco de noção dos desafios que a gente ia enfrentar de caráter operacional para garantir que os equipamentos durariam o tempo.
+00:16:14 Speaker 1
+De contrato. E aí mergulhamos nesse processo, muitas reuniões de imersão, muito debate, muita construção de plataforma, de TI, de tudo mais, de equipamento para monitorar os ativos. Isso lá de 2023, 2024. Até que mudou a diretoria da TIM e a TIM disse: ó, gente, aquele projeto a gente tá achando que não faz sentido. A gente só queria alugar bateria, não queria alugar o sistema como um todo.
+00:16:46 Speaker 1
+Tinha feito um trial, uma POC com a TIM e visto que seria loucura alugar só a bateria, porque o armário que tinha lá, o gabinete, você não tinha controle de acesso nenhum. Estava arrombado, desgastado, muitas vezes com furo, com ferrugem, e aquilo ali era um ambiente que era impossível para a gente garantir um negócio durante 10 anos.
+00:17:11 Speaker 1
+E bom, aí chegamos pra, na época, com essa mudança toda, Tim, nossa oferta agora não é mais só bateria, a gente quer alugar o gabinete como um todo. Houve essa mudança na diretoria da Tim, esse projeto esfriou, eles tentaram com as torreiras, botaram assim um target de preço ridículo, numa linha de, quanto é que eu compro o gabinete hoje, aí eu compro 10 mil reais o gabinete e eu vou alugar durante 10 anos, então é o seguinte, eu vou te pagar mil reais por ano.
+00:17:40 Speaker 1
+Sim, mas aí tem muita coisa que não é só. Era claramente algo que era para não dizer não. Exato, mas foi.
+00:17:53 Speaker 1
+E eles, de certa forma, abandonaram esse projeto, só que a gente já tinha investido um dinheiro importante e começamos a fazer uma rodada com as demais operadoras. Foi quando a gente foi na Telefônica, que já era cliente nosso de bateria. Esse projeto estava numa área que a gente não tinha interface, que era de projetos especiais ou algo assim. A gente trabalhava com engenharia, com operações e tudo mais. Conversando lá dentro, chegando num diretor Elmo que tinha conexão com essa área e conosco.
+00:18:24 Speaker 1
+Botou em contato assim, rapaz, chama fulano, porque a Moura tá dizendo aqui que tem interesse. Aí fulano veio, rapaz, que bom que vocês vieram, porque a gente vai abrir aqui o mercado semana que vem.
+00:18:34 Speaker 2
+Nossa, foi muito no time.
+00:18:37 Speaker 1
+Super. E aí pegamos, brincando aqui, pegamos pelo rabo o príncipe que estava vindo embora e começamos a conversar com eles, eles tinham um escopo ligeiramente diferente, estavam muito focados em fazer isso através das torreiras, com a lógica de dizer, cara, a torreira já me aluga o site, me aluga o espaço, é responsável pela zeladoria, botar um equipamento a mais e cuidar aquilo ali vai ser moleza para eles.
+00:19:06 Speaker 1
+Só que eles se surpreenderam que as torreiras falaram, cara, não quero isso, não quero isso. Isso é muito bom. Aí por que não fizeram isso? A gente foi depois conversar com eles, CEO e tal, e disse: "Ó, gente, é o seguinte"
+00:19:21 Speaker 1
+Ganha esse negócio de torre quem tem o custo de capital mais barato, quem capta dinheiro mais barato para poder fazer o negócio ao longo prazo. E para que eu capte dinheiro mais barato, eu tenho que ter uma amarração muito clara. Com esse meu investidor, para que eu tenha garantia de receita, que o próprio negócio já me traz garantia de receita, uma certa garantia, mas também estabilidade de custo. Então ele bota em mim quase que uma renda fixa. Ele sabe que vai botar tanto, vai ter tanto, porque ele tem uma previsibilidade enorme.
+00:19:55 Speaker 1
+Durante esse contrato. Quando a gente olhou para esse bicho aqui que estão querendo, a gente viu que há um risco aqui na linha de custo, que a gente não vai garantir essa, a gente não tem como garantir essa estabilidade da linha de custo. Aí a gente se deparou aqui com um problema que é o seguinte: se eu boto isso dentro da minha empresa hoje, eu posso melar o negócio que eu tenho do aluguel das torres, porque o meu investidor fala: peraí, a tua empresa.
+00:20:27 Speaker 1
+Tá mais arriscada, não vou te fechar dinheiro a 2%, agora eu vou ter que cobrar 4%. Isso atrapalha dinheiro, então a alternativa é fazer um spin-off e botar esse negócio num outro CNPJ. Só que se a gente fizer isso, esse CNPJ não vai captar o dinheiro que esse aqui consegue e a conta não tá fechando. E isso era meio que a conversa padrão, que eles diziam: "Ó, tô fora do negócio, não quero isso." Eles começaram a ser forçados pelas operadoras a fazer.
+00:20:57 Speaker 1
+Diziam, cara, ou você faz ou eu não te dou mais torre. Mas assim, era uma briga, porque diziam, cara, não quero fazer. Mas tá bom, essas ideias aqui eu faço.
+00:21:06 Speaker 2
+Todas elas estavam fazendo isso ou mais a Telefônica, acho que nesse caminho?
+00:21:10 Speaker 1
+Telefônica e TIM, principalmente. TIM começou a forçar também, mas todas as torreiras diziam: 'Cara, não quero, pelo amor de Deus, gente. Tá me atrapalhando, isso aqui vai prejudicar o nosso negócio.' E aí foi quando a gente apareceu na Telefônica.
+00:21:25 Speaker 1
+E já negociamos, ajuste pra cá, de contrato pra lá, alguns termos que pra gente eram importantes, que eles não estavam visualizando, a gente conseguiu fechar e tamo escalando. Então eu até brinquei, conversando com... Não à toa a gente veio conversar com vocês.
+00:21:42 Speaker 1
+Porque eu disse, gente, estamos com dificuldade, a gente não está conseguindo vender este nosso produto. Se nós não fechamos com a Telefônica, eu disse, rapaz, a gente não vendeu para a Telefônica. A Telefônica nos comprou. Exatamente. Porque a gente chegou lá, os caras já estavam com a ideia pré-formada, já estavam não sei o quê. Foi muito mais, já estava com o projeto aprovado, foi muito mais convencer que aquele nosso preço e aquele nosso corpo encaixava no corpo deles. Mas não houve um trabalho de convencimento por parte do cliente a mudar o modelo.
+00:22:13 Speaker 2
+Sim, e aí, vocês já tentaram? Olhando para isso, vocês já tentaram as abordagens com Claro, TIM? Como foi isso aqui? Que propósito de valor ou que apresentação vocês levam? O que vocês estão vendo de barreiras nesse sentido?
+00:22:28 Speaker 1
+Vamos lá, com a TIM, onde a gente resgatou, eles até se interessam pela ideia, mas tanto na Claro quanto na TIM e também em outros segmentos, como por exemplo no Bradesco
+00:22:45 Speaker 1
+Existe uma dificuldade gigantesca, eu não sei se é a pessoa com quem a gente está falando que eles estão encarando esse projeto ou essa ideia muito mais como um projeto de saving.
+00:23:01 Speaker 1
+Numa lógica de dizer, cara, hoje eu gasto tanto em equipamento, esse equipamento dura tanto, você está me dizendo que vai alugar por tanto, essa conta não está fechando. Mas peraí, vem aqui o custo de oportunidade do dinheiro, veja quanto vocês estão perdendo de oportunidade ampliar a rede, vocês que gastam dinheiro com isso, mão de obra, gasto administrativo, esforço dado, enfim, colocando tudo isso, mas sem conseguir tangibilizar.
+00:23:32 Speaker 1
+A gente sempre se depara com uma lógica de esse negócio não dá payback, esse negócio não me dá save.
+00:23:38 Speaker 2
+Com a área de engenharia que vocês estão falando.
+00:23:40 Speaker 1
+A gente fala tanto com a área de engenharia quanto com a área de compras. São as duas principais interlocutoras.
+00:23:49 Speaker 1
+A TIM, que foi aquela conta maluca que eles fizeram, a gente sempre se deparou com um Target que pra eles só vale a pena se for curto, que era assim, sei lá, 40, 50% de redução de valor frente ao que a gente consegue fazer. Tá bom? E, é claro, a gente não conseguiu nem obter um target, assim, eles levaram a nossa proposta pra dentro e voltaram a escolher, isso aqui não me dá, esse projeto não me dá payback, pra gente não faz sentido e vamos continuar com o modelo que a gente tem hoje de compra.
+00:24:23 Speaker 1
+Normal de equipamento. Por isso aquela conversa inicial, como é que outros segmentos, sei lá, computador
+00:25:01 Speaker 1
+Com quem a gente está fazendo a interlocução, mas essencialmente exige essa barreira de ser encarado como um projeto que necessita gerar saving, hard saving. Já na partida de dar um benefício mais amplo.
+00:25:16 Speaker 2
+Perfeito.
+00:25:21 Speaker 2
+Quando, e acho que a gente tem ouvido isso. Quando você começou conversando e aí contando a história. Você traz, cada uma vai agir de um jeito, cada uma tem um modelo, cada uma tem uma operação. Vocês iam se adaptando a esses modelos. Como que está funcionando isso? Porque tem um relacionamento aqui, tem essa construção aqui de entendimento dessas necessidades. Talvez até para adequar. Vocês estão fazendo esse tipo de diagnóstico hoje ou não? Está indo estritamente assim, eu tenho esse modelo?
+00:25:52 Speaker 2
+Porque eu tenho essa sensação, eu estou apresentando o que eu tenho hoje. Eles estão voltando e falando, não é isso. A gente tem esse olhar que vocês tiveram lá no passado de entender um pouco essa operação, de organizar, de reencaixar o produto?
+00:26:05 Speaker 1
+Não, para ser bem honesto, a gente não está conseguindo, a priori, fazer um trabalho de co-construção com eles.
+00:26:16 Speaker 1
+De novo, porque eu desconfio que tenha um pouco de com quem a gente está fazendo essa interlocução. Eu tenho dúvidas se a gente está fazendo interlocução. Com as pessoas certas, sabe? Porque eu não sei se tem ali algum receio por parte deles de perder protagonismo também. Porque a área que a gente lida é uma pouco dessa área de operações. É quem administra tudo isso. Que olha de ciência, né? A gente não consegue nem vencer a barreira.
+00:26:47 Speaker 1
+Cara, isso aqui pra mim não tá fazendo sentido. Não vem uma contraproposta. Não vem assim uma... Se a gente fizer isso aqui, talvez a coisa encaixe. A gente não tem conseguido abrir essa conversa. Sempre vem com uma lógica de, cara, pra gente, a gente avaliou aqui, fizemos as contas, não faz sentido. É realmente uma barreira que a gente não está conseguindo transpor.
+00:27:10 Speaker 2
+E nesse olhar, queria só entender a sua visão no seguinte: como você está enxergando esse time comercial que está fazendo essas abordagens aqui? Como você está olhando estrutura, treinamento, pessoas? Essas conexões com eles, como é que está isso, na sua visão?
+00:27:27 Speaker 1
+Eu acho que a gente está ruim também, nesse aspecto.
+00:27:33 Speaker 1
+A gente teve um giro importante, um turnover importante na equipe comercial que atende esse segmento, então o grau de maturidade está baixo. E a estrutura que a gente tem para cuidar deste produto, da energia como serviço, que está lá representada por Andréa como B.O. do negócio, Product Owner, infelizmente também está com uma visão muito interna, muito com um viés financeiro do negócio.
+00:28:07 Speaker 1
+De modelagem financeira, da operação em si, apoiando bastante a Morenergia, apoiando bastante o Gustavo. Na operação, plugada com uma modelagem financeira do negócio, mas sem uma abordagem mais mercadológica, sem uma abordagem de treinar a equipe comercial, de escutar, de estar promovendo materiais cada vez melhores para poder tentar vencer essa barreira.
+00:28:42 Speaker 1
+Sendo bem honesto com vocês, por favor, não coloque isso no relatório nem nada. A gente, nas próximas semanas, inclusive, deve fazer uma mudança de estrutura. É uma readequação da estrutura, para que a gente tenha uma pessoa com essa lógica mais mercadológica, sabe? De treinamento da equipe comercial, de escutar, de ser a dona do produto, dona do produto.
+00:29:12 Speaker 1
+E promover esse produto com quem efetivamente vende ele. Isso está correndo, de certa forma, em paralelo com esse trabalho com vocês. Para dizer, poxa, eu acho que tem uma lógica de estrutura, de perfil de pessoas. Vamos remodelar isso, mas ao mesmo tempo para que a gente não tenha uma curva de maturidade dessa nova pessoa. Tala, vamos pegar uma ajuda externa para que eventualmente essa pessoa já entre com um grau de maturidade na curva de maturidade um pouco maior. Maior, né.
+00:29:42 Speaker 1
+É. Não está redondo.
+00:29:44 Speaker 2
+Tá bom. E aí eu queria entender uma coisa, vou conectar com isso, porque conforme a gente foi falando e foi entendendo um pouco o cenário, a gente está focado nas três grandes, mas a gente tem outras que são menores também. Vocês têm uma abordagem para elas ou têm um olhar para essas menores? Porque também pode ser um caminho, você vai construindo, acho que vocês têm um caminho interessante com o Vivo Telefônica, que é novos sites e talvez a gente já está mapeando isso, talvez isso venha num olhar.
+00:30:15 Speaker 2
+Mas eu tenho os novos sites, então eu entro quando está zerado. Esse pode ser um produto de serviço ali que eu estou entregando. Eu tenho uma ampliação, como que eu atuo e vou executar um modelo de trabalho numa ampliação. E eu tenho um legado para olhar que também eu posso ir brincando, talvez, com alguns modelos de serviço diferentes. Esse pode ser um caminho. E aí você tem um crescimento grande numa telefônica. E aí tem as outras duas para trabalhar, entender maturidade, etc. Mas tem outras pequenas que vocês poderiam trabalhar também. E aí eu queria a sua visão dessas pequenas, como que você está vendo isso?
+00:30:48 Speaker 1
+Eu acho que a gente tem oportunidade sim nelas, a gente já abriu inclusive conversas com algumas delas, a gente teve recentemente com a Loha e com a Vero, conversando um pouco com eles e também muito inicial de apresentação da ideia.
+00:31:11 Speaker 1
+É uma linha diferente, são equipamentos de menor porte, então traz um desafio também no aspecto operacional da coisa, porque eles normalmente estão no interior, com equipamentos de menor porte, porque eles atuam majoritariamente com fibra e não com telefonia móvel. Tudo isso que a gente está falando aqui, nesse processo de telefone e tal, com a Tina e com a Clara. Ele está essencialmente ligado ao que chama-se rede de acesso, que são as antenas.
+00:31:46 Speaker 1
+Antena é onde o nosso celular se conecta, então é onde a gente acessa a rede efetivamente de telecomunicações e dali o nosso bit, byte, a nossa voz vai para o core da rede. A gente está mais diretamente na rede de acesso, que a gente viu como um mercado inicial excelente, por quê? Porque é um equipamento que, na estrutura, exige um certo volume alto de CAPEX. A gente está falando de perto de 100 mil reais por equipamento. Quando a gente vai, por exemplo, para a Aloha, para a Vero, que é um equipamento para fazer ampliação de sinal.
+00:32:27 Speaker 1
+Ou, assim, ter uma outra função, que é essa parte da fibra ótica. São equipamentos mais simples. A gente talvez esteja falando aí de um equipamento com bateria de 30 mil reais, 20 e poucos mil reais. Então isso traz um desafio pra gente de dizer, poxa, o peso do serviço, o peso do cuidado vai ser ainda mais forte, porque eu tô do interior, e são equipamentos que têm um custo menor.
+00:32:59 Speaker 1
+Então a gente tá de olho nisso, que é um mercado que queremos
+00:33:04 Speaker 1
+Só a gente não priorizou, porque eles, pô, vamos onde é que tá primeiro o filezão, pra depois a gente atacar o filezinho. Não é que não se aplica, se aplica, e a gente só foi uma questão de priorização de recursos, assim como outros segmentos também, no segmento de bancos, por exemplo, a gente começou com o Bradesco, a gente começou com o Banco do Brasil, porque em cada agência tem lá um banco de baterias, tem lá um no-break. Poxa, ele também trabalha com backup de energia, também tem uma coisa em potencial.
+00:33:36 Speaker 1
+E estamos olhando para outros, a gente multiplica-se pelo Brasil, é rede de farmácia. Seguramente deve ter um no-break ali. Só que quando a gente vai, veja, telecom já é, telefonia móvel, já estamos falando de um cápita que sai perto de 100 mil reais. Quando a gente vai para banco, já cai isso para 40, 50 mil reais. Para quando a gente vai para a empresa de fibra, ótica... Talvez seja alguma coisa em torno de 30, 30 e poucos mil reais. Quando a gente conversou inicialmente com a parte de farmácia
+00:34:10 Speaker 1
+Eles não têm um sistema de backup central. De repente um no-breakzinho que está ali no caixa ou na geladeira, na loja. Na agência também é, na agência, mas eles têm uma lógica de eu ter um no-break para a agência. Na farmácia eu tenho aquele no-breakzinho que a gente compra na calunga para o caixa eletrônico. Quando a gente foi nos outros segmentos, a gente foi vendo que esse CAPEX é menor e, obviamente, o aluguel é menor.
+00:34:41 Speaker 1
+Está aqui tudo no roadmap. A gente, por uma simples lógica de priorização, disse: vamos atacar primeiro nessas três aqui, porque a gente consegue escalar em termos de faturamento de coisa mais rápido.
+00:35:04 Speaker 2
+Tá perfeito. E aí só queria, hoje tem um time ali no comercial que você tem. Então tá a Karina, que responde pra você. Então você tem a Karina, você tem a Aline e a gente falou com a Adriele agora. Que é essa aqui. Isso. Como que você vê esse time pra esse desafio que você tem hoje das... Porque hoje você tá com as três, certo?
+00:35:26 Speaker 1
+Vamos lá, a estrutura é, a gente tem Carina, que é a gerente comercial da unidade de negócio de bateria estacionária, aí abaixo dela tem duas lideranças, que é a Aline e o Henrique. A Aline focada essencialmente no mercado de telecomunicações e o Henrique no setor elétrico, bancos, etc. Com a Aline, a gente tem aprovado uma estrutura de três ou quatro executivos de conta. Então não são efetivamente só as três. Agora a gente tem uma estrutura, que você conversou com o Jose.
+00:35:58 Speaker 1
+Está fazendo também essa remodelagem nessa parte do PO, no dom de produto, porque esse Time de Carina é um time que está muito focado no segmento, então eles atendem o segmento de telecomunicações. Se é para vender pilha para controle remoto da Claro ou pra vender a energia como serviço, é este time que atende a paro, é este time que atende a telefônica, que atende a tim.
+00:36:29 Speaker 1
+Se essa bola não chega muito redonda nesse time, é esse o speech, é esse o valor, é essa a apresentação, vou te treinar assim, assim. Se a bola não chega muito redonda, esse time não tem condições de desenvolver o negócio. Ele vai no máximo escutar o cliente e voltar pra identificar a gente. O que a gente falou é isso. E se ele não tem retaguarda aqui, o negócio não anda. Então fez parte do nosso diagnóstico. Olha só, se essa bola não tá, a gente tem atacante, mas não tem make-up pra ficar no clima de Copa do Mundo.
+00:37:04 Speaker 1
+Então é isso um pouco que a gente tá vivendo, assim, eu não há, aí obviamente, tem uma lógica sim de maturidade do time, com turnova, que eu falei, não tenho a dúvida disso. Eu acho que esse time precisa ser muito melhor capacitado pra isso. Está longe de estar capacitado, o grau de entendimento, de proposta de valor de Driely, por exemplo, é muito baixo. Mas também porque as pessoas mudaram e a gente não conseguiu internamente fazer esse treinamento.
+00:37:38 Speaker 1
+Fica, de certa forma, esse conhecimento está muito comigo.
+00:37:46 Speaker 1
+Eu não tenho condições de treinar o time todo ali.
+00:37:51 Speaker 2
+Ou fazer todas as pontes ali com o cliente. Exatamente. Tô terminando já, mas eu queria, acho que talvez duas coisas. Queria muito te ouvir. Que proposta de valor a gente tem hoje, que a gente vende? Qual é esse discurso que a gente tá trabalhando? Eu tô fazendo essa pergunta pra todo mundo, então a gente tá trazendo.
+00:38:10 Speaker 2
+E qual é a visão de futuro que você tem desse produto? Daqui cinco anos, o que vai ser? Humor e energia. Vou ampliar a pergunta que talvez vá mais pra frente.
+00:38:19 Speaker 1
+Tá bom. Vamos lá. Hoje, eu acho que a nossa proposta de valor ainda está muito pobre e a gente está essencialmente atacando em dois pontos. De novo, estamos aqui para pedir ajuda porque eu realmente acho que está pobre, tá certo? Uma é, cara, a gente tira a tua limitação de CAPEX, porque hoje, as operadoras, quando você pergunta para o time que cuida da infraestrutura
+00:38:52 Speaker 1
+A necessidade para ter uma infraestrutura decente é muito maior do que o dinheiro disponível para fazer essa infraestrutura decente. O Brasil não tem mais antenas porque a conta não fecha. Eles têm que fazer o investimento, têm o faturamento, têm o dinheiro disponível. É uma lógica muito mais financeira do que de necessidade real por melhoria da infraestrutura. A gente ataca dizendo: ó, eu resolvo.
+00:39:24 Speaker 1
+Esse teu problema. Se tu tem, o teu CFO lá, te deu 5 bilhões pra tu gastar, tira aqui 500 bilhões que tu ia ficar gastando com bateria, com não sei o que, e compra bota mais antena, pô. Bota mais 5G pra rodar, melhorou a tua infraestrutura. Deixa que eu faço esse ponto aqui. Essa é uma proposta de valor que a gente leva, e a outra tem a ver com compartilhamento de risco, que é o seguinte: quando você compra um equipamento, você assume essencialmente.
+00:39:58 Speaker 1
+Um risco, que é daquele equipamento não durar o tempo que você programou para ele durar, seja porque ele foi roubado. Seja porque ele foi exigido além do que deveria e você não conseguiu entender isso. Seja porque o seu modelo de compra tem a ver com o fato de que você precisa garantir compatibilidade entre os equipamentos. Se você compra um retificador do fabricante A, esse retificador do fabricante A tem que funcionar com a bateria de A, de B e de C.
+00:40:37 Speaker 1
+E a bateria de A, de B e C tem que funcionar com o retificador A, B e C do outro. A tua primária é compatibilidade, não é eficiência nesse segmento. Isso é compatibilidade. Outro ponto, a tua engenharia diz, ó, se passou da norma Anatel, pra mim tá show. Você tem um mínimo de qualidade e a partir daí é espremer custo. Perfeito. O modelo de negócio não está orientado a você ter sempre equipamentos que entreguem.
+00:41:12 Speaker 1
+O melhor resultado no longo prazo. Você tem uma lógica armada para dizer esse é o mínimo de qualidade daqui, eu não quero 1% a mais de qualidade, não me interessa, vai ganhar quem atingir esse mínimo com menor custo. A lógica de negócio é essa, a gente diz, olha gente, então vamos lá. Eu assumo parte do risco, então se o equipamento não durar 10 anos, durar 8
+00:41:40 Speaker 2
+A responsabilidade é minha
+00:41:42 Speaker 1
+Eu vou botar um outro. Se o equipamento for roubado, aí obviamente a gente estabelece um teto para isso, porque eles têm uma responsabilidade pela segurança do site. Mas olha, até um teto, se o equipamento for roubado, eu reponho, então eu estou assumindo aqui para você um risco que hoje é teu. E a gente vê que eles não conseguem precificar isso com clareza e nem a gente consegue precificar isso. Isso fica num discurso, não fica tangibilizado.
+00:42:12 Speaker 1
+E a gente, obviamente, usa o discurso também de dizer, ó, essa conta fechará pra gente, porque como a gente tem condições de trabalhar o produto, somos o fabricante dele, a gente tem condições de fazer isso com muito mais agilidade. Se eu percebo que em determinada região está falhando muita energia, eu vou botar um produto Premium ali. Você, eventualmente, vai ter que esperar o próximo ciclo de compra para fazer uma.
+00:42:42 Speaker 1
+Nova especificação para contratar a bateria para aquele nicho específico. Isso da tua ordem operacional é impossível, porque você quer um produto que atenda à tua planta inteira. Então a conta para mim vai fechar, não é porque eu sou mais inteligente do que você. Vocês são fantásticos, de 9 a 10. Mas o seu modelo de negócio não permite que você tenha produtos específicos para nichos específicos dentro da tua infraestrutura e que não pense em um produto melhor no longo prazo. Você tem essa lógica de qualidade mínima, daí pra frente é custo.
+00:43:15 Speaker 1
+Então a gente vai um pouco com esse discurso de tira o teu ator de falta de dinheiro, assuma Como parte do teu risco. De furto e durabilidade dos equipamentos e vou fazer diferente principalmente na parte De durabilidade porque eu vou mergulhar e olhar como o produto está sendo usado em Cada site. O paralelo que a gente faz é, antigamente você queria fazer um anúncio do seu produto,
+00:43:48 Speaker 1
+Você ia na Globo, na SBT, na Record e fazia um produto para todo mundo.
+00:43:54 Speaker 1
+Hoje, você vai no Google, no YouTube, na Coisa e fala o seguinte: olha, eu quero para homens de meia idade que têm o cabelo mais ou menos grisalho, que mora naquela região, que não sei o que.
+00:44:06 Speaker 2
+Fazem determinada...
+00:44:07 Speaker 1
+Né? E que frequentam o lugar. Você consegue chegar, hoje, com a propaganda naquele teu público-alvo. É só, olha, pra pegar esse exemplo que todo mundo, de certa forma, vê, o que a gente vai fazer com o produto é isso. A gente vai entender qual é o produto para a Avenida Paulista que é diferente de Sorocaba, que é diferente de Bauru.
+00:44:28 Speaker 2
+Sim, aí você entrega a eficiência, você entrega a bateria na capacidade certa, não fica mais, não fica menos, você garante essa mudança. Mas isso acontece depois do contrato fechado, certo?
+00:44:40 Speaker 1
+Exatamente, esse é o problema. E isso é, assim, o grande problema disso é dizer, pô, legal, ótimo, estou achando, concordo com você, você é f. Espera, vai poder fazer isso tudo lindo, tudo maravilhoso. Então tu vai me dar save, né? Porque se tu faz melhor, e aí a gente põe, né? Gagueja pra um lado, gagueja pro outro, rebola pra cá, rebola pra lá e não sai do canto.
+00:45:05 Speaker 2
+Mas talvez você entregue mesmo, não entrega?
+00:45:07 Speaker 1
+É... O quê?
+00:45:08 Speaker 2
+Ou não? Um save de alguma forma? Você ajuda ele a não mobilizar tanto capital no primeiro momento?
+00:45:13 Speaker 1
+Eu acho que sim. A gente não consegue tangibilizar isso. A gente não consegue... Cara, quanto é o risco de performance, quanto é o dinheiro que você desperdiça ao que o seu produto não dure 10 anos, dure na média 8 e meio. A gente não consegue tangibilizar isso, pelo menos por enquanto.
+00:45:35 Speaker 2
+Não, tem uma questão da atualização, tem uma questão do roubo, tem uma questão do controle daquilo e talvez elimine multas, uma questão canatel e uma otimização daquele espaço.
+00:45:48 Speaker 1
+Exatamente. Aí vejam. A gente tá sem ninguém pra juntar tudo isso e embalar num discurso convincente.
+00:45:57 Speaker 2
+Não, a gente, eu tô montando a minha cabeça. Perfeito, é...
+00:46:03 Speaker 1
+Aí, você fez uma outra pergunta, você tem alguma dúvida desse texto?
+00:46:06 Speaker 2
+Não, pode, eu ia falar de outra coisa.
+00:46:08 Speaker 1
+Da outra pergunta que você fez, onde é que a gente imagina que a gente vai chegar? Veja, tem coisas que a gente consegue visualizar, tem coisas que seguramente a gente não consegue visualizar. Quando eu digo que a gente não consegue, a gente está captando uma quantidade de dados tão grande da forma como o negócio é utilizado, que eu não sei onde é que isso vai dar. Eu não sei o que a gente vai conseguir extrair disso ainda, pelo menos. Obviamente, nas nossas viagens, eu disse, porra, gente, será que em lugares que falta.
+00:46:41 Speaker 1
+Muita luz, que chove muito, falta muita luz, com muita frequência. Será que tem alguma coisa a ver, em lugares que, assim, quando chove, falta luz, a gente tem que atuar preventivamente para socorrer o site? Aí, parece que faz sentido. Será que a gente deveria colocar um medidor de umidade no lugar para poder ver que vai chover naquele lugar?
+00:47:12 Speaker 1
+Será que a gente vai conseguir vender isso para alguém? A gente começou a viajar, então eu tenho um ramo aqui que eu não sei onde é que isso vai dar. Mas onde é que eu consigo ver, onde é que a gente consegue para não ficar viajando na maionese? Eu faço um paralelo com outro produto que a gente tem, que faz com o serviço também, que é o BES. A gente falou um pouquinho disso, olha, não queremos olhar para isso aqui porque o nosso foco é esse outro. Mas no BES, a gente já tem outras linhas de produto, produto com conceito ampliado, que a gente está oferecendo, que é o seguinte.
+00:47:48 Speaker 1
+Aqui em Telecom, na essência, a gente está fornecendo backup de energia como serviço. É isso que a gente está fornecendo ao cliente.
+00:48:02 Speaker 1
+E oferecendo backup de energia como serviço mais ou menos, mais ou menos no seguinte aspecto. O parágrafo que eu faço é o seguinte, só gente, a gente na prática está alugando a caixa d'água, a gente não está garantindo banho. Por que eu tô dizendo isso? Porque eu consigo colocar uma caixa d'água de 20 mil litros. Agora, se tu chama tua família inteira pra passar o final de semana na tua casa e todo mundo toma 5 banhos por dia...
+00:48:30 Speaker 2
+Você não tá enchendo ela.
+00:48:32 Speaker 1
+Assim, eu não sou o dono dessa véspera, eu não consigo preencher ela, tu botou um consumo muito maior de água, vai faltar água e eu não sou responsável por isso. Mas seguramente em algum momento, o cliente vai dizer: cara, tá muito bom, mas faz o seguinte, me garante um banho. Gera energia pra mim. Entrega energia, cara. Se a Eletropaulo não for sem energia, mete um gerador lá, socorre, arruma um jeito disso. Bota uma taxa d'água maior, bota mais banco de bateria, mas me garante disponibilidade de energia.
+00:49:04 Speaker 1
+Então esse eu acho que é um ponto que em algum momento a gente tem que se preparar para isto. O parágrafo que eu ia fazer no BES é, no BES, a gente aqui garante backup de energia. No BES a gente já tem três produtos, é o backup de energia, a economia da energia. A gente aqui chega e diz, ó, pra indústria, você tem uma diferença do custo da energia, na hora de ponta e fora de ponta. Na hora de ponta, eu descarrego o BES e abasteço tua energia com a energia que foi aqui armazenada.
+00:49:40 Speaker 1
+E eu recarrego ele no horário fora-ponta. Esse delta paga o meu investimento. Paga o meu investimento e ele deixa um saving para você. Então tem um outro produto aqui de economia de energia como serviço. E tem um terceiro, para alguns clientes específicos, que a gente chama de qualidade de energia. Que é muitas vezes aquela indústria que está no interiorzão do Brasil, final da infraestrutura do setor elétrico, e chega lá a energia variando muito. Não tem quando chove aqui em São Paulo que a nossa luz fica piscando, ali é variação da qualidade da energia, da tensão que a Eletropaulo entrega.
+00:50:11 Speaker 1
+Isso no interior é ainda mais complicado, então o BEI serve também para fazer essa filtragem, para garantir que ele vai receber uma energia limpa de qualidade. Eu estou visualizando aqui no setor de telecom, nessa parte, o seguinte aspecto: a dependência da regulação do setor elétrico. Pode haver uma oportunidade nos sites de telecom para a gente também entregar economia de energia. Esse é um ponto. Segundo ponto é efetivamente garantir o banho e não alugar a caixa d'água.
+00:50:45 Speaker 1
+Isso vai vir, não tenha dúvida. A necessidade proativa da gente estar, faltou energia. Temos que disparar uma equipe para ir lá. Daqui é no máximo meia hora se ela não voltar, porque a bateria vai acabar. Então vamos chegar nesse negócio. Eu consigo visualizar com muita clareza hoje que só alugar a caixa d'água não será suficiente no longo prazo. A gente vai precisar garantir de fato o banho e, a depender da legislação, a gente pode ter.
+00:51:18 Speaker 1
+Uma oportunidade de gerar save na conta de luz para o cliente.
+00:51:22 Speaker 2
+Quando liberar de fato um modelo de energia livre, que é o que se fala. Talvez vocês querem quase aquele ecossistema de geração de energia para ele mesmo. Ele pode vender energia se sobrar.
+00:51:36 Speaker 1
+É uma questão de regulação, mas por exemplo, muitas empresas hoje de telecom já têm uma lógica que eles chamam de auto geração, onde eles contrataram um bocado de fazenda fotovoltaica, já faz isso. Só que tem um problema: o Brasil está com um problema de excesso de geração solar.
+00:51:57 Speaker 2
+Aí não tem como vender.
+00:51:59 Speaker 1
+Aí, muitas vezes, a ANEEL, a ONS, na verdade, está desativando plantas solares. Porque diz: 'gente, eu estou com tanta geração solar que eu não tenho quem consuma. Por favor, pare de gerar nesse momento.' Isso está avançando de tal forma que eu não sei se esse modelo que as operadoras fizeram de contratar um bando de painel de parque fotovoltaico vai ser sustentável no longo prazo. A gente tá acreditando que vai haver uma mudança de regulação aqui.
+00:52:31 Speaker 1
+Mesmo ele gerando fotovoltaico, tendo preços diferentes. E a gente, de alguma forma, pode se encaixar nisso como a gente tá encaixando com o BES. Então eu acho que tem novas ofertas que vão evoluir fatalmente aquilo que a gente tá entregando hoje.
+00:52:48 Speaker 2
+Perfeito. Tem uma última pergunta pra você que eu ia falar aquela hora. Quando a gente olha hoje, você tem, por exemplo, a telefônica. Você entrega para ele dois produtos, você tem lá a plataforma, os dados, mas você entrega para ele dois produtos, que é o T2, o T11. Ali é o equipamento físico, né? É, o equipamento físico, você tem ali. Quando a gente está olhando, talvez você vai ter alguns outros modelos, a dependência da TIM, claro, e essa outra que é menorzinha, você vai criando esses modelos físicos. Perfeito.
+00:53:19 Speaker 2
+E aí você tem toda essa oferta de dados, de geração, enfim, que a gente falou. Minha pergunta, hoje a gente tem um pacote, um único pacote fechado. Você enxerga um modelo de ofertas diferentes acontecendo? Por que eu te digo isso? Por exemplo, eu tenho um produto. Como a gente tem uma lógica de produtos hoje digitais, né? Pra você começar a usar o produto, eu tenho uma primeira oferta, que é uma gratuita, não tô falando que tem que ser isso, mas eu tenho uma mais simples. E aí você entende o valor do meu produto, começa a usar e eu consigo evoluir essa oferta com vocês.
+00:53:49 Speaker 2
+Você acha que um modelo assim faz sentido? Ou você vê isso de alguma forma quando vocês pensam nessa oferta? Ela tem que ser sempre fechadinha?
+00:53:58 Speaker 1
+Não, eu acho que a gente tem condições sim. A grande dificuldade, eu acho que é esse começo, porque a gente não tem uma base de infraestrutura pra com essa mesma base oferecer diferentes serviços. Deixa me tentar fazer de novo um paralelo com o BES porque aqui como já está mais bem estruturado essa oferta fica mais fácil.
+00:54:27 Speaker 1
+No BES, a gente percebeu o seguinte: se a gente coloca um equipamento para resolver a dor dele de sair de energia.
+00:54:38 Speaker 1
+A gente consegue, com este mesmo equipamento, resolver aquela questão da qualidade da energia, da variação, ele naturalmente acerta como um filtro. A gente estava entregando isso de graça ao cliente, e agora estamos passando a cobrar. Então é numa linha escala, você quer o save, está aqui o save, resolve meu problema, resolve, que legal, então resolve por mais mil reais aqui por mês. Por quê? Porque a gente já tem uma base sólida aqui de equipamento para oferecer isso, aquilo ou aquilo outro.
+00:55:14 Speaker 1
+No caso de telecomunicações, a gente não conseguiu pensar em algo, mas estamos super abertos a isso. Poxa, para que eu assuma aquele site, eu preciso fazer um investimento.
+00:55:28 Speaker 1
+E aqui tem uma questão de gestão de risco, que é: eu posso colocar nesse investimento um gabinete grandão, para que, se você precisar de mais backup, eu só adicione bateria. Mas aí eu estou correndo um risco de você não querer.
+00:55:47 Speaker 1
+Ou eu faço investimento para aquilo que efetivamente você está me pedindo agora. O que eu quero dizer com ter a base sólida é para que eu ofereça esse serviço ao cliente neste momento, eu preciso fazer o investimento agora. Eu já não fiz o investimento lá atrás e estou oferecendo coisas distintas. Eu acho que é um pouco diferente da lógica do produto digital, que é com a Amazon. Ela já tem a infraestrutura para entregar o Amazon Prime. Se você quer o pacote básico com anúncio, para mim tanto faz.
+00:56:18 Speaker 1
+Se você quer o pacote básico com o pacote premium sem anúncio, a minha infraestrutura está pronta, estou só capitalizando de diferentes formas aquela minha infraestrutura. No negócio de telecom, a gente não conseguiu ainda criar a infraestrutura. Como vai funcionar. No BES, a gente tá um pouco lá, porque com o mesmo equipamento, pouca coisa, eu consigo fazer várias coisas. A gente não encontrou ainda, e estamos super abertos a isso, a dizer, poxa, como com um investimento único nesse equipamento, consigo fatiar minhas linhas.
+00:56:50 Speaker 1
+De receita? E mesmo com o plano básico, essa conta, de certa forma, fecha. Para que isso tudo seja incremento de rentabilidade, não necessidade para que a minha conta feche. A gente realmente não conseguiu empacotar e não sei. Sempre parto do pressuposto que não é por impossibilidade. É porque a gente não pensou o suficiente sobre isso. Perfeito. Tá bom.
+00:57:16 Speaker 2
+Não te perguntei alguma coisa que você queira falar?
+00:57:19 Speaker 1
+Não, eu acho que as coisas assim, talvez a gente tenha outras conversas, vão surgindo e a gente vai falando. Eu vejo, assim, eu tento o tempo todo organizar a cabeça das pessoas no meu modo de entender. Que pouco importa o produto físico, se é T2, T11, T40, T50, e sim olhar para, eu tenho Backup de energia como serviço, eu tenho qualidade de energia como serviço, eu tenho economia de energia como serviço. Eu disse, ó gente, esse bloco, por exemplo, de economia de energia como serviço.
+00:57:53 Speaker 1
+Para pegar um exemplo mais tangível, a gente consegue oferecer com BES, pode ser que a gente ofereça com os equipamentos de telecom. Tem empresa atuando nisso aqui com ar-condicionado. Com o cara que chega lá e fala assim: 'Cara, teu ar-condicionado é da década de 40, estou brincando aqui, super ineficiente.' Eu falo o seguinte: 'Eu troco para você, isso vai te gerar um save na tua conta de luz tão grande que paga o meu investimento de trocar o ar-condicionado.' Mano, ele não está... Arrumando um outro jeito de vender ar condicionado.
+00:58:25 Speaker 1
+Ele está oferecendo save de energia como serviço para o cliente através do ar condicionado.
+00:58:31 Speaker 2
+Sim. Com ar condicionado novo, equipado e manutenção correta.
+00:58:34 Speaker 1
+Então, na essência, tanto esse cara aqui de ar condicionado, como a gente do BES está oferecendo economia de energia como serviço. Estou dizendo isso, voltando para cá, para a Telecom, para a gente olhar. Cara, hoje o que a gente tem com... O que está oferecendo hoje, podemos oferecer mais, é backup de energia como serviço. Agora, isso aqui vai vir através de um no-break. Tem um gabinete tipo 2, tipo 11, tipo 40. Para este produto conceitual do backup de energia como serviço
+00:59:06 Speaker 1
+Pouco importa se é T2, T11, T40. Isso não significa que a gente não tenha que ter um time otimizando o T2 ou T40, reduzindo o custo, apertando. Mas são duas camadas diferentes. Uma coisa é você ter um equipamento super eficiente, que dure bastante e que seja barato, o mais barato possível. Então tem uma camada aqui de produto físico que a gente está nessa modelagem de estrutura
+00:59:37 Speaker 1
+Dedicando uma pessoa a ser o PO, a ser o responsável por aquele portfólio de produtos físicos. Então, se vem uma demanda, por exemplo, para dizer: 'Cara, esse produto aqui não é tão seguro assim, não. É tudo de um cadeado. Que não pode ser Bluetooth, agora tem que ser, sei lá, o quê? Tem que ser ainda mais com reconhecimento facial.' Pô, cai aqui para o time de produtos físicos e pode dizer: 'Gente, engenharia, vamos aqui desenvolver um cadeado com.'
+01:00:03 Speaker 2
+Reconhecimento facial?
+01:00:07 Speaker 1
+Esta é a camada de aperfeiçoamento do produto físico. Perfeito. Que sempre vai ter que existir. Na minha visão, uma outra camada é como é que eu trabalho os atributos, os benefícios. Do backup de energia, como é que eu crio outros produtos, como qualidade, como saving, como informação, sei lá o quê. Aí já está numa camada de produto ampliado, conceitual, digital, como você quiser chamar.
+01:00:39 Speaker 1
+Mas ele é um produto que se viabiliza através do produto físico, mas são camadas distintas. Eu posso vender o gabinete, mas não é isso que a gente quer. É, eu posso ter um super gabinete e vender, ele é meio. O meu negócio é esse daqui, é o backup.
+01:00:57 Speaker 2
+E talvez em algum momento nem importe qual é o gabinete, vão te contratar só o serviço, o seio e a energia.
+01:01:04 Speaker 1
+Nesse caso da Telefônica, nosso primeiro contrato, primeiro modelo com a Telefônica, bem ou mal, a Telefônica paga pelo espaço que o gabinete ocupa para a torre. O metro quadrado conta, então o modelo do gabinete, o modelo físico, veio por parte da Telefônica e a gente ficou debatendo com eles, debatendo a ponto do seguinte: só a Telefônica, deixa eu entender aqui, tu paga o metro quadrado, não é metro cúbico, não é metro quadrado, então tá bom, vou botar o gabinete mais alto, porque isso vai me trazer um benefício A, B, C, D e tudo bem.
+01:01:49 Speaker 1
+Se não sair do metro quadrado, está tudo certo. Foi uma primeira tentativa, uma primeira evolução de um modelo que já veio quadradinho por parte deles. E o produto físico é esse e esse. É o tipo 2 e o tipo 11.
+01:02:01 Speaker 2
+Tem X baterias dentro.
+01:02:02 Speaker 1
+E tem que ter X baterias dentro. A especificação técnica do produto físico, neste contrato telefônico, veio pronta. A gente já fez uma laje a mais no gabinete.
+01:02:17 Speaker 1
+Mas, no futuro, essa especificação do produto meio não tem por que não ser nossa, desde que tenha uma limitação exógena. Tá bom, pode ser teu, você faz o que você quiser, agora esse negócio tem que caber em um metro quadrado. Tá tudo bem? Mas ele é meio, ele não é fim. Veio a telefônica nesse negócio, porque a gente não tinha maturidade também de engenharia pra gente especificar o nosso equipamento. Cara, é melhor pra todo mundo. Se a gente seguir a SPEC que veio do cliente. Menos risco para a gente, a gente vai aprender a fazer, mas ele não é o fim, não importa se é T2, T1 ou se é T40.
+01:02:58 Speaker 2
+Esse é o momento que vocês vão definir o que vai ser para entregar, o que eles vão pedir e vocês vão falar, para eu te entregar isso, eu consigo fazer com isso. Exatamente. O universo, né? Exatamente. Perfeito, muito bom, muito obrigada, foi muito bom te ouvir.
+01:03:10 Speaker 1
+Era Isso que vocês queriam?
+01:03:12 Speaker 2
+Exatamente isso, foi ótimo.
+01:03:13 Speaker 1
+Foi muito bom.
+01:03:14 Speaker 2
+Fechou perfeitamente, na realidade, fechar com você, porque acho que você foi amarrando muita coisa que a gente ouviu, como a gente falou de áreas mais específicas, acho que você conseguiu amarrar tudo que a gente ouviu, ter uma boa visão de todo mundo.
+01:03:28 Speaker 1
+Ótimo, fico à disposição, estou realmente bastante animado com esse projeto, porque acho que a gente vem enfrentando barreiras que, se a gente tiver ajuda e tiver a estrutura correta dentro de casa, tem tudo para a gente explodir. É um problema muito mais nosso do que de falta de demanda, falta de mercado.
+01:03:45 Speaker 2
+É, e como ajustar para ir para fora também. Exato. Uma colinha para ir organizando. Exato. E modelo também, assim, é isso que eu fico pensando. Que modelo que chega, quem é essa pessoa que aborda. Tem a pessoa certa que a gente fala? Com toda certeza. Mas essa conexão, talvez, é que tipo de conexão a gente precisa fazer primeiro para dar certo. Abrir essa porta de troca. Perfeito. Muito obrigada, estouramos? Nada, deu um tadinho. Boa.

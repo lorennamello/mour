@@ -1,0 +1,43 @@
+# Técnico - Explicação do Gabinete
+
+  Meeting started: 02/07/2026, 16:04:03
+  Duration: 4 minutes
+  Participants: Speaker 1, Speaker 2
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/sp1hfFqUKOWnihahpSZV?o=txt)
+
+    
+
+  
+
+  
+
+  ## Transcript
+
+  00:00 Speaker 1: E a parte de telefone, de aparelhos, enfim, de conexão, fica do lado da telefone. E aí eles se conectam com o meio de cabelo, alimentação e tudo mais. Mas a ideia é que a potência do lado da Moura, que a gente gerencia tudo isso. Então, quantidade de bateria eles vão ter, a potência da fonte. Porque se a operadora instalar uma potência maior do que a contratada, a gente não vai fornecer. Só se ela solicitar pra gente aumentar. Tá bom. Por isso que eu tenho esse controle.
+00:28 Speaker 1: É basicamente como ele vai ser composto. A gente vai ter a fonte. A fonte também pode variar um pouco de modelo para modelo lá. Isso aqui é uma fonte Delta. A gente tem hoje dois modelos que estão homologados. É a Delta e a NFC, que são dois fabricantes. Aí basicamente a gente vai ter a fonte, vai ter um quadro de disjuntores também e um banco de baterias. E aí o banco de baterias vai variar conforme a capacidade do site e eles podem ser tanto de chumbo quanto de lítio. Eu acho que a gente não tem nenhuma moratinha aqui para mostrar, mas a de chumbo ela muda porque ela é em pé e a de chumbo ela é de 12 volts e essa aqui a de lítio é de 48. Então você tem que juntar, insere quatro baterias de chumbo para fazer uma dessa, enfim. Muda a forma como eles montam um pouco e tudo mais.
+01:14 Speaker 2: Mas... A gente tem uma dúvida leiguíssima. Quando a gente pensa enquanto operadora, como é que isso fica organizado? Tipo, isso aqui é tudo de uma que contratou, tipo, vivo? Isso aqui é misturado? Tem uma...
+01:25 Speaker 1: Normalmente fica separado por operadora. Cada gabinete é separada por operadora.
+01:29 Speaker 2: Ah, cada gabinete. Eu posso tirar uma foto aqui? Pode sim. Pode sim. Com licença.
+01:37 Speaker 1: Estou vendo se você achou aqui a foto de visita que a gente já fez no
+01:40 Speaker 2: site. Eu mostrei a ela o da vertical. Aquilo que eu te mostrei da visita que a gente fez, eu mostrei. Ah, perfeito. Então, cada operadora teria um gabinete desses só pra ela. Sim. O que compartilha o site, a locação física. Exato. Se tu
+01:56 Speaker 1: visitar um site desse, tu vai ver que geralmente a gente chega num desses que é de torreira, né? Que é compartilhado e tem, assim, três a quatro gabinetes desses, cada um pra uma operadora. Agora não, entendi.
+02:08 Speaker 2: E isso aqui é da própria mão, né? Que é o que tu me falou. É, hoje ela traz a solução completa. Perfeito.
+02:16 Speaker 1: Aí você vai lá pra Belo Jardim, o pessoal monta, integra tudo e envia pra campo.
+02:21 Speaker 2: E aí a solução que fala que tem um cadeado de Bluetooth ficaria pra fechar isso aqui? Fica aqui. Ah,
+02:27 Speaker 1: tá. Tá vendo que ele tem uma trava aqui? Tá. Aí vem aqui e aí o cadeado ele pega aqui por dentro. Entendi. E trava.
+02:38 Speaker 2: O
+02:41 Speaker 1: momento que a gente usa em campo é esse aqui. Ah, boa.
+02:44 Speaker 2: E aí, o técnico que vai lá, ele desbloqueia pelo celular? Sim, pelo celular.
+02:48 Speaker 1: Ele se conecta com o aplicativo, sim.
+03:08 Speaker 2: Mas aí
+03:08 Speaker 1: o aplicativo é simples quando você entra ele tem um botão para buscar dispositivos aí ele busca se tiver algum dispositivo que você autorizado a a interagir. Aí ele vai aparecer na sua tela, você pode desbloquear, aí quando desbloquear ele dá um bip e libera o pino aqui para soltar. Aí você solta, e quando deve estar a mesma forma, você conecta o pino, ele não prende, ele só prende quando você entra no celular e manda ele fechar.
+03:37 Speaker 1: Aí isso sendo feito pelo celular, quando você tem essa movimentação, ele envia para a nuvem. Então chega na nuvem, o dado está aberto, está fechado, e a gente consegue capturar esse dado, integrar na nossa plataforma para exibir.
+03:49 Speaker 2: Perfeito. Boa. Entendi. E aí o decampo é maior do que esse aqui? É maior. O decampo é
+03:54 Speaker 1: o dobro disso aqui, pelo menos. Só umas duas portas, né? Aí tanto tem um modelo que ela é na horizontal assim, são duas. quanto é um modelo que ele é pra cima. Então ele fica um pouco mais alto assim, a gente fica mais ou menos na altura aqui do teto e aqui no meio ele tem uma divisão. Vai ficar a porta de cima e a de
+04:12 Speaker 2: baixo. E aí, as duas portas separadas podem ser duas operadoras
+04:15 Speaker 1: diferentes ou continua sendo um da Moura? Não, continua sendo um da Moura e um da operadora.
+04:17 Speaker 2: Seria só que teria mais equipamento ali pra funcionar o trileta. Aí normalmente nesse
+04:20 Speaker 1: que é assim, a da Moura fica embaixo, no caso da bateria, e em cima da operadora.
+04:29 Speaker 2: Mas, assim, aquele que eu mostrei já é duplicado. A questão é que pela foto parece pequeno. Mas, pelo gradil, já são dois. Um do lado do outro. Certo? Obrigada.
+  

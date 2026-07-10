@@ -1,0 +1,258 @@
+00:00:00 Speaker 1
+Aí só pode ficar até 10, porque ele tem outra reunião, mas é o tempo que é a vez que nós, é depois do Zé LV.
+00:00:06 Speaker 2
+Aí a gente faz rapidinho com você.
+00:00:08 Speaker 1
+Aí só vamos ficar mais confortável, aí às vezes eu dou uma saída de entrada, mas como eu vou fechar o negócio lá, alinhar com o Sérgio, aí já eu volto.
+00:00:14 Speaker 3
+Beleza, alinhados.
+00:00:17 Speaker 2
+O que a gente tá nessa conversa querendo entender? Como que tá a operação da Vivo hoje no dia a dia? Quais são os problemas mais envolvidos? Que cargas estão acontecendo no processo? A gente olhar muito para essas dores operacionais, do seu olhar de quem está vivendo ela no dia a dia ali. Ter uma opinião sua sobre o produto, o produto em si, quando ele vai, a escala, o que ele entrega. A percepção de valor, está entregando e atendendo o diferencial ou não. A plataforma, que é toda essa parte mais digitalizada, está funcionando, entrega o que precisa, pode ser usada como diferencial.
+00:00:55 Speaker 2
+E um pouco como a gente olha toda a operação com RSM, assim, como eles estão trabalhando. É uma visão bem geral nesse sentido. E aí eu vou te fazendo algumas perguntinhas pra gente conduzir aqui. Se você quiser contar e aí começar um pouquinho, um pouco da sua trajetória aqui na Moura. Como que você chegou aqui e como que você entrou nesse projeto? Quais são as suas principais responsabilidades? O que você tá olhando hoje? No geral, e depois um recorte, se você tem alguma coisa específica, se você tiver um escopo maior do que só telecom.
+00:01:33 Speaker 2
+Contar um pouquinho como é essa atribuição, quando a gente fala de mora e energia. E você foca depois o que está conectado com o telecom.
+00:01:41 Speaker 3
+Tá, então eu vou estruturar essa minha primeira fala nesse quem sou eu dentro da Mora, com minha atuação no micro, que vai ser o telecom. São quase 12 anos de casa, de Mura, dos quais eu passei em quatro setores diferentes. Esse é meu quarto setor dentro da empresa. Iniciei como estagiário na cidade de Belo Jardim, nossa matriz, como estagiário de engenharia para projetos de melhoria de produtividade.
+00:02:12 Speaker 3
+Passei um ano como estagiário e fui contratado na GPM ou RH da Moura. No RH da Moura, no GPM, eu fazia o trabalho de analista de infraestrutura, posteriormente Supervisor de infraestrutura. Eram projetos voltados, pensando na pirâmide de Maslow, como se fosse na base, condição básica, banheiro, restaurante, estacionamento, alguns benefícios, então eu cuidava desses. Projetos para aumentar a percepção de satisfação dos colaboradores Moura.
+00:02:44 Speaker 3
+Eu passei cinco anos nesse setor. E aí fui convidado pela empresa a fazer parte de um novo negócio, que era o de baterias de lítio. Então eu fui direcionado a montar a fábrica de baterias de lítio. Como gestor de projeto, eu construí a fábrica. Uma vez que a fábrica estava pronta, o convite foi: beleza, assume a rotina. Então eu passei a ser um gestor de produção dentro dessa fábrica de lítio.
+00:03:16 Speaker 3
+Vou arredondar também, passei cinco anos por lá e por uma decisão pessoal, eu comecei a entender, comecei a querer, na verdade, geograficamente sair de Belo Jardim e vir para Recife. Dentre as oportunidades que a Moura oferece, uma delas foi na Moura Energia, como consultor de projetos. Me inscrevi na vaga, passei e desde setembro de 25 eu sou consultor de projetos dentro da Moura Energia. Então foi assim que cheguei na Amor Energia.
+00:03:47 Speaker 3
+Na Amor Energia, a minha função, o meu cargo hoje tem o seguinte escopo: monitorar ou gerenciar os produtos implantados de Telecom e de BES. O escopo está nessas duas entregas, Telecom e BES. Vamos focar só em Telecom, que é essa conversa especificamente. Em Telecom, o que eu faço? O gabinete é implantado, colocado na base, passa-se um período não determinado, depende de cada gabinete, em que o gabinete está em implantação.
+00:04:24 Speaker 3
+O que é o gabinete que está em implantação? Por mais que ele esteja fisicamente na base, a Avivo vai aos poucos colocando equipamentos ali dentro. Nesse aos poucos, ele ainda está com a área de implantação da Moro Energia, que é um par meu. A partir do momento que a Avivo aceita aquele gabinete, lá na Avivo ele sai de implantação para operação e a gente replica. Namora, sai de implantação e vai para a operação. Eu passo a cuidar desse ativo. O que é cuidado ativo? Plano de manutenção preventiva. Nosso modelo de negócio, a gente faz manutenção preventiva a cada seis meses.
+00:04:57 Speaker 3
+Eu articulo essa manutenção com as RCMs, com a Vivo, quando necessário. Faço o controle dessa manutenção preventiva. Corretiva, sempre que necessário surgiu um alarme, teve algum problema, teve um vandalismo, furto. A gente chama isso de corretiva, sou eu que mapeio, acompanho, diagnóstico o que aconteceu e aciono o time de campo para fazer a corretiva.
+00:05:28 Speaker 3
+Eu monitoro os dados de operação, então o que aquele gabinete está emitindo de informações. A gente consegue predizer um comportamento. Hoje a gente tenta, mas com um nível de assertividade baixo. A gente vai chegar lá de predizer comportamentos, mas isso também está comigo na operação.
+00:05:52 Speaker 3
+Eu tenho um papel também, ou pelo menos entendo que tenho esse papel, de ser o guardião da plataforma. A plataforma é da Moro Energia como um todo, mas talvez a área de operações seja a área que mais bebe daquela fonte. Por ser a área que mais bebe, eu trabalho com aquela plataforma aberta o dia todo. Não estou sempre olhando para ela, mas ela está sempre aberta e, no máximo, uma hora eu extraio alguma informação dali. Acaba sendo um grande guardião de fazer aquela plataforma estar sempre em um nível melhor.
+00:06:25 Speaker 3
+Melhoria contínua, sempre evoluindo. Eu tenho comigo muito de ter essa plataforma como a melhor versão do que a gente pode ter. Então acabei pulando, mas dentro da manutenção preventiva, na verdade dentro da jornada do ticket que a gente chama, que pode desencadear não preventiva, não corretiva, a gente tem um troubleshoot, como é que o NOC da gente vai atuar, que é quem faz o primeiro atendimento, que é o N1, como é que o N2 vai atuar, que aí pode ser eu, pode ser a engenharia, pode ser a TI, pode ser várias áreas, vai depender do problema, e como é que o N3 vai atuar.
+00:07:00 Speaker 3
+Então também sou o guardião desse troubleshoot.
+00:07:06 Speaker 3
+Uma área X qualquer pensou em uma melhoria, essa área não pode ir lá e implantar essa melhoria. A gente tem que ter uma governança desse processo para atualizar no troubleshooting e depois oficializar isso como um processo padrão. Então eu busco ser esse guardião dos procedimentos para que o negócio não, na melhor das intenções, sempre pensando em melhoria, mas que não despadronize. Então esse documento MANHA aí é um documento importante para que a gente tenha esse padrão. DENTRO DA OPERAÇÃO É ISSO.
+00:07:39 Speaker 3
+Aí quando eu falo de alarmes de manutenção corretiva, eu estou olhando algumas dimensões, como a mecânica do gabinete, a conectividade do gabinete, a eletrônica do gabinete, a energia, o banco de baterias do gabinete. Então isso está tudo dentro do que pode ser um ticket. Acompanho toda essa saúde do gabinete como um todo, passando por bateria, passando por eletrônica, pela mecânica, pelos nossos fornecedores e tudo mais.
+00:08:08 Speaker 2
+Me tira só uma dúvida, porque quando você fala da implementação, que ela demora e tem até uma parte da Vivo. Como é isso? Quanto tempo está demorando esse momento? E o que a gente depende da Vivo aqui, talvez? Ou o que está com a gente? Como funciona essa dinâmica?
+00:08:23 Speaker 3
+Vou abrir, mais esse tema. A gente recebe o pedido da Vivo. Vocês vão ter outras conversas, com certeza o pessoal de implantação vai entrar num detalhe ainda maior, que eu acabo conhecendo, mas não tendo tanto pertencimento. A gente recebe o pedido da Vivo, a nomeação, na verdade, parabéns, Moura, o site XXX é seu. Se organize para fazer a implantação. O time de implantação vai lá, se organiza, pega o gabinete e bota na base.
+00:08:48 Speaker 3
+Por si só, teria acabado o processo de implantação do gabinete Moura.
+00:08:59 Speaker 3
+Porém, o que não tem nele? Os equipamentos da Vivo. Então quando a gente implanta, fica uma porta disponível para que a Vivo vá lá e coloque os seus equipamentos. O que pode acontecer? Enquanto a Vivo coloca os seus equipamentos e aciona a telemetria deles, surge algum alarme, que foi um problema de implantação. Sei lá, alguma coisa está mal conectada. E aí gerou um alarme na VIV e por algum motivo a gente não está vendo. A gente julgou internamente que é injusto ser um problema da área de operação.
+00:09:29 Speaker 3
+Porque a operação não gerou problema nenhum. É uma pendência de implantação.
+00:09:37 Speaker 3
+Depender não é a palavra certa, mas a gente aguarda a VIV instalar os equipamentos para ter a certeza. O gabinete está perfeito. Operação, parabéns. O filho é teu. Cuida dele. A de eterno agora. Minha parte eu fiz e fiz bem feito a implantação.
+00:09:50 Speaker 2
+E aí quem faz esse aceite da implantação é a própria Avivo? Não tem ninguém do Satino que vai lá e fala que está realmente certo?
+00:09:57 Speaker 3
+Eu aceito com base no aceite da Avivo, porque se a Avivo vai lá e implanta os equipamentos deles e diz que não tem pendência nenhuma, por tabela eu estou dizendo. Implantação obrigada, não tem pendência nenhuma, vou conduzir aqui a gestão do Satino.
+00:10:13 Speaker 2
+E aí me conta só um pouco assim, quando a gente olha esse processo. Como que funciona, acho que talvez quais são os principais problemas que você tem hoje? O que é a maior dor? Vamos lá, pedimos. E aí talvez você podia dividir para mim duas coisas: físico e plataforma.
+00:10:32 Speaker 3
+Tá, físico. A maior dor que eu tenho hoje, que é um indicador que eu tenho, chama-se vandalismo. A gente tem um... É até triste assim quando acontece, dá um sentimento ruim, alguém liga, teve um vandalismo no seu gabinete, é realmente muito ruim porque a gente fica meio que de mãos atadas, o que a gente vai lá é corrigir. Então a maior dor que eu tenho hoje é vandalismo. O que é o vandalismo? O gabinete está implantado, está funcional, vai um bandido lá e depreda o gabinete, na maioria das vezes para roubar apenas as baterias.
+00:11:06 Speaker 3
+Tem casos que eles roubam mais coisas e teve um caso até hoje que ele não roubou a bateria, mas depredou o gabinete. Essa é a maior dor que eu tenho hoje, porque é custo, é mobilização de equipe, é estresse com o cliente, porque eu paro momentaneamente a operação do cliente. É o perde-perde, não tem nada bom nessa situação. É uma dor grande. Vou arredondar aqui o número, cerca de 7% dos gabinetes da gente hoje foram vandalizados. É um número expressivo e que incomoda.
+00:11:36 Speaker 3
+A gente trabalha para mitigar esse evento. A gente está reforçando a estrutura mecânica para que seja um inibidor ou que afaste e diminua essa chance de vandalismo. A gente estuda algumas formas de rastrear se uma bateria foi roubada e onde ela está indo. A gente está fazendo esse trabalho de estudo. A gente, através de um redimensionamento de energia, está estudando colocar menos bateria no gabinete, obviamente sem prejudicar a operação do cliente.
+00:12:09 Speaker 3
+Para diminuir essa atratividade do nosso gabinete, mas ainda são estudos, são implantações iniciais e o resultado será acolhido. Tomara que a médio e longo prazo ainda não está sendo acolhido. Isso é uma dor que eu tenho hoje por esse vandalismo.
+00:12:24 Speaker 2
+Posso tirar uma dúvida? Qual é o percentual ideal que vocês consideram numa operação?
+00:12:30 Speaker 3
+Até onde eu conheço, nosso modelo de negócio, a ideia pode confirmar isso, foi baseado em um percentual de 2%. Estaria em 12% sendo uma verdade, a ideia confirma, a gente está 5% acima do que seria o ideal. É porque a gente sabe que acontece, tanto que eu tenho contato com a Vivo, sempre que acontece, principalmente nos primeiros casos, o retorno da Vivo era: cara, não se estresse, eu vivo isso 5 vezes por dia, 4 vezes por dia. Faz parte do meu dia a dia tratar esse tipo de situação.
+00:13:01 Speaker 3
+Spinoza também, que é meu gerente, é muito desse mundo. Ele fala: 'a gente não vai zerar, isso é um problema social, mas a gente vai trabalhar para que esse percentual esteja em tendência de queda, não em tendência de subir.' Vandalismo é uma dor. Segunda dor que eu tenho é conectividade. Se eu trabalho com dados, para dados me ajudar a corrigir, prever e predizer situações, se o dado não é confiável...
+00:13:33 Speaker 3
+Corrigir, prever e previser situações acabam não sendo otimizados. Ter um dado confiável, ter um dado constante é uma dor. Por que é uma dor? Porque eu não tenho. Hoje é uma dor não ter esse dado constante. O que é ter um dado constante e confiável? Foi feita uma lógica de programação que o gabinete emite alertas. Sempre que tem uma anomalia no gabinete ele emite um alerta. Porém a gente já percebeu que esse alerta não está confiável. Ele me emite, vou dar uma situação aqui, porta aberta, ou seja, alguém abriu o gabinete.
+00:14:08 Speaker 3
+E não necessariamente aquela porta foi realmente aberta, foi um falso positivo. E acontece o contrário também, ele não emitir nada e alguém ter aberto a porta. Isso é só um exemplo, tem outras situações, mas essa não confiabilidade dos dados gera retrabalho. Ou gastar energia na solução de um problema que não existe, ou não gastar energia na solução de um problema que existe, eu não estou vendo aquele problema, gera retardo.
+00:14:39 Speaker 3
+Na informação, vou associar com vandalismo. Meu gabinete precisa me dizer que ele foi vandalizado, ele foi preparado para isso. Mas acontece muitas vezes de eu saber pelo cliente. O cliente for olhar, fazer algum serviço qualquer no gabinete, ele me liga, ó, tu sabe que teu gabinete foi vandalizado. Não, não sei. Aí eu vou olhar a plataforma e não está dizendo nada.
+00:15:02 Speaker 3
+Beleza, o que mudaria na tua vida se tu soubesses? Quando o cliente me avisa, ele já avisa o seguinte: Ó, tu sabes que o teu gabinete foi vandalizado? Não, não sei. Beleza. Tu vais recompor quando? Se eu já soubesse, no dia que a Vivo descobrisse, eu já diria: ó, amanhã eu estou indo lá recompor. Ou eu faria o contrário: ó, infelizmente o nosso gabinete foi vandalizado. Precisa da sua ajuda, tal, mas no dia tal ele vai estar recomposto. Então minha resposta ao cliente seria muito mais colaborativa, muito mais ativa.
+00:15:33 Speaker 3
+Reativa. Saber isso em tempo real é importante, entre outras coisas, para ter um nível de atendimento melhor com o cliente. Conectividade é uma dor. Você falou do físico, plataforma, por mais que esteja exposto na plataforma, acaba sendo um problema físico também. Furto, conectividade...
+00:15:54 Speaker 3
+Poxa, eu acho que pra telecom, aí vou entrar num terceiro, que foi até uma fala inicial sua, que é a relação com a RSM.
+00:16:01 Speaker 1
+Boa. Ô, Tassi, deixa eu só voltar pra conectividade um minuto. Quando tu fala esse problema da conectividade no contexto físico, tu fala em que sentido? Do que o equipamento ele poderia ser melhor, que eles usam pra poder entender melhor esses alertas?
+00:16:15 Speaker 3
+Eu não vou te precisar disso, porque eu não sei o problema. Eu não sei porque a informação não tá confiável.
+00:16:20 Speaker 1
+Só sabe a consequência. Pode ser.
+00:16:22 Speaker 3
+Tá. Eu não sei a causa, eu sei o modo. Tá bom. A informação não está confiável. Qual é a causa disso? Pode ser robustez do equipamento, pode ser outras coisas. Não sei, eu não tenho resposta.
+00:16:30 Speaker 2
+Então não está chegando para você.
+00:16:32 Speaker 3
+Não está chegando confiável e constante para mim.
+00:16:34 Speaker 2
+Deixa eu te fazer uma pergunta antes de a gente passar. Olhando para isso, você tem uma plataforma que você acessa e você tem. Tirando essa questão dos dados, digitarem ali com fé visional, o que você recebe, entre aspas, ou o que a gente está falando que a gente vai te entregar de informação, é suficiente para você?
+00:16:50 Speaker 3
+Não, não é. Tá sim, o que é suficiente. Eu tenho um ano de casa, é um negócio muito novo, a plataforma é mais nova do que eu. Ela começou em janeiro, se não me engano, então ela tem seis meses de vida.
+00:17:04 Speaker 3
+Tem um caminho longo para a gente chegar no, diria um ex-gerente meu, estado da arte. A gente vai chegar lá, eu tenho certeza que a gente vai chegar lá e tem algumas coisas a serem feitas. Ela me entrega muita informação legal. Ela ainda não me entrega muita informação que eu preciso e a gente trabalha nessas melhorias. Há construções a serem feitas. Ela não está me entregando que a operação precisa 100%. Parte do não entregar a gente já conhece, está mapeado e a ATI, que é a grande confeccionadora de melhorias.
+00:17:37 Speaker 3
+Tem trabalhado no calendário que eles propuseram para essas melhorias. Então tu tá me dizendo que ao final dessas melhorias todas que tá mapeada vai chegar ao estado da arte. Não, tem coisas que eu ainda nem sei que eu preciso. Mas essas melhorias vão me mostrar, pô, agora se eu tiver isso aqui vou me aproximar do estado da arte. Ela me entrega sim um boom de informações interessantes, me falta outro boom de informações que eu preciso ver. Vou dar um exemplo prático. Eu falei
+00:18:06 Speaker 2
+Podia você me falar o que ela entrega que é bom e o que falta?
+00:18:09 Speaker 3
+Vou pegar o que falta e já volto pro que ela me entrega de bom.
+00:18:15 Speaker 3
+O ser da Moro Energia é entregar energia para a Avivo quando falta energia no site. Como é que eu entrego essa energia? Com um banco de baterias. Isso é a autonomia do site. No dia que faltar energia, quanto de autonomia eu vou entregar para a Avivo? Essa informação, de alguma maneira, você consegue pescar na plataforma. Mas se esse é o meu modo de ser, é o que faz a Moro Energia existir, ter um contrato com a Avivo. Isso precisaria estar, me perdoe a expressão, vomitado na minha frente, na perna.
+00:18:46 Speaker 3
+Você está lá, tua autonomia está assim. Tu tem um site lá no interior de São Paulo que ele não está entregando a autonomia que a BIF contratou. Alerta vermelha, fica lá piscando. Resolva isso aqui porque teu contrato está dizendo que tu tem que atender e tu não está atendendo. Então esse é um exemplo de informação que faz parte da rotina, que faz parte do nosso contrato, que é passível de multa. E a informação não está dada, ela precisa ser minerada, eu preciso fazer um trabalho arqueológico lá para chegar nela.
+00:19:16 Speaker 3
+Então esse é um tipo de informação que eu não tenho, que me vem à cabeça aqui logo. De falta de energia, eu tenho informação que eu não tenho, vou usar a mesma expressão, vomitada na minha frente de novo.
+00:19:32 Speaker 3
+Acessos, é algo que também não está como eu gostaria que tivesse. Beleza, esses são os que eu conheço, que estão mapeados e que a gente está trabalhando para melhorar. O que ela me entrega de legal? Ela me entrega o que está com conectividade e o que não está. Em tempo real, se a gente abrir a plataforma aqui agora, eu vou conseguir dizer a você: Olha, eu tenho dos 412 sites que estão com operação, eu consigo saber que 50 estão offline. Isso ela me dá, eu consigo ter essa informação em tempo real.
+00:20:02 Speaker 3
+Eu consigo saber, por exemplo, se a Avivo me ligar e falar: 'Tá, vocês, a minha telemetria, a telemetria da Vivo, está dizendo que o seu gabinete XXX está com problema.' Eu vou conseguir abrir a plataforma e vou conseguir refutar o cara ou confirmar. Eu vou conseguir, querida Vivo, estou vendo aqui a minha telemetria e ela não está dizendo isso. Ela está dizendo que o site está normal. Talvez seja algum problema no seu equipamento. Nem sempre eu ganho essa queda de braço, mas no mínimo eu ganho o tempo. E eu já ganhei algumas vezes a queda de braço com base nas informações que a...
+00:20:34 Speaker 3
+Que a plataforma me dá. Volto lá para o começo. Como a informação não está 100% confiável, refuto com o pé atrás. A Vivo não precisa saber que eu estou com o pé atrás.
+00:20:46 Speaker 2
+Mas aí você manda alguém olhar para ter certeza.
+00:20:48 Speaker 3
+Exatamente. Eu falo, Vivo, meu gabinete está certinho. E eu fico: será que está bem?
+00:20:53 Speaker 2
+Corre alguém lá para ver. Não sei se está
+00:20:55 Speaker 3
+Mas para a Vivo, está tudo certinho, o problema é teu. Aí o cara vai me provar que não é. Eita, beleza, estou mandando alguém resolver. Mas a plataforma me entrega isso, ela me dá ferramentas para diagnosticar o que está acontecendo lá. Não está confiável, mas é outro problema. Se tivesse a plataforma estaria expondo essa situação para mim. O que mais que ela me dá? Ela me ajuda a entender consumo de dados. Então a plataforma me diz lá como é que está o consumo de dados do site. Se está perto da franquia contratada, se está abaixo, se está na média, se não está.
+00:21:29 Speaker 3
+Então ela me dá esse tipo de informação. Ele me dá a informação se o cadeado do gabinete está aberto ou não, é uma informação que agrega valor ao dia a dia.
+00:21:43 Speaker 3
+Ela me entrega histórico do site, o que é o histórico do site? Vai ter uma aba lá chamada projetos, dentro dessa aba projetos tem todos os quatrocentos e tantos sites que estão implantados e dentro de cada um desses quatrocentos e tantos sites implantados eu tenho toda a documentação daquele site. Então eu quero ver como é que foi a implantação do gabinete que aconteceu em 2025. Eu vou lá, consigo ver o documento da implantação daquele site, consigo ver se estava tudo ok, se tinha alguma coisa pendente, se não tinha. Então ele me dá essa rastrabilidade.
+00:22:13 Speaker 3
+Obviamente tudo isso que ele me dá tem oportunidade de melhoria, mas já tem uma informação lá para que eu consiga fazer a operação no meu dia a dia. Então ela me entrega sim, como eu estava comentando, é muita coisa. Mas ainda há muita coisa que precisa ser entregue e há muita coisa que ela já entregou que precisa ser refinada, ajustada, precisa ser melhor exposta. Então tem melhoria contínua, tem muita evolução, afinal são seis meses só de plataforma.
+00:22:40 Speaker 2
+Você precisa sair agora.
+00:22:41 Speaker 3
+Já dou dez horas?
+00:22:42 Speaker 2
+Não, é dez horas? É. Dez horas em volta. Não, não é dez. É, eu fiz para as dez, então beleza. Eu fiquei com 45 minutos na cabeça.
+00:22:50 Speaker 2
+Me tirou só uma dúvida, quando a gente fala de autonomia... Você fala esse tá entregando esse não, cada um vai ter um outro tipo de autonomia, por exemplo lá, só para ver se eu entendi o racional, eu tenho uma antena aqui do lado, ela quase não tem queda de energia, então eu preciso de uma autonomia pequena, qual que é essa regra? A regra é a seguinte
+00:23:10 Speaker 3
+Cada antena é um CPF, tem sua característica lá. Os equipamentos que estão na antena X podem ser diferentes da antena Y, podem ser diferentes da antena B, em volumes, em marcas, em sinal, em raio de sinal. Essas variáveis dizem a quantidade de energia que aquele gabinete precisa. Meu banco de energia...
+00:23:40 Speaker 3
+Beleza, guardem essa informação, acabei pulando um etapa. Quando a Vivi me contrata, ela contrata dizendo o seguinte: 'ó, tu vai me fornecer, se faltar energia, o suficiente para duas, três ou quatro horas'. A gente chama de DEC, né? O DEC de duas, o DEC de três ou o DEC de quatro horas. Isso é contratual e não muda, assim. Se o site A nasceu com um DEC de duas horas, eu preciso ter baterias o suficiente para fornecer duas horas. Como é que eu sei a quantidade de baterias para fornecer aquelas duas horas contratadas? Ainda essa primeira informação que eu falei.
+00:24:11 Speaker 3
+E a nossa plataforma fica expondo quanto de energia os componentes da Vivo estão consumindo. Está consumindo 50 ampere. Se está consumindo 50 ampere, o deck é de 2 horas, eu preciso ter pelo menos 100 ampere de bateria para suprir as 2 horas. Então é mais ou menos assim a conta.
+00:24:31 Speaker 2
+Tá bom, perfeito. Aí antes de entrar no RSM, eu queria só entender o seguinte. Olhando a plataforma, o seu relacionamento com a Vivo no dia a dia. Tem alguma coisa que eles pedem? Ou que eles estão reclamando? Tem algumas coisas que estão acontecendo. O problema é que eles estão quase falando que é natural ali. Tá tudo bem, é uma espécie de alteração. Mas, entendeu? O que eles estão te pedindo? As principais reclamações, elogios.
+00:24:56 Speaker 3
+Eu acho que a nossa impressão com a Vivi é muito positiva. Primeiro pela telemetria. Quando a gente bota o dado, o print, a evidência. Isso causa uma boa impressão, dá uma confiabilidade ao que eu estou falando. Acho que eles, por mais que refutem, é Bicho, entendi, mas deve ser algum problema. É muito colaborativo. A relação ainda é muito colaborativa, tomara que assim continue sendo.
+00:25:27 Speaker 3
+Então há essa percepção, há essa minha percepção da percepção deles. Dessa parceria, dessa colaboratividade. Elogios que eu, a operação, recebo é tempos de resposta, é prontidão no atendimento. Eles, o arretado, vocês estão sempre disponíveis, é cordial, é sempre baseado em fatos e dados. Minha relação com a Viva é uma relação operacional. Eu não tenho os contatos estratégicos, então é com o time mais operacional.
+00:25:57 Speaker 3
+Talvez a visão da estratégia seja diferente, mas aí eu acabo não tendo essa relação.
+00:26:04 Speaker 3
+O que preocupa a Vivo, e vou aproveitar o gancho para entrar na RSM porque tem correlação, é tempo de resposta. Vou dar um exemplo prático, que foi um exemplo que me foi dado pelo cliente. Minas Gerais, é um estado gigantesco. A RSM tem uma base, então num estado gigantesco, eles estão geograficamente em um local. Quando há um problema na extremidade do estado, exemplo, Uberlândia, se eu não me engano, fica a 6, 7 horas da base da RSM.
+00:26:45 Speaker 3
+Em contrato, tem alguns casos que me acelera em 4 horas. Num cenário perfeito, que nunca acontece, eu ligasse para a RSM, abrisse um ticket para a RSM e ligasse, ó, vai em Uberlândia que eu estou com um problema agora. O cara levaria, num cenário ótimo, sete horas para chegar lá.
+00:27:08 Speaker 2
+Se Ele estivesse de prontidão para viajar.
+00:27:10 Speaker 3
+Sentado no carro, com os equipamentos atrás, liguei, ele sai. Levaria sete horas, mas se ele é de quatro horas. E aí já foi verbalizado por eles, é uma preocupação minha também.
+00:27:25 Speaker 3
+Quais são as soluções? Obviamente a RSM vai pensar nisso melhor do que eu. Como a RCM é meu braço de campo, eu acho que eles podem terceirizar, ou seja, para mim seria uma quarteirização de parceiros que estão melhor distribuídos geograficamente para fazer esse atendimento mais rápido. Eu acho que há essa oportunidade nos tempos de resposta. Eu acho que o grande ofensor hoje para a gente elevar ainda mais a nossa percepção de qualidade para o cliente são os SLA de atendimento. Eles são desafiadores.
+00:27:56 Speaker 3
+Desde que eu cheguei, li o contrato. Eu disse: 'Rapaz, isso é desafiador.' Isso tem se provado desafiador e é o tema que mais me preocupa quando falo em atividade de campo e atendimento a SLA. Quatro horas é o mais crítico, o médio, se eu não me engano, são seis horas, mas a gente consegue confirmar isso com o contrato. E se eu não me engano, o mais leve são doze horas.
+00:28:20 Speaker 3
+Felizmente, a Vivo é flexível na maioria dos casos. Então o cara liga e diz, não, vamos conversar aqui com o meu time de campo. Hoje é quarta, né? Vamos na sexta? 48 horas. E às vezes a turma aceita. Então há essa flexibilidade, por mais que o contrato, se eles botassem o contrato debaixo do braço, a resposta seria outra. Mas eu acho que isso é uma fraqueza. Na linha da SWOT lá, eu acho que isso é uma fraqueza. O tempo de resposta, os SLA de atendimento nosso, os reais não estão iguais ao planejado.
+00:28:50 Speaker 3
+Então acho que isso é uma grande oportunidade que a gente tem. Eu acho que inclusive tem caminhos como, por exemplo, a quarteirização é um caminho. Tem outras soluções também.
+00:28:59 Speaker 1
+Deixa me te fazer uma pergunta só em relação à RSM que eu fiquei com uma dúvida aqui. A RSM ela é da Moura.
+00:29:05 Speaker 3
+Ela é do Grupo Moura.
+00:29:06 Speaker 1
+Só que ela é um outro CNPJ. É um outro CNPJ. Então, se ela tem autonomia para dizer que pode terceirizar, que pode contratar ela, ela poderia. Beleza.
+00:29:14 Speaker 3
+Tanto que em Minas Gerais, depois dessa provocação da Avivo, que eu internalizei, eu fui lá na RSM. Turma, por que vocês não quarteirizam? Sim. E eles começaram a se movimentar, não sei o quanto que avançou, mas eu até passei alguns contatos ali que eu tinha de empresas da região e eles começaram a se movimentar. Mas assim, antes tinha essa autonomia de ter parceiros. Vou fazer só um asterisco, foco é Telecom aqui, mas pegando um pouquinho de BES. A gente vai ter um BES lá no Pará, no interior do Pará, e a RCM que vai atuar lá é a de Pernambuco. Então imagina que um dia juntou e desarmou, é o cara ir lá e fazer isso.
+00:29:50 Speaker 3
+Faz sentido eu gastar uma passagem aérea do cara de Pernambuco para ir lá no Pará, descer em Marabá, pegar o transporte para ir lá no interior, ou seja, perder 48 horas, fora o custo. Chegar lá, bater um disjuntor e voltar, não faz. Se ele tivesse um parceiro lá na região, eu ia ligar para a RSM, engatilhar um ticket para a RSM, a RSM ia cascatear isso. Parceiro do Pará, lá naquele bag da Masterboy que você conhece. Vai lá porque está acontecendo isso.
+00:30:21 Speaker 3
+Eu vou fazer um acompanhamento remoto aqui com você. Então é muito mais rápido, muito mais barato. Ele iria lá e faria essa solução. A SM cascateia suas soluções é muito nesse sentido. É bom para eles também, inclusive.
+00:30:33 Speaker 2
+Então o time é o mesmo que atende as duas soluções?
+00:30:37 Speaker 3
+É. Tá.
+00:30:39 Speaker 2
+Então ele tem esse problema, na verdade, hoje nas duas operações que você tem.
+00:30:43 Speaker 3
+Perfeito, excelente. Isso me atentou para outra coisa. Eu usei o exemplo do Pará para o Bairro, mas vou usar de telecom que é o daqui. A RCM Pernambuco atende Rio Grande do Norte, Paraíba, Pernambuco e Alagoas. Em Mossoró, eles ficam...
+00:30:57 Speaker 2
+Mossoró é mais fácil ir por Fortaleza. Pega lá, pega o carro e vai.
+00:31:02 Speaker 3
+Eles ficam a 100 metros daqui, é no quarteirão vizinho. Olha o meu gerente Espinosa.
+00:31:07 Speaker 2
+Olá, Tudo bem? Bom dia, bom dia. Um pouco atrasada, né? Não, fique tranquilo. Estamos bem acompanhados também. Tudo bem? Tudo bom? Tudo bem, Espinosa?
+00:31:23 Speaker 3
+Pra fechar esse exemplo, a RSM Pernambuco, ela fica no outro quarteirão aqui. Se eu tiver um problema em Mossoró, interior do Rio Grande do Norte, esse SLA que eu tava usando como exemplo, o BEL, ele é muito parecido, eu não sei nem quantas horas dá, talvez 12 horas de carro, se o cara tiver sentado no carro, pronto pra sair, pra chegar lá e começar a diagnosticar o problema. Eu fiz uma analogia com o BES, mas essa dor é exatamente igual para a Telecom e isso vai diretamente nos SLA's. Estava comentando sobre forças e fraquezas da operação e a gente estava falando sobre SLA
+00:31:57 Speaker 3
+O quanto isso me preocupa em relação aos atendimentos aos chamados da vida.
+00:32:01 Speaker 2
+Não, perfeito.
+00:32:04 Speaker 2
+Acho que eu queria só uma visão sua que a gente já começa, só para a gente encerrar aqui, que eu quase passei tudo. O que, na sua opinião, é a maior entrega de diferencial que a gente faz para a operadora?
+00:32:16 Speaker 2
+Desculpa, me interromper, gente. O tema é telecom. Telecom, isso. Específico de telecom. Isso, específico de telecom. Mas como a gente está olhando a operação como um todo, de energia, mora energia, talvez... E foi isso que eu perguntei. Quando a gente falou do atendimento, atendimento na SLA, a gente fez a ponte. Como vocês estão fazendo com as outras, com o outro produto que você tem? E a gente quer saber, até se vocês podem trabalhar com alguma coisa que já exista. Para bélias, por exemplo?
+00:32:43 Speaker 4
+Telecom, vou tentar esquecer um pouquinho de bélias. O produto que a gente entrega para a Telecom é um produto que a especificação é do cliente. Então é algo que ele conhece e é exatamente o mesmo há 20 anos. Tem 20 anos que o operador implanta exatamente aquele gabinete. Eu sei disso porque eu participei, inclusive, das especificações desses gabinetes. É o mesmo. Ele mudou e muda entre operadora, mas muda muito pouco. A gente está fornecendo algo que eles fazem com uma mão só, a vida inteira eles fizeram isso.
+00:33:15 Speaker 4
+O que ele está passando para a gente, mudando de cártex para ópera, é uma dor de cabeça. Para eles? Para eles. Então ele tem hoje uma dor, uma operadora hoje ela trabalha com vários elementos, equipamentos em campo e eles o tempo inteiro dão problema.
+00:33:33 Speaker 4
+Então são milhares de alarmes. Entre esses alarmes, entre esses problemas, tem algum que é específico de energia. Uma parte da grande dor de cabeça dele passou para a gente. Eu não quero mais ter essa dor de cabeça de vocês. O produto é conhecido, os problemas são conhecidos. Como é que a gente se destaca? Se ele já conhece há 20 anos, eu não vou me destacar pelo produto, porque ele já conhece. É exatamente o mesmo. Não existe mágica.
+00:34:04 Speaker 4
+Que eu vou fazer para evitar que os problemas que ele tem aconteçam. Um exemplo de roubo. Tem 20 anos que ele enfrenta furtos. Porque a Amor entrou, não vai ter mais furtos? Não, vai ter mais furtos. Então quando a gente fala de produto, não é aí o diferencial. E o Amor acaba rapidinho. Assim, se chegar alguém, um chinês, com um produto igual, mais barato, o Amor acaba. Então a gente precisa se destacar pelo como. Então desde o início do projeto...
+00:34:34 Speaker 4
+A gente tem feito entregas com excelência do ponto de vista de qualidade do produto, principalmente do ponto de vista de comunicação. A gente está entregando algo a mais, sem ele pedir, dá o status dos gabos. A gente inovou na forma de se comunicar e tirar proveito, fazer limonada com algo que ele já conhece. Já está tudo igual. Hoje lá a gente é um diferencial dentro da Telefônica pela forma como a gente lida o projeto. Pra implantar, depois tá implantado, tá funcionando, todo mundo faz isso.
+00:35:10 Speaker 4
+Mundo entrega e a gente tá fazendo de uma forma tão eficiente que a gente tá sendo elogiado por todos os regionais da Vila. Beleza, mas depois que entrega, você tem que operar, que é a dor de cabeça. Então a gente continua tendo os mesmos problemas que a operadora tinha passado pra gente. Como é que a gente tira proveito disso, também com excelência das entregas. Os problemas vão continuar acontecendo, mas a forma da gente se antecipar ao problema, a forma da gente emitir relatórios, a forma da gente agregar valor, porque imagina a operadora, ela tem lá 100 mil.
+00:35:45 Speaker 4
+Alarmes, ela diz não para 90 mil, todo dia na operadora é assim, se diz não, 90 mil pode deixar alarmando. Eu vou cuidar só de 10. Eu tenho o braço para cuidar disso, eu vou cuidar só de 10. Então ela é esperta em cuidar disso. Eu vou cuidar desses 10%, ela prioriza essa estação que está lá no interior de Pernambuco. Deixa ficar fora do ar, eu vou cuidar da de Recife, porque está a elite, quem paga mais. Os planos estão aqui, eu vou cuidar principalmente desses carros.
+00:36:16 Speaker 4
+Então a gente tem feito isso também, como é que eu agrego valor, como é que eu me antecipo aos problemas, como é que eu deixo a operação do avião dormir mais tranquila. Com esse negócio, então é aqui que a gente está conquistando o cliente, mostrando: olha, a gente tem domínio do nosso ativo. Esse domínio vem através da qualidade de produto, que é básico, ninguém abriu, o produto já nasce...
+00:36:40 Speaker 2
+Vocês já tinham na realidade, já existiam, não foi uma questão, nunca foi.
+00:36:44 Speaker 4
+Como é que eu garanto que está tudo funcionando? Através de um grande ecossistema, uma plataforma, a MEX, que vocês vão fazer entrevista com muita gente. É a plataforma que nos traz a capacidade de fazer gestão a distância, de cuidar do meu ativo. Primeiro que eu tenho que cuidar, porque quanto mais tempo ele durar, melhor para a gente. Porque o ativo é nosso.
+00:37:05 Speaker 4
+E esse sistema traz a possibilidade de a gente ser preditivo, de a gente se antecipar aos problemas. Agregar valor para o cliente com informações que ele tem, mas ele não tem tempo. Porque ele não tem novidade, eu não vou entregar o que ele não conheça. Mas eu posso fazer um relatório mostrando que uma estação aqui em Piedade tem 15 falhas de energia por mês. Essas falhas duram X minutos, a gente atua sempre. A gente pode mandar um relatório que ele pode entrar em contato com a concessionária de energia e exigir uma melhora na qualidade da energia.
+00:37:37 Speaker 4
+Coisas desse tipo. Ele está com horário? É, eu tenho horário. Quem tem horário? Eu tenho horário. Até as 10.
+00:37:43 Speaker 2
+Eu também, mas... E aí eu te fiz essa pergunta, porque... O que a gente tava organizando? Como a gente já tava aqui, a Andrea falou assim: fala com o torcedor, você entende mais da operação, e aí depois que você fala com o torcedor, você vai entender um pouco mais da estratégia. Ela tinha falado... Ei, Debra. É, a gente tá aqui. Tá dando certo.
+00:38:01 Speaker 4
+Acho que deu. Foi uma falha minha, e a ideia, em outro horário, eu tô à disposição.
+00:38:09 Speaker 2
+Aí a gente pode fazer o seguinte, se você puder agora a gente continuar, porque a gente já entrou aqui no Flow, a gente pode se dividir.
+00:38:15 Speaker 4
+É que agora entendeu.
+00:38:17 Speaker 2
+É que eu perco a onda da polícia. Aí a gente pode falar num outro horário e continua. Então tá bom. Aqueles 13 horas, vocês sugeriam? Ou 13, pode ser melhor pra isso, por causa do voo. Ou no final do dia, 16. É, porque o que eu estava conversando, e eu estava falando, A gente quer entender a operação, o que está acontecendo, como funciona, porque o nosso objetivo é entender como que a gente expande, o que funciona aqui e vem para as outras. Então a sua visão estratégica, tanto da operação, como ela está hoje, o que ela vai ser, o que é um pouco disso.
+00:38:47 Speaker 2
+Mas também olhar como a gente olha para as outras operações, como a gente, o que aconteceu, por exemplo, com o momento TIM, que a gente vai poder olhar. E talvez a sua expertise de anos aí nessas operadoras, a gente pode trocar de uma forma estratégica com você também. Então é quase uma continuidade da conversa que a gente teve aqui, mas com o celular até uma visão de futuro.
+00:39:10 Speaker 4
+Deixa eu só dar um outro exemplo. Me dê, senhor. Nossos concorrentes, imensa maioria... Ele não tem nenhum sistema de monitoramento. Então no dia que acontecer um problema, o cliente levanta a mão, estou com um problema, ele simplesmente vai lá e resolve o problema. Ele nem contesta, ele vai lá e resolve. Ele vai gastando dinheiro para resolver. Quando eles acionam a gente, o primeiro ponto é a gente contestar. Não é contestar, a gente mostra com embasamento, a gente desarma o cliente. Porque na hora que ele vê, opa, esses caras sabem do que eles estão falando.
+00:39:43 Speaker 4
+E arrisco dizer que em 90% dos casos que a Viva nos acionou, o problema era da Viva e não nosso. Por parceria, a gente acaba indo lá ajudar a resolver o problema. E isso a gente já está ampliando essa comunicação e o pessoal é, opa, essa turma é diferente. Não é só eu gritar aquilo que a preparadora está acostumada. Eu grito e a galera resolve sem me perguntar. De quem é a culpa?
+00:40:15 Speaker 2
+Eu trouxe os exemplos. Eu fiquei com uma curiosidade, eu estava agora fazendo essa pergunta para você: o sistema e a plataforma vão funcionar muito bem internamente. O humor, que é esse olhar, esse olhar preditivo, entender o que está acontecendo. Você antecipar e falar para a Vivo: Oi, está com problema e eu já estou resolvendo. Acho que isso entrega valor, a gente discutiu. Quando a gente olha para a plataforma, ela tem valor para estar também no cliente. Ele olhar isso ou não? Você acha que o grande valor diferencial é... A gente ter esse acesso dessas informações e a gente comunicar elas quando for necessário.
+00:40:47 Speaker 4
+Eu acho que ela tem um grande potencial para agregar valor ao cliente. Pensando lá na frente, a gente tem que navegar nessa direção de ampliar as possibilidades e talvez cobrar por um acesso exclusivo a informações exclusivas que vão trazer ainda mais valor. Acho que o desafio é achar essa matemática, que valor eu vou levar para ele, porque não tem surpresa, eu não vou levar uma informação que ele não seja capaz de correr atrás, porque ele tem tudo.
+00:41:20 Speaker 4
+Isso, ele não tem tempo para fazer isso, ele não consegue fazer isso, então eu tenho que me antecipar, mas eu tenho que acertar. A flechada tem que ser no coração, é onde achar essa flecha aí que a gente precisa. A gente está se estruturando com uma plataforma que vai ser capaz de entregar isso. Entregar o que? Depende de cada cliente. Aí você precisa conhecer muito o cliente para entender aonde que a dor é maior. Pra gente usar essa plataforma pra moldar ela, personalizar ela pra essa necessidade.
+00:41:56 Speaker 4
+Perfeito. Entendi. Tá bom, entendi.
+00:41:59 Speaker 2
+Vai lá, Dr. Silvio. Muito obrigada, foi ótima a conversa. Obrigada. Valeu.

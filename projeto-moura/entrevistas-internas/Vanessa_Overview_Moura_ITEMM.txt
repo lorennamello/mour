@@ -1,0 +1,32 @@
+# Vanessa - Overview Moura + ITEMM
+
+  Meeting started: 02/07/2026, 16:03:30
+  Duration: 3 minutes
+  Participants: Speaker 1, Speaker 2
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/y2xDUjXQnktJqDsUMcww?o=txt)
+
+    
+
+  
+
+  
+
+  ## Transcript
+
+  00:00 Speaker 1: Lorena, pra ver oficialmente, meu nome é Vanessa Ong, acho que é o blog, porque é o que o pessoal me reconhece mais, né?
+00:11 Speaker 2: Eu estou aqui na Moura desde o finalzinho de 2024, dezembro de 2024, então estou indo aí para o segundo ano. Eu sou da área de computação, sou formada de área de computação e a minha vida profissional sempre foi atuar em institutos de pesquisa e desenvolvimento, aplicando a parte de computação em benefício de indústria, de empresa, transformação digital, toda essa área. Minha especialidade de base foi a... de sistemas embarcados, IoT, essa pegada, mas aí naturalmente também fui ligando para as aplicações de software. E aqui no item hoje eu estou como coordenadora do time de P&D, de digital, que é hardware, software, firmware, e também de qualidade, que é QA e processos também de homologação, normatização, testes, validações.
+01:00 Speaker 2: E aí trazendo um pouquinho do que
+01:02 Speaker 1: é o item, tá? O item, ele é...
+01:06 Speaker 2: Uma ICT hoje, ele é cadastrado no Ministério de Ciência e Tecnologia, com o Cate. Somos o Instituto P&D da Moura. Então, a gente está sobre o guarda-chuva, somos um dos CNPJs da Moura. E atuamos exatamente nesse nicho de inovação, P&D, fomentos, recursos para o olhar mais de longo prazo ou de novas oportunidades para a Moura. E aí, hoje, a gente tem a sede, né? só em Belo Jardim, junto com a fábrica, coladinho ali, e na área de engenharia química, então o P &D mais focado realmente para baterias. Depois teve um período que até teve uma sede em São Paulo, mas essa sede em São Paulo acabou vindo para Recife, e hoje é aqui que nós estamos, e aí nós temos essas duas coordenações que eu te falei, digital, qualidade, e também a coordenação de BASE, que é especificamente sobre armazenamento de energia em qualquer configuração ali que se aproxime de um BASE.
+02:04 Speaker 2: A área de baterias hoje em PJ também tem uma extensão para dados IA associados a isso. Então, analisar os dados da bateria e fazer aqui algumas predições, alguns modelos ali para a inteligência do negócio. E aí, especificamente, a Moura Energia e a solução do Telecom, ela nasceu aqui. Eu vou te contar um pouquinho desse histórico, tá? Hoje, a gente pode prover qualquer projeto com qualquer outra empresa da Moura. E é bem comum a gente fazer com as outras engenharias. Então, engenharia da fábrica, engenharia de novos negócios, que é justamente onde tem a parte da Telecom e Béis.
+02:42 Speaker 2: Engenharia de processos ou de outros produtos. Por exemplo, a Ela, a bicicleta da Moura. também
+02:48 Speaker 1: faz.
+02:49 Speaker 2: E aí, dependendo do produto, a gente dá suporte dentro dessas competências de IP&D que eu te falei. A gente também faz parceria em projetos externos, então com outras instituições de ICT, instituições IbraPi, com outras empresas do setor energético ou do setor de transformação digital de alguma forma que tenha ali ou bateria ou que encaminhe para isso. Então, na verdade, o macro tema do item hoje é armazenamento energético. Por vias de bateria, por servitização de bateria, por algum... aglomerado ali,
+03:18 Speaker 2: ou alguma forma disso. Então também, eletrificação veicular,
+03:21 Speaker 1: onde tiver
+03:22 Speaker 2: energia e bateria movendo, a gente consegue entrar e atuar nessas áreas
+03:27 Speaker 1: de competência. Tá bom. Tá bom? Tá bom.
+03:29 Speaker 2: Então acho que esse é o primeiro start. Tá. Aí a gente tem a apresentação institucional, eu não sei se você prefere que eu faça ela toda, ou você já prefere apresentar um pouquinho do teu perfil e da empresa? Posso
+03:40 Speaker 1: falar, porque aí a gente pode até direcionar.
+  

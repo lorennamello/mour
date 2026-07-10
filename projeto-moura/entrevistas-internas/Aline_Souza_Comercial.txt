@@ -1,0 +1,336 @@
+# Aline Souza - Comercial - Gravação de Tela 2026-07-03 160331
+
+  Meeting started: 03/07/2026, 16:06:27
+  Duration: 61 minutes
+  Participants: Speaker 1, Speaker 2, Speaker 3
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/vUs1IZt6eK2xws71O6u6?o=txt)
+
+    
+
+  
+
+  
+
+  ## Transcript
+
+  00:00 Speaker 1: Não, então pode ser que ela seja Zânia mesmo. Acho que é.
+00:06 Speaker 2: A Fê e a... Cara, eu acho que eu vou adicionar ela na nossa daily de segunda, porque a Fê e a Paloma não vão participar.
+00:16 Speaker 1: Ah, sim, adicionar lá o...
+00:19 Speaker 2: É, daí a gente fala, nós dois falamos com ela, pode ser?
+00:23 Speaker 1: Pode ser.
+01:05 Speaker 2: Será que a gente vai levar um bolo?
+01:08 Speaker 1: Foi ela que sugeriu, não foi? Foi aquela que mandou o e-mail respondendo? Acho que foi dizendo o que só podia hoje.
+01:20 Speaker 2: Ela tinha dado ok. Ela confirmou.
+01:25 Speaker 1: Acho que vai. Vai dar bom.
+01:49 Speaker 2: Conseguiu fazer o prompt, Lore?
+01:51 Speaker 1: Na verdade, eu tô rodando já aqui pra ver no que dá. Ah, boa.
+01:58 Speaker 2: Tu consegue me ajudar criando essa visualização das pessoas e os tópicos que a gente deve conversar? Para cada um?
+02:08 Speaker 1: No miro? Eu consigo, mas eu preciso só alternar aqui antes. Não, não, tranquilo. Porque a gente precisa ver isso para a segunda, né? Sim,
+02:21 Speaker 2: para a gente conversar com a... Com uma... 9 horas. É isso que eu estou pensando. Eu pensei assim, para a gente se alinhar, um borde, a gente tem entrevista terça, quarta e quinta.
+02:44 Speaker 1: Terça, quarta e sexta, né? Quinta é o feriado, né? Isso, desculpa.
+02:49 Speaker 2: Terça, quarta e sexta. Aí eu pensei, tipo assim, a primeira reunião vai ser com o Daniel Garcia. O Daniel Garcia lá é o gerente financeiro. Ah, então tópicos para abordar. Daí segunda reunião, José Espinosa, tópicos pra verdade, tal, tal, tal. Sabe, tipo, só grandes coisas, assim. Eu posso até montar o board em si, mas eu não sei se eu vou conseguir fazer tudo hoje.
+03:16 Speaker 1: Eu posso, assim, não sei se eu vou conseguir parar pra pensar, mas eu posso levantar, pelo menos pra gente ter alguma coisa, sei lá, de quatro tópicos, cinco tópicos pra cada um. Eu posso fazer num doc mesmo. Depois a gente joga lá no meio, tipo...
+03:28 Speaker 2: Tá bom. Compartilha comigo, doc?
+03:31 Speaker 1: Compartilho. Tá. Eu começo,
+03:36 Speaker 2: mas faz assim, então. Tu pensa nos tópicos para cada um, para a gente organizar o jogo. E aí, até segunda-feira, eu faço o... Tá? Tá. Vou permitir aqui.
+03:55 Speaker 1: Olá! Oi, Aline, está nos ouvindo? Olá, Débora, tudo bem? Estou ouvindo.
+04:06 Speaker 2: Tudo bem, e você?
+04:07 Speaker 3: Tudo jóia. Oi, Lorena.
+04:10 Speaker 1: Tudo bom. Tudo bom.
+04:13 Speaker 2: Bom, Aline, obrigada por aceitar conversar conosco. Eu sei que as agendas sempre são muito complexas, né? Mas a gente vai se encaixando e vai conseguindo conversar. Hoje vai ser só nós mesmos aqui do nosso lado, tá? Mas... Só para te explicar mais ou menos qual é o objetivo da nossa conversa. A gente está nesse momento de imersão mesmo do projeto, do Energia como Serviço, e aí semana que vem vão ter várias entrevistas presenciais, tanto em Recife quanto em São Paulo, acho que tu está até em uma na sexta que vem, se não me engano, te colocaram no convite também.
+04:49 Speaker 3: Deixa eu ver, porque eu vou estar em
+04:51 Speaker 1: Recife também semana que vem.
+04:55 Speaker 2: Ah, não, mas essa vai ser online. Ah, não, beleza. Porque você vai estar em Recife e a gente já vai ter voltado. Tá. A Lore está já em Recife, né? Mas a Fernanda vai para a Carol do nosso time e vão para estar em Recife nos dias 7 e 8.
+05:13 Speaker 1: Beleza.
+05:14 Speaker 2: Mas, então, a gente queria ter uma conversa, mais bate-papo mesmo contigo hoje, então não vai ser assim algo, perguntas tão formuladas, é mais para a gente entender a tua compreensão sobre o ecossistema como um todo, sobre o mercado em si, porque assim vai nos ajudar a gente fazer melhores perguntas semana que vem e entender melhor também a situação. Então,
+05:35 Speaker 2: a gente já fez esse bate-papo com a Andréia, essa semana. E aí a gente queria fazer contigo também. E a Karina está de férias, né? Então também por isso que a gente não vai conseguir falar com ela nesse começo. Pode ser?
+05:49 Speaker 1: Pode, vamos lá.
+05:51 Speaker 2: Eu posso gravar essa reunião? Porque daí assim a gente consegue voltar nas nossas anotações mais fáceis.
+05:58 Speaker 1: Claro, pode. Deixa eu aqui iniciar, então.
+06:06 Speaker 2: Ah, tá no inglês. Bom, vai mudar aqui, ó. Então, Aline, eu acho que, assim, a nossa primeira,
+06:16 Speaker 1: nessa
+06:17 Speaker 2: nossa investigação, né, a gente tá tentando também entender um pouco como vocês se dividem internamente, assim, então a gente tá entendendo que existe a Baterias Moura, Moura Energia, e vocês comercial, o time comercial, tão ali sendo divididos. Me conta um pouco de como funciona na prática, eu também não sei até se você tem o contexto dessa transição toda, não sei quanto tempo você está na companhia, então se você puder contar um pouco sobre isso. Tá bom, vamos lá.
+06:44 Speaker 3: Na Moura eu estou há cinco anos, mas eu trabalho nesse departamento de baterias estacionárias, de
+06:51 Speaker 1: telecom.
+06:53 Speaker 3: que envolve o Morenergia há um ano. Então, eu peguei já, quando eu entrei, a Moura já tinha ganhado esse business com a Telefônica, que é o
+07:01 Speaker 1: principal
+07:03 Speaker 3: cliente.
+07:04 Speaker 1: E,
+07:05 Speaker 3: assim, aí a gente até agora está, quando eu entrei já estava esse business, a gente só meio que refinou para poder... continuar atendendo, né, então já tinha ganhado o projeto, aí eu já estava mais para o lado operacional, né, a partir do ano passado. Basicamente, como que o comercial atua, né, só para falar de grosso modo, então vamos lá, Amor
+07:26 Speaker 1: Energia, hoje os...
+07:29 Speaker 3: todas as pessoas que estão envolvidas no Moro Energia, elas estão em Recife, que é o Daniel, acho que falaram com ele, né? O Daniel, aí tem a equipe dele, Helena, tal. Essa galera faz mais a gestão e faz com que as coisas
+07:41 Speaker 1: aconteçam, basicamente. O Daniel do financeiro.
+07:44 Speaker 3: E é o Daniel Garcia,
+07:47 Speaker 2: isso. A gente já falou que ele vai falar semana que vem.
+07:50 Speaker 3: Ele é o gerente do Moura Energia, então basicamente eles são os maestros, que a gente fala assim. Então, o que a Moura faz? A Moura Energia utiliza algumas áreas de dentro da Moura mesmo, como se a Moura Energia fosse uma empresa dentro da Moura, mas é uma empresa à parte. Então, ela usa alguns parceiros, que é a A área comercial, a área de engenharia, a área da Andréia, né? Que é a parte mais de... Que são as POs, né? E a área comercial. Então, aqui na área comercial, como que nós atendemos? Nós somos da ACMO. Não sei se você já ouviu falar que a Mora é uma sopa de latrinhas, né? Então, a ACMO, né? Então, é o que? É a acumuladores Mora. Então, é a... É a Moura que produz todas as baterias. Isso aí. Então, nós aqui todos somos a CMO. E aí a gente presta serviço para a Moura Energia. De que forma? Então a gente vai lá, nós somos o comercial deles. Então eles falam, aí a gente... traça uma estratégia, quais são os clientes que vocês querem apontar? A gente começou meio que a fazer isso esse ano, tá? O ano passado a gente estava mais numa função de entender o que era o Moura Energia, o que o Moura Energia gostaria, igual vocês estão fazendo, o que o Moura Energia, qual o tipo de cliente que eles querem, que a gente quer atender, né? E assim, uma provocação que eu fiz para o Daniel na época, eu falei, cara, hoje, como é que a gente estuda esse cliente se ele consegue ter com a gente um contrato de 10 anos? anos que o cara pode quebrar a gente já investiu e a gente faz o que né então é uma das coisas que a gente a gente precisa precisa mapear ainda porque a gente não tem então
+09:32 Speaker 3: Qual que era a nossa estratégia aqui, né? Que a gente meio que troca a roda aqui com o carro andando. Então, a gente... A nossa estratégia, qual que foi, né? Dos últimos tempos. Foi da gente ver quais eram os clientes que já tinham... Os nossos grandes operadoras. Telefônica, que é a Claro, a Tim. A gente seguiu a mesma... Já que deu certo na Telefônica, vamos seguir a mesma estratégia. Só que nós estávamos...
+09:58 Speaker 3: Nós estávamos... Porque a gente já atende eles como a CMO, então a gente vende bateria pra eles. Aí a gente fala assim, ó, hoje qual que é o maior dos seus problemas? Aí geralmente os clientes falam assim, ah, o maior dos meus problemas hoje é a questão energética, porque eu preciso manter os sites funcionando, só que eu tenho a bateria de vocês, isso me ajuda, ok. Só que eu tenho muito furto das baterias. Aí a gente fala, ah, legal, eu tenho a solução pra você, né? Eu tenho a solução que é colocar o Moura Energia, que até um teto a Moura consegue cuidar disso. É igual quando você... um carro, quebrou o carro, fez qualquer coisa, né, geralmente é a empresa que faz toda essa gestão. Falei, então dá pra gente fazer isso. Só que a gente percebeu que a gente tava falando com as pessoas erradas, porque essas pessoas, então era, a gente falava geralmente com quem? Com o comprador, né, que tá mais no nosso nível aqui, comprador, o gerente no máximo.
+10:51 Speaker 3: E com os engenheiros, porque, assim, a Moura é muito engraçado, porque a gente, aqui na área comercial, nós somos um time que é meio que assim, o vendedor, ele joga em todos os campos. Então, eu falo com a engenharia, falo com a engenharia do cliente, com a qualidade, com compras, com faxineiro, né? Então, assim, eu tenho que conhecer todo mundo. Então, se um deles for na Moura, quem vai junto é o comercial, independente se ele for em engenharia, né? Então, o comercial sempre está na frente disso, é como se fosse o porta-voz do cliente aqui dentro. e o porta-voz da Moura no cliente. Então,
+11:24 Speaker 3: a gente começamos a acessar essas áreas, engenharia, compras, qualidade, operação, e a gente percebeu que essa galera não estava afim. Eles falavam assim, ah, isso não adianta para mim, porque, pô, isso vai fazer perder meu emprego, porque vocês vão fazer gestão, não sei o quê. E aí, a gente falava, não, pô, mas não é isso, ele não, mas vai tirar nosso trabalho. Então, a gente percebeu que, assim, isso foi geral em todas as grandes operadoras que a gente sentiu, assim, desde contra.
+11:52 Speaker 2: As três grandes, né? A telefônica já é cliente de vocês, então, pertinho, claro.
+11:56 Speaker 3: Isso, aí tem uma que chama Algar, que é uma pequena operadora. Ela não é tão grande quanto, mas ela também tem bastante potencial. E aí nós fomos, cara, a gente foi atirando, né? Só que assim, a gente nunca teve também uma apresentação robusta, assim, a gente sempre tinha uma apresentação ali que a Andrea compartilhava com a gente, tal, a gente chamava meio que ela para o jogo, para ajudar a gente, porque a gente também estava no início aqui, e fomos seguindo. E aí, quando a gente percebeu que a gente tinha essa trava, nessa, no pessoal, né, que, né, nos engenheiros e tal, a gente falou, pô, vamos tentar fazer o seguinte, como que deu certo o Moro Energia? Vamos voltar. três passos atrás. Como que deu certo na Telefônica? Ah, na Telefônica a gente foi direto no boarding dos caras, uma galera que quer saber mais de resultado do que de perder o emprego, o que é melhor pra companhia. Vamos neles? Aí vamos. Aí nós conseguimos uma reunião. Com quem a gente vai começar? Com a TIM. Boa, vamos começar com a TIM. Então, a gente usou o que a gente tem já de know-how do cliente, já os nossos contatos pra gente conseguir fazer essa... essa reunião com eles. Só que daí a gente se deparou que a gente não tinha uma apresentação para o nível de boarding.
+13:10 Speaker 1: Durante a reunião,
+13:11 Speaker 2: vocês repararam nisso, é isso? Não, não, a gente não marcou, a
+13:14 Speaker 3: gente marcou a reunião e tal, que legal, conseguimos a reunião com os tops
+13:17 Speaker 1: das galáxias lá da TIM. Aí a gente foi
+13:20 Speaker 3: olhar, vamos sentar para ver. Aí a Karina entrou, que a Karina também entrou em maio, né? Aí ela falou assim, não, cara, tem muita
+13:26 Speaker 1: escrita, essa apresentação
+13:29 Speaker 3: não está em nível de boarding. vamos mudar. E aí a gente está nesse passo a passo para mudar, para fazer uma apresentação top, né? Aí o que nós fizemos? Cancelamos a reunião, porque a gente ia passar vergonha, né? Aí a gente falou, não, não vamos. Aí voltamos para trás, estamos aqui correndo atrás da nossa apresentação. Aí quais foram os clientes que a gente estava mapeando para a gente ofertar também o Moro Energia? São as torreiras, né? Que a gente entendeu que fazia sentido, só que nenhuma nunca abriu a porta para
+13:56 Speaker 1: a gente. Desculpa a ignorância, torreiras. Não,
+13:59 Speaker 2: fica tranquila. Desculpa, eu não sei o que são torreiras.
+14:03 Speaker 1: As torres, as tower calls lá. Isso, sabe aquelas... Eu sempre gosto
+14:08 Speaker 3: de usar muito o exemplo de quando a gente tá viajando que a gente vê aquelas torres laranja e branca. Então, mas aí o que acontece? Ali, às vezes, algumas torres daquelas já são da própria operadora e às vezes tem um cara que ele vai lá e investe nisso e fala assim, ó, claro, ao invés de você comprar, eu vou fazer a gestão pra você. Então, ele pinta, ele faz a manutenção, ele faz... Ele vai lá e aluga pra... Claro. A gente falou, pô, então ele já pode alugar o pacote completo, a torre é a parte de energia, né? Só que, cara, eles nunca abriram a porta pra gente, assim, foi muito complexo. Aí, assim, aí também entra em consenso, que a Claro também já leva toda a estrutura dela de bateria e tal, né?
+14:46 Speaker 2: E aí... Aline, deixa eu... É que tu tá falando tanta coisa interessante que eu quero... Então vocês... tentaram nas grandes, na FIM e na Claro. Aí vocês tentaram com o pessoal de compras, engenharia, operações, não rolou, a galera ficou com medo, porque os argumentos que vocês estavam usando, eles se sentiram ameaçados. Isso. Aí vocês falaram, tá, vamos reformular, vamos falar com os bambambãs, que seria como foi com a telefônica. Os argumentos de CAPEX e OPEX fazem mais sentido.
+15:17 Speaker 1: Isso.
+15:17 Speaker 2: Aí vocês acharam que não estavam preparados e vocês vão marcar essa apresentação, então. Essa apresentação já tem nova data ou não?
+15:25 Speaker 3: Não, porque a gente está ainda no... A Karina agora saiu de férias, né? Eu e ela estávamos montando, começou com a Andréia, aí a Karina falou, não, vamos puxar a gente isso daqui para a gente fazer uma... E aí qualquer coisa a gente pede ajuda da André, de Daniel, e também estamos com o marketing da Moura para fazer realmente uma apresentação... boa. E aí parou nisso, eu me apresentei pra Karina, a Karina saiu de férias, ela falou que quando voltasse ia
+15:46 Speaker 1: verificar. Então é tipo, o assunto super quente mesmo, é o que vocês estão
+15:49 Speaker 2: falando, a dor de vocês agora. Isso, exato. Depois eu quero falar mais sobre os stakeholders, os possíveis clientes, esses atores aí do caminho, mas eu queria entender, a então comercial, vocês estão ali no meio, né, são dentro da SMO, mas vocês têm uma área para baterias estacionárias.
+16:09 Speaker 1: Sim.
+16:10 Speaker 2: Que é de vocês. É a nossa. Karina, que eu tô gerente, Aline. O Tiago Melo também é
+16:15 Speaker 3: da... É meu diretor, é acima da Karina.
+16:18 Speaker 2: Entendi. E aí vocês...
+16:20 Speaker 3: Aí o Gustavo Moura acima do Tiago. Acima do Tiago, tá.
+16:24 Speaker 2: E a Andréia tá lá como PO,
+16:26 Speaker 3: também dentro do SMO, tá. Exato. Tipo, ela tá... Eu e a Andréia somos coordenadoras, então a gente tá aqui, mas aí quem é o chefe da Andréia, se não me engano, é o Tiago Tasso, que ele tá meio que no nível de Tiago Melo. Tá,
+16:39 Speaker 2: entendi. Boa, obrigada. Só para a gente fazer o desenho aqui mental. Beleza. E aí vocês, então, têm essa área de comercial focada em energia como serviço. Vocês não fazem outro tipo de venda? Não,
+16:49 Speaker 3: a gente faz a venda, só a venda da bateria. É como se o Moro Energia fosse o nosso cliente, basicamente. Vamos supor, se eu fechar, como eu fechei com a Telefônica, que fechou, vamos nós. Mas eu vendo bateria para o Moro Energia fornecer o aluguel para a Telefônica. Sim. Eu não sei se vocês estão acostumados com esse nome, Telefônica, que é meio velho, né? Mas dá
+17:11 Speaker 2: vivo. Em uma semana de projeto, a gente já tá, Telefônica é vivo. Ah, legal. Ótimo.
+17:17 Speaker 1: Já fizemos o link. Boa. Oi, Aline, daí
+17:19 Speaker 2: assim, antes da gente falar dos stakeholders, eu queria perguntar assim, qual que é o teu ponto de vista sobre a proposta de valor hoje de energia como serviço? Como que... Como que tu vende? Qual que é a frase que tu vende?
+17:31 Speaker 3: Então, geralmente é como solucionar realmente essa questão de energia. A gente fala para o cliente, basicamente o nosso slogan é, cara, faz o que você é bom e deixa a energia que a gente resolve. Essa parte que você gasta muito tempo com isso realmente. Com compra de bateria, com instalação. Porque como que funciona? Quando eu vendo para o cliente uma bateria, eu também tenho que vender um serviço, dependendo do cliente. Porque o cliente é um cara que está focado em fornecer... 5G para as pessoas e tudo mais. Essa galera de... Aí tem uma galera de infra, né? Que é de operação. Então, aí eles contratam a Moura.
+18:07 Speaker 3: Como a Moura é verticalizada, a gente também tem uma rede de serviços, logística, tem tudo. Então, a gente... Quando a gente vende essa bateria, às vezes ele fala, você consegue instalar pra mim? A gente consegue. Aí a gente fala, aí vende o serviço também. Então, é assim, é uma burocracia. Quando é o Moura Energia, a gente já consegue fazer isso de uma forma muito mais prática. O cara vai assinar pra mim um... vai assinar um contrato, e aí eu vou fazer tudo, eu já vou levar minha bateria, já vou levar meu instalador, já vou levar tudo, então ele só precisa pagar para mim um aluguel, o resto mora que se vira com essa questão energética.
+18:43 Speaker 3: Então, basicamente, esse é o nosso slogan. Eu pego muito nessa questão do furto, porque ele se preocupou muito, porque geralmente é uma bateria roubada de um dia para o outro. Mas por quê? Porque, às vezes, o gabinete do cliente não tem uma estrutura adequada de antifurto, como grades, essas coisas. E o Moura Energia já vai, o pacote já influencia tudo isso. Claro, porque a Moura quer proteger a bateria da melhor forma. Então, geralmente, a gente já fala... cara, ao invés de você gastar com tudo isso, fazer esse investimento, deixa que a gente resolve tudo para você. A gente coloca lá um gabinete, um gradil, que os caras não vão conseguir um cadeado Bluetooth, que só é liberado na central. Eu consigo fazer o monitoramento dessas baterias para você, de dentro da minha sala, que eu tenho da Moura, o nosso terceiro. Eu até falo para eles assim, é uma sala da NASA, que você entra, tem várias televisões, e a gente consegue entender o que está acontecendo no seu site. Então, a gente também fala dos benefícios, por exemplo. exemplo eu falo para ele olha hoje se você tem um problema no seu site você não consegue verificar o que que é o problema caiu a energia você não consegue verificar ele é realmente aí eu falei que que você faz que você faz lá eu ligo para um técnico meu e mando ele lá foi cara você mandar um técnico é caríssimo no Moro Energia eu já consigo verificar pelo sistema e já te avisar hoje a gente já tem alguns acionamentos na telefônica que os caras eu não preciso nem Eu não preciso nem ir lá. Você não precisa mandar um técnico seu, gastar dinheiro com o cara pra ir lá. Eu já consigo ver aqui remotamente e falar, não leva ninguém. Passou um gato lá, por isso desativou. A gente vai desativar aqui de novo.
+20:16 Speaker 2: Porque a gente aprendeu também, a Lore fez até uma visita no ITEM.
+20:21 Speaker 1: Ah, legal. Essa semana ela foi? Aham. Ah, legal. Ah, que legal. Eu conheci outras formas gigantes do gabinete, e aí estou conseguindo visualizar um pouco do que você está falando. Que legal, ótimo. É, muito bom. Não entende nada.
+20:38 Speaker 2: Ela estava falando sobre isso, que a telefônica, por exemplo, até tem acesso ao que está acontecendo no site, mas a gente entendeu, então, que o Connect Plus lá tem mais coisas que não necessariamente a telefônica teria. Então, é isso que você está falando. Eles não sabem direito o que está acontecendo. Sabem que aconteceu alguma coisa, mas não sabem direito. Então, vocês têm mais... essa granularidade da informação, isso? Sim,
+20:59 Speaker 3: exatamente. Por exemplo, hoje, com a telefônica, eu não tenho certeza, mas, por exemplo, com a TIM, hoje eles só conseguem ver o site de forma geral. Se parar a bateria, ele não consegue saber que foi a bateria.
+21:14 Speaker 1: Pode ter sido a antena
+21:17 Speaker 2: e aí ele não vai saber o que vai ser.
+21:20 Speaker 3: Ele só vai quando ele começa a analisar o que não está funcionando. Mas ele precisa investigar. Com o Moro Energia a gente já consegue direto no problema.
+21:28 Speaker 1: É legal essa solução.
+21:33 Speaker 2: Beleza, então, Aline, eu entendi um pouco como você vende o produto, né? E aí você já trouxe algumas dores ali do cliente que podem surgir. E aí, voltando um pouquinho sobre os atores que vocês conversaram, né? Os engenheiros, operação e compras. Tu via, assim, tipo, dores diferentes entre eles? Tipo, a operação falava uma coisa, a compras falava outra.
+21:54 Speaker 3: Olha, é assim, vamos lá, na Claro, a dor da Claro é o seguinte, é que hoje, quando você aluga, vocês têm, eles precisam gastar como o Opex,
+22:06 Speaker 1: né?
+22:06 Speaker 3: E aí alguns clientes, eles, é que nem o caso da Clara, ele falou assim, não, eu prefiro ter o meu, as baterias como ativo, então eu prefiro comprar. Isso é uma estratégia do México, né, que a Clara é mexicana, então ele fala assim, isso daí é top down, eles não querem fazer essa questão, a gente colocou lá dentro de um business case, e não faz sentido a gente alugar. Só que a gente sabe que essa história é meio torta, porque eu acho que algumas coisas estão mudando, sabe, que até eu tive uma reunião com eles semana passada, e aí eles gostaram muito, assim, do que a gente estava falando, a gente falou, aí no nível um pouco mais alto com a gerência, ela falou, nossa, legal essa ideia, vamos fazer uma proposta, mas vamos colocar de novo no business case, colocar assim, queria falar pra ela,
+22:44 Speaker 3: eu falei assim, cara, tenta colocar tudo com o que vocês gastam, não só com a bateria, coloca o serviço, coloca os benefícios que você tem, porque eu tô achando que eles não estão sabendo montar esse business case. Então a gente tinha, então uma briga que eu tenho aqui bastante internamente, assim, com a André, que eu vejo, é que, cara, negócio, então tipo assim, cara, monta um cenário que é bom para o cliente dar uma olhada, tipo assim, em números mesmo, monta um business case gigante, fala, cara, você vai economizar nisso, vai economizar nisso, a gente vai te cobrar isso e isso daqui está de lucro, sabe, vai abrir realmente um breakdown, assim, de informações. E aí, hoje, basicamente, a gente não consegue explicar, basicamente, financeiramente,
+23:22 Speaker 1: é bem difícil.
+23:23 Speaker 3: Então, é uma coisa que eu acho que ajudaria, principalmente, esse boarding, sabe, porque eles vão olhar números.
+23:29 Speaker 2: Então, assim, a tua hipótese é que se vocês tivessem business cases para cada uma, tipo assim, para o Tim, para a Tim, a gente vai fazer assim, para a Clara, você vai fazer assim, você acha que ia ser mais fácil de, para além do acesso ao board, também tem que ter essa fundamentação? É, a gente tem que ter um número, assim,
+23:48 Speaker 3: que brilhe os olhos e com todos os benefícios, sabe? Tipo, hoje você gasta isso, o seu cenário é esse, se fosse um do seu cenário com o Moro Energia, seria esse, sabe? Tipo, para eles pensarem fazer conta na cabeça deles lá e falava, realmente, acho que faz sentido. E todos os benefícios, questão de antifurto, porque assim, algo que tem em comum em todos é o furto. As baterias são muito
+24:09 Speaker 1: furtadas, tem muita coisa.
+24:13 Speaker 3: Então, é engraçado, agora falando de um cliente que a gente conseguiu fazer uma proposta que foi para algar. Demorou muito o plano de negócios, a gente mandou, cara, demorou um ano, pra você ter uma noção, já tava quase acendendo uma vela, de parabéns. A gente demorou bastante, né, porque ia pro cliente, o cliente mudava, ah, agora não é essa capacidade de energia, é outra capacidade, aí ficamos nessa, conseguimos enviar. Ótimo. Aí a Algar falou assim, beleza, tá ótimo, mas agora a gente vai participar, a gente vai fazer essa análise, mas a gente também vai fazer em paralelo a compra de bateria. Aí eu falei, expliquei tudo de novo, o que era bom, não sei o que.
+24:50 Speaker 3: Ela falou, não, Arine, os sites da Algar não tem roubo de bateria. Eu falei,
+24:53 Speaker 1: caramba, então já não faz tanto sentido. E por que não tem? Porque
+24:59 Speaker 3: os sites da Algar, eles são geralmente prédios onde ficam pessoas trabalhando junto, entendeu? tem segurança, tem
+25:07 Speaker 1: guarda, tem tem
+25:09 Speaker 3: aqueles muros altos, portão, então não é
+25:13 Speaker 2: Greenfield, geralmente
+25:16 Speaker 3: a maioria é protegido já.
+25:18 Speaker 2: Entendi, entendi. Legal, e aí uma coisa que a gente também fica na dúvida, A gente está um pouco na dúvida, é assim, como que é o processo, você falou de um ano da Algar, mas a gente ouviu também que da Telefônica também foi um ano, como que é o processo de compra deles, assim, sabe? Porque a gente já leu também que pode ser por edital, por licitação, explica um pouquinho para a gente entender um pouco.
+25:41 Speaker 3: Então, no caso da Telefônica, são AFQs, né? Não sei se é esse termo, tá, beleza, né?
+25:50 Speaker 1: AFQs.
+25:51 Speaker 3: Isso, geralmente a RF... RFP é um quando eles estão fazendo alguma algum estudo né então deixa eu ver como que tá o mercado aí eles lançam para todos os fornecedores cotarem né E aí eles fazendo isso fala assim que nem vai com a tinha esses dias eles fizeram uma RFP E aí, eles viram que tava todo mundo aumentando o preço. Ele falou, não, vou continuar com o contrato atual. Pra você ter uma noção, né? Então, eles são bem espartinhos. Aí, eles... Então, geralmente, com a telefone... Com todos eles, né? Uma RFP ou uma RFK igual com a Algar. E com a telefônica... Com a Algar, foi uma RFP pra sentir o mercado, se isso fazia sentido. Tanto que ela mandou pra vários. Só que foi um modelo diferente. A Algar falou assim, ó. Vou lançar uma RFP pra vocês, só que... eu quero só o aluguel da bateria. Aí a Moura não trabalha só com o aluguel da bateria, porque não tem como a gente garantir a segurança da bateria, né? Então aí a Moura é só perder, porque...
+26:49 Speaker 2: Que daí, no caso, teria que ser a solução toda, o gabinete, os
+26:52 Speaker 3: sensores. Isso, a gente só mora em energia a solução toda, a gente não pode vender só a bateria, só que os clientes estavam com essa ideia que queria só a bateria. Aí a gente contou com preço altíssimo, aí
+27:01 Speaker 1: eles...
+27:03 Speaker 3: Não, isso foi uma vez com a Telefônica, na Algarve eu consegui reverter, falei para eles que a gente não ia fazer, ele falou, não, manda a proposta então com todo o gabinete. Só que ele falou assim, Aline, 90% dos meus gabinetes são novos, eu não preciso trocar.
+27:15 Speaker 1: Aí eu falei, ferrou.
+27:18 Speaker 3: Eu falei, não, então vou fazer assim. Aí a gente foi lá, conversou com o Tiago, o Tiago falou assim, o Tiago conversou com o Gustavo Moro, o Gustavo falou assim, olha, qualquer coisa a gente pode comprar esses gabinetes deles e alugar depois. Aí foi uma saída que nós tivemos, mas só que aí eles deixaram a porta aberta, assim como a telefônica também, que a gente está fazendo um projeto desse, para a gente poder propor. Só que daí a Algar foi para um outro lado, agora eles abriram para mim um leilão de compra de bateria, que é o que eu falei que eu não conseguia... É o que a gente fez essa semana.
+27:48 Speaker 2: E, assim, a Amor Energia não quer vender só a bateria por causa do risco de roubo. De roubo. Porque daí, assim, vocês não garantem que vocês vão conseguir ficar trocando as baterias por causa do risco de roubo, isso? É, um dos
+27:59 Speaker 3: motivos, sim. O outro é porque o nosso desenho é com gabinete, né? É com tudo, assim. O interesse da Amor também é alugar o gabinete.
+28:08 Speaker 2: Então, vocês tentam agregar o valor ali com o gabinete. Isso. E aí, você percebe que tem essa necessidade do gabinete todo no mercado?
+28:16 Speaker 3: Ah, sim, só para vocês entenderem, os sites hoje que nós temos os contratos da Telefônica, eles são sites novos, então não necessita do gabinete, então fez todo sentido para a Telefônica. Ah,
+28:26 Speaker 2: eles já vão criar novos e aí então vão precisar do gabinete, beleza. Exato, aí agora, por exemplo, aí
+28:31 Speaker 3: tem alguns que é o maior... Eu acho que é o maior índice, assim, de trocas. É quando já tem o gabinete, né? Tipo, vai, que nem agora eles abriram uma RFP, que eles querem trocar as baterias. Porque daí são sites muito antigos, ou já foram roubados, e aí não está funcionando. Aí o que eles fazem? Uma RFP para a gente cotar a bateria. Aí ele já tem o gabinete.
+28:53 Speaker 2: Entendi. Entendeu? É mais fácil vocês entrarem na expansão ali do...
+29:00 Speaker 3: A gente chama de gabinetes legados, né? Que já são gabinetes que já estão já
+29:04 Speaker 1: posicionados.
+29:07 Speaker 2: Aí outro ponto interessante que tu trouxe no começo também sobre as torreiras, que eu estava chamando com o nome em inglês e é nada a ver falar Tower Co, é melhor falar torreira. E por que você acha que não tem essa entrada, assim? O que acontece nesse meio?
+29:22 Speaker 3: Então, na verdade, assim, as torreiras a gente, por exemplo, a Claro, ela tem uma torreira, só que ela usa o mesmo, a mesma coisa que vem em top-down, prefiro comprar. Então, fica mais nessa questão de aquisição, sabe?
+29:40 Speaker 2: Então, é tipo assim, o grupo Claro tem uma torreira interna que faz prestação de serviço para Claro, isso? Isso.
+29:48 Speaker 1: Ah, tá. Já fica
+29:51 Speaker 3: tudo em casa, né? Mas eles também alugam. Não, mas eles também alugam, porque assim, cara, tem mais de 50 mil sites espalhados pelo Brasil. É muito louco.
+30:02 Speaker 2: É um universo bem complexo, a gente está...
+30:06 Speaker 1: Quando eu entrei um ano atrás,
+30:09 Speaker 3: eu falava, gente, eu tive que parar, fazer igual a Lorena, e olhar e falar, o que é um gabinete? O que é uma torre? Por que que isso faz sentido na minha vida?
+30:19 Speaker 1: Mas depois você
+30:19 Speaker 3: aprende, fica mais claro, né, Lorena?
+30:22 Speaker 1: Nossa, total. Essa conversa que se eu devia isso não faria o menor sentido. Aí, tá vendo?
+30:28 Speaker 2: Que bom, né, Lore, que foi assim que a agenda da Aline tava ocupada, que isso não ia ter sido antes. Que bom que foi agora,
+30:34 Speaker 1: né?
+30:37 Speaker 2: Tá bom, então as torreiras elas já são parte do ecossistema, então vocês também tem, daí tem esses direcionamentos lá que vem top-down, então vocês não conseguem entrar. Existem torreiras que não fazem parte das grandes, tipo assim, presta um serviço só?
+30:50 Speaker 1: Existem, existem sim.
+30:52 Speaker 2: E aí já tentaram alguma iniciativa?
+30:55 Speaker 3: A gente já tentou alugar, eles não quiseram, aí a gente conseguiu fechar um pedido
+31:00 Speaker 1: de compra.
+31:02 Speaker 3: Mas de aluguel, eles nunca... A gente nunca conseguiu, assim... Eu acho que seria um potencial, tá? Da gente conseguir mapear as principais torreiras, assim, e ir pra cima. A gente tentou esses dias com... É que agora eu só estou com uma executiva aqui, que o Luciano saiu da empresa, né? Sou eu, sou a coordenadora, e eu tinha dois executivos. E aí agora um saiu, só está um. Então a gente ficou um pouco defasada nessa questão de prospectar, porque a gente está com muita demanda de... A gente tem um projeto que se chama Rollout com as grandes operadoras. O que é isso? Eles mandam para a gente, ó, preciso trocar.
+31:38 Speaker 3: 350 baterias desses sites. E aí a gente faz um projeto acompanhando cada um o que está fazendo, mas isso tudo venda, né? Então imagina, se fosse Moro Energia, eu só falava assim, vai lá, RSM, né?
+31:48 Speaker 1: Só instala. Mas agora a gente tem que fazer toda a parte... Toda
+31:53 Speaker 3: vez que a gente instala uma bateria nova, tem que fazer relatório para o cara, tem que mandar para ele o que está acontecendo. Ah, está faltando tal coisa, o que não está faltando, tem que ter acompanhamento deles. Então é bem mais complexo, sabe? No Moura Energia também, só que fica mais no nosso controle do que no da operadora.
+32:09 Speaker 2: A gente só manda o resultado, basicamente. Tá, então esses rollouts são testes
+32:15 Speaker 1: comerciais de vocês, isso? São projetos,
+32:18 Speaker 3: rollouts é como se fosse um projeto, vamos supor, a Moura ganha esse projeto, da Tim, por exemplo, aí a Tim fala assim, ó, vocês ganharam isso aqui pra vocês, essa carta, vocês vão trocar todas as baterias desses 320 sites, aí eles dão um prazo pra gente, que é de julho até novembro. Aí a gente vende bateria e a instalação e vai fazendo, ó, aí a gente faz a organização aqui das equipes. você vai atender região norte, você vai atender região sul, e vocês precisam finalizar até novembro. Aí eles vão pedindo bateria, a gente vai entregando e eles já vão instalando. Só que é toda uma questão logística,
+32:51 Speaker 2: assim, é bem doido. Sim, sim, é um complexo. Então, não é uma questão, tipo, mora energia como serviço, é uma só
+32:56 Speaker 1: venda. É a nossa venda. É, porque aqui a gente se
+32:59 Speaker 3: reparte, né? A gente reparte mora energia e venda.
+33:02 Speaker 2: Ah, tá. Pra telecom. Pra telecom. Ah, então isso que eu tava querendo entender. Então, a equipe de vocês é focar em telecom. Isso. ou na energia ou mora, baterias, tipo venda normal. Exatamente.
+33:15 Speaker 3: Ou venda. Ou venda. Só que daí, por exemplo, a Karina, né? Vamos pôr Karina aqui. A Karina é responsável por três, por três verticais, quer dizer, agora se tornou duas, mas é Telecom e novos negócios. Então, ela tá, ela é gerente dessa área, então a gente ficou com o Telecom e aqui tem novos negócios. O que que inclui os novos negócios?
+33:36 Speaker 3: Inclui bancos, que é Bradesco, Itaú, GTDE, que eles chamam que são baterias, é o departamento de energia, que é incluir usinas hidrelétricas, redes como a Enel, você é do sul, né, Débora? Eu sou. Aí é o que? É CMIG?
+33:53 Speaker 2: Não, aqui, eu estou em Curitiba agora.
+33:56 Speaker 1: Ah, é, sim.
+33:59 Speaker 2: Eu esqueci, a cena é para de água, é que eu recém me mudei, eu estava com Santa Catarina. A cena é para de água, eu esqueci o... Luz
+34:06 Speaker 1: do Paraná. Não, então, é, isso é um bom sintoma,
+34:09 Speaker 3: aí a gente já tem esses caras. E aí, só que assim, a gente também consegue prospectar que em bancos, né, a gente também está fazendo esse trabalho. E aí, eu não sei nem por que a Karina não colocou os meninos, mas aí também a gente prospecta também aqui com cenários de, por exemplo, Banco Bradesco, a gente estava com um cenário ano passado de Moro Energia com eles, só que aí eles cancelaram esse projeto e preferiram comprar as baterias, aí tá vendo, vai tudo da estratégia da matriz, assim.
+34:36 Speaker 2: A estratégia de telecom é igual a dos bancos? Tipo assim, vai o gabinete, vai
+34:42 Speaker 1: a bateria, vai tudo isso? Sim, igualzinho.
+34:45 Speaker 2: Então não necessariamente precisa, não é focado só pra torre.
+34:48 Speaker 3: Não, não. Você pode ir ao lugar de outras formas também.
+34:52 Speaker 2: Funciona igual pra não cair o banco inteiro.
+34:56 Speaker 3: Isso. Aí é onde eu te falo, por isso que a Moura Energia, eu uso o nosso comercial, que é da CMO, da Moura Grandona lá, que é o fabricante, pra poder também utilizar a parte comercial. Por quê? Porque também é bom pra gente. Quanto mais a gente vender, se a gente conseguir fechar com... parceiros com Moura Energia, a gente consegue vender bateria, porque a Moura Energia é o nosso cliente também, porque eu vendo bateria para a Moura Energia
+35:17 Speaker 1: instalar. Então, sai tudo. Então, o cliente e a comprador é o mesmo tempo. Exato, eu fecho o
+35:23 Speaker 3: negócio para ele, mas também sou cliente. Aham.
+35:27 Speaker 1: Aline, e assim... Ele é meu cliente, quer dizer, desculpe.
+35:31 Speaker 2: Você vende e compra, ao mesmo tempo. É.
+35:34 Speaker 1: Aline, a pergunta que eu queria entender
+35:36 Speaker 2: é, por que vocês estão focando em Telecom agora? Qual que é a tua perspectiva sobre?
+35:42 Speaker 3: Então, é por isso que eu te falei, eu não sei por que só chamaram a gente, né, mas pode ser porque eles entenderam que, como Telefônica deu certo, né, a gente tá mais, eu acho que a gente tá mais envolvido, tá mais enraizado isso, sabe, assim, a gente tá mais, acho que faz mais sentido nesse momento, até a gente conseguir abrir novos clientes, sabe? Os outros
+36:00 Speaker 2: clientes não estão tão desenvolvidos quanto Telefônica, que tem um contrato de 10
+36:03 Speaker 1: anos, 1.900...
+36:06 Speaker 3: O único contrato da Moura é com a Telefônica, não tem em outro lugar.
+36:10 Speaker 2: Entendi, entendi. Mas, ao mesmo tempo, tem gente lá testando para entrar nos outros lugares.
+36:16 Speaker 3: Não, deixa eu ver, a gente deixou o Natin. Ah, então, eu também não comentei da Tim, né, então a Tim mudou a estratégia também, eles disseram que não fazia sentido, mesmo com o trial, né, que é o que você perguntou, é o teste, assim, a gente tem um trial com a Tim, e aí pra eles também não fizeram sentido, só que mudou toda a cadeia do, todo o escopo do boarding, todo mundo saiu, e aí ficou um cara que ele, que inclusive a gente convidou ele, que era um defensor do Moro Energia, então ele falou, vamos mudar todo mundo, já que mudou todo mundo, vamos pôr esse cara que é defensor, só vou pôr galera que é pró-moura, né?
+36:51 Speaker 3: Poder, para os caras ajudarem a gente a defender com o boarding deles. Entendi. Porque vai ser uma pessoa que eles confiam, né? E aí, mas assim, no passado parece que a gente foi, a Tim foi o primeiro que a gente apresentou e não deu certo.
+37:03 Speaker 2: Sim, sim, a gente recebeu o case, o trial ali. Isso. Lore, quer perguntar alguma coisa?
+37:09 Speaker 1: Não, eu tinha uma dúvida, só que tu falou que não sabe por que não colocou outras pessoas. Quem seriam essas outras pessoas?
+37:15 Speaker 3: Não, então, seria esse outro departamento que eu comentei, que é da parte comercial, mas que é de bancos, de usinas, que eu comentei, da Enel, que
+37:25 Speaker 1: cuida dessa parte elétrica. Então, na sexta, a gente tem uma conversa com o pessoal, que é o Otávio de Driel e Luciano, junto contigo. São eles ou nada
+37:33 Speaker 3: mais deles? Então, eles são os executivos que trabalham comigo.
+37:36 Speaker 1: Ah, boa, beleza. Em Telecom.
+37:38 Speaker 3: Perfeito, tá bom. Essa outra galera é uma outra equipe dentro do... Dentro do, ai meu Deus, dentro do escopo de Karina,
+37:48 Speaker 1: que são novos negócios, isso.
+37:51 Speaker 3: Que também tem possibilidade, mas aí eu não sei o porquê que a galera não incluiu ainda no momento, mas pode ser que eles estão tentando fazer um passo de cada vez, né?
+38:00 Speaker 1: Boa, beleza.
+38:03 Speaker 2: Bom, aí a gente estava lá no processo, voltando um pouquinho, né, a gente estava no processo de contratação, eles fazem uma RFQ, vocês ganham. Como é que fazem um super alinhamento de proposta de business case, né, porque vocês têm que falar, vocês também têm que entender como que vai ser
+38:21 Speaker 1: bom
+38:23 Speaker 2: para vocês, né, o contrato. Como é que funciona esse processo? É o comercial, vocês ficam o tempo todo ali? liderando, batendo bumbo nesse processo. Exato. Com o Daniel, falando com o Gustavo, falando com esse pessoal todo.
+38:37 Speaker 3: É, aí vamos lá, quando a gente, vamos falar o fluxo, quando a gente recebe uma RFP, então quem recebe somos nós aqui do comercial, né, que é no caso a Adriele, que é a executiva responsável pela essa conta. Quando a gente recebe, a gente recebe documentação, qual que é a capacidade energética, tudo mais, aí nós fazemos uma reunião de kick-off. Galera, ó, recebemos uma RFP da telefônica, Aí a gente coloca a Andréia, o Aleph, a Andréia, né, que é PO, o Aleph que é engenharia, a Yasmin, que ela também acho que já participou de alguma reunião, e aí a gente monta o escopo, aí a gente compartilha todas essas informações com eles, aí eles, aí beleza, a gente baixa tudo do portal, da telefônica, geralmente é por lá, manda para a galera, galera, conforme a gente falou no Kickoff, estão aqui os documentações, a gente precisa que vocês mandem para a gente um modelo de negócio, beleza? Beleza. Andréia vai lá, pede para a engenharia, engenharia, a engenharia estrutura o negócio, quanto que é a capacidade energética, quantas baterias precisam, nananana, aí vai para a Andréia, a Andréia faz a parte financeira, então, junto com a Carol, acho que ela colocou Carol aí também, então,
+39:41 Speaker 3: junto com a Carol e Maria Cecília, fazendo a parte financeira, quanto que é a taxa disso, quanto que vai ficar o aluguel, basicamente, quando vem para a gente, aí a Andréia fala assim, terminei, aí a gente se reúne de novo, fala, tá certo isso, vamos... vamos seguir assim vamos seguir assado aí a gente aí nisso aqui nisso aqui o comercial tá ali conversando com o cliente ó tamo contando mas e aí como é que você tá tem alguém contando mais barato e contando mais né fica
+40:07 Speaker 1: lá indicando quem que é esse cliente que você tá falando com quem na telefone o cara
+40:13 Speaker 2: É, não, assim, é um gerente de operações. Não, ele é um comprador. O comprador, o comprador. E aí, é um comprador de CAPEX, OPEX? É o cara que lida com isso ou não? É um
+40:22 Speaker 3: comprador geral? É um comprador geral, porque geralmente para o comprador no cliente, ele atende o fornecedor. Então, ele vai atender tanto o OPEX como o CAPEX. Só que aí, a gente vai fazendo esse mapeamento meio que geral. Comprador, vai na engenharia, porque a engenharia também, às vezes, tem bastante informação ali do que está acontecendo, que eles participam das reuniões internas. Então, a gente fica meio que fazendo o cerco. com a galera para saber o que está acontecendo nessa RFP, para a gente até trazer mais informações para a Andrea, para a Aleph, para saber, ó, os caras estão contando lá, foi onde eu descobri que os caras da Algar estavam contando com só bateria. Eu falei, não, pô, mas o nosso produto não é só bateria, mas foi o engenheiro que me falou. Aí eu falei, ó, a gente vai, vamos sair perdendo, porque, né, então aí trouxe isso para a empresa, falei, e aí, vamos contar só bateria? E falaram que não. Então a gente fica fazendo esse meio de campo. E aí o pessoal trabalhando, trabalhando,
+41:09 Speaker 3: e a gente aqui cercando o cliente para entender. E aí, quando a gente recebe isso, assim, aí tem o tempo para a gente responder a RFP. A gente responde a RFP com a parte técnica e a parte comercial. Manda as duas informações para eles. Beleza. Mandamos as informações. Aí, depois de um tempo, eles voltam com a gente com... assim, pra entender o que a gente cotou, geralmente, do nosso projeto. Ó, eu pedi isso, por que você cotou isso? Eu pedi isso, você cotou isso, tá certinho, mas por que você cotou a mais? Por que você cotou a menos? Aí vai pra uma discussão técnica, geralmente participa de novo, eu, André, o comercial, André, a Aleph, comercial, PO e engenharia.
+41:50 Speaker 3: Beleza, aí volta... Desculpa, esqueci um ponto. Quando a Andrea manda para a gente o preço, antes de colocar a RFP no sistema, o preço para o cliente, ela valida com o Gustavo e com o Thiago Tasso. Então, a gente, geralmente, são validados com eles esses preços. Se ela falar que está ok, ela retorna para a gente e a gente põe RFP. Aí, vamos lá, falamos com o cliente, né, voltando, falamos com o cliente, depois o cliente volta. Vocês estão muito caros, a gente vai para o segundo round, beleza. Aí, volta para dentro de casa, vamos correr de novo. O que está acontecendo? Aí, vai revisando o preço, revisa o projeto. Aí, geralmente,
+42:24 Speaker 3: o cliente não passa target. Então a gente fica meio que no escuro. É como se fosse um leilão mesmo. Aí depois ele vai lá,
+42:32 Speaker 1: tem o
+42:33 Speaker 3: dia para a gente responder. Responde. Aí depois disso, ou o cliente pode ir para uma terceira round, ou às vezes ele pode mudar totalmente a estratégia. Falar, não quero mais alugar, quero comprar. Para mim ficou mais barato, porque já aconteceu isso também. A gente estava contando uma RFP com a Telefônica em nível global, tocada pela Espanha.
+42:53 Speaker 1: e ele teve
+42:55 Speaker 3: um fornecedor que conseguiu um preço de bateria para eles, a gente estava contando um aluguel, mudou, o fornecedor muito esperto, porque só a Moura tem isso, basicamente, hoje no mercado, então o fornecedor muito esperto falou, não, cara, eu não tenho como te contar aluguel, então eu vou fazer o seguinte, eu vou mudar para a compra e vou te colocar um preço bacana. O cara baixou o preço de um nível que a gente não conseguiu chegar, e aí a gente perdeu. essa RFP, porque a Telefônica, no meio do caminho, ela mudou a estratégia. Entendi. Ela fez mais sentido comprar.
+43:33 Speaker 2: E aí, assim, na tua visão, quais são os principais competidores de vocês?
+43:38 Speaker 3: Então, hoje, mas assim, Comor Energia... A gente não tem ninguém que faça isso, assim, tão bem quanto a Moura. Mas em questão de valor de bateria, de compra, assim, a gente tem alguns players que são bastante, assim, que eles fazem bateria da China. Então, às vezes fica mais barato, sabe? A gente produz aqui em Belo Jardim.
+44:01 Speaker 2: Mas você pode citar para a gente? Posso. Ah,
+44:04 Speaker 3: tem a ZTE. ZTE, aham. ZTE, tem o Nicoba, tem...
+44:11 Speaker 1: Qual mais, Dri? Tem? Fala mais um concorrente.
+44:13 Speaker 3: ZTE, Unicoba, de
+44:16 Speaker 1: bateria de lítio.
+44:18 Speaker 3: Tem Huawei também. Huawei e SecPower. Esses são os mais fortes.
+44:22 Speaker 2: E aí, assim, eles conseguem competir pelo preço. Por causa dessa competição ali da chinesa que vem mais barato. Isso, eles
+44:31 Speaker 3: também conseguem negociar de forma global. Como essa é uma cotação global, eles conseguiram fechar um preço provavelmente igual para todos os países.
+44:38 Speaker 2: Entendi. E aí, no caso de vocês, vocês têm essa questão que a produção é brasileira? Isso. E aí, como mora, como energia, como serviço, ninguém?
+44:48 Speaker 1: Não.
+44:49 Speaker 2: Mas tem alguém que tu conhece que presta um serviço similar, não necessariamente de bateria, para a gente pesquisar também? A ZTE
+44:56 Speaker 3: cotou aluguel somente de bateria.
+45:00 Speaker 1: Eles não
+45:01 Speaker 3: cotaram com o gabinete. Porque eles não têm, uma coisa que os clientes elogiam muito, amor, é que a gente tem o serviço e tem o pós-venda. E esses caras não têm, porque é tudo na China. Então, tipo, tirou a bateria, não tem o que fazer, tem que jogar fora, não tem uma análise, não tem alguém para dar um acompanhamento, sabe?
+45:19 Speaker 2: Entendi. Daí o benefício de vocês também vem assim. É. Tá, legal. É só porque a gente também está nessa pesquisa de competição e tentando fazer benchmarks também para enriquecer aqui o nosso diagnóstico, sabe? E aí, eu tenho uma pergunta, assim, que talvez possa ser um pouco...
+45:39 Speaker 2: Vou tentar explicar
+45:42 Speaker 3: da melhor forma, porque eu sei que quando está entrando, eu passei por isso, e eu sei que se ficar falando muito difícil, a
+45:46 Speaker 1: pessoa não vai entender direito.
+45:49 Speaker 2: Mas assim, a Anatel, ela não entra, vocês não têm contato com a Anatel, só tem as regras que vocês precisam seguir, que são da Anatel, certo?
+45:57 Speaker 3: Isso. O que a Anatel faz? Ela homologa as nossas baterias para a gente poder vender para o mercado. Então, o que ela faz? Ela faz como se fosse um... A gente homologa... Não, tá ok, essa bateria aqui não corre o risco para as pessoas. Exato.
+46:14 Speaker 2: E aí, eu sei que os telecoms também têm regras específicas que vocês têm que cumprir para atender eles,
+46:20 Speaker 3: isso? Isso, isso mesmo. Aí, só uma curiosidade, as baterias de lítio, elas não têm Anatel. Então, por isso que vira essa feira do... vira essa feira louca aqui, que todo mundo consegue chegar e vender a bateria que quiser. Aí agora, como é o nosso contato com a Anatel? Nós temos um consultor
+46:39 Speaker 1: que ele...
+46:41 Speaker 3: ele já está indo na frente, na verdade, né, desde o ano passado, do ano retrasado, eu acho, ele já está trabalhando na frente, então, por exemplo, quando a Anatel, a Anatel esse ano já pediu uma homologação para poder, para que as baterias dirigiram a Anatel, então a Moura já está na frente, a gente já fez quase que 50%, 60% dos testes, e a gente ajudou a Anatel fazer esses testes, então, ou seja, as nossas baterias passam, mas por quê? Porque a gente precisou correr com isso, né? Entendi. Então, mas a gente tem essa interface com a Anatel, de ajudá-los, né, nesse ponto de assim, ah, Eu te ajudo, você me ajuda, vamos embora. Para que, assim, realmente é uma questão, assim,
+47:18 Speaker 3: cara, de segurança mesmo, né? Principalmente bateria de lítio, que são baterias que são perigosas. Então, não pode ficar saindo a torta direita, assim, né? Vendendo a torta direita.
+47:26 Speaker 1: Então, é o único
+47:27 Speaker 3: ponto que a gente tem, assim. Mas todas as nossas baterias de chumbo, elas são homologadas. Tudo que fornece para a Telecom tem que ter Anatel. Só as de lítio, que veio, acho que, de última hora, né? Em pouco tempo, ainda não deu tempo.
+47:40 Speaker 2: E Aline, depois assim, beleza, fecharam o contrato. Quem dentro da Mora que faz esse acompanhamento do contrato? Tipo assim, o contrato de 10 anos com a Telefônica hoje. Vocês, eu entendo que vocês ficam de olho se entra mais coisa. Mas quem dentro da Mora Energia que faz isso, sabe? Então,
+47:57 Speaker 3: o acompanhamento é feito aqui na área comercial, nós temos uma área de apoio que chama Contratos. Aí a gente tem uma pessoa. que é a Josi, que eu acho que ela já está até aí também, uma piada para conversar com vocês, e aí ela é coordenadora dessa área. Então, como que ela atua? Ela vai fazer toda a programação da fábrica para que consiga atender a operação do Moro Energia, que é o José Espinosa.
+48:22 Speaker 1: Eu acho que ele está aí.
+48:23 Speaker 3: Então, o José Espinosa, que faz essa parte de operação, é o contato que ele faz com a telefônica. Tipo, José Espinosa, você precisa instalar, agora eu vou te mandar aqui todos os... É um rollout. Vou te mandar todos os endereços para você poder instalar o Moro Energia. Aí o Espinosa tem que ir internamente. Cadê a bateria? Cadê
+48:42 Speaker 1: o gabinete? O instalador.
+48:46 Speaker 3: Precisa de guindaste? Precisa de MOOC? O que faz? Então, essa parte operacional é ele.
+48:50 Speaker 2: Tá, entendi. Beleza. Era só para saber. com quem falar sobre isso. Sim, perfeito. Lori, tem alguma pergunta?
+48:57 Speaker 1: Tenho umas três perguntas, mas são bem rápidas, é mais para entendimento. Quando tu falou ali que a Anatel, ela ainda não, vou falar entre aspas, faz a gestão, digamos assim, das baterias de lítio, é porque é algo recente, mas está no radar para ser feito, não é isso?
+49:12 Speaker 3: Sim, eles já colocaram um protocolo que as baterias de lítio precisam estar todas homologadas até o final, se não me engano, até outubro. Porém, um teste de uma bateria de lítio, ela demora pelo menos um ano. Então, nós somos na Anatel. Anatel e falamos, ó, beleza, vocês querem esses testes, mas não vai dar tempo. Inclusive, a gente estava em Brasília umas quatro semanas atrás, a gente conversou com o superintendente da Anatel, e aí ele falou, não, provavelmente eu vou prorrogar porque não vai dar tempo. A gente falou, não, ok. Então, assim, eles já estão em vias deles, só precisam fechar a data correta para a gente entregar os testes. Boa.
+49:48 Speaker 1: E aí deixa eu te fazer uma pergunta. Tu falou uma coisa, eu anotei aqui, mas eu queria só ver se eu consegui entender. Tu falou que vocês estavam... negociando com algum fornecedor global. E aí aconteceu de... Aí veio o meu entendimento para ver se eu entendi certo. Vocês estavam cotando ali... Vendeu aluguel das baterias com tudo que vem em curso, que eu entendo que é da alçada da Morenergia, né? E aí veio um desses fornecedores e abaixou o preço da bateria. E aí, a empresa, o cliente, vocês, o possível cliente, eles preferiam, então, comprar a bateria em vez do serviço de vocês. Isso. Então, meio que vocês perderam o serviço para alguém que agora só quer o produto, porque veio com outra pessoa e baixou, não é isso? Isso, para ele fazer mais sentido, que
+50:30 Speaker 3: foi aquele negócio que eu falei. Eu acho que eles começaram a analisar, ah, mas aqui eu tenho o gabinete que está novo, eu não vou precisar trocar, então eu vou gastar dinheiro para quê?
+50:39 Speaker 1: Então,
+50:40 Speaker 3: foi meio que essas análises.
+50:42 Speaker 1: Agora, como é que a gente
+50:43 Speaker 3: está fazendo? A nossa estratégia agora é, aquilo que eu comentei, é a gente ver o que eles têm de legado, de coisa antiga, que a gente vai ter que jogar fora para a gente poder entrar com o nosso serviço, que é a questão da expansão que a Débora comentou. Então, a gente está aqui meio que se movimentando, entendendo e indo para cima, mas realmente eles trocaram o serviço, a gente fala, o OPEX pelo CAPEX, né?
+51:06 Speaker 1: É porque como tu falou que vocês não tinham concorrente da parte de energia, acredito que não tenha, mas acaba que vocês perdem para quem vende só o produto, né? Porque eles vão meio que tentando ali outras estratégias e vocês acabam perdendo para essa galera, né? É, e se o cara
+51:20 Speaker 3: tiver gabinete novo, ele não vai querer um gabinete da Moura. Entendeu? Porque ele não vai gastar dinheiro com isso, basicamente. Ele vai falar, meu, já tem, tá novinho lá, bonitinho, perfumado, só eu quero a bateria, não quero mais nada.
+51:31 Speaker 1: Entendeu? Bom, eu acho que a última pergunta para eu fechar aqui minhas dúvidas é, quando tu começou a falar das torreiras, tu falou que vocês estavam tentando ofertar amor-energia, né, o serviço para alguns clientes. As torreiras eram um, existem outros que vocês tentaram oferecer, não? A gente tentou
+51:47 Speaker 3: falar com o da Claro, uma que chama Mondial e outra que chama T-System, né, Dri?
+51:52 Speaker 1: Torreira é T-System, é Torreira?
+51:55 Speaker 3: Não, é... É, E-T-System, né?
+51:57 Speaker 1: Aquela que a gente mapeou. E iSystem, iSystem. É Torreira também, né? É. Ah, boa. Fora Torreira, vocês não tentaram outras?
+52:10 Speaker 3: Aí a gente tentou só com as operadoras grandes, de pequeno porte,
+52:15 Speaker 1: que foi Algar.
+52:17 Speaker 3: É, só esses, por enquanto. Com as operadoras grandes, essas Torreiras e Algar. Que é pequenas operadoras, né? Mas assim, toda vez que a gente vai num cliente, a gente tenta cavucar pra ver se faz sentido pra eles. Eu fui num cliente essa semana e ele cuida da parte de... Eu nunca tinha visto, inclusive. Ele cuida da parte de... Eles compram bateria da gente, só que eles... Sabe aquela parte de rádio? Comunicação com a polícia? Então, eles colocam esses sinais nas antenas para que tenha comunicação somente o rádio da polícia. Tanto que os clientes deles recebem todos no RFP.
+52:55 Speaker 3: Como você falou, Débora?
+52:59 Speaker 1: Rf...
+52:59 Speaker 3: Não, é licitação. É licitação, é segurança pública. Então, os únicos clientes deles são seguranças públicas. Então, eles usam essa bateria pra poder colocar essas antenas pra que eles consigam, pros policiais, exércitos e tudo, consigam se comunicar. Aí, então, eu peguei pra eles, aí ele falou assim, ah, eu tive que colocar a bateria 5 metros de altura pra evitar o furto. Aí eu falei, cara, mas eu tenho a solução pra você.
+53:24 Speaker 1: Eu fui explicando o Moro Energia. Ele, ah, mas não é muito caro, não sei o quê. Eu falei, você nem sabe quanto
+53:29 Speaker 3: é. Eu falei, vamos conversar, né? Então, assim, eu já vou meio que cavucando uma conversa que eu fui falar de... Fui falar de, sei lá, acho que foi de um problema que a gente teve de entrega, e a gente foi lá tentar reverter, e aí acabou que estavam os gerentes lá das operações, e eu falei, não, vou conversar com eles. E aí ele falou, nossa, mas é bom saber que vocês têm uma opção, porque um fala para o outro, né?
+53:51 Speaker 2: Claro. E sabe, sabe, né, Aline? Comercial ali, ó. Já está ali, né? Já está ali, já está dez passos para frente. Deixa eu te
+53:59 Speaker 1: fazer uma última pergunta que eu encontrei aqui, que eu esqueci, que eu ia trazer lá no começo da nossa conversa. não sei se tu vai ter visibilidade do que eu vou te perguntar. Eu não sei se é mais com o pessoal do financeiro, mas até tua ponta com quem a gente poderia falar. Mas quando a gente pensa nesse contrato, eu entendo que o contrato que vocês têm vigente hoje é esse com a telefônica, né? De 10 anos. Para a gente pensar em contrato, assim, leigamente explicando para quem não entende do contrato. O que fica nesse contrato? Eles têm um pagamento mensal com vocês, mas existe alguma penalidade por parte da mora, se não entregar tal e tal coisa? Quais são as principais coisas que estão ali para a gente entender um pouco dessa relação de troca?
+54:34 Speaker 3: Tá, então, assim, os principais pontos do contrato é que o contrato vale 10 anos. E aí tem uns tetos que eu não vou falar exatamente, não lembro quanto é, mas a gente pode mapear. Vamos supor, vai, se abater... um exemplo, né, grosso modo, se a bateria for roubada três vezes, a Moura consegue cobrir. Se for onze vezes, a Moura já não vai mais cobrir.
+54:55 Speaker 1: Entendeu? Que é o cap de roubo, isso.
+54:59 Speaker 3: Se der algum defeito, qualquer outra coisa, a manutenção, a Moura é responsável por isso, pela manutenção preventiva e tudo mais. Vamos supor, sei lá, tem alguns sites que a gente acha que é perigoso, então a gente pode não querer instalar lá. E aí tem uma porcentagem que a gente pode recusar. Tem mais o quê? Aí o contrato são de 10 anos, e aí a gente pode reajustar o preço. Aí tem, sabe, essas particularidades, assim, pode reajustar o preço a cada, sei lá, um ano, seis meses, que eu não lembro exatamente. Isso é telefônica, né, que é o único que a gente não tem. Perfeito.
+55:35 Speaker 1: Tem alguma... consulta assim, alguma penalidade no contrato pra Moura, do tipo assim, ah, se acontecer com a operadora de, sei lá, faz de conta que a Moura, a energia, ela diz que você não vai ter caderno de energia e você tem. Tem algo que vocês têm penalidade? Não.
+55:51 Speaker 3: Não, assim, porque a cadeia de energia pode acontecer, pode estar num lugar que não passa energia elétrica, ou caiu a energia elétrica e a bateria fica bastante tempo, mas às vezes ela pode acabar e a energia elétrica não voltar. Pode ser que se, assim, eu não sei exatamente se tem isso no contrato, mas o que acontece é, se alguém processar a operadora, provavelmente vai meio que rachar essa conta, sabe? Mas eu não sei se tem isso no contrato.
+56:21 Speaker 3: Mas, por exemplo, a Moura...
+56:25 Speaker 1: Por
+56:27 Speaker 3: exemplo, mas assim, eu sei que a gente toma multa se a gente não atender o rollout no tempo que eles precisam. Então, tipo, eu falei para vocês que estão lá até o novembro. Eu posso te aplicar uma notificação e, consequentemente, uma multa.
+56:38 Speaker 1: Entendeu? Eu sei que é mais a
+56:39 Speaker 3: prazo, com certeza tem multa. Tá bom.
+56:42 Speaker 1: Acho que eram essas. Obrigada. Boa. Beleza. Deu para entender certinho? Não,
+56:49 Speaker 2: é que assim, nós a gente ficava conversando contigo até, né, mas você, fica tranquila, a gente vai fechar. Eu queria só fazer a última pergunta, e assim, a gente entende que vocês estão nessa, né, e a gente está aqui para ajudar vocês, mas assim, se você tivesse que apostar em um caminho para conseguir pegar mais clientes, pelo menos as três principais ali, as três grandes, para onde você iria atacar, assim, na sua perspectiva?
+57:11 Speaker 3: Olha, hoje eu atacaria a Tim, com certeza, porque eu acho que tem sentido para eles, sabe? Principalmente se a gente for no boarding, porque eu vejo que eles têm uma deficiência com isso, com organização, com rollout e tudo mais. É muito cansativo para eles isso. Não tem uma organização boa. Eles são bem desorganizados. E eu acho que iria salvar bastante dinheiro, sabe? Porque as operadoras são muito fechadas em valor de contrato. Então, hoje, a estratégia que a gente tem é tentar cavucar o máximo, levar para ele e falar, cara, se você for com o meu preço, você vai conseguir colocar tantas baterias nos seus sites. Se você for com esse preço maior, você vai colocar menos. Então, eu iria nas grandes operadoras e, se possível, insistir mais nas torreiras. Tá, legal.
+58:03 Speaker 3: É assim, é a visão que eu tenho, sabe? Porque a gente tem muito clientezinho pulverizado, mas torreiras tem que ser torreiras grandes, porque existem umas que são pequenininhas que daí também para eles não faz sentido, porque eles têm, sei lá, uma grande operadora tem mais de 50 mil sites, né? Uma torreira pequenininha, sei lá, tem 5 mil, 7 mil, então para eles não faz muito sentido, sabe? Esse investimento todo. Aí tem que ser grandes torreiras, assim. Aí dá até, sei lá, pra gente... Eu acho que existe um sindicato de torreiras, a gente pode até pesquisar dessa forma, sabe?
+58:40 Speaker 1: Show, acho que... Assim,
+58:42 Speaker 2: a gente tem, como a gente tem semana que vem também, a gente continua a nossa conversa, e aí é bom que também a gente tem a tua equipe... o pessoal também com outros pontos de vista, mas a gente sempre acha que o comercial está ali, ouvindo o cliente sempre, então vocês são sempre a fonte do conhecimento das dores ali, né? Sim. E a gente conversa, então, vamos continuar a nossa conversa semana que vem. Tá. Mas, muito obrigada.
+59:07 Speaker 3: Imagina, as meninas vão estar quando lá?
+59:10 Speaker 2: A Fernanda e a Carol chegam dia 7. A Lorena já tá no Recife. Ah,
+59:17 Speaker 3: Lorena, você mora aí, Lorena? Sim. Ah, tá. Não, então, elas chegam dia 7, mas elas vão namorar quando?
+59:24 Speaker 2: 7, 8.
+59:25 Speaker 3: 7, 8. Ah, então eu vou dia 6 pra lá. Ah, tá. Eu vou ficar a semana inteira.
+59:30 Speaker 2: Ah, de repente, de repente, então, vocês tomam um cafezinho, já conversam, mas a gente marcou também pra conseguir falar com o Luciano e com a Adriana, eles estão...
+59:39 Speaker 3: A Adriele vai estar aí lá também. O Luciano foi desligado
+59:42 Speaker 1: ontem. Ah, foi ontem.
+59:45 Speaker 2: Foi essa pessoa que foi desligada. Desculpa, eu não estava
+59:48 Speaker 1: ligando. Mas a Adriele
+59:50 Speaker 3: está aqui e ela vai estar em Recife também semana que vem. Aí se der para conversar com ela lá, que horas que está essa entrevista?
+59:56 Speaker 2: A gente tinha colocado sexta-feira às nove online. É porque a agenda já está bem lotada no sete ou oito, sabe? Acho que é por isso também.
+01:00:06 Speaker 3: Tá, deixa eu... Odrinha, que horas é o seu voo
+01:00:08 Speaker 1: na sexta? De volta. Ah, meio-dia e
+01:00:12 Speaker 3: cinquenta, então dá pra ela atender de manhã.
+01:00:14 Speaker 2: Tá, beleza. Mas, por mais, vocês mandam mensagem também, a gente ajusta aqui, tranquilo.
+01:00:20 Speaker 3: Tá. Meninas, vocês chegaram a fazer o grupo do WhatsApp, não?
+01:00:25 Speaker 1: Sim. Alguém comentou.
+01:00:28 Speaker 2: A gente tá com o grupo, a Karina está nesse grupo também. Ah, eu não tô, não.
+01:00:33 Speaker 1: Eu acho. Tá.
+01:00:35 Speaker 2: Na verdade, até agora a gente não falou muito, só falou muito, mas eu peço então para a Andrea te adicionar, pode ser?
+01:00:41 Speaker 3: Tá bom, pode ser, combinado. E agora eu também vou
+01:00:43 Speaker 2: mandar, estava até preparando aqui o status do projeto, o andamento, então a gente está fazendo essa imersão, semana que vem tem as entrevistas presenciais com vocês presenciais e online, algumas pessoas também a gente fala online. para a gente fazer o diagnóstico, a gente está fazendo os benchmarks também, enfim, aí até vou mandar esse e-mail para todo mundo ficar alinhado.
+01:01:03 Speaker 1: Combinado. E a gente marcou
+01:01:05 Speaker 2: uma, essa tu tá, semana que vem, na
+01:01:10 Speaker 1: terça-feira,
+01:01:12 Speaker 2: dia 7, a gente marcou uma rotina. Aline Souza, tá aqui, de acompanhamento de projeto, então é uma reunião assim, para a gente mostrar, olha pessoal, a gente fez isso, fez aquilo, nos preparamos para isso, vamos entrar agora nas entrevistas, é só para assim, tipo, o que a gente fez, o que a gente vai fazer, para vocês ficarem também sabendo e tirar dúvidas, enfim.
+01:01:34 Speaker 3: Então, beleza. Conte comigo, Daryl. Se precisar de alguma coisa aí, pode me ligar. Tá bom? Você também,
+01:01:40 Speaker 1: Lorena. Vamos fazer acontecer isso aí. Boa, bora. Então, beleza, então. Valeu, meninas. Tchau, tchau.
+  

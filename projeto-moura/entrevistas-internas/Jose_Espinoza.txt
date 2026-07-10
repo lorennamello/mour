@@ -1,0 +1,350 @@
+00:00:00 Speaker 1
+Compartilha, mas é mais para a gente prestar atenção em ti e a gente trocar.
+00:00:05 Speaker 1
+Eu peguei um café e acho que essa bosta de creme. Tem mais esse. Uma dessas era minha.
+00:00:12 Speaker 2
+Era? Quer que a gente pegue? Não, o que é isso? Não, zero problema.
+00:00:18 Speaker 1
+Nunca pega um cafezinho, a gente espera, não?
+00:00:23 Speaker 1
+Então vamos lá, qual é a ideia? A gente está fazendo agora um... A gente fez bastante conversa com o Gustavo, André e Thiago, no momento da construção da proposta. Que é um pouco do entendimento da solução para a telecom que vocês têm hoje.
+00:00:39 Speaker 1
+E entender, né, funcionou e está sendo um bom produto, como vocês ali mesmo pontuaram, para vivo, Mas a ideia é expandir e eles estão encontrando algumas barreiras, dificuldades. Então a gente já fez esse trabalho lá no passado com a Moura, já, de ajudar nesse entendimento, posicionamento. De um produto para escalar, para ir para um Gold Marketing. Mas o que a gente queria ouvir de você? Então, a sua visão vai ser muito importante aqui. Para entender como está a operação desses contratos que está com você, sua expertise. Um pouco do entendimento de como está funcionando a operação de vivo hoje.
+00:01:13 Speaker 1
+Mas também a sua visão de expansão desse negócio.
+00:01:17 Speaker 2
+De expansão do negócio? Não necessariamente num telecom.
+00:01:23 Speaker 1
+Eu acho que poderia ter duas camadas. Quando a gente fala com o Thiago e com o Gustavo, Eles estão com uma visão do projeto muito mais à frente. Então, talvez eles trazem um pouco dessa visão de expandir para outros mercados. Mas eu acho que talvez a gente vai ter dois steps, talvez, e você pode ir organizando isso. Um step é expandir e atender mais empresas de telecom e talvez um segundo passo é outras possibilidades. Mas, para começar, a gente quer te conhecer. Então, trazer um pouquinho da sua trajetória, o que você fez, como foi chegar na mora,
+00:01:57 Speaker 1
+Quais são os seus desafios, suas responsabilidades hoje? Acho que é um pouco de, se você quiser fazer um comparativo, o que você tem hoje para a Telecom, que é o nosso objetivo, mas você pode trazer alguma referência de Best que você acha que vai fazer sentido também.
+00:02:12 Speaker 2
+Sem problema. José Espinoza. Muito prazer. Eu estou no mundo Telecom já faz bastante tempo. Comecei por acaso, sou formado em engenharia civil, por acaso, caí lá na NEC, em Salvador, E a NEC era o grande parceiro das teles, Tele Bahia, Telesc, Telepar, lá atrás, no início Da jornada de celular, que não existia celular, então eu caí de paraquedas como engenheiro.
+00:02:43 Speaker 2
+Civil e comecei a entrar em um telecom por acaso, logo depois de formado. A NEC era uma grande parceira da Tele Bahia e construía as torres de telecomunicações, Fornecia os equipamentos de telecomunicações, foi quando eu comecei. Na sequência aí foi um atrás da outra, chegou uma empresa pra cuidar da Banda B, Que era como era chamada, era o nascimento da TIM em 97, então eu tô desde o início No mundo de telecom. Na época que eu saía de celular ninguém tinha celular, então conheço bem o mundo.
+00:03:16 Speaker 2
+De telecomunicações. Recebi o convite via Thiago Melo, o Thiago já me conhecia na team, depois que eu cheguei Eu entendi que foi um casamento perfeito de coincidências da necessidade do Gustavo e Do grupo de ter alguém com experiência nesse negócio que a Moura estava entrando no Moura, Telecom e uma coincidência porque eu fiz isso a minha vida inteira. Então eu acho que a...
+00:03:46 Speaker 2
+A gente agora, eu olhando para trás, a gente levou uma vantagem, porque a gente já entrou jogando. Acho que a gente pulou algumas etapas de aprendizado por eu conhecer o negócio. Como eu falei, eu entendo que a gente está tendo muito sucesso, a Vivo reconhece isso, ela fala isso.
+00:04:09 Speaker 2
+Mas eu encontro algumas barreiras da gente ampliar. Dentro do mundo do telecom, esse modelo específico, que não é apenas o modelo, tem que casar com a necessidade lá do cliente. Então, um exemplo, só de forma ilustrativa, sem falar em valores, mas o aluguel que a Vivo nos paga, a TIN está disposta a fazer esse negócio, pagando menos da metade. Bem menos que a metade do que a Vivo já nos paga. Inclusive, ela tem isso.
+00:04:40 Speaker 2
+Ela contrata algumas empresas que estão dispostas a oferecer essa solução por menos da metade. Então, a conta já não fecha. Então, é uma questão comercial. Então, a TIM tem várias restrições de investimento. Ela entende que quer entrar, eu acho ótimo com esse valor. Eu acho que a gente não está num momento de entrar a qualquer preço, inclusive, para ganhar market share. A Claro, historicamente, é a empresa, entre as três operadoras, eu trabalhei na Claro também,
+00:05:14 Speaker 2
+Ela é a menos inovadora, ela espera ver para crer. Deixa eu ver se está dando certo. Tem dinheiro, o dono é um dos caras mais ricos do mundo, que é o Zin.
+00:05:26 Speaker 2
+No México é quase que um monopólio, então ela se dá ao luxo de dizer, Deixa eu ver como é que o mercado se comporta, se faz sentido um dia entrar nisso daqui. Então ela está só assistindo. Talvez seja um potencial cliente em um futuro que a gente não sabe quando. Só para vocês terem uma ideia, as torres, eu faço muito essa analogia, As torres que a gente vê em toda esquina, torre de telefonia, Em 2004 eram todas das operadoras. Eu participei dessa, eu construía, eu era o engenheiro que administrava essas obras.
+00:05:57 Speaker 2
+A operadora tinha, ela comprava a torre de um fabricante, então eu reconstruía essa torre. Isso em 2004. 20 anos depois, em 2024... Apenas 5% das torres, e olha que são 100 mil torres, 5% dessas torres hoje são da operadora. Porque não é o negócio da operadora ficar construindo torre. Então, o terceiro isôfago nasceram as torreiras, que a gente chama de torreiras, Tower Companies, Que elas constroem e alugam. Então, a operadora paga para essa empresa o aluguel e o compartilhamento da infraestrutura.
+00:06:30 Speaker 2
+É o que está acontecendo agora com a energia. Perfeito. Quando eu falei em 100 mil estações, as operadoras têm cerca de 100 mil estações, um para um, então são 100 mil gabinetes. Esses 100 mil gabinetes são das operadoras.
+00:06:49 Speaker 2
+Essa virada começou há pouco tempo, então ela tem, começando pela Vivo, Ela começa a abrir mão desse ativo para passar para alguém que entenda sobre isso. Ela não tem que ser especialista em toalha, não tem que ser em gabinete, ela quer passar um serviço, ela quer estar do lado do cliente, pensar em novos produtos e não em estrutura. É a mesma coisa de um banco, né? Um banco, imagina, toda agência bancária tem um sistema de energia. Qual é o papel do banco? Ficar cuidando de trocar a bateria, comprar a bateria, comprar um sistema de no-break, então é uma boa oportunidade.
+00:07:20 Speaker 2
+Não usei o banco como referência, mas vários negócios. Mas é um excelente ponto. O banco depende muito do momento do cliente, da necessidade do cliente, da saúde financeira do cliente. Então não é... A gente precisa conhecer o cliente, é o que eu sinto falta aqui.
+00:07:38 Speaker 1
+Ah, Isso eu ia te fazer exatamente essa pergunta. Eu queria só entender assim, quando a gente fala desse universo Telecom que você atuou, Você olhou para essa frente, que área mais ou menos você estava? Minha pergunta é, você estava muito conectado com essa área de desenvolvimento das...
+00:07:54 Speaker 2
+Eu sempre... Fiz parte do time de infraestrutura, do time de implantação, quem estava à frente das soluções, Criei centros de inovação onde eu passei, então a gente estava sempre à frente buscando alternativas, Relacionadas à infraestrutura para suportar o mundo de telecomunicações. Ótimo. Quando eu também citei mais cedo, o gabinete em si, a solução, era padrão. Ah, eu vou desenvolver um gabinete diferente. Você pode desenvolver, mas não vai ser nenhuma novidade.
+00:08:25 Speaker 2
+O gabinete, cuidado, que se ele for maior, ele ocupa mais área e a empresa tem que pagar o aluguel da área. Se ele for mais potente, ele consome mais energia, a empresa tem que pagar essa energia. Então, você tem que moldar de acordo com as características dos equipamentos e a necessidade do cliente. Quando eu falo que a gente tem que estar do lado do cliente para entender a necessidade dele, Porque o cliente é complexo, tá? O cliente é bem complexo. Então, eu acho que deve existir, eu tenho certeza que existem várias oportunidades.
+00:08:57 Speaker 2
+Mas a gente, até por desconhecimento, eu sinto uma participação muito passiva. Eu espero o cliente, quando o cliente vier, estar lá dentro do cliente. Entendendo essa rotina dele. Eu conheço essa rotina dele. Porque eu estive lá mais de 20 anos da minha vida, eu estava ali lá. E não adianta ficar... Você tem que fazer a pergunta certa. E para fazer a pergunta certa, você tem que ter gente com experiência e gente que... Conheça essa rotina e aí eu acho que é uma tremenda oportunidade do grupo é a gente se inserir nessa rotina.
+00:09:30 Speaker 2
+Principalmente a rotina comercial, para entender como as coisas funcionam do lado de lá. O cliente vai pedir tudo, vai levantar a mão tudo, tudo. Eu acho que a gente precisa se antecipar.
+00:09:44 Speaker 2
+A gente está trabalhando agora na possibilidade de comprar os gabinetes. Legados, que chamam, que é o gabinete que já, lembra que eu falei, a operadora tem 30 mil. São 30 mil problemas que ele tem que, todo dia, tomar conta. Ele não vê o óleo se livrar disso. E se for um bom negócio para ele, se a gente conseguir mostrar que é um bom negócio, Principalmente na vida, eu acho que a gente tem uma grande oportunidade, assim, um exemplo, De assumir todos os 30 mil, se estruturar para assumir toda...
+00:10:18 Speaker 2
+Todo o sistema de energia é dos Estados Unidos da Vila. Como é que isso acontece? Aí tem que ter habilidade.
+00:10:26 Speaker 1
+Porque é negociação mesmo.
+00:10:27 Speaker 2
+Além da negociação em si, do que fazer com o velho, Não é só uma questão de investimento, amor a ser um patrocinador, não é só isso. Porque dá um trabalho danado, tá? Se tem um equipamento lá que está ativo, no momento que você desliga ele, O cliente fica sem... A cobertura e a queixa na Anatel, está tudo interligado, então não é simples. Mas a gente pode, por exemplo, apresentar um plano de, olha, você tem aí três gabinetes, Velhos, eu vou tirar esses três e colocar um novo.
+00:10:59 Speaker 2
+Para tirar esses três eu compro, como sucata, eu faço uma avaliação, coloco um novo, Grande o suficiente para suportar todos os seus equipamentos e sua expansão, eu prevejo Também uma boa expansão, e a área de solo. Que hoje você paga, eu ocupo porque você paga pelo área e solo, a projeção dele. Você paga 10 metros quadrados e eu consigo reduzir para 6 metros quadrados. Então você vai pagar 4 metros quadrados a menos.
+00:11:29 Speaker 2
+Começa a fazer sentido do ponto de vista do bolso, do ponto de vista financeiro. Opa, vale a pena eu entrar, porque dá um trabalho, tá? É complexo, porque você tem que ter gente lá desligando o equipamento, instalando ao mesmo tempo. Super complexo, tem que envolver várias empresas, mas se a gente chegar lá com uma conta bem, Objetiva, eles começam a enxergar de uma maneira diferente. Na TIM, isso é carta branca, qualquer projeto de eficiência, carta branca lá.
+00:11:57 Speaker 1
+Eu tenho duas perguntas, eu anotei algumas coisas que você foi falando e eu já estava Com essas dúvidas das outras conversas e aí mencionou o Michel, você tem que fazer A pergunta para ele. E aí eu fui anotando aqui para a gente falar, mas antes eu queria pegar duas coisas que você trouxe, Que elas são bem interessantes. Uma, você trouxe quase um arquétipo ali das operadoras, né? Você falou, a Clara é mais tradicional. A Vivo está buscando eficiência em custo, né? Talvez é isso. A Vivo,
+00:12:27 Speaker 2
+Ela quer investir. Tinha, desculpa, tinha. Não, ela tinha 100% em eficiência.
+00:12:31 Speaker 1
+Ela vai sempre olhar para a eficiência. Claro, você tem uma visão que ela é mais tradicional e a Vivo, você encaixa ela aqui?
+00:12:37 Speaker 2
+Tá, mas só para montar o raciocínio, a Tim, ela tem que defender, tirar a lei de pedra o tempo inteiro, E ela tem uma equipe muito capacitada para isso, o tempo inteiro. Não é uma empresa rica, mas ela tem muito valor por conta desse corpo,
+00:12:56 Speaker 2
+O time lá é muito eficaz, então o tempo inteiro eles respiram projetos de eficiência. Fazer mais com menos é a máxima lá. Claro e Vivo, gente eu estou falando de uma forma muito simplista, genérica, vamos dizer, São os primos ricos, a Vivo não apenas pela qualidade, mas pelo tamanho da fatia de mercado Que ela tem e outras receitas como rede fixa, ela tem mais fôlego e ela é muito eficiente.
+00:13:29 Speaker 2
+Nesse dia. Estou tentando usar as palavras corretas, mas é como se ela tivesse muito dinheiro e ela é muito inteligente no uso desse dinheiro. A Clara tem muito dinheiro, mas ela não é nada inteligente no uso desse dinheiro.
+00:13:43 Speaker 1
+Perfeito. E aí por isso que talvez a Vila...
+00:13:46 Speaker 2
+A Vila dá sempre um passo à
+00:13:47 Speaker 1
+Frente e ela está em um bom lugar.
+00:13:49 Speaker 2
+E quando ela der um ilustrativo, um gabinete, instalar um gabinete custa 100 mil reais. A Vila deixa de gastar 100 mil reais, quem vai gastar 100 mil reais é a Moura. Perfeito. Ela vai pegar 100 mil reais e vai gastar em algo muito importante para o core dela, entendeu? Muito importante.
+00:14:07 Speaker 1
+Perfeito. E aí você falou que você sentiu falta desse olhar para o cliente, uma informação desse cliente. O que é esse corpo?
+00:14:13 Speaker 2
+Está lá dentro. Está lá dentro? Está lá dentro. Mas lá dentro mesmo, está lá dentro mesmo. Se puder, tiver uma sala lá, ficar lá dentro, entender essa rotina, respirar essas necessidades do cliente, Tomar um cafezinho todos os dias, entendeu? Para sentir essa dor do cliente. Quando eu entro num projeto, eu visto a camisa do cliente, eu sofro como se fosse o cliente, Que está acontecendo um pouco comigo, eu visto a camisa de uma forma simbólica da Vivo. Eu estou com a camisa aqui da Vivo, com o logo da Vivo, eu tenho que defender a Vivo.
+00:14:44 Speaker 2
+Para isso eu tenho que entender a Vivo. Eu me sinto numa situação confortável porque eu estou lidando com uma operação, E a operação eu sei fazer isso, Mas estou enxergando um monte de oportunidades que a gente está perdendo, que as coisas vão passando. Um diretor não pode pedir uma ajuda da Amora em novembro de 2025, até hoje a gente não respondeu, não faz nenhum sentido isso. Da Vivo,
+00:15:07 Speaker 1
+Da própria Vivo que a gente já estava inserida. É por isso que eu te perguntei, será da Vivo.
+00:15:14 Speaker 1
+Posso fazer mais uma pergunta? Eu vou entrar nesse ponto. A gente tem, obviamente, e aí tem alguma evolução nessas relações, mas num cliente que a gente já está dentro, que a gente tem relação, que a gente escuta. Esse é o time comercial que não está atendendo essa demanda, essa ajuda?
+00:15:31 Speaker 2
+Eu entendo que sim. Vou dar um outro exemplo, para ser mais tangível. Como fábrica, e a gente é uma grande fábrica de baterias, principalmente automotiva, é tudo igual. E a gente é demandado, a Moura, enquanto eu estava na TIM, a Moura sempre foi um grande fornecedor de baterias. Levantava, precisa de bateria, quem tem? Moura, pronto. A Moura não chegava lá na TIM e falava, olha, inventei uma bateria nova, mais barata, mais eficiente. O que eu pedia na época não acontecia.
+00:16:03 Speaker 2
+Tem que estar na frente. Tem que antecipar. Tem que ver as tendências. A gente lançou uma RFQ quando eu era da TIM em 2018. Em 2018 veio um decreto lá e eu fiz parte desse decreto. A gente não compra mais chumbo.
+00:16:20 Speaker 2
+Lançamos um processo grandioso no mercado, milhares e milhares de baterias. Só de lítio. A Moura, nosso maior fornecedor, não participou, porque ela não tinha matéria de lítio. Assim, a maior fábrica não se preparou para uma virada que o mundo estava mostrando. Ela entrou três anos depois, quando vários fornecedores, ela tinha domínio total, vários entraram. Então, esse contato, essas tendências, tem que ser respirando lá com o fornecedor.
+00:16:56 Speaker 2
+Um cliente se sente simples, de forma muito mais ágil, não é fácil, é uma mudança, Eu digo aqui que eu sou o vetor dessa mudança, porque eu cheguei inclusive muito agitado Aqui, correndo atrás de uma agilidade que não existe aqui, eu estou ajudando a construir, Essa agilidade, então eu tive que me moldar a isso, mas o cliente não espera.
+00:17:21 Speaker 1
+E talvez ele tenha uma visão que talvez esses times não tenham ainda, que é essa necessidade do serviço, que é novo.
+00:17:28 Speaker 2
+Eu entendo que é novo, claro, eu sempre entreguei a bateria, mas ele quer muito mais do que isso. A bateria qualquer um entrega, e no dia que chegar um mais barato, como eu falei de manhã, mais barato seguindo as características, acabou o amor na hora. De um lado ele vira para o outro, sem problema nenhum. Tá? E dorme tranquilo, não tem nenhum, zero problema.
+00:17:48 Speaker 1
+E aí, só fechando esse ponto, e eu vou, eu preciso te fazer uma pergunta depois do outro, mas fechando aí nesse olhar comercial, aí eu vou te fazer uma coisa, tudo bem se você não souber ou não, mas quando você olha pro perfil comercial hoje, a gente tem uma questão de atitude, né, que é tá lá dentro, quer olhar, quer se antecipar, quer atender uma demanda que veio ali de uma forma mais ativa, quando você olha o perfil de quem tá fazendo esse atendimento, esse time tem... A capacidade técnica, o conteúdo, a forma correta para fazer esse atendimento?
+00:18:20 Speaker 1
+Eu acho que não. Não, né? Não.
+00:18:23 Speaker 2
+Eu acho que a gente está... Isso não significa que você é incompetente, porque a mora está cercada de gente competente, Gente disposta a aprender, a mudar, mas a gente está entrando num negócio que se move Muito rápido, então a gente precisa se adaptar muito rápido. E o mercado não espera, ele atropela. Então eu acho que da mesma forma, como tiver a ideia de me trazer, Opa, deixa eu trazer alguém que entende do assunto técnico, operacional,
+00:18:53 Speaker 2
+Eu acho que a gente precisa de alguém com vivência nesse mundo comercial, Alguém mais cascudo trazer, para ter discussões de um outro nível lá. Porque o que eu escuto do cliente é que os contatos são... São muito superficiais, as pessoas perguntam coisas que...
+00:19:12 Speaker 1
+Você não consegue responder, né?
+00:19:14 Speaker 2
+Não, E que a Biu falou de novo, ela me pergunta. E está acontecendo uma rotatividade muito grande, Então, desde que eu cheguei tem dois anos, Não existe mais o time inicial, é outro.
+00:19:30 Speaker 1
+Que é todo mundo muito novo, sem histórico, sem informação, né? E aí eu vou te fazer uma pergunta em relação a isso aqui. Me conecta muito com algumas indústrias mais técnicas, então, por exemplo, quando eu vou dar um exemplo e aí você me diz, me corrige-se essa visão. Por exemplo, eu já fiz alguns acompanhamentos da White Martin, que entrega gases, e eles fazem ajustes, e eu vou te fazer essa pergunta. Então, se eu sou uma grande cervejaria, eu preciso de um determinado produto, se eu sou uma fábrica, eu uso.
+00:20:02 Speaker 1
+A venda desse produto parte quase de um projeto, então eu tenho uma pessoa muito técnica Que vai conversar com outra pessoa muito técnica e garantir que aquele funcionamento está ali, Está correto, etc., e fazer isso. E ela faz um papel comercial também.
+00:20:16 Speaker 1
+É isso que esse time comercial tem essa capacidade, mas não entende ainda do cliente porque ele é novo. Ou talvez ele nem tenha essa capacidade técnica. Quando eu olho para esses modelos, às vezes eu tenho um engenheiro de fato fazendo atendimento comercial. É muito mais essa visão.
+00:20:31 Speaker 2
+Do jeito que a estrutura da Mura funciona hoje, o equipe comercial, além de ser jovem, Ela faz a abordagem do cliente, o cliente faz as demandas técnicas, ele volta para casa, Ele dispara a demanda técnica para um departamento técnico, que não é você, que não sou eu, É o departamento de engenharia, espera essa resposta que vai acontecer em algum dia, Ele recebe essa resposta, sem ter o conhecimento técnico, mas ele recebe a resposta, Ele vai embasado e devolve a pergunta. Esse tempo, se eu tivesse lá de cá, eu já estava com o outro.
+00:21:05 Speaker 1
+Mas mesmo que fosse rápido, aí eu faço uma segunda pergunta e você manda essa resposta e eu falo: 'Não sei, deixa-me perguntar' e volta tudo de novo. É isso aí. Hoje é assim.
+00:21:14 Speaker 2
+Perfeito, entendi. Outra coisa que eu comentei também, vamos lá, de conhecer o cliente, vou dar um outro exemplo.
+00:21:21 Speaker 2
+Conhecer o cliente, conhecer o mercado.
+00:21:25 Speaker 2
+Ao mesmo tempo que as operadoras venderam as torres, Elas criaram... O melhor amigo de uma operadora era a torreira. Poxa, o cara que tem a infraestrutura, olha que amigão, está construindo a torre, onde eu vou pendurar minhas antenas. Virou inimigo número um hoje. Depois de 20 anos. Porque todo mês tem que pagar uma fortuna de aluguel para esses caras. Então essa briga de negociação é absurda, a ponto da torreira chegar, ó, mudei o cadeado e aqui você não entra mais.
+00:21:57 Speaker 2
+Coisas desse tipo. Entrou uma torreira nova no mercado, se você construir uma torre do lado dessa, eu saio dele e vou para a sua. Então o mercado é extremamente canibal. Eu criei um centro de inovação lá na TIM de infraestrutura, a gente criou um gabinete, porque de novo, a TIM respira isso. Se eu colocar um segundo gabinete, eu tenho que pagar a área desse gabinete, 2 metros quadrados.
+00:22:27 Speaker 2
+Um metro quadrado a mil reais, dois mil reais a mais. Todo mês, pro resto da vida, eu tenho que fazer isso. Como que eu coloco mais equipamento sem fazer isso? Aí eu peguei o gabinete e criamos um chapéu, um segundo andar, que cabia mais equipamento. As torridas odiaram. Porque elas não têm o que perder o dinheiro? Ela ganha pela projeção. Ela perde a oportunidade de ter receita.
+00:22:53 Speaker 2
+Na hora que a gente criou, já entrou no mercado a LPU e os gabinetes ficaram mais altos. A gente tem que estar respirando essa dor para fazer propostas desse tipo.
+00:23:04 Speaker 1
+Eu Perguntei isso para a Gisele e ela pediu para perguntar para ti. Porque a gente estava falando de produto, visão de produto, visão de fábrica. E eu trouxe um ponto para ela que foi.
+00:23:14 Speaker 1
+Quando a gente foi entendendo o processo, a gente entendeu assim, Que a Vivi vai lá, coloca no sistema, ah, liberei um novo espaço, Vai, tem instalação, eu preciso de uma capacidade de tantas horas, Eu preciso desses produtos, e ela manda uma demanda. E aí a minha pergunta para ela foi, a gente entrega para eles um diagnóstico, Tipo, como especialista desse assunto, de tipo, você não precisa de 10 baterias, Você precisa de 5, ou você não precisa de... A gente não... Ainda não. Porque isso otimiza a gente também como proposta, né? E entregue talvez algum valor.
+00:23:45 Speaker 2
+Não, não fazemos isso. Sim, podemos fazer isso. Ela mandou uma especificação. Com a demanda de energia tanto, você tem que me entregar tanto. Aí é uma conta matemática. Isso significa que eu tenho que pôr X baterias. Os primeiros gabinetes que ele te mandou eram lotados de baterias. Porque ele previa a configuração final que talvez nunca aconteça.
+00:24:10 Speaker 1
+Que é a capacidade máxima.
+00:24:12 Speaker 2
+Máxima, então, um gabinete voltado. Um exemplo, eu tenho que ter bateria que no dia que faltar luz, Aquele gabinete ele consiga operar por 4 horas. A quantidade de bateria que tem hoje, ele consegue operar por 24 horas.
+00:24:27 Speaker 1
+Nossa, é muita diferença. A maioria deles.
+00:24:30 Speaker 2
+Mas eu coloquei o que ele pediu.
+00:24:32 Speaker 1
+Perfeito. Ele está pagando. Ele quer que você garanta.
+00:24:37 Speaker 2
+Mas Se eu tivesse, ao invés de tanto bateria, se tivesse só uma bateria, eu ia dar as faturadas. Então eu convenci o pessoal aqui, gente, eu entendi, estamos entregando a configuração máxima. Mas a gente agora, depois de dois anos, eu estou vendo que a Vigo não está ampliando as suas demandas. Então, quando ela instala o equipamento, ela mais ou menos congela. Ela só vai instalar novos equipamentos, vai certamente em algum momento, Mas talvez nesse momento que ela for instalada, eu tenho tanto controle do meu ativo. Ela falou, está lá, eu aproveito uma manutenção e coloco mais uma bateria para garantir o contrato.
+00:25:11 Speaker 2
+Vamos tentar isso? Até porque estão roubando as baterias. Eu estou colocando lá um prato cheio de baterias. Não tem mais a dano, né? Estou dando, é. O garoto tem sete baterias, assim. Precisa disso? Convenci e a gente começou agora a comprar uma quantidade menor de baterias. E a gente tem condição de administrar isso. O que você trouxe foi o seguinte, eu consigo agregar valor para ele, para... Ele não está nem aí.
+00:25:34 Speaker 1
+É, mas o meu agregado valor é, e talvez seja por isso que ela pediu para eu fazer essa pergunta para ti, Porque é exatamente essa visão. Eu estou se pressionando no serviço, eu preciso garantir quatro horas. Se vai ser uma, duas, dez, é a minha decisão. Problema não.
+00:25:47 Speaker 2
+Se é bateria de sal, de água, de chumbo, de lítio, é problema nosso.
+00:25:52 Speaker 1
+E o gabinete também, a gente pode falar, olha, em vez de ter um gabinete desse tamanho...
+00:25:56 Speaker 2
+No gabinete a gente segue uma especificação rigorosa deles.
+00:26:00 Speaker 2
+Nada impede a gente propor melhorias.
+00:26:03 Speaker 1
+Porque você pode propor alguma coisa, ou que seja mais segura, ou que ocupe menos espaço. Isso poderia.
+00:26:09 Speaker 2
+Poderia, mas a gente só vai fazer isso. Se eu estiver lá. Não só se a gente estiver lá respirando essas coisas, mas se tiver um corpo técnico pensando nisso. O corpo técnico não está pensando nisso. O corpo técnico está sendo reativo. Olha, arrombaram os gabinetes. Aí ele se preocupa em fortalecer o local onde arrombaram. Ele é reativo. Sim. Ele não está pensando, e eu sei que uma dor do cliente é falta de espaço. Ele não tem espaço. Eu coloquei no gabinete, 90% dos 415 gabinetes que a gente instalou, 90% é numa torre onde.
+00:26:42 Speaker 2
+A Vivo não tem presença. Quem tem presença nessa torre, ou é outro operador, ou é uma torre que foi construída para se colocar no gabinete da Vivo. Chama-se site novo. Então 90% é tudo novo.
+00:26:56 Speaker 2
+Mas...
+00:26:58 Speaker 2
+Ela tem os outros 30 mil que ela já está presente. E eventualmente eu entro nesse site, nesses 10%, é um local onde a Viva já tem presença, tudo bagunçado. Eu coloco um gabinete novinho, acho que aqui tem uma grande oportunidade.
+00:27:14 Speaker 1
+É, Eu vou até conectar, ontem a gente mapeou três tipos de perfis aqui, Então o espaço legado, que é um espaço que está funcionando, já está ali, está ao lado, Que é um pouco do setor, isso daí eu reorganizo. A gente identificou talvez a ampliação, então eu já tenho aquele espaço, aquele espaço Estamos tendo a precisão de ampliar ele de alguma forma, então a gente poderia entrar, Nesse momento e os novos sites. São esses ou tem mais algum que você enxerga?
+00:27:38 Speaker 2
+Não, são esses, até porque o legado, a grande maioria, quando fala legado, a gente está, Falando do universo enorme, tá? Eu falei o número de 30 mil, a ordem de grandeza é essa, imagina, se eu instalei, E... 400, a Miu instala mil novas por ano, no máximo 2 mil por ano, outros 30 mil já existem. Não quer dizer que ela não está fazendo nada lá, ela tem um gabinete lá, qualquer, Espaço livre ela vai colocar equipamento, mas está gerando, só ampliando a bagunça.
+00:28:09 Speaker 1
+Me diz uma coisa, todas elas têm gabinete? Porque em algum momento a gente viu que, dependendo, assim, elas não conseguem, elas não têm Capacidade, às vezes vão ter um pouco... Para atender todas as antenas e talvez alguma, pode ter o gabinete, mas talvez não tenha o backup de bateria e isso fica sem?
+00:28:27 Speaker 2
+Toda Estação de telecomunicações aqui no Brasil tem um sistema de energia que converte a energia da concessionária alternada em corrente contínua. Na TIM, das 30 mil que a TIM tem, 70% não tem bateria. Elas nasceram com bateria. A bateria tem uma vida útil, você tem que trocar, mas essa velocidade de implantar, Esse rolo compressor é tão grande que ela não consegue cuidar do que ela tem.
+00:29:00 Speaker 2
+Então, um exemplo, faltou energia no Brasil, faltou energia no Brasil, vocês devem viver Isso, porque se tiver um pagão perto da casa de vocês, seu celular vai durar pouco, porque, A maioria das estações que estão cobrindo a área que você mora, não tem bateria. Ou porque roubaram a bateria, ou porque ela já perdeu a vida útil. E ela vai ficando, vai ficando, e a empresa não tem braço para fazer isso. Tanto que a Vivo, ela propôs agora um projeto de bateria as a service.
+00:29:31 Speaker 2
+Ela quer braço para atender todo esse gap que existe, toda operadora tem, tá? E todo ano se gasta milhões, milhões mesmo, tá? Sessenta, cem milhões de reais só para botar a bateria em um local que não tem. Como ela não consegue, não tem braço suficiente, ela ataca aquilo que é mais importante. Então, todas as operadoras têm isso. A TI tem lá um cluster que eles chamam de sites gold. Então, de 30 mil, menos de mil é classificado como gold. Que é o cara que cobre ali a Avenida Paulista, as grandes empresas, a Casa do Presidente.
+00:30:04 Speaker 2
+Coisas desse tipo. Esses caras não podem faltar. Então, ele diz não para 29 mil e diz sim só para mil. Essa é a rotina de qualquer operadora. Então você vai degradando seus ativos, tudo vai ficando degradado. A gente visita estações que o mato bate assim, o mato está tão alto, Que a própria torreira também tem a obrigação de falar, não vai, no dia que reclamar eu vou, eu economizo.
+00:30:35 Speaker 1
+Isso é bom.
+00:30:38 Speaker 1
+Eu ia falar outra coisa, mas eu vou puxar a torreira agora. Quando a gente olha... Para potenciar as clientes, obviamente, a gente está falando das três grandes operadoras, A gente tem níveis ali de atendimento para elas, mas as torreiras podem ser um possível Cliente para nós ou não?
+00:30:55 Speaker 1
+A gente já analisou ou não?
+00:30:59 Speaker 2
+O Que acontece hoje? Vou dar um exemplo, a maior torreira do Brasil, dessas 100 mil, 30% é da American Tower, É a maior de todas. A Mercantile falou, eu não quero, não vou pôr gabinete de energia nenhum, meu negócio é torre, meu negócio não é gabinete de energia. Ela falou, não, bateu o perfil, não que ela pode bater o perfil, que ela tem o maior market share. E ela falou, não, então em 100% do site da Mercantile quem instala o gabinete na Vivo é a gente.
+00:31:31 Speaker 2
+Outras torreiras que não tem o poder de barra de ganho, a Vivo fala o seguinte, olha, Highline, você vai pôr gabinete de energia, eu vou te pagar um aluguel, com todo medo eu te pago 2 mil reais. Mas eu não quero. Não, você vai pôr. Porque se você não pôr, eu não te dou mais torre. Simples assim. Então tem uma chantagem aí. Eu conheço todas elas. São meus amigos. Eles falam isso. Eles não querem, mas são obrigados a fazer. Eles perdem dinheiro. Porque eles não vão montar uma estrutura de operação, de energia, se o negócio dele é ferro.
+00:32:01 Speaker 2
+Não faz sentido para ele. Então ele coloca o gabinete, respeitando a especificação técnica. Como ele não quer, imagina que ele... Pra caber no preço, ele faça alguma simplificação do produto, um dia que uma hora vai dar problema.
+00:32:17 Speaker 1
+Sim. Mas esse é um caminho nosso, como mora, de entrar como parceiro dessa torreira?
+00:32:22 Speaker 2
+Não, Mas aí eu... Ou não, ainda não. Eu contei essa história toda. O contrato é com o cliente, então a torreira tem que ter um contrato com o cliente e eu, Tenho que ter... Um exemplo, a Vivo vai pagar um aluguel, por que que a Vivo vai me pagar um aluguel se Eu tô dentro da casa da torreira?
+00:32:42 Speaker 2
+Você está falando, eu vou ter que ter um acordo com a torreira, vou colocar um gabinete Aqui, mas para eu ter esse acordo, a torreira também tem que ter um acordo, cria uma triangulação.
+00:32:52 Speaker 1
+É mais fácil a gente ir direto, né?
+00:32:53 Speaker 2
+Ir direto. Para mim é a melhor situação, ir direto. Você está querendo colocar um intermediário aí, não parece fazer sentido.
+00:33:00 Speaker 1
+Tá, tá bom. Era mais para entender se, por exemplo, se ela é obrigada a colocar, se ela vai prestar, Isso, se ela tem que fazer. Se ele também não é possível, o cliente nosso, entendeu? A gente faz isso.
+00:33:11 Speaker 2
+Não parece fazer sentido. Por isso, por essa triangulação. E aonde a gente tem entrado, a torreira fica até satisfeita, Porque sabe o como que a gente está fazendo, sabe?
+00:33:24 Speaker 1
+Eles Não são necessariamente parceiros de negócio, Mas eles são ali uns influenciadores positivos. Quando a gente olha hoje para esse produto que a gente tem hoje, O produto mesmo, o que a gente está colocando, o que a gente está instalando, o que a gente está organizando. O que você entende que são desafios de ampliação? É porque, o que a gente entendeu? A gente está ainda no modelo de POC. Então, o produto que a gente está colocando hoje não é exatamente o que a gente tinha imaginado como final, Mas um produto que a gente desenhou e está seguindo com ele.
+00:33:56 Speaker 1
+Existem outras versões, algumas outras evoluções acontecendo. E eu queria saber a sua opinião desse produto barra serviço, que é a plataforma que vocês usam de monitoramento.
+00:34:05 Speaker 2
+Eu não vou nem chamar de produto, eu estava focando no produto ou gabinete em si. Tem muita coisa sendo trabalhada no gabinete em si, mas é coisas muito especiais, assim, Melhorar o cadeado, é muito simples, eu acho que a gente tem que estar evoluindo para agregar, Mais valor para o cliente, buscar oportunidades. Olha, você me comprou, você me alugou um gabinete que eu te ofereço 20 us, que é Espaço físico, eu consigo ampliar ele aqui, se eu colocar esse capacete aqui, eu te dou Mais. 30 usos aqui livres, pra você colocar mais equipamento.
+00:34:38 Speaker 2
+Aí é uma aditiva, você me paga 2 mil por mês, se eu colocar essa adaptação você vai me pagar mais 500 reais por mês, um exemplo. A gente já tá pensando nisso. Ou então bolando o nosso produto, que pode ser mais eficiente, porque esse produto ele veio formatado do cliente. A gente pode usar a nossa inteligência pra melhorar esse produto, mexer na especificação técnica, garantindo qualidade e garantir... E entregar e propor para ele, olha, está aqui, o que você acha, a gente podia estar fazendo isso.
+00:35:09 Speaker 2
+A gente não está fazendo isso, a gente está simplesmente trabalhando o que ela entregou, Sem pensar nas alternativas. Então o produto, não tem inovação nesse produto, a gente entrega o que eles pediram. Quando a gente fala agora produto, pacote, nex, a gente tem aqui o produto gabinete, A gente tem na conta a Moro Energia, fazendo interface com o cliente, Ofertando esse serviço, operando esse produto. E no meio a gente tem uma grande plataforma, um ecossistema aqui, que faz essa gestão À distância através de monitoramento.
+00:35:42 Speaker 2
+Então eu preciso, qual é o meu papel aqui? Eu tenho que garantir que esse produto que é nosso, a Mura está gastando uma fortuna, É nosso. Se eu instalei 400, cada um custa 100 mil, tem 40 milhões de reais espalhados pelo Brasil Que são na Mura Energia. Perfeito. Eu tenho que cuidar dele, eu tenho que dar manutenção. Eu tenho que ser preditivo, eu tenho que identificar pela saúde que vai dar um problema, Eu tenho que atender a demanda do cliente, eu não posso descumprir um contrato. Então, se eu falei que ia durar quatro horas e falta energia, eu tenho que monitorar isso,
+00:36:14 Speaker 2
+Se ele está atendendo. O tempo inteiro eu tenho que fazer isso. Então, esse ciclo aqui, são três pilares, né? Produto, gabinete, serviço e a plataforma que une os dois aqui. Isso tem que funcionar perfeitamente. É onde eu acho que eu mais investi aqui esforço, desde que eu cheguei, exatamente nesse funcionamento. Que é onde eu continuo investindo meu tempo, é aqui.
+00:36:41 Speaker 1
+Que é pra garantir que isso funcione bem, dados confiáveis...
+00:36:43 Speaker 2
+Tenha o conhecimento do que está acontecendo sem ir lá. Porque se eu vou no campo, eu estou gastando dinheiro. Eu não quero ir no campo, mas eu quero cuidar dele. Então eu tenho que ficar monitorando o tempo inteiro. Então tem todo um sistema de alarmes. Gestão de tickets aqui, de gestão de manutenção, a cada seis meses eu visito esse gabinete, Eu tenho um contrato de manutenção com o braço de serviço que é a RSM, que ele vai A cada seis meses nesses gabinetes, então a gente faz uma rota de manutenção, eles.
+00:37:15 Speaker 2
+Vão lá e fazem um checklist, como um carro, um carro foi para revisão, é a mesma coisa Que a gente faz em seis meses. Para quê? Para que além de atender o SLA de contrato, as demandas de contrato, Eu tenho que garantir que esse ativo dure o máximo possível.
+00:37:32 Speaker 1
+Tinha respondido? Respondeu. E aí quando a gente olha para esse produto, agora vamos começar lá do começo, que a, Gente sempre fez uma pergunta, você quer essa evolução do produto aonde? Ainda em telecom? Eu queria entender a sua visão de negócio, de evolução mesmo dele, como você enxerga Esse produto daqui 3, 5, 10 anos? O que você imagina como negócio? Não sei nem se a solução ainda vai estar clara para vocês.
+00:37:56 Speaker 2
+Eu Sou um... Eu sou um amante de novas tecnologias sem ter habilidade técnica, mas eu adoro estudar Muito isso. E a quantidade de dados que a gente está tendo acesso, de comportamentos, da energia, Lá no campo, está possibilitando a gente criar um oceano aqui de informação que a Gente pode usar a favor do cliente, para agregar mais valor para o cliente. Eu tenho condições de falar para o cliente hoje quantas...
+00:38:26 Speaker 2
+Falhas de energia, por exemplo, esse é o mais simples de todos, quantas falhas aconteceram Na estação que tem aqui do lado, em piedade, em que dia que ela aconteceu, qual foi a duração Dela, eu consigo levar informações ricas desse comportamento para ele. De temperatura, talvez fazer uma associação com a queima de equipamentos, com temperatura, Dá para fazer muita coisa. A grande questão é o seguinte, o cliente também pode fazer isso, ele tem a mesma informação. Através dos equipamentos que ele tem dentro do meu equipamento.
+00:38:58 Speaker 2
+Por que ele não faz isso? Porque ele não tem tempo. Ele não tem tempo, não é prioridade. Então como é que eu convenço ele que eu tenho um produto que pode agregar valor para ele? Eu tenho que conhecer qual é a dor dele, então ficar muito perto dele. Para em algum momento, eu gosto de pensar lá na frente da gente monetizar isso. Eu queria uma robustez tão grande de dados. Olha, se você quiser ter acesso, igual o LinkedIn Premium. Igual a várias plataformas premium que você tem um pouquinho a mais, o próprio chat GPT, você vai ter um pouquinho a mais, você quer esse pouquinho a mais?
+00:39:32 Speaker 2
+Então a gente tem que treinar, treinar e treinar, se especializar nesse pouquinho a mais e convencer ele a comprar isso da gente, a alugar, a ter esse acesso a essas informações. Eu acho que a gente pode agregar valor nesse sentido.
+00:39:44 Speaker 1
+Gostei da sua analogia e aí eu vou te fazer também uma pergunta inversa. Então, pegando...
+00:39:52 Speaker 2
+Desculpa, mais uma vez, só para não pular isso assim, eu acho que esse é o futuro. Nesse momento, de imediato, básico, é ampliar, é alavancar. Alavancar é fazer mais do mesmo, de formas diferentes. Eu entrar, não tenho que esperar ele me entregar, Ó, tá aqui, pode ir lá entregar o gabinete necessário. Eu quero conhecer os 30 mil dele. Eu quero entrar nesses 30 mil, eu não sei se eu fiz 400, mas ele tem 30 mil, eu quero entrar nesses 30 mil.
+00:40:23 Speaker 2
+Não é só colocar um garnei, porque ele não tem nem espaço, eu tenho que tirar três para colocar um, Eu vou moldar, vou fazer um maior, um grandão, que ele atende, do ponto de vista de energia, ele atende três juntos, E do ponto de vista de espaço, ele equivale a metade desses três, um exemplo. Isso significa que você vai ter uma economia de X mil reais, só de aluguel de solo. Sim. Levar isso sem ser, ele não precisa pedir, eu posso levar isso desde que eu conheça Essa dor, desde que eu esteja lá dentro pra entender o tamanho dessa dor, a gente consegue.
+00:40:56 Speaker 2
+Moldar isso.
+00:40:58 Speaker 1
+Perfeito. Não, perfeito. Só um parê. Não, achou incrível essa visão de futuro assim e conectada muito aí com o que tu tá Olhando de mercado. A minha pergunta era quase inversa. Quando você fala assim, ah, eu entrego isso, depois eu vou entregando um pouquinho mais, né, Que eu acho que é super legal, tem os dados, eu posso ir entregando uma evolução disso. Minha pergunta é pra você, qual que deve ser o mínimo desse produto? Tipo, o mínimo dele é o gabinete com as baterias e o monitoramento? Ou não, eu posso entregar alguma parte, obviamente, numa bateria que vocês já fazem,
+00:41:29 Speaker 1
+Mas eu tenho uma outra parte, talvez menor, do Max, que eu poderia ter, tipo, Que nem quando a gente tem a ferramenta, tipo...
+00:41:39 Speaker 1
+Ela te dá um gosto só.
+00:41:41 Speaker 2
+Entendi, mas eu acho que a gente já parte de uma configuração básica.
+00:41:46 Speaker 2
+Essa É A básica.
+00:41:49 Speaker 1
+A diferença.
+00:41:50 Speaker 2
+Seria que a gente pode ofertar um gabinete que é menor, mas a gente está atendendo o que estava escrito no edital lá. Então ele pediu exatamente isso daqui, com esse espaço a gente está atendendo. No edital, ele coloca inclusive gabinetes mais robustos. O sistema de ar-condicionado é o bem maior, que a gente fez questão de não entrar. É uma minoria desses 30 mil, uma complexidade enorme de você manter, igual em casa, manter Mais um aparelho eletrônico lá e dar trabalho. Então, Pelo volume não fazer sentido entrar.
+00:42:22 Speaker 1
+Perfeito, também. Aí eu queria sua visão...
+00:42:25 Speaker 2
+O Acessório do capacete, de ampliar, vai fazer sucesso.
+00:42:31 Speaker 1
+É uma segunda venda, que aí pode ser... Eu nem falei aqui, cara. O que pode ser essa venda em cima da venda, né? Agora, olhando para esse cliente, entendendo seu conhecimento, seu olhar, quem são as Pessoas que a gente deveria estar falando lá dentro dessas operadoras? Não sei se tem um cargo específico, se tem um perfil específico. Lá dentro de qualquer operadora,
+00:42:55 Speaker 2
+Na verdade de qualquer empresa.
+00:42:58 Speaker 2
+Não necessariamente o diretor de implantação. É a pessoa na empresa, na outra o técnico talvez mande mais do que esse diretor de implantação Na questão de tomada de decisão, de influência. Tem que se descobrir. Então eu vou dar um exemplo. Vocês já foram em Belo Jardim? Eu fui em Belo Jardim como cliente. Eu fiquei encantado. Eu fui em 2015, eu fui para o centro de inovação na Telecom Itália, em Milão, em Turim.
+00:43:33 Speaker 2
+É um negócio assim de outro mundo, foi a virada de chave na minha carreira, porque Eles já simulavam cidades inteligentes, pontos de ônibus inteligentes, um auditório com, Um telão imenso que mostrava as câmeras de segurança na cidade de Barcelona, um negócio Assim fantástico, que pra mim era muito distante, mas esse muito distante no mundo da telecomunicação, É amanhã, é ontem. Quando eu voltei... A virada de chave foi a seguinte, eu sempre trabalhei na área de planejamento, estrutura e implantação,
+00:44:05 Speaker 2
+Eu recebia muito fornecedor de infraestrutura oferecendo alguma coisa. Eu sempre pedia, não, manda uma apresentação.
+00:44:12 Speaker 2
+Depois disso, eu nunca mais pedi uma apresentação. Se fosse algo interessante, eu falei, vamos lá, vamos fazer um teste. E aí, tinha uma planta enorme no rio Iguaratiba, onde tem as antenas de satélite, Um terreno gigantesco, subutilizado, eu tive a autorização de ir lá, comecei. Para fazer alguns testes. Então o fornecedor, olha, você está tendo problema de licenciamento, eu inventei uma Caixa que você coloca no solo, você faz um buraco, coloca a caixa, cheia de equipamento,
+00:44:42 Speaker 2
+Ele tem uma exaustão, você esconde o equipamento, ele não vai ser roubado e você não vai ter Problema de licenciamento. Eu falei, vamos testar, vamos fazer lá. A gente fez lá. As primeiras antenas 5G, são antenas enormes, a primeira bateria de lítio de uma estação Celular no Brasil está lá, a gente colocou, da Hauwai.
+00:45:01 Speaker 2
+A gente criou um poste, que aqui em Recife tem um monte, Dona Lindu, tem vários shoppings, É um poste que a gente chama de The Ocide. A ideia era o seguinte, era substituir um poste de iluminação pública para virar um, Poste de telecomunicações. O que é um grande problema das operadoras é que o 5G trouxe uma necessidade de, eu Falei 30 mil, 30 mil virar 60 mil. Como que vira 60 se nossas leis não permitem isso? Uma briga é tédio.
+00:45:30 Speaker 2
+Eu comprei o ar, a frequência, e não consegui implantar porque o município não deixa. A gente criou isso, sucesso total. Eu tiro o poste, no Rio de Janeiro você tirava o poste que tava lá no canteiro e colocava, Um outro poste parecido com aquele, só que recheado de equipamento. Só que eu tinha que ter equipamentos menores, baterias específicas, então a gente botou A bateria de linho de lado ali. A primeira de linho tava lá. Aí daqui a pouco a gente entrou no mundo agro.
+00:46:01 Speaker 2
+Poxa, mas no mundo agro eu não vou ter energia, então eu vou ter que ter estações off-grid, Com painéis solares. Tem uma funcionando lá desde 2018 sem nenhuma interrupção, ela está funcionando sem energia Comercial, só com solo.
+00:46:14 Speaker 1
+Ela Roda com ela mesmo.
+00:46:16 Speaker 2
+Na praia de Pipa, aqui, esse poste, a gente resolveu inovar e colocou uma hélice lá Em cima para gerar energia. Está lá funcionando. Aí veio um pintor famoso lá em Pipa. Ele decorou o poste todo, saiu no jornal, mas a gente estava sempre incomodado, querendo Agregar mais valor e criar os atalhos, as facilidades, então nesse sentido a gente tem um passo a Frente.
+00:46:45 Speaker 1
+Perfeito, gostei. Deixa eu... Está quase terminando e aí eu queria sua visão de futuro, a gente falou da visão De futuro do Telecom, mas se você fosse olhar a solução hoje para o futuro, qual seria, Para onde você acha que ela expande? O que vai além da telecom? Você consegue enxergar assim? Qualquer aluno.
+00:47:03 Speaker 2
+Eu dei o exemplo do banco, né? Daí a gente estava discutindo. Não é negócio de banco ficar cuidando de energia. Não é negócio de banco.
+00:47:15 Speaker 2
+Então qualquer indústria que precise de energia, Em volume grande, porque às vezes é coisa muito pequena...
+00:47:25 Speaker 2
+Está ligado, tem que estar ligado para isso. Essa mudança, essa servitização eu acho que é uma Tendência geral. Aqui no país eu acho que é um pouco mais lenta do que em países Mais desenvolvidos que viram essa chave muito rápido. Deixa eu focar aqui em, Tecnologia, deixa eu focar no que eu sei e o resto eu encomendo da Índia, da China.
+00:47:48 Speaker 2
+Essa virada aqui é mais lenta, mas ela não tem como não acontecer, ela vai acontecer. E o mais importante de você aproveitar essa oportunidade é você estar lá na frente, Pensando lá na frente. E para pensar lá na frente, você tem que ter dedicação, tem que ter um grupo focado nisso. Um comentário que eu fiz aqui, Débora, falando especificamente do gabinete, Que hoje o nosso foco aqui é no... A Telefônica desenhou um produto e a gente entrega exatamente o que ela pediu. A gente tem até medo de mexer, porque ela falou, tem que ser desenhado, acabou,
+00:48:19 Speaker 2
+Está escrito no edital, está homologado. Não tem ninguém lá dentro de casa que pense, pô, eu vou mudar. Eu achei uma forma de melhorar isso aqui. Olha, ao invés dele ser retangular, eu acho que quadrado é melhor. Não tem ninguém quebrando a cabeça. Não tinha que estar quebrando a cabeça. Eu senti na dor deles lá. Eu falei que na tinha, eu criei o... Você foi em Guaratiba, né? Eu criei em cima, né? O capacete lá. Foi um sucesso que as torreiras odeiam. Porque eu não sentava com a torreira. Imagina chegar navio vivo.
+00:48:50 Speaker 2
+Eu achei uma solução, você tem vários gabinetes que não são da Moura, não são do parque, tem que ser padronizado, eu tenho uma alternativa, você não gastar mais dinheiro, eu te vendo, eu te alugo o capacete aqui, você me paga 500 reais por mês, eu adapto e te dou mais espaço, pode estar vendendo isso para ele, é isso.
+00:49:13 Speaker 1
+Então vai ser mais dinheiro, né? É, sim, talvez mais técnica ali para outras duas, tá bom. Alguma coisa que você queria trazer? Eu terminei minhas perguntas, acho que foi... Não, espero que tenha ajudado. Ajudou muito, foi maravilhoso.
+00:49:28 Speaker 1
+Não, o dele é muito bom. Tem alguma coisa que eu não te perguntei que você queria me falar?
+00:49:34 Speaker 2
+Não, eu acho que a gente, aqui na Amor, a gente é muito preocupado com qualidade.
+00:49:43 Speaker 2
+Em atender com excelência aquilo que foi pedido. Então eu acho, e ele já me coloca aqui, que a gente é treinado assim para seguir o escrito. Então a esteira de uma fábrica, ela tem que ser eficiente, todas as engrenagens tem que funcionar para sair aquele produto. A gente tem que dar uma chacoalhada aqui e ter uma jornada de inovação para a gente pensar fora da caixa. E eu costumo dizer que eu sou esse vetor dessa mudança aqui. Essas Provocações, na verdade, tem que estar no DNA.
+00:50:17 Speaker 2
+Então, quando a gente fala em inovação aqui dentro de casa, É uma inovação ainda muito inicial para onde a gente quer entrar. Muito inicial, era para a gente estar aqui e ir muito além, entendeu? Mas para ir muito além, essas sementinhas são plantadas e a gente tem que cultivar elas. Com as pequenas coisas, entendeu? Tem algumas jornadas, tem alguns treinamentos, Tem pessoas-chave em alguns lugares Estimulando esse tipo de coisa. Porque o inovar não necessariamente.
+00:50:48 Speaker 2
+Está no produto, né? Até na forma da gente, Fazer, em serviços, em processos. Isso tem que estar aqui pro pessoal. E aí eu entendo, São décadas, a bateria, Entra aqui, os insumos, E sai a bateria que vai pra concessionária do carro. Muitas devem fazer a mesma coisa, cada vez melhor, mas a mesma coisa, não quero mais isso gente, quero pensar diferente agora, então a gente tem seguido a indústria ferroviária, precisa de uma bateria tal, a gente produz uma bateria tal, é bom.
+00:51:23 Speaker 1
+Perfeito, quando a gente olha para a Moro Energia, qual que é esse lugar que a gente quer chegar, visão de futuro, se você tivesse que fechar com essa visão?
+00:51:36 Speaker 1
+Eu sei, não era fácil, eu sei.
+00:51:38 Speaker 2
+Porque Não tem limite, eu gosto de pensar grande, não tem limite. Quando a gente se torna referência no mundo de telecomunicações, eu tenho que usar essa referência para entrar em outros mercados com essa referência. Então a gente ser realmente um especialista no negócio, energia como serviço, que o próprio nome está dizendo, é demais.
+00:52:03 Speaker 1
+Só que.
+00:52:03 Speaker 2
+Ele não pode ser amplo demais, a gente disse, não, é só o gabinete. Mas é energia, gente, a energia não é só um gabinete, é muito mais do que isso. E o gabinete veio já pronto, é um gabinete de mercado, não tem nada de diferente. O BES, talvez seja uma tremenda oportunidade, o Home BES. Qualquer um hoje, qualquer amigo que eu tenho, adoraria ter um Home BES. Eu adoraria ter um Home BES na minha casa. Ah, mas não falta energia? Eu quero, eu quero, porque no dia que faltar eu quero estar preparado. Entendeu? E ele tá mais simpático agora, parece uma adega, tem de tudo, tem de tudo.
+00:52:36 Speaker 2
+Então a gente já tinha que estar respirando esse tipo de coisa, entendendo as necessidades do mercado. Não que não aconteça isso, tá? Mas a velocidade tem que ser maior, porque senão amanhã aparece um chinês e atropela.
+00:52:52 Speaker 1
+E Atropela.
+00:52:53 Speaker 2
+E o chinês costuma fazer isso. Primeiro ele faz, ele gasta o que for. Depois ele se adapta, ele corre, mas primeiro ele entra, então ele sai atropelando, aí depois ele vê que... Vai ajustando. Não, precisa ajustar, e o mercado não perdoa, tá? Então, minha preocupação é, você perguntou onde, infinitas possibilidades, desde que a gente se prepare. Se não, a gente vai dançar conforme a música e entregar com excelência aquilo que a gente está sendo demandado.
+00:53:26 Speaker 1
+Muitíssimo obrigada. De nada. Foi um prazer falar com você, foi ótimo e eu vou pedir se tiver mais alguma dúvida. Falei mal de ninguém, não, né? Não, não, não. Tá só com a gente. Ela está aqui. Vai estar no mural. Vai estar do lado.
+00:53:43 Speaker 1
+Não, mas a Ginésia aqui é nossa e aí é muito mais um diagnóstico, mas não falou, Nada, falou bem, aqui estava ótimo. Que bom. E obrigada. E eu vou pedir até quarta-feira, se tiver alguma dúvida, a gente vai falando com o André e a gente traz pra ti. Tá bom. Você me entende. Ah, não. Você me entende.
+00:53:59 Speaker 1
+Tchau.
