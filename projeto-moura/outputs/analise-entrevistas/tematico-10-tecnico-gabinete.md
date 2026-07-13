@@ -57,6 +57,20 @@
 
 ---
 
+## 9. Hipóteses para validação (Fase 2 — com operadoras)
+
+**Não abordado diretamente** — a conversa não trouxe opiniões sobre o que funciona ou trava o negócio comercialmente. Um único ponto técnico gera uma hipótese indireta, útil para explorar na Fase 2:
+
+| Observação técnica | Hipótese estruturada para testar com o mercado |
+|---|---|
+| Cada gabinete é fisicamente segregado por operadora, mesmo em sites compartilhados (torreira) — nenhuma infraestrutura física é dividida entre operadoras. | Pode existir a suposição implícita de que as operadoras exigem segregação física total por questões de segurança/confidencialidade — mas isso nunca foi confirmado diretamente com elas. Testar na Fase 2 se as operadoras aceitariam algum nível de infraestrutura física compartilhada (não o ativo elétrico, mas por exemplo estrutura de proteção/CAVE) como forma de reduzir custo, ou se a segregação total é de fato uma exigência inegociável. |
+
+## 10. Pessoas-chave para falar dentro do cliente (operadora)
+
+**Não abordado.** A conversa é uma demonstração técnica conduzida por um técnico da Moura, sem menção a contatos ou interlocutores do lado da operadora.
+
+---
+
 ## Detalhes técnicos relevantes (para referência cruzada com outros documentos)
 
 - Componentes do gabinete: fonte (modelos homologados: Delta e NFC/NRSys), quadro de disjuntores, banco de baterias (chumbo 12V, empilhadas 4 a 4, ou lítio 48V).

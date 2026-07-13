@@ -87,3 +87,26 @@ Não é foco dela — mas menciona não saber responder com precisão sobre pena
 **Fato — aposta pessoal dela sobre onde focar a expansão:** "hoje eu atacaria a Tim, com certeza, porque eu acho que tem sentido para eles [...] eles têm uma deficiência com isso, com organização, com rollout [...] Eu iria nas grandes operadoras e, se possível, insistir mais nas torreiras" (torreiras grandes, especificamente — as pequenas "não fazem sentido" pelo volume).
 **Fato — reconhece a necessidade de mapear torreiras de forma mais sistemática:** "existe um sindicato de torreiras, a gente pode até pesquisar."
 **Fato — tom geral:** discurso pragmático e orientado a ação de curto prazo (consertar apresentação, montar business case, insistir nas grandes operadoras e torreiras) — menos especulativo sobre roadmap de produto de longo prazo do que outros entrevistados (ex.: Francisco, Espinosa).
+
+---
+
+## 9. Hipóteses para validação (Fase 2 — com operadoras)
+
+| O que o time interno acredita (opinião de Aline Souza) | Hipótese estruturada para testar com o mercado |
+|---|---|
+| A reunião com o "boarding" da TIM foi cancelada por a apresentação não estar em "nível de boarding" — a barreira seria de forma/material. | Mesmo com uma apresentação de nível adequado, a decisão final pode continuar travada porque **quem decide de fato não está na sala** — o CAPEX de infraestrutura pode depender de aprovação de outro comitê/área. Testar diretamente, antes de reagendar, quem assina a aprovação final de um contrato desse porte na TIM. |
+| Claro resiste por política top-down da matriz mexicana (prefere CAPEX). | Um contato gerencial recente da Claro reagiu positivamente à ideia ("gostei muito, vamos fazer uma proposta") — isso sugere que a resistência **pode não ser definitiva/estrutural**, mas sim falta de um business case completo apresentado no nível certo. Testar se apresentar o business case (não só o argumento de bateria) muda a decisão desse contato específico. |
+| Algar não valorizou o antifurto porque os sites já são protegidos fisicamente (prédios com segurança). | O apelo comercial pode estar centrado demais em furto — para clientes como a Algar, **outros ganhos (redução de gestão operacional, SLA, disponibilidade) podem ser mais relevantes** e nunca foram apresentados de forma isolada do discurso antifurto. Testar um pitch sem o argumento de furto para esse perfil de cliente. |
+| Torreiras seguem estratégia top-down de compra, "nenhuma nunca abriu a porta" para aluguel. | A recusa pode não ser por princípio, mas porque **nunca foi apresentada uma comparação financeira direta** entre comprar e alugar para uma torreira grande — testar apresentando essa análise a uma torreira específica, isoladamente da negociação com a operadora. |
+
+## 10. Pessoas-chave para falar dentro do cliente (operadora)
+
+**Já conversados, segundo ela:**
+- **TIM** — "os tops" (alta diretoria, não nomeados): reunião **cancelada antes de acontecer**, por despreparo da apresentação — ainda não retentada até a data da entrevista.
+- **Claro** — contato de nível gerencial (não nomeado): reação recente positiva ("gostei muito dessa ideia, vamos fazer uma proposta"), mas o processo voltou a cair no mesmo business case fechado da matriz — contato-chave a aprofundar.
+- **Algar** — comprador/executivo (não nomeado): negociação de ~1 ano, migrou de interesse em aluguel para leilão de compra de bateria avulsa.
+- **Torreiras** (T-System/iSystem): resultado — só fecharam pedido de compra, nunca aluguel.
+
+**Não conversados / lacuna identificada:**
+- Não há nome/cargo mapeado para quem, na TIM, teria autoridade para aprovar o contrato mesmo após uma apresentação de nível "boarding" — ponto em aberto.
+- Não menciona ter identificado, na Claro, um comitê de investimento corporativo (matriz) como interlocutor formal — só contato local.

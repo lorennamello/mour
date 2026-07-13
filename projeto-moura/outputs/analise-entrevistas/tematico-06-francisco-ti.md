@@ -82,3 +82,22 @@ Não é a área dele; contribui apenas com uma leitura de possível "moeda de tr
 **Fato — conceito de "chassi único":** unificar telecom + BES + HomeBES numa mesma base/infraestrutura de dados para ganhar densidade de informação e permitir cruzamentos inusitados (ele cita, de forma quase lúdica, cruzar dados de uma bicicleta elétrica da Moura com dados de energia da estação rádio-base — "não tem nada a ver, mas tem tudo a ver").
 **Fato — roadmap H1/H2/H3 mencionado (dele e de outro participante presente):** H2 é aproximadamente o horizonte do VPP (fotovoltaico + BES); H3 seria hidrogênio — mas ele reconhece não ter visibilidade dessa fronteira aplicada especificamente a telecom: "Para o produto específico [...] eu não consigo ter essa visibilidade ainda."
 **Fato — recomendação de discurso para o cliente:** migrar o argumento de custo puro para argumento de **nível de serviço regulatório** (tempo de reestabelecimento após furto, penalidade Anatel evitada) como gatilho mais forte de decisão do que economia direta.
+
+---
+
+## 9. Hipóteses para validação (Fase 2 — com operadoras)
+
+| O que o time interno acredita (opinião de Francisco) | Hipótese estruturada para testar com o mercado |
+|---|---|
+| Raiz dos problemas de confiabilidade da plataforma é erro de instalação, não conectividade — mas o cliente pode não perceber essa distinção. | O cliente pode estar atribuindo instabilidade/falta de confiança **à tecnologia da Moura como um todo**, quando a causa concreta é erro de instalação em sites específicos — testar diretamente com a operadora se casos pontuais de falha já pesaram na decisão de não expandir o contrato, e se isolar a causa (instalação vs. produto) muda a percepção. |
+| Operadoras estão migrando para "soluções compostas" (tecnologia + infraestrutura), citando TIM/V8 e Claro/HITS. | As operadoras podem estar abertas a uma parceria de infraestrutura mais ampla (não só energia) com a Moura, desde que a oferta inclua também **conectividade** (satélite, link dedicado) — testar apetite por esse tipo de parceria estratégica ampliada com a área de tecnologia/inovação das operadoras, não apenas com engenharia de energia. |
+| Argumento de custo puro é fraco; nível de serviço regulatório (Anatel) seria um gatilho mais forte. | Essa é uma hipótese ainda não testada por ninguém internamente — vale confirmar diretamente com compliance/regulatório das operadoras se o risco de multa Anatel realmente pesa na decisão de contratar energia como serviço, ou se, na prática, as multas são raras/pouco relevantes no orçamento delas. |
+
+## 10. Pessoas-chave para falar dentro do cliente (operadora)
+
+**Já conversados, segundo ele:**
+- Contato recente com a **V8** (empresa de tecnologia comprada pela TIM) — não é uma conversa tradicional com "cliente operadora", mas sim com uma aquisição de tecnologia da TIM; ele usa essa conversa para entender a tendência estratégica do grupo TIM, não para negociar o contrato de energia.
+
+**Não conversados / lacuna identificada:**
+- Não nomeia contatos específicos em Vivo, TIM ou Claro — seu foco é mais de tendência de mercado do que de relacionamento.
+- Sugere (sem nomear) que o interlocutor-chave para o futuro poderia ser a área de **tecnologia/inovação** das operadoras (dado o movimento delas para "soluções compostas"), e não a engenharia de infraestrutura tradicional — recomendação a explorar na Fase 2.

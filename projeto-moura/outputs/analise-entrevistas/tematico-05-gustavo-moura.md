@@ -79,3 +79,24 @@ Não abordado diretamente.
 **Fato — perfil de liderança:** "mão na massa" — quando há problema de furto, ele mesmo liga querendo entender.
 **Fato — relação com a Telefônica hoje:** tem acesso direto ao vice-presidente ("eu conheço o vice-presidente [...] eu falo com ele sempre"), mas reconhece que é uma empresa grande que exige defesa constante do modelo ("Já estamos aí devagando um pouco" — referência à disputa atual sobre o modelo "só bateria").
 **Interpretação:** apesar do otimismo geral, a visão de futuro dele está condicionada à capacidade de "defender" o modelo atual dentro do próprio cliente-âncora (Telefônica), que já demonstra sinais de querer reverter para um modelo de menor comprometimento (só bateria) — isso é tratado por ele como uma ameaça relevante e atual, não hipotética.
+
+---
+
+## 9. Hipóteses para validação (Fase 2 — com operadoras)
+
+| O que o time interno acredita (opinião de Gustavo Moura) | Hipótese estruturada para testar com o mercado |
+|---|---|
+| Torreiras não querem assumir energia como serviço porque foge do modelo delas (real estate, sem variação de receita/custo) e ameaça o custo de capital. | A recusa das torreiras pode não ser sobre o negócio de energia em si, mas sobre **risco percebido pelos financiadores/investidores delas** ao verem uma nova linha de custo variável no balanço — testar se um modelo de garantia ou seguro cruzado (a torreira não assume o risco residual de furto/OPEX) mudaria a disposição delas. |
+| TIM não converteu porque "apertou o preço" e "não percebeu o valor". | A recusa da TIM pode não ser sobre percepção de valor financeiro, mas sobre **descolamento entre quem avaliou o piloto tecnicamente (engenharia) e quem decide CAPEX de fato** — testar diretamente na TIM quem tem autoridade final sobre esse tipo de decisão, e se essa pessoa já viu o resultado do trial. |
+| A Telefônica está tentando migrar para um modelo de "só alugar bateria" — ele considera isso "péssimo" e atribui a uma mudança de posição do cliente. | Essa mudança pode não refletir uma decisão estratégica definitiva da Telefônica como empresa, mas sim **uma área específica (ligada a projetos especiais/procurement) buscando redução pontual de custo**, sem alinhamento com quem reconhece o valor do modelo atual (ex.: o VP com quem ele tem relação direta) — testar se reforçar o relacionamento com os patrocinadores originais do contrato reverte essa pressão. |
+| Operadoras "patrimonialistas" (dono forte, ex.: Claro/México) resistem mais que outras. | A resistência pode não ser sobre "cultura patrimonialista" em si, mas sobre **em que nível hierárquico a decisão de propriedade de ativo é tomada** (matriz internacional vs. operação local) — testar se a Claro tem, em algum nível, um comitê de inovação/local com mais abertura do que a matriz. |
+
+## 10. Pessoas-chave para falar dentro do cliente (operadora)
+
+**Já conversados, segundo ele:**
+- **Telefônica** — Vice-presidente: "eu conheço o vice-presidente [...] eu falo com ele sempre" — relacionamento direto e recorrente de alto nível.
+- **TIM** — não nomeia contato específico; reconhece que a conversão comercial não avançou por resistência de preço/percepção de valor.
+
+**Não conversados / lacuna identificada:**
+- Não menciona ter um relacionamento de alto nível equivalente ao da Telefônica em nenhuma outra operadora — sugere que a assimetria de acesso a decisores estratégicos pode ser um fator tão relevante quanto a proposta de valor em si.
+- Cita (via reporte de outra conversa, não dele diretamente) a ideia do CTO como interlocutor-chave possível, mas expressa incerteza sobre a eficácia desse perfil — não validado.

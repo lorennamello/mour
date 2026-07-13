@@ -84,3 +84,21 @@ Pouco abordado — foco da entrevista foi operacional/interno à Vivo. Não há 
 **Fato — aposta em rastreabilidade da bateria roubada e redimensionamento de energia** como frentes de mitigação de furto em andamento.
 
 **Interpretação:** sua visão de futuro é mais tática/incremental (resolver dados e furto) do que estratégica de mercado — reflexo do seu papel operacional, focado em fazer o produto atual funcionar melhor antes de pensar em expansão.
+
+---
+
+## 9. Hipóteses para validação (Fase 2 — com operadoras)
+
+| O que o time interno acredita (opinião do Consultor de Projetos) | Hipótese estruturada para testar com o mercado |
+|---|---|
+| A maior preocupação da Vivo é tempo de resposta/SLA — "isso é uma fraqueza [...] os SLA de atendimento nosso, os reais não estão iguais ao planejado." | O problema de SLA percebido pela Vivo pode não ser o tempo médio nacional, mas sim **cobertura desigual por região** (bases RSM concentradas no litoral/grandes centros) — testar com a Vivo se a insatisfação está concentrada em regionais específicas (ex.: interior de MG/RN) e não na média geral. |
+| A relação com a Vivo é "muito colaborativa" e a Vivo relativiza o vandalismo como algo cotidiano. | Essa tolerância pode ser válida apenas no nível operacional (quem ele conversa) e não refletir a visão de quem decide contratos/renovações — testar se o nível estratégico da Vivo (fora do contato dele) trata o índice de furto com a mesma tolerância ou o vê como risco de reputação/renegociação. |
+| A informação de autonomia do site "precisa ser minerada" — falha atribuída à imaturidade da plataforma. | O cliente pode nunca ter formalmente pedido esse dado em tempo real porque não sabe que é possível — testar se, ao apresentar a informação de autonomia ao vivo (não hoje disponível ao cliente), a Vivo passaria a exigi-la como parte do SLA contratual, o que mudaria a prioridade de desenvolvimento interna. |
+
+## 10. Pessoas-chave para falar dentro do cliente (operadora)
+
+**Já conversados, segundo ele:**
+- Contatos operacionais da Vivo (não nomeados) — relação cotidiana de troca de informações sobre sites/incidentes; ele descreve como "muito colaborativa".
+
+**Não conversados / lacuna identificada por ele mesmo:**
+- Ele afirma explicitamente não ter acesso a contatos estratégicos: "Minha relação com a Viva é uma relação operacional. Eu não tenho os contatos estratégicos [...] Talvez a visão da estratégia seja diferente, mas aí eu acabo não tendo essa relação." — isso é, em si, um achado relevante: **ninguém do lado operacional da Moura tem hoje acesso ao nível estratégico da Vivo**, o que é uma lacuna a preencher antes da Fase 2 (provavelmente via Espinosa, Gustavo ou Thiago Mello, que noutras entrevistas relatam esse acesso).

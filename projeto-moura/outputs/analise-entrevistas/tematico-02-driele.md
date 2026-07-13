@@ -101,3 +101,25 @@ Não abordados diretamente — ela reconhece não ter profundidade técnica ("Eu
 **Fato — ambição para o produto:** "Eu acredito que Moura Energia vai ser um dos maiores cases de sucesso da Moura. Eu acho que é o futuro da Moura, esse projeto."
 
 **Interpretação:** apesar do otimismo declarado, a visão de futuro dela é condicionada à resolução dos gargalos internos que ela mesma relata (SLA lento, falta de treinamento, sobrecarga operacional) — ela não descreve um roadmap de produto, mas sim um roadmap de maturidade organizacional necessário para sustentar o crescimento.
+
+---
+
+## 9. Hipóteses para validação (Fase 2 — com operadoras)
+
+| O que o time interno acredita (opinião de Driele) | Hipótese estruturada para testar com o mercado |
+|---|---|
+| Na TIM, "não queremos porque vai tirar o emprego de todo mundo" — resistência da operação por medo de perda de função. | A resistência da operação da TIM pode não ser sobre o emprego em si, mas sobre **continuar responsável/cobrada por SLA e Anatel sem mais deter o controle direto da manutenção** — ou seja, medo de exposição a risco sem autoridade correspondente. Testar diretamente com a operação da TIM se a preocupação é o cargo ou a responsabilização residual. |
+| Na Claro, "eles entendem mais pela questão financeira [...] não querem OPEX, querem o CAPEX 100%" — decisão vinda de forma top-down da matriz mexicana. | A preferência por CAPEX pode não ser uma política corporativa rígida e definitiva, mas sim **a ausência, até hoje, de um business case que compare CAPEX x OPEX em condições equivalentes** apresentado ao nível certo da matriz — testar se uma proposta formal, com todos os custos ocultos de CAPEX (mão de obra, furto, obsolescência) explicitados, muda a resposta. |
+| TIM só teria interesse desde que a decisão "suba para o staff" (alta diretoria) — abordagem de nível operacional não funciona. | Subir o discurso para a diretoria pode não ser suficiente sozinho — a real trava pode estar em **quem controla o orçamento de CAPEX de infraestrutura dentro da TIM**, que pode ser uma área diferente da que toma a decisão estratégica. Testar quem assina, na prática, a liberação orçamentária desse tipo de contrato. |
+| Cada operadora exige abordagem totalmente customizada ("cada operadora [...] vai ser uma solução diferente"). | Pode não ser a solução técnica que precisa mudar por operadora, e sim **o argumento de entrada** (financeiro para Claro, garantia de carreira/responsabilidade para TIM, inovação para Telefônica) — testar se um único produto com discursos de entrada diferenciados por operadora converte melhor do que customizar o produto em si. |
+
+## 10. Pessoas-chave para falar dentro do cliente (operadora)
+
+**Já conversados, segundo ela:**
+- **TIM** — time de planejamento/engenharia: reação de medo de perda de emprego. Depois, buscaram subir para a **diretoria/staff** da TIM — apresentação em construção na época da entrevista; ela não sabe nomear quem são essas pessoas no nível mais alto.
+- **Telefônica** — time de Planejamento (quem decide modelos de negócio e "puxa a verba"), Engenharia (parceira na vistoria/desenho técnico); Compras só entra no fim, na negociação comercial final. Resultado: relação já consolidada e colaborativa.
+- **Aloha** e **iSystems** — contatos mapeados como potenciais, mas prospecção interrompida por turnover no cliente (Aloha) e falta de histórico/follow-up (iSystems) — não chegaram a uma conversa efetiva.
+
+**Não conversados / lacuna identificada:**
+- Não há nome ou cargo específico mapeado para o "staff" da TIM que precisaria aprovar o novo modelo — ela reconhece não saber quem são essas pessoas.
+- Não menciona ter identificado um interlocutor financeiro/CAPEX específico na Claro além da referência genérica à matriz mexicana.

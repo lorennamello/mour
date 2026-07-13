@@ -92,3 +92,26 @@
 **Fato — visão de monetização futura da plataforma:** "a gente entende que um dia ela pode ser vendida [...] modo software as a service [...] para a pessoa que está lá na gestão também conseguir olhar [...] até esse entendimento de plataforma e tudo que é produto Moura pode ser conectado a essa plataforma."
 **Fato — outros produtos/segmentos do portfólio Moura Energia:** BES (já em operação, ~4 contratos de aluguel na época, modelo de arbitragem tarifária) e tração (empilhadeiras, ainda em desenho, não pronto para clientes).
 **Fato — visão sobre segmentação futura de clientes de telecom:** hoje o foco é nas grandes por terem "as maiores infraestruturas [...] um volume muito grande", mas ela pondera que operadoras menores/Wi-Fi têm CAPEX menor e "pode ser que esse seja a cara da Moura [...] a gente é acostumado a ser capilarizado" — decisão final delegada a Thiago Mello.
+
+---
+
+## 9. Hipóteses para validação (Fase 2 — com operadoras)
+
+| O que o time interno acredita (opinião de Andrea) | Hipótese estruturada para testar com o mercado |
+|---|---|
+| Hoje comunicam "de menos" o valor — falam da "parcela de campo", mas não trazem à tona o impacto no resultado financeiro amplo do cliente. | As operadoras podem já estar cientes do impacto financeiro amplo (liberação de CAPEX, EBITDA), mas o real obstáculo pode ser que **o time que decide (financeiro/RI) não é o mesmo que avalia o piloto tecnicamente (engenharia/operação)** — testar quem, de fato, aprova esse tipo de contrato de ponta a ponta em cada operadora, e se a mensagem de valor financeiro já chega até essa pessoa hoje. |
+| TIM comprou o ativo em vez de alugar por questão de CAPEX/EBITDA (benefício do IFRS16 não percebido como na Telefônica) — mas ela reconhece incerteza sobre essa explicação. | A decisão da TIM pode ter sido tomada por um comitê financeiro que **nunca recebeu diretamente** o argumento de IFRS16/EBITDA usado com sucesso na Telefônica — testar apresentando esse argumento especificamente ao CFO/comitê financeiro da TIM, e não apenas à área técnica que avaliou o piloto. |
+| Quem opera hoje no cliente teme perder o emprego ("se eu botar esses caras aí, eu vou perder meu emprego"), enquanto quem está "de cima" vê a otimização como ganho. | Pode haver **dois níveis de decisão com incentivos opostos** dentro da mesma operadora — testar essa hipótese diretamente na Fase 2, entrevistando separadamente alguém do nível operacional e alguém do nível estratégico da mesma operadora, para comparar as respostas. |
+| Torreiras recusam energia como serviço por risco à estabilidade de custo/captação de capital. | Assim como no caso de Gustavo Moura, a recusa pode ser sobre percepção de risco de crédito frente a financiadores, não sobre o negócio em si — testar se um modelo de garantia/seguro cruzado mudaria a disposição das torreiras. |
+| Escopo restrito a gabinete + bateria (sem rede elétrica pública, ar-condicionado, gerador) é aceito pelo cliente sem atrito. | Pode haver demanda latente por ampliar esse escopo que nunca foi formalmente sondada — ela mesma relata que um cliente já perguntou sobre gerador em uma reunião — testar diretamente se esse tipo de ampliação de escopo é um fator decisório para fechar ou expandir contratos. |
+
+## 10. Pessoas-chave para falar dentro do cliente (operadora)
+
+**Já conversados, segundo ela:**
+- **Telefônica** — Espinosa relata contato recente com "o responsável da Telefônica" para falar do contrato — resultado positivo (reconhecimento do bom desempenho da Moura, mais de 400 sites, ~6% de furto considerado dentro do aceitável pelo cliente).
+- **TIM** — trial de 20 sites reais (Greenfield e rooftop); resultado: TIM comprou o ativo, não contratou o serviço — decisão atribuída (com incerteza) a questões de CAPEX/EBITDA e a uma possível confusão institucional sobre quem detém o orçamento de infraestrutura.
+- **Algar** — participaram de um BID com apenas 75 sites — ainda em fase de aprendizado, sem fechamento.
+
+**Não conversados / lacuna identificada por ela mesma:**
+- Pergunta central deixada em aberto por ela: "Quem é que define isso? Quem vem de cima ou quem vem de baixo?" — não há um mapeamento sistemático de quem, em cada operadora, é o decisor final versus quem é o influenciador de base (operação).
+- Não identifica um comitê financeiro/CFO específico em nenhuma operadora como interlocutor já testado — reconhece isso como lacuna a explorar.

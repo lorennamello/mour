@@ -88,3 +88,24 @@ Não é foco direto dele — menciona apenas que o monitoramento em tempo real �
 **Fato — legado como fronteira ainda não resolvida:** hoje 90% dos sites são novos ("projeto do zero"); ~10% são "ampliação"; o "legado puro" (site já funcionando com ativo próprio do cliente) ainda não tem resposta clara de modelo.
 **Fato — visão de longo prazo ("disruptiva"):** não gosta do rótulo H1/H2/H3 — para ele, o próximo salto real seria garantir energia de fato contínua (não só um backup por tempo limitado), possivelmente via placa fotovoltaica de recarga contínua.
 **Fato — redução de furto:** nunca vai a zero, mas há iniciativas em curso (parceria com polícia, novo CAVE, isca de bateria) que devem reduzir a taxa ao longo do tempo — "a gente tem que ser talvez a empresa que vai ter que proporcionar o menor índice de furto do mercado, mas ele vai existir ainda."
+
+---
+
+## 9. Hipóteses para validação (Fase 2 — com operadoras)
+
+| O que o time interno acredita (opinião de Daniel Garcia) | Hipótese estruturada para testar com o mercado |
+|---|---|
+| "A gente está indo lá, mas a gente não está sabendo vender" — problema está na comunicação/treinamento do vendedor, não no produto. | O problema pode não ser (só) despreparo do vendedor, mas **falta de acesso aos dados de custo interno da própria operadora** para montar um business case customizado — testar se as operadoras aceitariam compartilhar dados de custo atual (mão de obra, SLA de reposição, taxa de furto) para co-construir esse business case junto com a Moura. |
+| TIM não converteu por questão de CAPEX/EBITDA (benefício do IFRS16 não percebido, ao contrário da Telefônica). | Pode não ter sido uma decisão financeira "definitiva e informada" — ele mesmo reconhece incerteza sobre isso ("eu não lembro [...] posso até depois pesquisar"). Hipótese: **o argumento de IFRS16/EBITDA nunca chegou formalmente ao comitê financeiro/CFO da TIM** — testar apresentando esse argumento especificamente a esse público, e não apenas à engenharia que avaliou o piloto técnico. |
+| Sites "legados" (cliente já comprou bateria recentemente) não fazem sentido para recompra pela Moura. | A resistência à recompra pode variar conforme o grau de depreciação/desgaste real do parque — testar segmentando: operadoras/sites com parque mais antigo e mais problemático tendem a ser candidatos mais maduros para a oferta de recompra do que sites recém-comprados (como o caso relatado de compra há apenas 6 meses). |
+| Dependência do financiamento BNB é um risco não gerenciado ativamente — "o dinheiro uma hora vai acabar." | Não é uma hipótese sobre o cliente, mas um risco interno relevante a monitorar — não aplicável à Fase 2 (validação com operadoras). |
+
+## 10. Pessoas-chave para falar dentro do cliente (operadora)
+
+**Já conversados, segundo ele (principalmente no passado, quando participava mais ativamente):**
+- Participou de reuniões e validou a minuta de contrato com a Telefônica na fase de fechamento — não nomeia interlocutores específicos.
+- Hoje mantém contato apenas com o "corporativo" da Telefônica para confirmar pagamentos — relação financeira/administrativa, não estratégica.
+
+**Não conversados / lacuna identificada:**
+- Reconhece explicitamente ter se afastado do acompanhamento comercial/de relacionamento nos últimos meses ("Telecom tá meio voando") — não tem visibilidade atualizada de quem são os contatos-chave hoje.
+- Não menciona ter mapeado o comitê financeiro/CFO da TIM como interlocutor a buscar, apesar de essa ser, na visão dele, a peça que faltou para converter o negócio — lacuna clara para a Fase 2.

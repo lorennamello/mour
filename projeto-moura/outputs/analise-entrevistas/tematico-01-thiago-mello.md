@@ -113,3 +113,25 @@ Não abordados diretamente por Thiago nesta entrevista (foco da conversa foi est
 **Fato — modelo de oferta em camadas:** reconhece que hoje o pacote é fechado porque não têm ainda a "infraestrutura base" que permitiria fatiar a oferta (ao contrário do BES) — mas se diz "super aberto" a essa evolução.
 
 **Fato — encerramento/tom geral:** "estou realmente bastante animado com esse projeto [...] tem tudo para a gente explodir. É um problema muito mais nosso do que de falta de demanda, falta de mercado."
+
+---
+
+## 9. Hipóteses para validação (Fase 2 — com operadoras)
+
+| O que o time interno acredita (opinião de Thiago Mello) | Hipótese estruturada para testar com o mercado |
+|---|---|
+| "Existe uma dificuldade gigantesca [...] eles estão encarando esse projeto [...] muito mais como um projeto de saving" — o cliente rejeita por não ver payback. | O entrave em TIM/Claro/Bradesco pode não ser a ausência de payback matemático, mas sim que **engenharia e compras não têm mandato para aprovar uma mudança de propriedade de ativo** — a decisão real pode estar em outra área (ex.: estratégia/inovação, ou comitê financeiro/CAPEX), e o "não faz sentido" seria uma resposta de nível operacional, não a decisão final. Testar: quem, de fato, teria autoridade para aprovar esse tipo de contrato em cada operadora, e se essa pessoa já viu a proposta. |
+| Target de desconto da TIM foi de 40-50% frente ao preço da Moura, e "a gente não conseguiu nem obter um target" de forma realista. | O valor de desconto pedido pode não refletir uma expectativa genuína de preço, mas ser uma forma indireta de recusar sem dizer não — testar diretamente com a TIM se existia real disposição de fechar a algum preço, ou se o processo já estava decidido a não avançar antes da cotação. |
+| "Eu não sei se a gente está fazendo interlocução com as pessoas certas [...] pode ter [...] receio por parte deles de perder protagonismo." | A resistência da engenharia/operação do cliente pode ser menos sobre "perder o emprego" e mais sobre **permanecer responsabilizada por SLA/Anatel mesmo depois de terceirizar o ativo** — ou seja, o time do cliente pode temer ficar exposto a cobrança sem ter mais controle direto. Testar se esse é o medo real, e se um modelo de responsabilidade compartilhada mais explícito mudaria a postura. |
+| A proposta de valor (CAPEX + compartilhamento de risco) "ainda está muito pobre" e não tangibiliza o risco assumido. | Pode não ser falta de sofisticação do discurso, e sim falta de **dado comparável que o próprio cliente possa auditar** — testar se as operadoras aceitariam compartilhar dados de custo interno atual (mão de obra, taxa de furto, custo de reposição) para co-construir esse business case, o que validaria (ou não) se a lacuna é de discurso ou de informação. |
+
+## 10. Pessoas-chave para falar dentro do cliente (operadora)
+
+**Já conversados, segundo ele:**
+- **Engenharia** e **Compras** em TIM, Claro e Bradesco — "as duas principais interlocutoras". Resultado: recusas recorrentes fundamentadas em "não dá payback", sem contraproposta.
+- Diretoria da TIM (no contexto do contrato anterior de compra de equipamento, que motivou a criação do "Moura as a Service") — resultado: pediram outsourcing total naquele momento, mas depois a diretoria mudou e o projeto esfriou.
+- Diretor (Elmo) e outro contato interno na Telefônica, numa área de "projetos especiais" — resultado: positivo, foi o gatilho de entrada no mercado Telefônica.
+
+**Não conversados / lacuna identificada por ele mesmo:**
+- Ele não nomeia quem, acima de engenharia/compras, teria mandato para aprovar a mudança de modelo — reconhece essa como uma pergunta em aberto ("eu tenho dúvidas se a gente está fazendo interlocução com as pessoas certas").
+- Não menciona ter mapeado uma área de estratégia/inovação ou um comitê financeiro/CAPEX como interlocutor formal em TIM/Claro — possível lacuna a explorar na Fase 2.

@@ -85,3 +85,26 @@ Não é foco dele nesta entrevista, mas menciona de forma lateral que "40 milhõ
 **Fato — visão ampla do mercado endereçável:** qualquer negócio com necessidade relevante de energia pode ser servitizado; a migração CAPEX → OPEX é tendência mundial, mais lenta no Brasil, mas "ela não tem como não acontecer."
 **Fato — alerta competitivo:** "se a gente não se preparar, aparece um chinês e atropela [...] o chinês costuma fazer isso. Primeiro ele faz, ele gasta o que for. Depois ele se adapta [...] e o mercado não perdoa."
 **Fato — visão sobre limite de crescimento:** "minha preocupação é [...] infinitas possibilidades, desde que a gente se prepare. Se não, a gente vai dançar conforme a música."
+
+---
+
+## 9. Hipóteses para validação (Fase 2 — com operadoras)
+
+| O que o time interno acredita (opinião de José Espinosa) | Hipótese estruturada para testar com o mercado |
+|---|---|
+| Time comercial é despreparado tecnicamente; cliente percebe respostas superficiais e demora no retorno técnico. | Isso pode já estar custando credibilidade em reuniões de engenharia sem que a Moura saiba — testar diretamente com contatos de engenharia das operadoras se o despreparo técnico percebido em reuniões anteriores pesou concretamente na decisão de não avançar, ou se foi um fator menor frente a outras razões (preço, governança interna). |
+| Torreiras menores são "obrigadas" pela operadora a aceitar o gabinete de energia, mas resistem porque foge do modelo delas. | A resistência pode não ser ao produto em si, mas à **ausência de benefício econômico direto** para a torreira (ela só "hospeda" sem ganhar nada) — testar com torreiras médias/grandes se um modelo de remuneração ajustado (ex.: participação na economia de m² gerada pela otimização do gabinete) mudaria a disposição delas. |
+| Sites legados são a maior oportunidade, mas a operação relutaria pela complexidade de migração (risco de indisponibilidade durante a troca). | A resistência ao legado pode não ser só operacional — pode envolver **relutância em expor o real estado de degradação do parque** a um terceiro (uma espécie de auditoria implícita) — testar se oferecer uma "avaliação sem compromisso" do parque, sem obrigação de contratar depois, reduz essa resistência. |
+| TIM tem um diretor "bem por dentro do assunto de armazenamento" — perfil técnico + decisor seria o ideal a buscar. | Ainda não testado sistematicamente — vale confirmar se esse tipo de perfil (técnico com autoridade orçamentária) existe de forma equivalente em Claro e nas operadoras menores, ou se é uma particularidade da TIM. |
+
+## 10. Pessoas-chave para falar dentro do cliente (operadora)
+
+**Já conversados, segundo ele:**
+- **Vivo** — diretor de infraestrutura (3º nível hierárquico, ~2 níveis abaixo do VP): contato recorrente da Moura hoje; ele nota que esse diretor "lida com tanto assunto" que não prioriza totalmente a Moura.
+- **Vivo** — Espinosa relata contato direto recente com o "responsável da Telefônica" para falar do andamento do contrato — resultado positivo (reconhecimento do bom desempenho da Moura).
+- **TIM** (época em que ele trabalhava lá, antes de ir para a Moura) — diretor "bem por dentro" do assunto de armazenamento, com detalhe técnico e de preço — perfil citado como ideal.
+- Torreiras (American Tower e outras menores) — conhece pessoalmente os presidentes/lideranças ("são meus amigos, eles falam isso").
+
+**Não conversados / lacuna identificada:**
+- Não relata contato ativo em nível de diretoria/staff na TIM ou Claro hoje (apenas relação histórica de quando trabalhava nelas).
+- Reconhece que o corpo técnico interno da Moura (ele incluído, quando ausente) não está "pensando" proativamente em melhorias — sugerindo que a relação com o cliente hoje é mais reativa do que estratégica, mesmo nos contatos já estabelecidos.

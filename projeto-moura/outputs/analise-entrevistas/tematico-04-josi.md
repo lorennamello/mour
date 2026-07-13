@@ -81,3 +81,25 @@ Não abordado diretamente por ela.
 
 **Fato — autocrítica sobre apresentação/discurso:** "a gente sabe que o produto é bom, mas não sabe como [comunicar isso] [...] Nessa área de produtos, a pessoa que faz a apresentação é a pessoa que está correndo atrás de um custo [...] eu não tenho um especialista nisso no time [...] eu não tenho um cara que foi lá e fez uma pesquisa."
 **Fato:** acredita que falta uma função dedicada a isso dentro da Moura Energia, e que provavelmente não existe essa pessoa na empresa hoje — endossando a necessidade de ajuda externa (conectando com o pedido de ajuda geral do projeto).
+
+---
+
+## 9. Hipóteses para validação (Fase 2 — com operadoras)
+
+| O que o time interno acredita (opinião de Josi) | Hipótese estruturada para testar com o mercado |
+|---|---|
+| Feitosa (TIM) disse que a Moura "acessou pessoas erradas" e que a TIM estava em meio a "mudança organizacional". | A resistência da TIM pode não ser recusa de mérito, mas resultado de uma **reorganização interna recente que esvaziou temporariamente o poder de decisão dos contatos atuais da Moura** — testar quem assumiu formalmente a decisão de CAPEX de infraestrutura na TIM após essa mudança, e reabrir contato por esse canal. |
+| Na Claro, um especialista técnico interno em bateria "conversa de igual para igual" com a engenharia da Moura e demonstra resistência. | A resistência desse especialista pode não ser técnica, mas de **incentivo pessoal** — ele é avaliado internamente pela gestão desses ativos, e uma terceirização reduziria seu escopo de responsabilidade/relevância. Testar se apresentar um caminho de "reposicionamento" dessa função (ex.: de execução para auditoria/governança do contrato) reduz a resistência. |
+| Um contato regional da TIM se interessou apenas na plataforma de monitoramento como "acessório", mantendo a compra tradicional de bateria. | Pode haver demanda latente por comprar **apenas o serviço de dados/monitoramento**, dissociado do aluguel físico completo — testar diretamente esse modelo fatiado com clientes que já têm parque próprio recente (site legado), em vez de insistir sempre no pacote fechado. |
+| Índice de furto embutido no contrato (ela cita 5%) pode ser insuficiente se a realidade for maior — "se esse 5% se tornar dez, a gente vai gerar um incômodo nele." | O real risco pode não estar no percentual em si, mas em **o cliente não ter clareza prévia de como funciona o mecanismo de cobertura/estouro do cap** — testar se apresentar esse mecanismo de forma transparente e antecipada (antes de qualquer estouro) muda a percepção de risco do cliente sobre o modelo. |
+
+## 10. Pessoas-chave para falar dentro do cliente (operadora)
+
+**Já conversados, segundo ela (via relatos de reuniões que participou):**
+- **TIM** — "Feitosa" (contato influente, relacionamento/comercial): minimizou a relevância do tema energia frente ao core business e sinalizou mudança organizacional em curso. Resultado: sem avanço.
+- **TIM** — outro contato de "outra regional": interesse pontual só na plataforma/monitoramento como acessório. Resultado: não evoluiu para servitização completa.
+- **Claro** — especialista técnico interno em bateria (não nomeado): trocou informações técnicas de igual para igual com a engenharia da Moura, mas identificado como possível bloqueador por risco à própria função.
+
+**Não conversados / lacuna identificada:**
+- Não nomeia quem assumiu a decisão de CAPEX após a reorganização da TIM — aponta como algo a descobrir.
+- Sugere, embora não de forma explícita, que o relacionamento pessoal de José Espinosa (ex-TIM) poderia ser uma ponte não plenamente explorada para reabrir esse contato.

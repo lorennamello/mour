@@ -84,3 +84,23 @@ Não é foco dela, mas contribui um dado relevante ao histórico comercial:
 **Fato — dependência de decisão de fornecedor chinês:** evoluir a fonte para embarcar mais funcionalidades depende de o fornecedor aceitar, cobrar um preço absorvível e da Moura decidir se quer manter a propriedade intelectual internamente ou delegar ao fornecedor.
 **Fato — "chassi único" (convergência com a visão de Francisco/TI):** ideia de concentrar telecom + BES + futuro HomeBES numa mesma base de dados, pois "eu vou estar na casa de CPFs e CNPJs de pequeno porte [...] imagine a quantidade de informação."
 **Fato — encerramento da entrevista:** "o único risco da escalabilidade hoje é pela maturidade do produto [...] se isso realmente é um diferencial do mercado ou não [...] para que realmente a solução, no longo prazo, se diferencie de qualquer outra. E ganhe naquela relação de CAPEX e OPEX."
+
+---
+
+## 9. Hipóteses para validação (Fase 2 — com operadoras)
+
+| O que o time interno acredita (opinião de Vanessa) | Hipótese estruturada para testar com o mercado |
+|---|---|
+| O risco de escalabilidade é a maturidade do produto (não o mercado) — alarmes falsos, falta de módulo de segurança robusto. | O ceticismo comercial de TIM/Claro pode já estar ligado a **casos concretos de falha técnica que a operadora vivenciou** (não apenas a uma objeção financeira genérica) — testar diretamente com engenharia dessas operadoras se episódios específicos de instabilidade/alarme falso influenciaram a decisão de não avançar. |
+| A operadora já tem telemetria nativa da fonte (para cumprir Anatel) antes mesmo de contratar a Moura. | O argumento comercial "nós damos monitoramento" pode não ser suficientemente diferenciado aos olhos do cliente técnico, já que ele já tem uma telemetria própria — testar diretamente com a engenharia da operadora **o que especificamente falta** no sistema nativo dela hoje, para calibrar se o discurso de venda está batendo nessa lacuna real ou reforçando algo que o cliente já julga ter. |
+| Outras empresas do setor faliram porque o sistema de monitoramento não conseguia sanar os gargalos (furto, multa Anatel, degradação de ativo) e o OPEX fugiu de controle. | As operadoras podem carregar **memória de fracassos anteriores** de fornecedores de servitização de energia, gerando ceticismo estrutural sobre a viabilidade do modelo como um todo — testar se esse histórico é mencionado espontaneamente pelas operadoras e quais garantias (financeiras, contratuais, técnicas) mitigariam esse ceticismo. |
+
+## 10. Pessoas-chave para falar dentro do cliente (operadora)
+
+**Já conversados:** nenhum contato direto com cliente final (operadora) é relatado por ela.
+
+**Fato explícito sobre a ausência de acesso:** "a gente já teve muito próximo [...] depois desse contato ficou assim, ó, vocês não têm mais acesso ao cliente final. Vocês têm que sempre pedir a engenharia pra intermediar [...] a gente começou de fato a só ter contato com a engenharia [da Moura]."
+
+**Interpretação:** essa é, em si, uma informação relevante para a Fase 2 — o ITEM (fonte primária do conhecimento técnico mais profundo do produto) está estruturalmente isolado do cliente final por uma política interna da própria Moura, o que significa que qualquer hipótese técnica levantada por ela (ex.: o que falta no sistema nativo da fonte) nunca foi testada diretamente com quem usaria essa informação do lado da operadora.
+
+**Contatos internos recomendados por ela para aprofundar antes da Fase 2** (não são contatos do cliente, mas fontes internas-chave): **João Machado** (engenheiro técnico, desde a fundação — sabe causas raiz de falência de outras empresas do setor e riscos/gargalos) e **Marcos Malveira** (gerente do ITEM, visão de negócio/estratégia, desenhou a solução técnica com Thiago Mello).

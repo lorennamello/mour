@@ -1,0 +1,3 @@
+# Prompt 05
+
+> Eu gostaria de identificar, para cada entrevista, quais foram todos os pontos importantes que cada entrevistado e também gostaria de uma visão unica da explicação do produto e serviço em questão e do contrrato com a Vivo. Esse segundo ponto todos os entrevistados de alguma forma falaram sobre eles, talvez cada um da sua perpstiva. Então gostaria que voce fizesse um apanhado e juntasse tudo para que eu ter uma visão única do produto + serviço da moura energia e do cotrato atual com a Vivo. E o priemrio ponto seria uma visão indidivual de cada entrevistado dos principais pontos que eles trouxeram do que lhes foi perguntando. QUal a melhor forma de pedir isso sem que vc perca a granularidade da informação de cada entrevisado, sem achar as informações
