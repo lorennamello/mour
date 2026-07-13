@@ -1,47 +1,147 @@
 # Driele (Adriele) — Executiva Comercial (Expansão do modelo de servitização em telecom)
 
-**Papel:** Executiva de conta da Telefônica (cliente principal com contrato vigente) e começando a assumir também a conta TIM. Cerca de 10 anos de mercado comercial; há ~1 ano na Moura (veio da Unicoba/UCB Power, concorrente, onde atendia bancos e concessionárias de rodovia). Mundo de telecom é novo para ela.
+**Papel:** Executiva de conta da Telefônica (cliente principal com contrato vigente), começando a assumir também a conta TIM. ~10 anos de mercado comercial, ~1 ano na Moura (veio da Unicoba/UCB Power, concorrente). Mundo de telecom é novo para ela.
 
-## Visão geral do mercado de telecom
-- Mercado "peculiar": todo mundo se conhece, relacionamento é a base do negócio.
-- Cada operadora tem processos, cultura e forma de receber inovação muito diferentes — "a gente tem uma visão de que elas são todas iguais... mas é muito diferente".
-- Percebe que o Moura Energia é visto como o futuro pela própria Telefônica: em uma reunião regional, o time da Telefônica se surpreendeu ao saber que a Moura só tinha esse modelo com eles ("como assim só com a gente?"). Ela é "fã de carteirinha" do projeto e acredita que será um dos maiores cases de sucesso da Moura.
+---
 
-## Contrato/relação com a Telefônica
-- Não participou da negociação do contrato original (2024) — era outro time comercial, totalmente diferente do atual (não há histórico preservado).
-- Está desde o início de um **novo projeto/modelo**, uma extensão do contrato atual: a Telefônica pediu que a Moura assumisse **sites legados** (já existentes), não só novos.
-- Processo: Telefônica tem um time de Inovação e um time de Planejamento; abrem processos de precificação de bateria a cada 2-3 anos. Internamente, tiveram a ideia de alugar só a bateria — a Moura respondeu que só oferece solução completa, e a Telefônica pediu então uma proposta adequada ao que precisam.
-- Passos do novo projeto: reuniões com engenharia, visitas/vistorias a sites para avaliar estado de conservação do legado, desenho de modelo de negócio do zero (com Andréia e Maria Cecília) — inclui a Moura comprando o legado e depois locando (servitização).
-- Quem participa das negociações pelo lado Moura: ela (comercial), Aline, Andréia (100%), Maria Cecília, engenharia da Moura. Pelo lado Telefônica: time de Planejamento (quem "puxa a verba" e decide modelos de negócio) e Engenharia; Compras só entra no fim, na negociação comercial final.
-- Telefônica é dividida em rede móvel e rede fixa; a rede fixa ainda consome baterias de chumbo (volume pequeno).
-- O time de planejamento faz um levantamento anual de quais sites precisam de troca de ativos, pede verba, e só depois aciona compras — que já recebe direcionamento de preferência de fornecedor (Moura, Newmax, PowerSafe são citados como concorrentes de chumbo).
-- SLA de resposta da Moura é apontado como um problema recorrente: fluxo passa por muitas pessoas (ela → Andréia → engenharia → alinhamento interno → volta ao cliente), não há um processo/SLA formalizado, isso "estressa" o relacionamento com o cliente.
-- Ela atua como "maestro" do contrato do início ao fim: entrega a demanda, acompanha cronograma, participa das reuniões operacionais, sabe quantos sites foram instalados no mês, o que está atrasado.
+## 1. Proposta de valor
 
-## TIM — o que já observou
-- TIM tem processos, cultura e forma de enxergar soluções muito diferentes da Telefônica; ela ainda está "pegando" os processos da TIM.
-- Quando apresentaram o Moura Energia para o time de planejamento/engenharia da TIM, a reação foi: **medo de perda de emprego** — "se fizerem aquisição desse projeto, as pessoas perderiam seus empregos".
-- Diante disso, buscaram subir a conversa para a diretoria/staff da TIM (nível mais alto), com apresentação sendo construída por Andréia.
-- Não sabe exatamente quem são as pessoas certas nesse nível.
+**O que a Moura Energia entrega (Fato):** "eu sou especialista no que eu faço e deixo você ser especialista no que você faz [...] confie em mim que eu garanto o que estou oferecendo [...] Sem você se preocupar em absolutamente nada."
 
-## Diferenças entre operadoras (percepção dela)
-- Cada operadora terá proposta de valor/abordagem diferente — "entra propósito, valor da empresa, o que eles buscam" — é um projeto customizável por cliente.
-- TIM: medo de perda de emprego / de gestão interna.
-- Claro: entende mais pela questão financeira — quer 100% CAPEX, não quer OPEX.
+**Problema que resolve (Fato):** backup de energia sem o cliente precisar gerenciar bateria, furto, manutenção.
 
-## Outros clientes potenciais mapeados
-- Aloha e iSystems (torreiras/redes neutras) estavam na lista dela, mas não teve tempo de dar atenção devida (mudanças internas no cliente/comunicação difícil no caso da Aloha; iSystems é cliente muito novo, sem histórico de contato).
-- Reconhece que a prospecção de novos clientes é "muito superficial" — a demanda de contratos existentes consome o tempo do time e não sobra atenção para prospecção.
+**Clientes (Fato):** Telefônica (contrato vigente, ela é a executiva de conta principal); TIM (começando a assumir, ainda sem contrato de aluguel).
 
-## Desafios / autocrítica
-- Maior desafio: processos internos da Moura tomam o tempo do executivo comercial, que deveria estar na rua trazendo negócios.
-- Cenário ideal: executivo focado só em prospecção, com apoio de estagiário/assistente para questões operacionais.
-- Sente falta de treinamento técnico robusto e de conteúdo/material sobre o produto — fez 1 ano de Moura e só teve a "integração" do Moura Energia recentemente.
-- Acha que falta presença física/relacionamento (workshops presenciais, visitas) — concorrentes de telecom fazem isso e a Moura não. "Clientes de telecom são muito carentes... gostam de você estar lá."
+**Valor percebido (Fato):** já reconhecido pelo mercado — relata reação de uma regional da Telefônica ao saber que o modelo só existe com eles: "Nossa, como assim só com a gente? [...] eles enxergam que o futuro da Telefônica é Moura Energia, é a servitização."
 
-## Concorrência
-- Veio da UCB Power (antiga Unicoba) — descreve como empresa que "abriu capital", tem gente inovadora mas staff conservador; dividida entre soluções de bateria e iluminação (Red Star, que faliu).
-- UCB não estaria bem financeiramente; fez importação/estoque excessivo de lítio, começou a "queimar bateria" no mercado, prática de negociação "por debaixo do pano" ("pagar bola"), domina o mercado no Norte.
+**Diferenciais (Fato):** relação de confiança/especialização, não um argumento financeiro estruturado (diferente de Thiago Mello). Ela mesma se declara "fã de carteirinha" do projeto.
 
-## Proposta de valor (como ela verbaliza)
-- "Eu sou especialista no que eu faço e deixo você ser especialista no que você faz" — cliente não precisa se preocupar com backup de energia.
+*Não abordado: comparação de preço direta com concorrentes.*
+
+---
+
+## 2. Desafios internos
+
+### Na área dela (comercial/conta Telefônica-TIM)
+- **Problema:** SLA interno de resposta lento. **Impacto:** estresse na relação com o cliente. **Quote:** "Esse SLA nosso de resposta é demorado [...] O que impacta é a demora da Moura na resposta [...] isso tende a dar uma estressada um pouco no cliente."
+- **Problema:** falta de treinamento técnico robusto. **Impacto:** risco de perda de credibilidade em negociações técnicas que ela mesma conduz. **Quote:** "eu fiz um ano de Moura [...] ontem tive uma integração de Moura Energia [...] é necessário um treinamento técnico [...] bem robusto [...] Se o executivo não tem entendimento daquilo que ele está ofertando, ele não vai passar segurança para o cliente."
+- **Problema:** falta de padrão/fluxo formal de resposta. **Impacto:** demora perceptível ao cliente. **Quote:** "A gente não tem um padrão, um fluxo, um SLA formalizado internamente [...] Infelizmente."
+
+### Percepção sobre desafios de outras áreas
+- **Problema:** dependência de múltiplas áreas (engenharia, PO) para qualquer resposta técnica ao cliente. **Impacto:** lentidão. **Quote:** fluxo típico é "recebo demanda → passo para Andréia → aciona engenharia (Aleph) → alinhamento interno → só então retorna ao cliente."
+- **Problema:** falta de conteúdo/marketing de produto. **Impacto:** clientes ainda não entendem o Moura Energia. **Quote:** "os nossos clientes [...] ainda não conseguem entender e enxergar o que é Moura Energia [...] isso a Moura não faz" (referência a workshops/eventos presenciais, algo que concorrentes fazem e a Moura não).
+
+---
+
+## 3. Áreas internas
+
+**Ela (comercial):**
+- Papel: "o executivo[,] ele é o maestro de todos os contratos e de todos os negócios [...] Eu fico do início ao fim."
+- Participação na entrega: acompanha cronograma, participa de reuniões operacionais.
+
+**Engenharia (Aleph):** dá suporte técnico à modelagem de propostas — dependência direta dela.
+
+**Andréia (PO):** recebe o briefing dela e aciona a engenharia — intermediária no fluxo.
+
+**Compras da Telefônica (cliente):** "só entra no fim, na hora que entra ali na negociação comercial."
+
+**Planejamento da Telefônica (cliente):** "são eles que puxam a verba [...] fazem todo o processo dos modelos de negócio."
+
+**Lacuna identificada:** ela se vê dependente de outras áreas internas para dar respostas técnicas, o que a torna vulnerável à lentidão dessas áreas — o maior estresse relatado na relação com o cliente.
+
+---
+
+## 4. Modelo comercial
+
+**Como surgem oportunidades (Fato):** dentro da Telefônica, times de Inovação e Planejamento buscam fornecedores para soluções rentáveis; pediram para a Moura ofertar algo alinhado à necessidade deles (aluguel só de bateria, que a Moura recusou).
+
+**Como acontece a venda (Fato — fluxo do projeto "site legado"):** reuniões com engenharia → vistorias em sites → construção do modelo de negócio do zero → apresentação → ajustes → repetição até modelo ideal.
+
+**Quem vende e influencia (Fato):** ela (comercial), Aline, Andréia (100%), Maria Cecília, engenharia da Moura; do lado Telefônica: Planejamento e Engenharia, Compras só no fim.
+
+**Como a proposta é apresentada (Fato):** ainda em construção para a TIM (apresentação sendo preparada por Andréia para subir à diretoria/staff).
+
+**Argumentos que funcionam (Fato):** Telefônica já é "mais inovadora, mais aberta a novos modelos de negócio."
+
+**Argumentos que não funcionam / objeções (Fato):**
+- TIM: "não queremos porque vai tirar o emprego de todo mundo [...] toda parte de monitoramento, operação, manutenção é de nossa responsabilidade. O que hoje é de responsabilidade da operadora."
+- Claro: "eles entendem mais pela questão financeira [...] Eles não querem OPEX, eles querem o CAPEX 100%."
+
+**Diferenças entre clientes (Fato):** "É muito diferente os processos de uma operadora para a outra [...] a cultura é muito diferente. Como eles recebem inovações é muito diferente [...] para cada operadora [...] vai ser uma solução diferente [...] entra propósito, entra valor da empresa."
+
+---
+
+## 5. Visão sobre os clientes
+
+**Perfil/comportamento (Fato):** Telefônica — inovadora, aberta; TIM — teme perda de emprego/controle interno, decisão precisa subir para o "staff"; Claro — pragmática/financeira, CAPEX > OPEX.
+
+**Maturidade (Fato):** clientes de telecom em geral ainda não entendem bem o que é o Moura Energia.
+
+**Critérios de decisão (Fato):** varia por operadora — Telefônica: inovação/propósito; TIM: segurança de função/controle; Claro: CAPEX.
+
+**Expectativas e necessidades (Fato):** clientes de telecom "são carentes [...] gostam muito de você estar lá, de você ir tomar um café, de você ir almoçar" — relacionamento presencial pesa mais nesse mercado do que em outros que ela já atendeu (bancos, concessionárias de rodovia).
+
+---
+
+## 6. Barreiras de expansão
+
+- **Internas:** falta de prospecção ativa — "Essa questão de prospecção, de trazer novos clientes, novos negócios, é muito superficial. A gente nunca conseguiu, de fato, focar nisso." Causa raiz apontada por ela: "existem muitos processos internos na Moura, o que acaba consumindo o dia a dia de um executivo [...] esse é o nosso maior desafio hoje."
+- **Externas/Clientes:** medo de perda de emprego/protagonismo nas equipes operacionais da TIM; dificuldade de acessar o nível certo de decisão (staff/diretoria) em operadoras mais conservadoras.
+- **Mercado:** casos concretos de prospecção abandonada — Aloha (perdeu contato após turnover no cliente) e iSystems (cliente muito novo, sem histórico claro de contato) — ambos mapeados como potenciais mas sem follow-up.
+
+**Interpretação:** ela liga diretamente a falta de expansão comercial à sobrecarga operacional do próprio time comercial com o contrato já existente — não há capacidade ociosa para prospectar.
+
+---
+
+## 7. Ecossistema e mercado
+
+**Concorrência (Fato):** "Moura Energia, hoje, eu vejo que ninguém [...] Não temos concorrência" em servitização completa. Sobre a UCB Power (de onde ela veio): empresa familiar que abriu capital, staff "muito conservador"; diversificada em bateria e iluminação (Red Star, que faliu); teria importado lítio em excesso, "queimando bateria" no mercado; usa práticas de negociação "por debaixo do pano" ("pagar bola"); domina a região Norte. Confirma que a UCB anunciou entrada no mercado de "bateria como serviço" focado no Norte — ainda não confirma atuação de fato.
+
+**Operadoras (Fato):** ver seção 5.
+
+**Posicionamento da Moura Energia (Fato):** vista externamente como "solução do futuro" pela própria Telefônica.
+
+*Não abordado: TowerCos/torreiras, parceiros, fornecedores, integradores.*
+
+---
+
+## 8. Visão de futuro
+
+**Próximos passos (Fato):** reconstrução da apresentação da TIM em nível de diretoria, ainda em andamento.
+
+**Prioridades (Fato):** "eu entendo que o executivo deveria estar só na rua, focado em trazer novos contratos [...] O mundo perfeito seria o executivo ter um estagiário, um assistente."
+
+**Longo prazo (Fato):** "Eu acredito que Moura Energia vai ser um dos maiores cases de sucesso da Moura. Eu acho que é o futuro da Moura, esse projeto."
+
+**Interpretação:** apesar do otimismo declarado, a visão de futuro dela é condicionada à resolução dos gargalos internos que ela mesma relata (SLA lento, falta de treinamento, sobrecarga operacional) — não descreve um roadmap de produto, mas sim um roadmap de maturidade organizacional necessário para sustentar o crescimento.
+
+---
+
+## 9. Hipóteses para validação (Fase 2 — com operadoras)
+
+| O que o time interno acredita (opinião de Driele) | Hipótese estruturada para testar com o mercado |
+|---|---|
+| Na TIM, "não queremos porque vai tirar o emprego de todo mundo" — resistência da operação por medo de perda de função. | A resistência pode não ser sobre o emprego em si, mas sobre **continuar responsável/cobrada por SLA e Anatel sem mais deter o controle direto da manutenção**. Testar diretamente com a operação da TIM se a preocupação é o cargo ou a responsabilização residual. |
+| Na Claro, "eles entendem mais pela questão financeira [...] não querem OPEX, querem o CAPEX 100%" — decisão top-down da matriz mexicana. | A preferência por CAPEX pode não ser política corporativa rígida, mas **ausência, até hoje, de um business case CAPEX x OPEX em condições equivalentes** apresentado ao nível certo da matriz — testar com todos os custos ocultos de CAPEX (mão de obra, furto, obsolescência) explicitados. |
+| TIM só teria interesse desde que a decisão "suba para o staff" — abordagem de nível operacional não funciona. | A real trava pode estar em **quem controla o orçamento de CAPEX de infraestrutura** dentro da TIM, área diferente da que toma a decisão estratégica — testar quem assina, na prática, a liberação orçamentária. |
+| Cada operadora exige abordagem totalmente customizada. | Pode não ser a solução técnica que precisa mudar por operadora, e sim **o argumento de entrada** (financeiro para Claro, garantia de responsabilidade para TIM, inovação para Telefônica) — testar se um único produto com discursos de entrada diferenciados converte melhor do que customizar o produto em si. |
+
+---
+
+## 10. Pessoas-chave para falar dentro do cliente (operadora)
+
+**Já conversados, segundo ela:**
+- **TIM** — time de planejamento/engenharia: reação de medo de perda de emprego. Depois, buscaram subir para a **diretoria/staff** da TIM — apresentação em construção; ela não sabe nomear essas pessoas.
+- **Telefônica** — time de Planejamento (decide modelos de negócio e "puxa a verba"), Engenharia (parceira na vistoria/desenho técnico); Compras só no fim. Relação já consolidada e colaborativa.
+- **Aloha** e **iSystems** — potenciais mapeados, prospecção interrompida por turnover no cliente e falta de follow-up.
+
+**Não conversados / lacuna identificada:**
+- Sem nome/cargo específico mapeado para o "staff" da TIM.
+- Sem interlocutor financeiro/CAPEX específico identificado na Claro além da referência genérica à matriz mexicana.
+
+---
+
+## 11. Outros insights
+
+- **Presença física como fator competitivo não capturado:** ela destaca repetidamente que clientes de telecom valorizam relacionamento presencial (café, almoço, workshops) — um fator "soft" que não aparece nas conversas mais financeiras/técnicas de outros entrevistados, mas que pode ser um diferencial de conversão barato de implementar.
+- **Ela é, ao mesmo tempo, a entrevistada mais nova na função (1 ano) e a mais otimista sobre o produto** — vale considerar esse viés de recência ao ponderar o peso de sua leitura sobre "não temos concorrência", que contrasta com achados de outros entrevistados (ex.: Aline Souza, que cita concorrentes de preço como ZTE/Huawei).

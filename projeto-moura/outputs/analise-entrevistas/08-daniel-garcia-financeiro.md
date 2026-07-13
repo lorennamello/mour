@@ -1,50 +1,143 @@
 # Daniel Garcia — Financeiro / Gestão Moura Energia
 
-**Papel:** Primeiro colaborador contratado do Moura Energia (abril/2023) — "colaborador 01", sendo Gustavo o "00"/fundador. Paulistano, mudou-se para Recife. Cuida da gestão financeira, planejamento estratégico (OKR) e da relação com o contrato Telefônica do lado do "meio para o fim". Reporta junto com Gustavo; par funcional de José Espinosa (que entrou em maio/2024 e assumiu a parte operacional).
+**Papel:** Primeiro colaborador contratado do Moura Energia (abril/2023), cuida da gestão financeira, planejamento estratégico (OKR) e resultado do contrato Telefônica.
 
-## Estrutura e papel
-- Moura Energia: 13 pessoas, sem pretensão de crescer para uma estrutura grande — usa a estrutura do grupo (CSC, jurídico, financeiro de Belo Jardim).
-- Metodologia própria: OKR (10º ciclo desde 2024), diferente do GPD (Falcone) usado no resto do grupo — a diretoria de Thiago Mello também adota OKR ("GPD ágil").
-- Cadeia de servitização: Daniel cuida do "começo" (modelagem, planejamento estratégico, resultado financeiro); Espinosa cuida do "meio ao fim" (instalar, comprar, monitorar, cuidar).
-- Precificação/modelagem de novos negócios é feita pelo time da Andréia (PO), não pelo time dele — ele atua como "co-validador" junto com Gustavo.
-- Reconhece perda de ritmo na interação com o comercial: antes havia checkpoint quinzenal de pipeline; hoje isso não existe mais, e ele está "mais distante"/"passageiro" no assunto Telecom (ao contrário do BES, onde está muito mais por dentro). Atribui isso à troca completa do time comercial (saiu a Natasha, entrou a Karina; toda a equipe do DCBE trocou).
+---
 
-## Histórico do contrato com a Telefônica (visão financeira)
-- Quase fechou primeiro com a TIM (trial de 20 sites em Pernambuco, "super bom"), mas a TIM trocou o time e desistiu do projeto maior — aí "a Telefônica saiu na frente".
-- Instalação do 1º site: outubro/2024. Levou ~6 meses para chegar ao centésimo site; hoje instalam ~100/mês.
-- Em meados de 2025 assinaram um **aditivo** liberando instalação do gabinete T11 (menor), pois inicialmente só T2 estava previsto — isso destravou volume.
-- Acredita que a Telefônica vai precisar **estender o prazo contratual** (originalmente 3 anos de rollout) porque não vai dar tempo de chegar aos 1.911 sites no prazo atual — acha que haverá aditamento.
+## 1. Proposta de valor
 
-## Números e cláusulas do contrato Vivo (visão financeira)
-- Cap de furto: valor multiplicado pelo número de sites instalados; proporcionalmente, já estão **estourando o cap** (~R$100 mil acima do que poderiam gastar, considerando os 400+ sites atuais vs. os 1.911 do contrato completo). Estão negociando emitir nota de débito para a Telefônica cobrir a diferença como se fosse multa.
-- O BP (business plan) interno tinha uma "gordura" de furto maior que a prevista no contrato — mesmo estourando o cap contratual, ainda estão dentro do BP interno.
-- Preço médio de referência citado: ~R$2.000/mês por site de aluguel — considera fatores como depreciação, custo de financiamento, margem e "efeito medo" (risco de furto).
-- Considera o valor "bem precificado", sem necessidade de renegociação financeira.
-- Risco principal do modelo: baixa no imobilizado por furto não contido gera resultado (DRE) muito variável — e não errar no OPEX (rotas de manutenção RSM: tentam otimizar frequência, ex.: avaliar se pode passar de bimestral para trimestral).
-- Financiamento via BNB (Banco do Nordeste) com taxa mais baixa (project finance) — ponto de atenção: financiamento pode não durar para sempre, monitorar dependência dele.
+**O que a Moura Energia entrega (Fato — lista explícita de argumentos):** "O cliente não precisa imobilizar capital. Ele não precisa comprar [...] Ele não vai precisar gastar para ter uma equipe que cuida de energia [...] vai pingar na nossa conta um dinheiro e o cara não precisa se preocupar."
 
-## Modelo de negócio — riscos gerais do modelo de servitização
-- Receita recorrente de longo prazo (10 anos) é muito bem vista pelo mercado (tipo renda fixa), ajudaria valuation em eventual venda futura da empresa.
-- Dois riscos principais: (1) necessidade de alavancagem/capital intensivo; (2) erro no dimensionamento do OPEX pode "matar" o negócio (frete de instalação variável, furto não contido).
-- Não existe "modelo padrão" de contrato de telecom — cada operadora chega com o seu; a Moura tenta garantir pontos-chave de proteção, mas normalmente é o cliente quem impõe o modelo (diferente do BES, onde a Moura já tem seu próprio modelo).
+**Problema que resolve (Fato):** imobilização de capital, gestão de furto, SLA de reposição lento (multinacional pode levar 90 dias, Moura opera em SLA de horas).
 
-## Proposta de valor (visão financeira)
-- Cliente não precisa imobilizar capital, libera capital para o core business (5G/6G).
-- Ganhos indiretos: não precisa manter equipe de energia, SLA de reposição muito mais rápido que o de uma multinacional compradora tradicional (cita caso hipotético de 90 dias de SLA de reposição de bateria em outro modelo, vs. horas no modelo Moura).
-- Monitoramento em tempo real como diferencial de "encantamento" — cita visita ao NOC da TIM em São Paulo, onde viu que o sistema de monitoramento deles era "muito pobre" (não sabiam diferenciar furto de fio de cobre de outro tipo de problema) — a Moura tem granularidade maior, evita visitas improdutivas.
-- Bateria de chumbo é 100% reciclável (logística reversa já estabelecida).
-- Garantia de instalação assertiva no prazo por estrutura verticalizada.
+**Clientes (Fato):** Telefônica (contrato ativo); TIM (trial sem conversão).
 
-## Verticalização (definição dele)
-- Moura Energia compra da própria Acumuladores Moura (fábrica) e tem estrutura de manutenção própria (RSM) — toda a cadeia dentro do próprio grupo.
+**Valor percebido (Fato):** granularidade de monitoramento — relata visita ao NOC da TIM em São Paulo, onde viu que o sistema deles era "muito pobre" (não sabiam diferenciar furto de fio de cobre de outro alarme); a Moura teria "um nível, uma granularidade muito maior para evitar visitas improdutivas."
 
-## Desafios e legado
-- Hoje 90% dos sites são novos (projeto do zero); ~10% são "ampliação" (site existente que precisa crescer); ainda não atacam o "legado puro" (site já funcionando com bateria própria do cliente) — citam tentativa frustrada com uma empresa (iSystems ou Vital) que só queria vender as baterias já compradas há 6 meses, sem servitização — não fez sentido para a Moura comprar.
+**Diferenciais (Fato):** bateria de chumbo 100% reciclável, logística reversa já estabelecida; verticalização (ver seção 3).
 
-## Visão de futuro (H1/H2/H3, segundo ele)
-- Não gosta de rotular H1/H2/H3 — para ele H3 seria algo mais disruptivo (ex.: garantir energia contínua de fato, e não só um backup por tempo limitado, possivelmente via placa fotovoltaica).
-- Vê crescimento contínuo dentro da Telefônica (chegar a ~2.000 sites, prédios da Telefônica, sites legados) e entrada em outra grande operadora (TIM).
-- Reconhece o Brasil ainda tem ~100 mil antenas, 30 mil por grande operadora, maioria sem backup — grande espaço de mercado.
-- Consolidação como líder ("oceano azul") comparável à liderança da Moura em bateria automotiva — desde que "não faça besteira".
-- Compara com concorrente C-Towers, que teria começado a instalar rápido mas sem ter o produto pronto e estaria "quebrando" — reforça a tese de "devagar e sempre" da Moura.
-- Redução de furto: nunca vai a zero, mas há iniciativas em curso (parceria com polícia, novo CAVE — grade de proteção —, isca de bateria).
+**Autocrítica (Fato):** "Eu acho que o principal ponto é a gente está indo lá, mas a gente não está sabendo vender [...] talvez os vendedores não estejam treinados pra responder perguntas na hora."
+
+---
+
+## 2. Desafios internos
+
+### Na área dele (financeiro)
+- **Problema:** perda de ritmo de acompanhamento comercial. **Impacto:** ele fica "passageiro" no assunto Telecom, sem visibilidade atualizada. **Quote:** "Eu tinha muito mais interação lá atrás [...] reuniões quinzenais [...] Hoje em dia eu fico bem mais distante [...] Telecom tá meio voando." (Compara com o BES, onde está "muito mais por dentro.")
+- **Problema:** estouro do cap de furto do contrato Telefônica. **Impacto:** ~R$100 mil acima do previsto proporcionalmente; negociando emissão de nota de débito. **Quote:** "proporcionalmente a gente tá fora já. Tá passando uns 100 mil reais [...] do que a gente poderia gastar com o número de sites que a gente tem."
+- **Problema:** risco de resultado (DRE) volátil por baixa de imobilizado em caso de furto não contido. **Impacto:** possível prejuízo contábil pontual mesmo com operação saudável. **Quote:** "isso dá uma baixa de imobilizado no nosso DRE [...] você perde muito dinheiro e fica um resultado muito variável."
+
+### Percepção sobre desafios de outras áreas
+- **Problema (comercial):** troca total do time comercial (saiu Natasha, entrou Karina; "a equipe inteira de DCBE [...] trocou inteira [...] ficou um pouco sem histórico"). **Impacto:** causa direta apontada por ele para a perda de ritmo de acompanhamento.
+- **Problema (comercial):** falta de prospecção ativa. **Impacto:** dependência de iniciativa espontânea. **Quote:** "se você falar assim hoje, como é que tá, nós vamos fechar com a Claro? Não sei. Se ninguém falou nada, não vai."
+- **Problema (operação/estoque):** compra conforme previsão de demanda gera "dores de barriga". **Impacto:** poderiam instalar mais sites se o processo de compras/requisições fosse mais estruturado.
+
+---
+
+## 3. Áreas internas
+
+**Ele (financeiro):**
+- Papel: gestão financeira, OKR, resultado do contrato Telefônica ("do começo até o meio sou eu").
+- Dependência: José Espinosa cuida "do meio para o fim" (instalar, comprar, monitorar).
+
+**Andréia (PO):**
+- Papel: "é meio que o óleo entre as engrenagens [...] a Moro Energia é o viabilizador da servetização" — modela novos negócios/precificação.
+- Ele atua só como "co-validador" com Gustavo, não decide a modelagem.
+
+**Fábrica/CMO:**
+- Papel: fornecedora principal — Moura Energia compra da própria CMO desde início do ano da entrevista (antes comprava de terceiros).
+
+**RSM:**
+- Papel: braço de manutenção/instalação.
+- Dependência: "se a gente está confiante que a RSM pode ser essa empresa de fato [...] mas não necessariamente ficar amarrado a elas [...] a Moro Energia vai chegar uma hora que vai ter que talvez contratar empresa de fora."
+
+**Interpretação:** ele descreve a estrutura de forma mais "formal"/organizacional do que os outros entrevistados, com clareza de fronteiras entre áreas — mas essa clareza contrasta com a perda de ritmo que ele mesmo relata na interação real entre financeiro e comercial.
+
+---
+
+## 4. Modelo comercial
+
+**Como surgem oportunidades (Fato):** quase fechou primeiro com a TIM (trial de 20 sites em Pernambuco, "super bom"), mas a TIM trocou o time e desistiu do projeto maior — "aí a Telefônica saiu na frente."
+
+**Como acontece a venda (Fato):** "a Moura sempre impõe o seu contrato. Na Telefônica a gente foi imposto [...] não existe hoje um modelo padrão de contrato de telecom [...] para usar na TIM, acho que vai ser a mesma coisa. Vai vir um da TIM."
+
+**Quem vende e influencia (Fato):** ele participava das reuniões e validava a minuta de contrato na fase de fechamento; hoje se concentra em performar o contrato, não em ir atrás de novos clientes.
+
+**Argumentos que funcionam (Fato):** ver seção 1 (SLA, granularidade, zero CAPEX).
+
+**Argumentos que não funcionam / objeções (Fato):** falta de comunicação eficaz do valor financeiro amplo — apontado por ele mesmo como o "principal ponto" limitando a conversão comercial.
+
+**Diferenças entre clientes (Fato):** não existe modelo padrão de contrato — cada operadora impõe o seu próprio.
+
+---
+
+## 5. Visão sobre os clientes
+
+**Perfil (Fato):** cita tentativa frustrada com uma empresa (possivelmente iSystems ou "Vital") que já tinha comprado as baterias há 6 meses e só queria vender o parque para a Moura assumir — recusaram por não fazer sentido financeiro comprar ativo alheio sem controle de instalação.
+
+**Comportamento (Fato):** Telefônica hoje é cliente satisfeito, contrato performando — mas com risco real de renegociação de modelo (Telefônica querendo migrar para aluguel só de bateria), citado como preocupação presente.
+
+**Critérios de decisão (Fato):** TIM não converteu por questão de CAPEX/EBITDA (IFRS16) — ele reconhece incerteza sobre essa explicação.
+
+---
+
+## 6. Barreiras de expansão
+
+- **Internas:** dispersão geográfica/distância da RSM ("a região norte a gente não foi [...] o meu custo lá, o cara vai lá viajar sete horas de avião"); falta de comunicação eficaz do valor (apontada como "principal ponto"); dependência de financiamento externo (BNB) que "uma hora vai acabar."
+- **Clientes:** incerteza sobre como tratar sites legados — "a gente precisa ver o que a gente vai fazer [...] Acho que é o principal ponto" — reconhece como maior lacuna estratégica não resolvida.
+- **Mercado:** não identificado por ele como limitador direto.
+
+---
+
+## 7. Ecossistema e mercado
+
+**Telecom / tamanho de mercado (Fato):** ~100 mil antenas no Brasil; ~30 mil por grande operadora; maioria dos sites sem backup hoje.
+
+**Posicionamento da Moura Energia (Fato — analogia com bateria automotiva):** "a Moura é líder isolada na bateria automotiva [...] Mesma coisa, a Moura Energia [...] ser o negócio que vai ajudar as telecom [...] Então eu tentaria crescer dentro das operadoras."
+
+**Concorrência (Fato):** C-Towers — teria começado a instalar rápido, "dando porrada na gente", mas sem ter o produto realmente pronto; segundo ele, estaria "quebrando" — usa isso para validar a estratégia "devagar e sempre" da Moura.
+
+**Posicionamento/verticalização (Fato):** "a Mora Energia tem a empresa que vai figurar no contrato [...] Ela compra o produto da própria Mora [...] e ela também tem a estrutura de manutenção própria [...] Ela faz toda a estrutura[,] da cadeia ali dentro dela mesma."
+
+*Não abordado: TowerCos/torreiras diretamente, parceiros, fornecedores, integradores.*
+
+---
+
+## 8. Visão de futuro
+
+**Próximos passos (Fato):** performar o contrato Telefônica completo (~2.000 sites, com extensão de prazo provável), entrar em outra grande operadora (TIM), possivelmente expandir para prédios da própria Telefônica.
+
+**Oportunidades (Fato):** legado ainda não resolvido — hoje 90% dos sites são novos ("projeto do zero"); ~10% são "ampliação"; o "legado puro" ainda não tem resposta clara de modelo.
+
+**Longo prazo (Fato — visão "disruptiva"):** não gosta do rótulo H1/H2/H3 — o próximo salto real seria garantir energia de fato contínua (não só um backup por tempo limitado), possivelmente via placa fotovoltaica de recarga contínua.
+
+**Riscos (Fato):** redução de furto nunca vai a zero, mas há iniciativas em curso (parceria com polícia, novo CAVE, isca de bateria) que devem reduzir a taxa ao longo do tempo — "a gente tem que ser talvez a empresa que vai ter que proporcionar o menor índice de furto do mercado, mas ele vai existir ainda."
+
+---
+
+## 9. Hipóteses para validação (Fase 2 — com operadoras)
+
+| O que o time interno acredita (opinião de Daniel Garcia) | Hipótese estruturada para testar com o mercado |
+|---|---|
+| "A gente está indo lá, mas a gente não está sabendo vender" — problema está na comunicação/treinamento do vendedor. | O problema pode não ser (só) despreparo do vendedor, mas **falta de acesso aos dados de custo interno da própria operadora** para montar um business case customizado — testar se as operadoras aceitariam compartilhar dados de custo atual para co-construir esse business case. |
+| TIM não converteu por questão de CAPEX/EBITDA (IFRS16 não percebido como na Telefônica). | Pode não ter sido decisão financeira "definitiva e informada" (ele mesmo reconhece incerteza) — hipótese: **o argumento de IFRS16/EBITDA nunca chegou formalmente ao comitê financeiro/CFO da TIM** — testar apresentando esse argumento especificamente a esse público. |
+| Sites "legados" não fazem sentido para recompra pela Moura. | A resistência pode variar conforme o grau de depreciação real do parque — testar segmentando: sites/operadoras com parque mais antigo e problemático tendem a ser candidatos mais maduros para a oferta de recompra do que sites recém-comprados. |
+
+---
+
+## 10. Pessoas-chave para falar dentro do cliente (operadora)
+
+**Já conversados, segundo ele (principalmente no passado):**
+- Participou de reuniões e validou a minuta de contrato com a Telefônica na fase de fechamento — não nomeia interlocutores específicos.
+- Hoje mantém contato apenas com o "corporativo" da Telefônica para confirmar pagamentos.
+
+**Não conversados / lacuna identificada:**
+- Reconhece ter se afastado do acompanhamento comercial/de relacionamento nos últimos meses — não tem visibilidade atualizada de quem são os contatos-chave hoje.
+- Não menciona ter mapeado o comitê financeiro/CFO da TIM como interlocutor a buscar, apesar de essa ser, na visão dele, a peça que faltou para converter o negócio.
+
+---
+
+## 11. Outros insights
+
+- **Ele é o único entrevistado a relatar em detalhe a mecânica financeira do cap de furto e seu estouro atual** — dado quantitativo (~R$100 mil acima do previsto) relevante para calibrar a urgência real do problema no report, além das percepções mais qualitativas de outros entrevistados.
+- **A comparação C-Towers vs. Moura ("devagar e sempre")** é um contraponto competitivo direto que nenhum outro entrevistado trouxe com esse nível de detalhe — vale investigar de forma independente se essa informação (concorrente "quebrando") procede, já que vem de uma única fonte.

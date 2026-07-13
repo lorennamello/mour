@@ -1,63 +1,143 @@
 # Aline Souza — Coordenadora Comercial (Telecom)
 
-**Papel:** 5 anos de Moura, 1 ano no departamento de baterias estacionárias/telecom envolvendo o Moura Energia. Coordenadora, reporta a Karina (gerente), que reporta a Tiago Melo, que reporta a Gustavo Moura. Lidera os executivos Adriele (Driele) e (até recentemente) Luciano — desligado da empresa pouco antes da entrevista.
+**Papel:** 5 anos de Moura, 1 ano na área de baterias estacionárias/telecom. Coordenadora, lidera Adriele (Driele) e (até recentemente) Luciano, desligado pouco antes da entrevista. Reporta a Karina, que reporta a Tiago Melo.
 
-## Estrutura comercial
-- Time comercial é da **ACMO** (Acumuladores Moura, a fábrica) — presta serviço ao Moura Energia, que é "cliente" desse comercial.
-- O comercial não é dividido entre "venda tradicional" e "servitização" — é único: se o cliente quer comprar, vai para a fábrica faturar; se quer alugar, entra nas condições do Moura Energia.
-- Karina é responsável por duas verticais: Telecom e "novos negócios" (bancos, elétrico/usinas, redes como Enel).
-- Explica a estrutura de siglas: ACMO (fábrica), Moura Energia, e o comercial "joga em todos os campos" (fala com engenharia, qualidade, compras do cliente).
+---
 
-## Como tentaram vender para TIM e Claro (histórico de tentativa e erro)
-- Replicaram a estratégia que funcionou na Telefônica: acessar comprador e engenheiros — mas essas pessoas "não estavam a fim", com medo de perder o emprego pela terceirização/gestão.
-- Padrão de recusa comum às três operadoras nesse nível hierárquico.
-- Pivotaram para tentar acessar o "boarding" (alta diretoria) da TIM, como fizeram (segundo o entendimento dela) na Telefônica — mas a apresentação que tinham não estava em "nível de boarding" (texto demais, pouco visual); a reunião com os "tops" da TIM foi **cancelada** por não estarem preparados. Karina identificou o problema ao entrar na área.
-- Estão reconstruindo a apresentação (com ajuda de Andréia, Daniel e marketing da Moura) — processo ainda em andamento na época da entrevista.
-- Torreiras também mapeadas como alvo, mas "nenhuma nunca abriu a porta".
-- Claro: estratégia vinda de matriz (México) é "top-down", prefere ter a bateria como ativo próprio (CAPEX) — mesmo com sinais recentes de abertura em nível gerencial, ainda volta para o mesmo business case fechado.
-- Sugestão dela para virar esse jogo: construir um business case robusto e quantificado (economia total, não só custo da bateria) para cada operadora — hoje "a gente não consegue explicar, basicamente, financeiramente".
+## 1. Proposta de valor
 
-## Caso Algar (operadora pequena) — exemplo de processo de compra
-- RFP (pedir cotação para entender mercado) x RFQ — a Algar abriu inicialmente uma RFP só de aluguel de bateria (sem gabinete); a Moura recusou (não vende só bateria, por não conseguir garantir segurança/furto sem controlar o gabinete completo).
-- Negociação de ~1 ano; a Algar decidiu que 90% dos gabinetes dela já eram novos (não precisava trocar) — acabou preferindo comprar bateria avulsa e não contratar o serviço completo.
-- Ilustra um padrão: quando o gabinete do cliente já é novo, ele só quer bateria (CAPEX), perdendo o argumento de servitização da Moura.
-- Algar não tem histórico relevante de furto (sites em prédios com segurança/portaria) — reduz o apelo da proposta antifurto da Moura para esse tipo de cliente.
+**O que a Moura Energia entrega (Fato):** "cara, faz o que você é bom e deixa a energia que a gente resolve [...] essa parte que você gasta muito tempo com isso realmente. Com compra de bateria, com instalação."
 
-## Proposta de valor (discurso dela)
-- Slogan: "faz o que você é bom e deixa a energia que a gente resolve".
-- Foco forte em furto: gabinete + grade + cadeado Bluetooth (liberado só centralmente) + monitoramento em "sala tipo NASA" com telões.
-- Exemplo prático usado com clientes: se cai o sinal, o cliente normalmente manda um técnico próprio (caro); com Moura Energia, verificam remotamente e evitam deslocamento desnecessário ("passou um gato lá, foi isso").
-- Diferencial de granularidade de dados: cita que a TIM hoje só vê "o site geral" caindo, sem saber se foi a bateria, a antena etc. — precisa investigar; a Moura já entrega a causa direto.
+**Problema que resolve (Fato):** furto de bateria — "eu pego muito nessa questão do furto, porque ele se preocupa muito [...] geralmente é uma bateria roubada de um dia para o outro [...] o Moura Energia já vai, o pacote já influencia tudo isso." Também custo de deslocamento técnico: "hoje se você tem um problema no seu site, você não consegue verificar [...] você manda um técnico [...] é caríssimo [...] No Moro Energia eu já consigo verificar pelo sistema."
 
-## Processo de resposta a RFP (fluxo interno)
-- RFP chega para o executivo de conta (ex.: Adriele) → reunião de kickoff (Andréia/PO, Aleph/engenharia, Yasmin) → definição de escopo → engenharia dimensiona capacidade/baterias → Andréia + Carol + Maria Cecília fazem a modelagem financeira (taxa, aluguel) → validação final com Gustavo e Tiago Tasso antes de submeter → resposta ao cliente → rodadas de negociação (às vezes 2ª/3ª rodada) → cliente pode mudar de estratégia no meio do processo (ex.: RFP global da Telefônica via Espanha, onde um concorrente ofertou compra em vez de aluguel e a Moura perdeu por não conseguir competir em preço de compra).
-- Cliente geralmente **não revela o target de preço** — "é como se fosse um leilão".
+**Clientes (Fato):** Telefônica (contrato ativo), TIM e Claro (tentativas), Algar (pequena operadora, negociação de ~1 ano), torreiras (T-System/iSystem).
 
-## Torreiras e concorrência de compra
-- Torreiras da Claro seguem estratégia própria de "comprar" (top-down da matriz).
-- Tentativas frustradas de alugar para torreiras "T-System"/iSystem — só conseguiram fechar pedido de **compra**, nunca aluguel.
-- Sugestão dela: mapear torreiras grandes (as pequenas, com poucos milhares de sites, não compensam o investimento de servitização) — cogita existir um "sindicato de torreiras" a pesquisar.
+**Valor percebido (Fato):** diferencial de granularidade de dados — "hoje, com a TIM, eles só conseguem ver o site de forma geral. Se parar a bateria, ele não consegue saber que foi a bateria [...] Com o Moro Energia a gente já consegue direto no problema."
 
-## Concorrentes citados
-- ZTE, Unicoba (UCB), Huawei, SecPower — concorrem principalmente em **preço de bateria** (fabricação chinesa mais barata).
-- Diferencial da Moura frente a esses: serviço e pós-venda — concorrentes chineses "tiram a bateria e não tem o que fazer", sem análise ou acompanhamento.
-- A ZTE já cotou aluguel só de bateria (sem gabinete) em uma disputa.
+**Diferenciais (Fato):** serviço + pós-venda, algo que concorrentes chineses não oferecem — "uma coisa que os clientes elogiam muito, [é] que a gente tem o serviço e tem o pós-venda. E esses caras não têm, porque é tudo na China."
 
-## Regulação (Anatel)
-- Anatel homologa as baterias (segurança) — bateria de chumbo já é homologada; **bateria de lítio ainda não tem homologação Anatel** (regra muito recente).
-- Moura está "correndo na frente": já fez ~50-60% dos testes necessários e ajudou a própria Anatel a estruturar o processo de homologação de lítio; prazo formal (outubro, a confirmar) provavelmente será prorrogado, segundo conversa com o superintendente da Anatel.
-- Isso hoje cria uma "feira livre" (qualquer fornecedor de lítio pode vender sem controle formal).
+---
 
-## Contrato Telefônica — pontos que ela conhece (nível comercial)
-- Contrato de 10 anos.
-- Existe cap de cobertura de furto (ex. ilustrativo dela: "se a bateria for roubada 3 vezes, cobre; 11 vezes, não cobre mais" — não soube precisar o número exato).
-- Moura responsável por manutenção preventiva.
-- Existe percentual de recusa de instalação em sites considerados perigosos.
-- Reajuste de preço previsto periodicamente (não lembrou a periodicidade exata).
-- Não soube confirmar se há penalidade formal para a Moura em caso de indisponibilidade de energia (acha que pode haver rateio se a operadora for processada, mas não tem certeza).
-- Confirma que há multa contratual por atraso no cumprimento do "rollout" (prazo de instalação de lotes de sites).
-- Gestão do contrato/acompanhamento é feito por Josi (programação da fábrica) e José Espinosa (operação/relação direta com a Telefônica).
+## 2. Desafios internos
 
-## Onde ela apostaria para conseguir mais clientes
-- TIM primeiro: vê que a desorganização deles com rollout tornaria o argumento de eficiência mais forte, especialmente se acessarem o "boarding".
-- Depois, insistir mais em torreiras grandes.
+### Na área dela (comercial)
+- **Problema:** apresentação despreparada para nível de diretoria (caso TIM). **Impacto:** reunião com os "tops" cancelada antes de acontecer. **Quote:** "conseguimos a reunião com os tops [...] aí a Karina entrou [...] ela falou assim: não, cara, tem muita escrita, essa apresentação não está em nível de boarding [...] Cancelamos a reunião, porque a gente ia passar vergonha."
+- **Problema:** falta de business case quantificado. **Impacto:** dificuldade de convencer no nível financeiro. **Quote:** "hoje, basicamente, a gente não consegue explicar, basicamente, financeiramente [...] é bem difícil [...] a gente tem que ter um número [...] que brilhe os olhos."
+- **Problema:** equipe reduzida. **Impacto:** perda de capacidade de prospecção. **Quote:** "agora eu só estou com uma executiva aqui, que o Luciano saiu da empresa [...] a gente ficou um pouco defasada nessa questão de prospectar, porque a gente está com muita demanda de [...] Rollout com as grandes operadoras."
+
+### Percepção sobre desafios de outras áreas
+- **Problema (produto):** dificuldade em vender "só bateria" quando o gabinete do cliente já é novo. **Impacto:** perda de negócios como o da Algar. **Quote:** "os sites da Algar não tem roubo de bateria [...] então já não faz tanto sentido" a proposta antifurto.
+
+---
+
+## 3. Áreas internas
+
+**Comercial (ACMO/fábrica):**
+- Papel: "nós somos o comercial deles [Moura Energia]"; comercial único, não segmentado por venda x servitização — "a gente não tem o comercial de venda e o comercial de simitização, não. É o único."
+
+**Josi (gestão de contratos):**
+- Papel: "vai fazer toda a programação da fábrica para que consiga atender a operação do Moro Energia, que é o José Espinosa."
+
+**José Espinosa (operação):**
+- Papel: contato direto com a Telefônica no dia a dia operacional — "Cadê a bateria? Cadê o gabinete? O instalador. Precisa de guindaste?"
+
+**Andréia (PO), Aleph (engenharia), Carol/Maria Cecília (financeiro/modelagem):**
+- Papéis específicos no fluxo de resposta a RFP (ver seção 4).
+
+---
+
+## 4. Modelo comercial
+
+**Como surgem oportunidades (Fato):** RFP/RFQ das operadoras.
+
+**Como acontece a venda (Fato — fluxo detalhado):** RFP chega para o executivo de conta → reunião de kickoff (Andréia/PO, Aleph/engenharia, Yasmin) → definição de escopo → engenharia dimensiona → Andréia + Carol + Maria Cecília fazem modelagem financeira → validação final com Gustavo e Tiago Tasso → submissão → rodadas de negociação.
+
+**Quem vende e influencia (Fato):** ela e Driele (executivas de conta), Karina (gerente), com apoio de PO/engenharia/financeiro.
+
+**Como a proposta é apresentada (Fato):** cliente não revela target de preço — "é como se fosse um leilão."
+
+**Argumentos que funcionam (Fato):** foco em furto + granularidade de dados (ver seção 1).
+
+**Argumentos que não funcionam / objeções (Fato):**
+- Claro: preferência por CAPEX/ativo próprio, estratégia "top-down" da matriz mexicana.
+- Algar: sites já protegidos fisicamente, argumento antifurto perde força; negociação de ~1 ano terminou em leilão de compra de bateria avulsa em vez de aluguel.
+- Caso de perda concreta: RFP global da Telefônica (via Espanha) — concorrente ofertou compra com preço mais baixo, cliente mudou de aluguel para compra no meio do processo, Moura perdeu.
+- Torreiras: só fecharam pedido de **compra**, nunca aluguel.
+
+**Diferenças entre clientes (Fato):** Claro (CAPEX/matriz), Algar (baixo furto, sensível a preço), torreiras (top-down de compra).
+
+---
+
+## 5. Visão sobre os clientes
+
+**Perfil (Fato):** Claro — dor de OPEX, prefere ativo próprio; Algar — sites protegidos fisicamente, furto não é dor relevante; torreiras — seguem estratégia top-down de compra.
+
+**Comportamento/maturidade (Fato):** clientes com gabinete já novo tendem a só querer bateria (ela chama esse conjunto de "gabinetes legados").
+
+**Critérios de decisão (Fato):** preço (leilão, "como se fosse um leilão"), estado de conservação do parque já existente.
+
+---
+
+## 6. Barreiras de expansão
+
+- **Internas:** falta de apresentação em nível de diretoria/boarding; falta de business case financeiro quantificado por operadora; equipe comercial reduzida/sobrecarregada.
+- **Mercado (TowerCos):** torreiras resistentes a modelo de aluguel — preferem compra, seguem estratégia top-down da matriz.
+- **Externas/regulatórias:** regulação de lítio ainda incompleta (Anatel) cria uma "feira livre" onde qualquer fornecedor pode vender sem controle — contexto de mercado, não necessariamente barreira direta à Moura (que está "na frente" desse processo).
+
+---
+
+## 7. Ecossistema e mercado
+
+**Concorrência (Fato):** ZTE, Unicoba (UCB), Huawei, SecPower — concorrem via preço de fabricação chinesa; ZTE já cotou aluguel só de bateria (sem gabinete) em uma disputa.
+
+**Diferencial reconhecido pelo cliente (Fato):** serviço + pós-venda, ausente nos concorrentes chineses.
+
+**Regulação/Anatel (Fato):** homologa baterias (segurança); só regula bateria de chumbo hoje — lítio ainda sem homologação formal; Moura já fez ~50-60% dos testes necessários e ajudou a própria Anatel a estruturar o processo; prazo formal provavelmente será prorrogado.
+
+**TowerCos (Fato):** Claro tem torreira própria com estratégia top-down de comprar; torreiras independentes (T-System/iSystem) só fecharam compra, nunca aluguel.
+
+*Não abordado: parceiros, integradores, tendências de mercado de longo prazo.*
+
+---
+
+## 8. Visão de futuro
+
+**Próximos passos (Fato):** consertar apresentação de nível diretoria, montar business case quantificado, insistir nas grandes operadoras e torreiras.
+
+**Prioridades (Fato):** "hoje eu atacaria a Tim, com certeza, porque eu acho que tem sentido para eles [...] eles têm uma deficiência com isso, com organização, com rollout [...] Eu iria nas grandes operadoras e, se possível, insistir mais nas torreiras" (grandes, especificamente — as pequenas "não fazem sentido" pelo volume).
+
+**Oportunidades (Fato):** reconhece a necessidade de mapear torreiras de forma mais sistemática — "existe um sindicato de torreiras, a gente pode até pesquisar."
+
+**Interpretação:** discurso pragmático e orientado a ação de curto prazo — menos especulativo sobre roadmap de produto de longo prazo do que outros entrevistados (ex.: Francisco, Espinosa).
+
+---
+
+## 9. Hipóteses para validação (Fase 2 — com operadoras)
+
+| O que o time interno acredita (opinião de Aline Souza) | Hipótese estruturada para testar com o mercado |
+|---|---|
+| A reunião com o "boarding" da TIM foi cancelada por a apresentação não estar em "nível de boarding". | Mesmo com apresentação de nível adequado, a decisão final pode continuar travada porque **quem decide de fato não está na sala** — testar diretamente, antes de reagendar, quem assina a aprovação final de um contrato desse porte na TIM. |
+| Claro resiste por política top-down da matriz mexicana. | Um contato gerencial recente da Claro reagiu positivamente ("gostei muito, vamos fazer uma proposta") — a resistência pode não ser definitiva — testar se apresentar o business case completo (não só bateria) muda a decisão desse contato específico. |
+| Algar não valorizou o antifurto porque os sites já são protegidos fisicamente. | O apelo comercial pode estar centrado demais em furto — testar um pitch sem esse argumento, focado em outros ganhos (gestão operacional, SLA, disponibilidade) para esse perfil de cliente. |
+| Torreiras seguem estratégia top-down de compra, "nenhuma nunca abriu a porta" para aluguel. | A recusa pode ser porque **nunca foi apresentada uma comparação financeira direta** entre comprar e alugar para uma torreira grande — testar apresentando essa análise isoladamente da negociação com a operadora. |
+
+---
+
+## 10. Pessoas-chave para falar dentro do cliente (operadora)
+
+**Já conversados, segundo ela:**
+- **TIM** — "os tops" (alta diretoria, não nomeados): reunião **cancelada antes de acontecer**, ainda não retentada.
+- **Claro** — contato de nível gerencial (não nomeado): reação recente positiva, mas processo voltou ao mesmo business case fechado da matriz.
+- **Algar** — comprador/executivo (não nomeado): negociação de ~1 ano, migrou para leilão de compra.
+- **Torreiras** (T-System/iSystem): resultado — só compra, nunca aluguel.
+
+**Não conversados / lacuna identificada:**
+- Sem nome/cargo mapeado para quem, na TIM, teria autoridade para aprovar o contrato mesmo após apresentação de nível "boarding".
+- Sem interlocutor de comitê de investimento corporativo (matriz) mapeado na Claro — só contato local.
+
+---
+
+## 11. Outros insights
+
+- **Ela é a fonte mais rica em detalhes operacionais do fluxo de RFP** — o mapeamento passo a passo dela (kickoff → engenharia → modelagem → validação → submissão) é o mais completo entre todas as entrevistas e pode servir como base de um fluxograma no report.
+- **O caso da RFP global da Telefônica perdida para um concorrente que ofertou compra** é um exemplo concreto e recente de como decisões de compra vs. aluguel podem mudar no meio do processo — vale destacar como risco estrutural do modelo, não só uma barreira teórica.

@@ -1,58 +1,118 @@
 # Consultor de Projetos da Moura Energia — Operação Vivo
 
-**Papel:** Consultor de projetos na Moura Energia desde setembro/2025, responsável por monitorar/gerenciar os produtos implantados de Telecom e BES (operação pós-implantação). ~12 anos de casa Moura, passou por 4 áreas diferentes (estagiário de engenharia em Belo Jardim, RH/GPM como analista/supervisor de infraestrutura, gestor de projeto/produção na fábrica de baterias de lítio, e agora Moura Energia).
+**Papel:** Consultor de projetos na Moura Energia desde set/2025, responsável por monitorar/gerenciar os produtos implantados (Telecom e BES) pós-implantação. ~12 anos de casa Moura, passou por 4 áreas (estágio de engenharia, RH/GPM, gestão de produção na fábrica de lítio, e agora Moura Energia).
 
-## Escopo da função
-- Cuida do ativo depois que sai de "implantação" e entra em "operação" (quando a Vivo aceita o gabinete).
-- Plano de manutenção preventiva a cada 6 meses, articulada com as RSMs.
-- Manutenção corretiva: mapeia, acompanha e diagnostica alarmes/problemas/furtos e aciona o time de campo.
-- Monitora dados de operação da plataforma; hoje a capacidade preditiva ainda é baixa.
-- Se descreve como "guardião da plataforma" — a área de operações é quem mais usa a ferramenta no dia a dia.
-- Também é "guardião" do processo de troubleshooting (N1 = NOC, N2 = pode ser ele, engenharia ou TI, N3 = outro nível) e da governança de mudanças de processo (existe um documento "MANHA" como padrão).
+---
 
-## Processo de implantação → operação
-- Vivo nomeia o site ("o site XXX é seu"); time de implantação da Moura instala o gabinete.
-- Fica uma "porta" disponível para a Vivo instalar seus próprios equipamentos; enquanto isso não acontece, um alarme pode surgir por problema de instalação que **não é responsabilidade da operação** (é pendência de implantação).
-- A operação só assume plenamente depois que a Vivo confirma que instalou os equipamentos dela sem pendências — o aceite da operação se baseia no aceite da Vivo.
+## 1. Proposta de valor
 
-## Maior dor: vandalismo/furto
-- Cerca de **7% dos gabinetes** já foram vandalizados (índice considerado alto e incômodo).
-- O modelo de negócio foi baseado num percentual de referência de **2%** — ou seja, estão ~5 pontos percentuais acima do ideal.
-- A Vivo reconhece que isso é normal do dia a dia deles ("vivo isso 4-5 vezes por dia").
-- Mitigação em andamento: reforço da estrutura mecânica, estudo de rastreamento de bateria roubada, redimensionamento de energia (colocar menos bateria) para reduzir atratividade.
+**O que a Moura Energia entrega (Fato):** "O ser da Moro Energia é entregar energia para a Avivo quando falta energia no site. Como é que eu entrego essa energia? Com um banco de baterias. Isso é a autonomia do site."
 
-## Segunda dor: conectividade/confiabilidade de dados
-- Alertas da plataforma têm "falsos positivos" (ex.: "porta aberta" sem porta ter sido aberta) e "falsos negativos" (não alerta quando algo de fato aconteceu).
-- Isso gera retrabalho ou atraso na informação — às vezes ele só descobre um furto porque o **cliente liga avisando**, e a plataforma não mostra nada.
-- Não sabe a causa raiz da não confiabilidade (só conhece a consequência).
+**Problema que resolve (Fato):** garantir disponibilidade de energia (backup) para cumprir a exigência regulatória de continuidade de sinal.
 
-## Sobre a plataforma
-- Plataforma tem ~6 meses de vida (começou em janeiro); ainda "tem um caminho longo".
-- O que falta: informação de **autonomia do site** (quantas horas de backup restam) não vem "vomitada" na tela — precisa ser garimpada; essa é a informação mais crítica pois é a que gera risco contratual/multa.
-- Informação de acessos também não está como gostaria.
-- O que já entrega bem: status online/offline em tempo real (ex.: de 412 sites, sabe quantos estão offline), permite refutar ou confirmar reclamações da Vivo sobre telemetria, consumo de dados por site vs. franquia contratada, status do cadeado (aberto/fechado), histórico documental do site (aba "projetos").
-- Cálculo de autonomia: a plataforma mostra consumo em ampere dos equipamentos da Vivo; ele calcula a quantidade de bateria necessária para cobrir o DEC contratado (2, 3 ou 4 horas — valor contratual fixo por site).
+**Clientes (Fato):** Vivo (foco exclusivo desta entrevista).
 
-## Relação com a Vivo
-- Percepção como "muito positiva/colaborativa" — quando mostram print/evidência da telemetria, gera confiança ("esses caras sabem do que estão falando").
-- Elogios recebidos: tempo de resposta, prontidão, cordialidade, decisões baseadas em fatos e dados.
-- Relação dele é operacional, não estratégica.
-- Maior preocupação da Vivo: **tempo de resposta / SLA de atendimento**. Exemplo: em Minas Gerais, a base da RSM está longe (ex.: Uberlândia fica a 6-7h da base), mas o contrato exige atendimento em até 4h em alguns casos.
-- SLAs contratuais: 4h (mais crítico), 6h (médio), 12h (mais leve) — a confirmar com o contrato. Vivo costuma ser flexível na prática, mas o contrato "debaixo do braço" diria outra coisa.
-- Considera os SLAs de atendimento uma "fraqueza" real da operação.
+**Valor percebido (Fato):** capacidade de refutar ou confirmar reclamações da Vivo com dados — "Eu vou conseguir abrir a plataforma e vou conseguir refutar o cara ou confirmar [...] Nem sempre eu ganho essa queda de braço, mas no mínimo eu ganho o tempo."
 
-## RSM (Rede de Serviços Moura)
-- É do Grupo Moura, mas outro CNPJ, com autonomia para terceirizar/subcontratar parceiros regionais.
-- Sugeriu à RSM Minas Gerais que buscasse parceiros locais (quarteirização) após reclamação da Vivo.
-- Mesmo problema se repete no BES (ex.: RSM Pernambuco atendendo o Pará).
-- RSM Pernambuco atende também Rio Grande do Norte, Paraíba e Alagoas — ironicamente fica a "um quarteirão" do escritório onde a entrevista ocorreu, mas para Mossoró (interior do RN) o deslocamento é de ~12h de carro.
+**Diferenciais (Fato, mas com ressalva de maturidade):** dados granulares sobre estado do site — porém ainda não plenamente confiáveis nem completos (autonomia do site "precisa ser minerada, eu preciso fazer um trabalho arqueológico").
 
-## Proposta de valor / diferencial (visão dele)
-- O produto físico (gabinete) é o mesmo há 20 anos — a especificação é do próprio cliente, não há diferencial de produto ali.
-- O diferencial está no **"como"**: qualidade de execução, comunicação proativa (dão status sem o cliente pedir), velocidade e forma de resolver os mesmos problemas que a operadora sempre teve.
-- Cita que a operadora tem ~100 mil alarmes e prioriza atender só uma fração (~10%) por recurso limitado — a Moura, ao assumir, consegue cuidar de tudo com mais qualidade e dados.
-- Concorrentes normalmente não têm sistema de monitoramento algum — quando acionados, "não contestam, simplesmente vão lá resolver gastando dinheiro". A Moura contesta com dados e, segundo ele, em ~90% dos acionamentos da Vivo o problema não era da Moura.
+---
 
-## Visão de futuro / potencial da plataforma
-- Vê grande potencial de a plataforma agregar valor ao cliente final, mas ainda não encontraram a "flechada certa" — a informação vendida precisa ser algo que o cliente realmente não conseguiria obter sozinho.
-- Personalização por cliente: entender a dor específica de cada operadora para moldar a oferta de dados.
+## 2. Desafios internos
+
+### Na área dele (operação/campo)
+- **Problema:** vandalismo/furto. **Impacto:** ~7% dos gabinetes vandalizados, acima da referência de modelagem (2%). **Quote:** "Cerca de 7% dos gabinetes da gente hoje foram vandalizados [...] é um número expressivo e que incomoda [...] a gente está 5% acima do que seria o ideal."
+- **Problema:** dados não confiáveis (falsos positivos e negativos de alarme). **Impacto:** retrabalho, atraso na informação, descoberta de furto via ligação do cliente em vez de alerta do sistema. **Quote:** "Se o dado não é confiável [...] corrigir, prever e predizer situações acabam não sendo otimizados [...] por muitas vezes de eu saber pelo cliente."
+- **Problema:** ele não conhece a causa raiz da falta de confiabilidade dos dados. **Impacto:** limita sua capacidade de propor solução. **Quote:** "Eu não sei porque a informação não tá confiável [...] eu sei o modo [efeito], não sei a causa."
+
+### Percepção sobre desafios de outras áreas
+- **Problema:** plataforma ainda imatura (~6 meses de vida na época). **Impacto:** "tem um caminho longo para a gente chegar [...] no estado da arte." Ele atribui isso ao time de TI/produto, sem detalhar responsabilidades.
+
+---
+
+## 3. Áreas internas
+
+**RSM (braço de campo):**
+- Papel: manutenção preventiva/corretiva.
+- Dependência: distância geográfica das bases limita SLA — ex.: em Minas Gerais, a base RSM fica longe de partes do estado (Uberlândia a 6-7h).
+- Ação tomada por ele: sugeriu à RSM buscar parceiros locais (quarteirização) — "eu fui lá na RSM. Turma, por que vocês não quarteirizam? [...] eles começaram a se movimentar."
+- Conflito/lacuna: mesmo gargalo de distância se repete no BES (cita exemplo do Pará atendido pela RSM de Pernambuco).
+
+*Não abordado em detalhe: papel de TI, ITEM, comercial — ele se mantém no escopo operacional.*
+
+---
+
+## 4. Modelo comercial
+
+Pouco abordado diretamente (ele não é comercial), mas contribui com leitura da relação:
+
+**Como funciona a relação (Fato):** "Eles [Vivo], por mais que refutem, é [...] entendi, mas deve ser algum problema. É muito colaborativo."
+
+**Argumentos que funcionam (Fato — elogios recebidos da Vivo):** "tempos de resposta, é prontidão no atendimento [...] vocês estão sempre disponíveis, é cordial, é sempre baseado em fatos e dados."
+
+**Limite dele mesmo (Fato):** "Minha relação com a Viva é uma relação operacional. Eu não tenho os contatos estratégicos [...] Talvez a visão da estratégia seja diferente, mas aí eu acabo não tendo essa relação."
+
+*Não abordado: como surgem oportunidades comerciais, objeções de venda, diferenças entre clientes (ele só atende Vivo).*
+
+---
+
+## 5. Visão sobre os clientes
+
+**Perfil/comportamento (Fato):** Vivo relativiza o vandalismo como algo cotidiano — "Não se estresse, eu vivo isso 5 vezes por dia, 4 vezes por dia. Faz parte do meu dia a dia tratar esse tipo de situação."
+
+**Critérios de decisão / expectativas (Fato):** SLA contratual rígido (4h/6h/12h conforme criticidade), mas na prática o cliente costuma flexibilizar prazos — "por mais que o contrato, se eles botassem o contrato debaixo do braço, a resposta seria outra."
+
+**Interpretação:** existe um contraste entre o rigor formal do contrato e a flexibilidade prática da relação — o que pode mascarar, no dia a dia, um problema estrutural (SLA real fora do planejado) que só apareceria com clareza numa cobrança formal futura.
+
+---
+
+## 6. Barreiras de expansão
+
+Ele não fala diretamente de expansão para outras operadoras, mas identifica barreiras **operacionais que limitariam qualquer escala**:
+- **Internas:** distância das bases RSM em relação a alguns sites — limitador de SLA que se repete conforme a operação cresce geograficamente; confiabilidade dos dados ainda baixa.
+- **Externas/Mercado/Clientes:** não abordado — fora do escopo da conversa.
+
+---
+
+## 7. Ecossistema e mercado
+
+*Pouco abordado — foco da entrevista foi operacional/interno à Vivo.* Não há comentário dele sobre TIM, Claro, concorrência, torreiras, fornecedores ou integradores nesta entrevista.
+
+---
+
+## 8. Visão de futuro
+
+**Oportunidades (Fato):** vê grande potencial da plataforma para agregar valor ao cliente, mas reconhece não ter clareza de qual dado específico geraria valor comercializável — "não sei onde é que a gente consegue para não ficar viajando na maionese."
+
+**Novos modelos (Fato — hipótese em exploração, não validada):** cruzar dados climáticos (umidade/chuva) com previsão de queda de energia para agir preventivamente — "eu tenho um ramo aqui que eu não sei onde é que isso vai dar."
+
+**Riscos (Fato):** furto segue como o maior risco operacional; aposta em rastreabilidade da bateria roubada e redimensionamento de energia como frentes de mitigação em andamento.
+
+**Interpretação:** sua visão de futuro é mais tática/incremental (resolver dados e furto) do que estratégica de mercado — reflexo do seu papel operacional, focado em fazer o produto atual funcionar melhor antes de pensar em expansão.
+
+---
+
+## 9. Hipóteses para validação (Fase 2 — com operadoras)
+
+| O que o time interno acredita (opinião do Consultor de Projetos) | Hipótese estruturada para testar com o mercado |
+|---|---|
+| A maior preocupação da Vivo é tempo de resposta/SLA — "isso é uma fraqueza [...] os SLA de atendimento nosso, os reais não estão iguais ao planejado." | O problema de SLA percebido pela Vivo pode não ser o tempo médio nacional, mas sim **cobertura desigual por região** (bases RSM concentradas no litoral/grandes centros) — testar com a Vivo se a insatisfação está concentrada em regionais específicas. |
+| A relação com a Vivo é "muito colaborativa" e a Vivo relativiza o vandalismo como algo cotidiano. | Essa tolerância pode valer só no nível operacional (quem ele conversa) e não refletir a visão de quem decide contratos/renovações — testar se o nível estratégico da Vivo trata o índice de furto com a mesma tolerância ou o vê como risco de reputação/renegociação. |
+| A informação de autonomia do site "precisa ser minerada" — falha atribuída à imaturidade da plataforma. | O cliente pode nunca ter formalmente pedido esse dado em tempo real por não saber que é possível — testar se, ao apresentar a informação ao vivo, a Vivo passaria a exigi-la como parte do SLA contratual. |
+
+---
+
+## 10. Pessoas-chave para falar dentro do cliente (operadora)
+
+**Já conversados, segundo ele:**
+- Contatos operacionais da Vivo (não nomeados) — relação cotidiana, descrita como "muito colaborativa".
+
+**Não conversados / lacuna identificada por ele mesmo:**
+- Ele afirma explicitamente não ter acesso a contatos estratégicos: "Minha relação com a Viva é uma relação operacional. Eu não tenho os contatos estratégicos." Achado relevante para a Fase 2: **ninguém do lado operacional da Moura tem hoje acesso ao nível estratégico da Vivo** — provavelmente essa ponte precisa vir de Espinosa, Gustavo ou Thiago Mello (que relatam esse acesso em suas próprias entrevistas).
+
+---
+
+## 11. Outros insights
+
+- **A confiabilidade dos dados é tratada por ele como causa raiz de quase todos os outros problemas** (furto não detectado, retrabalho, dependência do cliente para avisar incidentes) — mais do que qualquer outro entrevistado, ele evidencia o custo prático diário da imaturidade técnica da plataforma, o que reforça (com uma perspectiva de campo) os achados mais técnicos relatados por Francisco (TI) e Vanessa (ITEM).
+- **RSM como gargalo silencioso de escala:** o problema de distância geográfica das bases RSM aparece aqui de forma muito concreta (Uberlândia) e se conecta com o mesmo ponto levantado por José Espinosa e Daniel Garcia sobre a decisão de não expandir para a região Norte — é um padrão transversal, não um caso isolado.

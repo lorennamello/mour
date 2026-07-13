@@ -1,6 +1,8 @@
 # Visão Consolidada — Produto/Serviço Moura Energia (Telecom) e Contrato com a Vivo (Telefônica)
 
 > Documento que cruza as falas de todos os 12 entrevistados sobre o que é o produto/serviço Moura Energia em Telecom e sobre o contrato vigente com a Vivo/Telefônica. Cada ponto é atribuído à(s) fonte(s) que o mencionou, para preservar a granularidade e permitir checar a origem de cada informação. Onde há divergência ou informação não confirmada entre fontes, isso é sinalizado explicitamente.
+>
+> **Revisado e conferido** contra a releitura integral das 12 transcrições feita para os documentos individuais (`01-` a `12-` nesta mesma pasta), que agora seguem uma estrutura mais granular de 11 temas por entrevistado (proposta de valor, desafios internos, áreas internas, modelo comercial, visão sobre clientes, barreiras de expansão, ecossistema/mercado, visão de futuro, hipóteses para validação, pessoas-chave no cliente, outros insights). Este documento consolidado mantém seu propósito original — cruzar especificamente o tema **produto/serviço** e o tema **contrato Vivo** entre todas as fontes — e não duplica as seções de Hipóteses para Validação e Pessoas-chave, que são mais ricas e específicas dentro de cada documento individual (seções 9 e 10 de cada um).
 
 ---
 
