@@ -1,0 +1,254 @@
+# Financeiro - Gravação de Tela 2026-07-13 163258
+
+  Meeting started: 14/07/2026, 11:42:16
+  Duration: 55 minutes
+  Participants: Speaker 1, Speaker 2, Speaker 3, Speaker 4, Speaker 5
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/J6CL2eSZN3SurJc0QpFf?o=txt)
+
+    
+
+  
+
+  
+
+  ## Transcript
+
+  00:00 Speaker 1: nessa entrevista também, e aí acho que Carol e Césia que estão atualmente
+00:04 Speaker 2: auxiliando
+00:07 Speaker 1: desse ponto mais financeiro.
+00:10 Speaker 2: Perfeito.
+00:12 Speaker 3: Carolina e Maria, se vocês puderem se apresentar também para a gente, por favor.
+00:18 Speaker 2: Acho que faz um
+00:21 Speaker 4: ano, um pouquinho, que eu vim para a área que eu estou, eu não sou da área da Andrea, sou do programa financeiro, mas... Como ela não tem esse braço financeiro dentro da área dela desde que a André saiu, eu estou apanhando ela nesse último ano. Na época que a André trabalhava, não com a André, mas na área que a André está hoje,
+00:46 Speaker 2: eu era de outra área e apoiava
+00:48 Speaker 4: de uma outra lógica, de um outro horizonte, na visão mais grupo, a mesma precificação. Então, sempre olhando por onde o grupo iria ganhar mais dinheiro e a Andréia sempre olhando no viés, como é que eu chego num preço menor
+01:05 Speaker 2: para
+01:06 Speaker 4: ganhar o negócio.
+01:09 Speaker 3: Então, você faz esse olhar para dentro do grupo, rentabilidade, qual é as premissas do grupo e a Andréia vai negociando para chegar na viabilidade do cliente.
+01:22 Speaker 4: Isso. Hoje a Andrea vai negociando junto com o time comercial, junto com o César, que está com ela também, para chegar na viabilidade do cliente. Hoje ela tem essa conexão mais próxima do cliente do que eu tenho, eu realmente não tenho.
+01:37 Speaker 2: Perfeito.
+01:38 Speaker 3: E aí, Maria Cecília, você? Eu
+01:40 Speaker 5: faço parte do time da Andrea. A gente, de forma geral, atua nessa... interlocução entre todas as áreas para viabilizar o negócio. Então, entre nas esferas de engenharia, de TI, de financeiro, então, meio que o consolidado do comercial para viabilizar e construir novos negócios de energia como serviço, mas também operacionalizar o que já está em andamento nesse momento.
+02:07 Speaker 3: Tá. Você consegue só me explicar melhor um pouquinho como que isso funciona? Só para a gente entender um pouquinho essa área, porque a gente tem falado muito dessa conexão com todas as áreas, com o comercial, e aí só para entender um fluxo,
+02:24 Speaker 2: se
+02:25 Speaker 3: chega uma oportunidade do comercial, vocês estão desenhando uma oportunidade, como que funciona que você vai conectando as outras áreas? Só para a gente entender.
+02:33 Speaker 5: Excelente. De forma geral, quando surge alguma oportunidade de negócio, vamos dar um exemplo de uma que a gente tem construído nesse momento em conjunto, Carol Tração. Essa oportunidade em geral surge sempre, mas no comercial, que tem essa relação com o cliente, então em geral a gente vai... escutar um pouco de quais são as dores e de que forma a gente consegue consolidar isso numa proposta de valor. Em geral, a proposta de valor inicial, naturalmente, é a quatro mãos, mas a gente, como time de energia, como serviço, capitaneia mais. essa construção para em seguida ir validando tanto com as áreas, mas também com o cliente, essa visão.
+03:10 Speaker 5: Então, logo em seguida disso, já se inicia todas as etapas que vão estar relacionadas do ponto de vista financeiro, do ponto de vista de engenharia. Então, se a gente for falar financeiro e modelagem, a gente vai ter... com o Carol viabilizando de forma macro toda a modelagem e a gente vai suportando meio que as esferas que precisam chegar de todas as áreas para que a viabilidade financeira aconteça. Então, naturalmente, tem entregas que a engenharia precisa fazer, tem entregas que o time de TI precisa fazer para que tudo isso consiga desembocar no negócio. Então, a gente literalmente funciona como esse elo que une todas as áreas, suportando com informações e a visão holística do negócio para fazer com que o processo se consolide.
+03:55 Speaker 3: Perfeito. E aí, só uma pergunta. Quando a gente fala do modelo de negócio, do modelo de viabilidade, a modelagem financeira da Vivo, estava isso com você, André, na época? Você que participou?
+04:10 Speaker 2: Sim, estava comigo
+04:12 Speaker 1: e com outras pessoas, né? Algumas que estão no grupo ainda e outras que não estão mais.
+04:19 Speaker 3: Tá bom, mas você, da gente aqui, foi você que fez esse movimento.
+04:23 Speaker 2: Isso, eu estava lá, isso, exatamente.
+04:27 Speaker 3: Tá bom. Você consegue contar um pouquinho para a gente? E aí, não sei se Maria Cecília, você participou junto dessa orquestração?
+04:37 Speaker 5: Não, nessa época eu ainda não. Nessa época eu ainda não estava no setor.
+04:41 Speaker 2: Não, tá bom.
+04:43 Speaker 3: Então tá, eu vou começar, André, se você pode começar contando pra gente um pouquinho como que foi o processo, né, da Vivo, qual que é o modelo financeiro que a gente tem hoje, né, que lugar que vocês partiram, se vocês usaram algum dado, né, quais foram as premissas que vocês incluíram ali pra fazer esse modelo?
+05:04 Speaker 1: Tá, vou te explicar um pouco da... da lógica que a gente usava. Só para colocar na mesma página, lá atrás, eu estava sentado um pouco na cadeira que Carol estava sentada, ou seja, dentro do planejamento financeiro como área de suporte. E aí eu suportava... Os negócios, né, e um desses novos negócios seria a energia como serviço. E aí surgiu essa oportunidade da Telefônica, aí capitaneada pelo comercial, aí por Tiago Mello, nesse sentido. E aí veio, eu olhava muito mais do ponto de vista financeiro, ou seja, da oportunidade financeira que tinha para o grupo, essa precificação para a Telefônica. E aí a gente foi montando todo o modelo do negócio com base... Eu acho que foram muitas idas e vindas com a telefônica para ir montando toda a lógica, todas as premissas de quantidade de sites, de provisão de furto, custo de manutenção. Foram muitas idas e vindas para a gente ir montando uma solução personalizada, digamos assim, para o cliente. Aí eu posso te ajudar mais do ponto de vista financeiro do que em si. As discussões foram mais... do ponto de vista comercial, ou seja, o nosso comercial, o comercial Moura, com o comercial da Telefônica, do que efetivamente eu participando lá das conversas. Eu olhava mais do ponto de vista de premissa chegando e eu montando a lógica de negócio e precificação do
+06:43 Speaker 2: serviço. Perfeito, você consegue.
+06:48 Speaker 3: Não, perfeito. Você consegue contar para mim, a partir dessa sua visão financeira, como que foi esse modelo, o que você considerou, né, quais são os critérios que vocês consideraram ali para montar esse modelo? Porque a gente foi falando com todo mundo e nem sempre todo mundo tem muito claro isso, né, então, ah, eu acho que o percentual aqui era 5, é 7, então ter um pouco essa visão de vocês vai ser importante, sabe, desses detalhes.
+07:15 Speaker 1: Já é o percentual de quê?
+07:18 Speaker 3: O percentual de furto que foi considerado.
+07:21 Speaker 1: Ah, certo, ok. Porque foram muitas vezes e vindas, mas várias versões. Mas vamos lá, o que é que chegava? A gente foi montando, a gente já tinha dentro do planejamento financeiro uma lógica de business plan, ou seja, toda a lógica de precificação que tinha no Grupo Moura era mais voltada para... ou seja,
+07:43 Speaker 1: não se olhava muito como um projeto, ou seja, em que se tinha um investimento, e esse investimento, esse ativo teria que ser rentabilizado. Aqui dentro do planejamento financeiro, a gente já tinha essa lógica, porque tinha vários projetos na fábrica, que a gente investia, sei lá, em uma máquina, e essa máquina teria que dar uma rentabilidade para a gente através de, sei lá, redução de imposto de trabalho, ou algo nesse sentido, que já trouxesse uma rentabilidade. Então a gente já tinha mais experiência com esse tipo de modelo. E é por isso, inclusive, que a gente ficou auxiliando nessa parte de precificação. Ou seja, a gente olhava no ponto de vista da Moro Energia. A Moro Energia adquiria ativos e esses ativos estariam sendo rentabilizados ao longo do tempo através de um aluguel, que seria o aluguel do sistema telecom para telefônico. E a partir disso foram se vendo todos os custos mensais que... que seria ocorrido, sei lá,
+08:39 Speaker 2: custo
+08:40 Speaker 1: de manutenção a cada seis meses, custo de dados, custo de monitoramento de dados, de equipe para monitorar os dados. Então, essas premissas foram sendo elencadas. Foi muito na base da... que a gente foi enxergando, ou seja, foi feito um trial, inclusive, com a Kim, de, acho que foram 20 e poucos sites. que foi analisado os dados e custo de manutenção e a partir disso foi se
+09:12 Speaker 2: traçando
+09:14 Speaker 1: algumas premissas. Foi muito na base da
+09:17 Speaker 2: tateando
+09:20 Speaker 1: quais premissas a gente achava do que realmente vindo algumas premissas do mercado, digamos assim. Aí eu não sei se vocês querem que eu elenque todas as premissas ou... Como é que vocês querem que eu fazia?
+09:38 Speaker 3: Sim, a gente queria ver e falar um pouquinho delas, acho que vai ser importante, porque aí depois... Caroline, e aí, Maria Cecília, dessa visão, a gente entender, né, o que foi no início e como chegou isso para vocês, ou como está o modelo hoje, a gente pensando nessa evolução, sabe? Então, vai ser legal te ouvir, André, e aí a gente entender isso, e aí depois, tanto a Caroline quanto a Maria Cecília complementaram e falando o que mudou, o que a gente está vendo que está dando resultado, o que não está, ou alguma coisa que deve ser atualizada das premissas.
+10:14 Speaker 1: Ah, gente, deixa eu só... Vou abrir aqui algum arquivo que eu consiga dar uma olhada para ver exatamente todas as premissas. Lembrar de cabeça também faz um tempinho, só um
+10:27 Speaker 3: minuto. Não, imagina, fica tranquilo.
+10:57 Speaker 1: Deixa eu abrir aqui. Vamos lá, de premissas que a gente tinha importante lá
+11:06 Speaker 2: na época.
+11:09 Speaker 1: Uma grande premissa era a quantidade de sites que a gente ia precificar. Logicamente, se a gente precificar um aluguel para 100 sites ou precificar um aluguel para 1.000 sites, é bem diferente da diluição desses custos. Então, um ponto importante de premissa que a gente tinha lá atrás era para quantos sites a gente vai precificar o nosso preço.
+11:28 Speaker 1: Outro ponto importante também, a região que a gente está precificando. Aí já é um ponto de aprendizado. Lá atrás a gente não especificava, pelo menos não foi passado no contrato com a Telefônica, uma especificação de sites por região. Seja os sites da região Sudeste ou da região Nordeste, eles vão ter o mesmo preço. Isso é um ponto de aprendizado que talvez o pessoal mais na frente tenha... tenha já ajustado esse ponto. Eu não sei como é que está, mas acredito que sim.
+12:01 Speaker 1: A gente também tinha lá atrás premissas de OIM.
+12:04 Speaker 2: A OIM seria
+12:07 Speaker 1: manutenção e ida de visitas a campo. Acho que a gente tem precificado lá atrás duas a três visitas a campo
+12:13 Speaker 2: por ano,
+12:15 Speaker 1: o site, e aí já recebendo a cotação que a gente tem da rede de serviços Moro, ou seja, da RSM. O próprio grupo Moura. Monitoramento de sites. A gente também pegou a cotação de monitoramento de sites que a gente tem com a Nokia. São todos os custos que a gente
+12:34 Speaker 2: estava tendo.
+12:35 Speaker 1: E além disso, também a gente colocou uma premissa de provisão de furto. Essa premissa de provisão de furto,
+12:42 Speaker 2: se eu não me engano, era...
+12:55 Speaker 1: eu não sei se você tem de cabeça meninas para
+12:58 Speaker 2: ajudar
+13:01 Speaker 3: Tá no mudo, só Maria Cecília.
+13:03 Speaker 2: Isso, tá no mudo. Eu tô
+13:05 Speaker 5: na dúvida se era de 2% a 5%.
+13:08 Speaker 3: É o que a gente tem ouvido. A
+13:11 Speaker 4: lógica é diferente.
+13:15 Speaker 2: É porque o
+13:17 Speaker 4: percentual é como foi comunicado. Mas o racional é, tipo, dois gabinetes por ano. É uma coisa nesse sentido porque no início a gente, André, chegou a provisionar. tudo um percentual, sendo que a gente viu que estava dando uma provisão muito alta, porque a gente estava colocando que N gabinetes iam ser furtados todos os anos, e eles entenderam na época com engenharia que não fazia tanto sentido assim o nível de furto tão elevado para gabinete, uma estrutura mais difícil de ser furtada. Aí ele foi calibrando, acho que bateria, periféricos, talvez fonte ainda seja um percentual.
+14:01 Speaker 4: mas gabinete e cave eu acho que era uma quantidade por ano.
+14:08 Speaker 5: Perfeito. Fez muito sentido essa lógica, só complementando, porque é o que a gente tem vivido atualmente, né? Grande parte, na verdade, todos os furtos que a gente tem são de bateria. Então, a gente não tem, literalmente, furto do gabinete como um todo, né? Em alguns momentos, a depender da circunstância, às vezes eles ficam inoperantes, porque, sei lá, a maneira que foi retirada machucou e ele precisa ser ajustado, mas em geral é bateria.
+14:38 Speaker 2: A gente tem
+14:38 Speaker 3: esses números, né?
+14:42 Speaker 1: Tem, tem esses números. Foi o que Carol tinha comentado. A gente provisionou uma quantidade de gabinetes por ano, ou seja, que a gente iria substituir.
+14:55 Speaker 2: Tem aqui
+14:55 Speaker 1: 24 gabinetes por ano e o resto foi um percentual que eu posso passar para vocês. E aí isso dava cerca de... de 2,5%, 2% ao ano sobre o CAPEX total, ou seja, 2,5% do CAPEX total iria ser substituído
+15:15 Speaker 2: por ano. Só para ver se eu entendi, gente, então o CAPEX total seria do contrato como um todo, não por cada site? Isso? A questão dos gabinetes, por exemplo? Isso é porque, na verdade, um ponto importante é...
+15:35 Speaker 1: e bem importante, inclusive, é que a gente precificou na época como se todos os sites fossem instalados no mês zero, digamos assim. Então não havia uma cadência. Então tudo que a gente está falando aqui é como se todos os sites já tivessem sido instalados naquele período. Então sim, seria 2,5% do CAPEX total, digamos assim.
+16:01 Speaker 2: E aí vocês fizeram essa escolha por algum motivo? Porque a mora precisava se respaldar financeiramente?
+16:09 Speaker 1: A gente podia disputar tudo no mesmo período?
+16:13 Speaker 2: Ou foi uma coisa nova, uma modelagem nova para vocês, assim? Acho que foi por desconhecimento, né?
+16:21 Speaker 1: É, desconhecimento do período, assim, que demoraria para instalar esses sites.
+16:26 Speaker 2: A gente não, assim,
+16:27 Speaker 1: para a gente, sei lá, seis meses, algo nesse sentido, na época, assim, não ia demorar tanto, então o efeito seria pequeno, então a gente, bora... botar tudo no ano zero e vai ser reajustado pela PCA, enfim, aí não teria tanto efeito assim.
+16:43 Speaker 2: Perfeito. Tá bom.
+16:46 Speaker 3: Tem mais algum ponto?
+16:50 Speaker 2: Premissa vai ter
+16:51 Speaker 1: premissa de overhead e também vai ter da estrutura de capital, que seria 80% financiado e 20% de capital próprio.
+17:04 Speaker 2: Perfeito.
+17:07 Speaker 3: Eu vou tirar uma dúvida. Quando você só... A questão de logística está dentro dessa questão que você falou das regiões ou não? Você falou, a gente não olhou, não tinha uma quantidade de sites por região e custo de logística entrava nessa questão também ou ele é um índice à parte?
+17:30 Speaker 1: Vamos lá, o custo de logística que tu fala seria a instalação no site, né?
+17:36 Speaker 3: Isso, instalação. É,
+17:38 Speaker 1: aí estaria, porque como eu estou olhando aqui para a visão da Morenergia, isso entraria como dentro do CAPEX, né, investimento, porque isso aí entraria dentro do ativo. A gente não levou em consideração, a gente não levou em consideração, na verdade, um frete médio, mas a gente não distingiu. Ela trinchou por região. Foi mais um frete médio. E aí, inclusive, no contrato com o telefone, que inicialmente a gente tinha colocado que a gente só
+18:09 Speaker 2: iria atender São Paulo e Pernambuco.
+18:12 Speaker 1: Mas por alguma... Eu não estou lembrando agora exatamente o que aconteceu lá atrás, que teve alguma versão de contrato que isso meio que se perdeu dentro das versões de contrato. E aí, meio que a gente... Colocou um preço para o Brasil inteiro, só que só o precicano e o frete médio de São Paulo e Recife. Então teve esse descasamento também. E aí a gente teve que buscar otimizações no nosso CAPEX para poder caber e se trazer uma rentabilidade que foi a rentabilidade esperada pelo acionista. Então teve esse ajuste também lá atrás.
+18:51 Speaker 2: Perfeito, tá bem. E eu
+18:55 Speaker 3: queria entender um pouquinho hoje como tá funcionando, né, então essa percepção do inicial, né, o modelo novo, que vocês não tinham feito, como é uma empresa, e o que que tá saindo talvez diferente, ou quais são os principais aprendizados de vocês, e talvez pensando em novas propostas, quais desafios que vocês enxergam pra fazer uma boa proposta financeira, uma modelagem aí pra uma nova operadora?
+19:21 Speaker 4: Eu acho que de diferença de modelagem versus o que André, como André precificou o contrato original da Telefônica, a gente tem algumas. Eu acho que, primeira, a gente não consegue replicar 100% a taxa de financiamento. que ele colocou no contrato da Telefônica,
+19:44 Speaker 2: e eu acho que ele vai concordar,
+19:46 Speaker 4: foi um dos grandes divisores, assim, entre não dar negócio e a gente conseguir encaixar o aluguel na época. Por outro lado, a questão que ele comentou, né, que na parte de toda a parte de serviços, que a Mora Energia contrata... Antes a gente tinha um contrato e, vamos falar assim, o contrato era a cada 500 sites, 100 mil reais. Então, se a gente tinha 510 sites, ia ser 200 mil reais e esse segundo pedaço ia ficar desotimizado. Hoje a gente já tem um acordo interno e a gente projeta otimizado, então a gente projeta esse valor unitário e a diferença do contrato, ela vai... para despesas da Moura Energia, enquanto ela está ganhando essa produtividade.
+20:32 Speaker 4: Então, a gente não pesa o primeiro contrato que entra, essa desotimização desse período inicial, mas acho que das demais premissas, todas são basicamente as mesmas, com a diferença de que agora a gente entende melhor o risco de negócio. Por exemplo, a gente continua precisando frete médio.
+20:56 Speaker 4: mas entendendo o que a gente está fazendo agora. A gente continua precificando um aluguel
+21:03 Speaker 2: por vários
+21:05 Speaker 4: perfis de site, mas um aluguel único. A gente faz isso hoje, ainda faz isso hoje, mas tipo, ciente qual é o mix de regiões que a gente está precificando, qual é o mix de sites que está envolvido naquele preço, se faz sentido, se não faz, e aí... todo mundo dá as mãos de comercial, engenharia, os donos do negócio, antes de enviar o preço.
+21:30 Speaker 4: Eu acho que hoje a gente tem uma ciência maior, por conta do contrato telefônico, de quais são as linhas de contorno da proposta que está sendo enviada. E antes, a gente não sabia, vamos falar assim. com clareza quais eram os riscos do negócio, né, que a gente não tinha operacionalizado ainda, então meio que estava embutido dentro do nosso preço, da nossa rentabilidade, esse risco, mas sem a nossa ciência. Aí algumas coisas, a gente foi conseguindo correr atrás, né, que nem o frete que a André comentou, outras a gente ainda está trabalhando para.
+22:07 Speaker 5: Eu ia, achei que foi ótimo o resumo de Carol, e eu ia só complementar do ponto de vista de dados. A gente, a parte de plataforma, né, Carol, de consumo e tudo mais, a gente não tinha considerado, acho que a gente não tinha chegado nesse nível ainda de entendimento lá atrás.
+22:26 Speaker 5: A gente, como vocês sabem, a gente realiza o monitoramento, então a gente tem uma plataforma por trás disso. Então, do ponto de vista de TI, um dos pontos que mais impacta em custo de plataforma é a questão de consumo, né? Como que a gente consegue prever essa questão e os pagamentos que a gente tem com os fornecedores para sustentar a plataforma. Então, isso é algo que o grupo como um todo, acho que tem aprendido diariamente. A gente está aqui, principalmente o modelo do NG como serviço, que trouxe essa linha de aprendizado para o grupo e digo que ainda reforçando, a gente começou a aprender lá atrás e segue aprendendo diariamente. É realmente um desafio muito grande que a gente tem passado. E esse ponto não tinha sido considerado lá atrás. Então, a gente está aprendendo tanto do ponto de vista de inserir na modelagem esse custo, mas também como prever esse custo. Então, do ponto de vista técnico, também a gente está numa caminhada de ganhar mais maturidade para prever com mais certeza esse ponto na modelagem.
+23:40 Speaker 4: Por exemplo, na telefônica, a gente acabou precificando, tipo, dois gabinetes, né? T2 e T11. Dentro desse T2, a gente tinha variações de entrega de energia, mas a gente precificou uma única. E aí, a gente fornece essas variações. A gente precificou três horas e a gente fornece dois, três e quatro. Então, a gente está precificando um perfil único, mas
+24:04 Speaker 2: esse mesmo aluguel está sendo replicado.
+24:06 Speaker 4: Para vários. A mesma coisa acontece, por exemplo, quando a gente diz que aquele site vai precisar ou não de obra civil, vai precisar ou não de munca, vai precisar ou não de gradil, de proteção. É sempre traçando, atualmente é sempre traçando mix. A gente não sabe fazer um aluguel site a site, mas a gente traça uma família de sites e aquela família vai receber um preço. Dados share de região, dados share de entrega de energia, dados... o cheiro que a gente considerar que for relevante para o processo.
+25:07 Speaker 4: Isso. E dado que a gente já tem um histórico, com a telefônica, talvez eles não aceitassem um perfil diferente de publicação dessa vez.
+25:22 Speaker 3: E só uma, vou pegar uma dúvida em cima da pergunta da Lorena.
+25:27 Speaker 2: Como
+25:27 Speaker 3: que vocês fazem esse estudo desses sites? Essa criação dos grupos, essa organização desses percentuais de cada um desses modelos?
+25:36 Speaker 4: É excesso para a tecnologia, mas a engenharia recebe uma base de dados com detalhamento dos sites. Na época... da telefônica original, aí eu acho que o André vai conseguir reforçar melhor o meu ponto, a gente tinha acho que o mapa das concentrações, da concentração dos sites por região da telefônica, e a gente fazia inferência de perfil de share de região por isso, mas atualmente a gente recebe, os últimos processos a gente vem recebendo as localizações dos sites, ou pelo menos com uma ideia de como seria a distribuição geográfica.
+26:16 Speaker 5: Isso, tanto distribuição geográfica, eita, perdão, eu ia só complementar, tanto distribuição geográfica quanto consumo, que no caso seria a energia requerida, vai depender da capacidade do site.
+26:29 Speaker 3: Antes de você perguntar, Adé, só confirmar. Que é quando vocês recebem, só para entender se é isso que vocês estão recebendo hoje, que a gente ouviu. A gente ouviu que tem lá a plataforma da Telefônica, né? E ela disponibiliza para vocês. Ah, receberam um novo site para instalação. Aí eles mandam o tipo de gabinete, a quantidade de energia de backup e as informações, tipo a quantidade de baterias, por exemplo. É isso que você está falando que vocês recebem hoje, é isso? Essas disponibilizações aos poucos que eles vão mandando?
+26:59 Speaker 5: Isso, eles mandam, na verdade, perfil de consumo do site, que naturalmente a engenharia vai dimensionar qual seria a melhor forma de responder energeticamente, e a localização. E com isso a gente já consegue definir qual seria o produto, né?
+27:11 Speaker 2: Perfeito. Eu acho que era bem parecido com o que eu ia perguntar, Fê, mas eu, então assim, além... A localização é relevante para... Vê se a minha lógica está certa, gente, me corrijam se não está. A localização é importante para entender o perfil de consumo energético, para entender quais produtos precisam, para entender o valor do serviço ser cobrado, se precisar de alguma manutenção, para entender se tem mais roubo ou não tem mais roubo. Tudo isso é levado em consideração nessa precificação, pela região ali que vocês têm. Tem um estudo para isso?
+27:44 Speaker 4: Entender a logística e a ICS estar mais por dentro, entender também como é que fica a conectividade naquela região.
+27:50 Speaker 2: Porque todo o nosso
+27:52 Speaker 4: core business, ele é voltado em relação ao monitoramento. Se eu tenho uma localidade que eu não consigo monitorar, então meio que perde o sentido, assim.
+28:02 Speaker 2: E quando acontece isso, vocês levantam a mão e falam, olha, a gente não vai atender? Ou daí não é com vocês? Não é na área?
+28:12 Speaker 5: Isso em geral é mais amor e energia, no caso já o time de operações que vai participar da implantação, que vai ter esse direcionamento.
+28:22 Speaker 3: Pode falar, André.
+28:23 Speaker 1: Não, eu só ia comentar que
+28:26 Speaker 2: tudo
+28:30 Speaker 1: que foi falado aqui, acho que deixa de ser uma solução, uma precificação mais de bate-pronto e passa a ser algo quase como se fosse um negócio, um projeto personalizado para o cliente.
+28:41 Speaker 2: É bem mais
+28:42 Speaker 1: complexo do que somente precificar lá. Já está tudo prontinho, todas as premissas prontinhas e rodar a planilha. Acho que esse talvez seja um dos desafios. Acho que foi uma pergunta que vocês fizeram. Um dos desafios é esse. Que talvez frustre um pouco o comercial, no sentido de que a precificação demora para acontecer. A gente demora para dar resposta para o cliente.
+29:10 Speaker 3: Perfeito. É, porque tem muitos detalhes, né, para vocês analisarem. Eu fiquei com uma dúvida em cima da pergunta da Débora. Essa questão do percentual de roubo, vocês fazem uma análise por site, assim, tipo, ah, uma determinada região, tem algum critério para vocês entenderem se vai ter um maior índice ou menor índice naquela região de furto, por exemplo? Não entendi se isso tem nas premissas hoje ou não.
+29:37 Speaker 3: Ou se vocês estão só na média mesmo e aprendendo com isso.
+29:43 Speaker 5: Talvez fosse na linha mais de aprendizado, né gente? Eu acho que Dedé e Carol podem falar como foi lá atrás para estabelecer o primeiro range, mas eu acho que atualmente a gente tem aprendido com o que tem acontecido, sabe? Inclusive a gente tem um grupo de trabalho que está atuando tanto em revisitar como que o nosso produto pode ficar mais robusto do ponto de vista de dificultar o roubo, até questão de isquias em bateria. Eu tinha comentado lá atrás que o que é mais furtado atualmente são as baterias. Então, a gente desenvolveu algum tipo de tecnologia de mapeamento para a gente entender qual seria o caminho que essas baterias estão fazendo.
+30:18 Speaker 5: Um outro ponto é que a nossa plataforma atualmente, ela ajuda também a gente a prever esse furto, ou seja, quando ele está em andamento tem alguns alertas que acontecem. Naturalmente, não é algo que a gente consiga interferir instantaneamente a ponto de evitar esse furto. é mais na linha de ser informado, mas ajuda e com o passar do tempo, na verdade, esses dados que vão sendo consolidados na nossa plataforma, a gente vai conseguir, acho que daqui a um pouco mais de tempo, ter um pouco mais de inferências, sabe, por exemplo, para projetos que vão vir mais para frente, a gente criar correlações e ser mais assertivo, sabe, nessa porcentagem de furto por região.
+30:56 Speaker 2: Perfeito, tá bem.
+30:58 Speaker 3: E aí, só voltando para essa conta, vou até pegar essa ponte com o André, que são as dificuldades hoje, pensando em novos modelos, pensando em outras operadoras, eu acho que talvez tenha aqui uma personalização, entre aspas, ou talvez aqui uma adaptação para cada uma delas, e dentro delas ainda talvez tenha vários cenários, a partir do site, localização, etc. Queria entender um pouquinho quais são as dificuldades hoje, assim, como que vocês estão lidando com essas precificações, né, então o André comentou, tempo, a gente demora um pouco mais, vocês têm um SLA para atender essas precificações, critérios para atender, e quais são as dificuldades que vocês têm hoje para elaborar essas precificações?
+31:47 Speaker 4: Eu acho que hoje em dia, a maior dificuldade que a gente tem é o tempo de resposta, vamos falar assim, de engenharia, determinar qual produto, até a gente chegar no preço de aquisição da Muro Energia pela
+32:04 Speaker 2: fábrica. A partir daí...
+32:08 Speaker 4: É muito mais rápido e fluido porque são meio que prêmios padrões. São contratos que já são assinados com os prestadores de serviços da Muro Energia, escopos já contratados, linhas de financiamento que a gente consegue consultar rápido aqui o banco e entender quais são as condições mais atualizadas. Mesmo assim, essa parte do financiamento a gente consegue fazer em paralelo com engenharia. Acho que hoje a maior demora é até chegar... qual o valor do investimento que a Buranagia tem que fazer. Aí, a partir daí,
+32:42 Speaker 2: é
+32:42 Speaker 4: pouco tempo, o CS e eu chegamos no que seria o aluguel proposto, e aí também tem outro tempozinho de demora com relação à validação dos dons do negócio, que são agendas concorridas, e acaba tendo um cronograma mais extenso.
+33:00 Speaker 5: Perfeito. Acho que o que puxa também um pouco, alonga mais esse prazo, é algumas definições de premissa. A gente está vivendo um pouco disso com tração nesse momento, né, Carol? Acho que o que levou mais tempo durante a construção, que ainda está acontecendo, é a consolidação das premissas, principalmente quando é algo novo, que é o que a gente vive inserido, é algo completamente novo. Então, é aquele momento de entender os riscos com as áreas, então, conversar muito com a engenharia, conversar com o comercial.
+33:27 Speaker 5: entender do ponto de vista de TI como é que isso se reverbera na plataforma, então é esse momento de literalmente consolidar o entendimento de todas as áreas e envelopar isso numa solução para a gente construir algo seguro, toma um pouco mais de tempo, sabe? Então, às vezes esse entendimento é o que puxa a marcha também.
+33:46 Speaker 4: Isso, no caso que o César falou, é um negócio totalmente novo. A gente nunca vendeu, nesse caso antes, no cenário que a Lorena falou, seria os sites existentes, né, da telefone, que a gente nunca fez uma modelagem nesse sentido. Seria, o que o César falou, tração. Nunca realizamos aluguel de bateria de leite cobrando
+34:06 Speaker 2: variável
+34:09 Speaker 4: no lugar de cobrar aluguel fixo. Mas para... perfis iguais da telefônica, operadoras, onde a gente vai fazer um aluguel fixo, é mais o que eu falei. Se a gente for alocar hoje o mesmo gabinete, pratinho, por exemplo, no mesmo modo da telefônica. Os gargalhos são mais onde eu comentei. Se a gente for fazer um negócio de pratinho, no lugar de eu cobrar aluguel fixo, eu vou alugar. por energia que ela está utilizando. Aí é mais no perfil que o César falou, o tempo realmente é muito extenso e a gente hoje em dia não trabalha com o prazo.
+34:48 Speaker 3: Não tem um prazo, perfeito. Aí, Maris, até pegando com você aqui, você está fazendo, você falou muito dessa orquestração com as áreas, né? Então, para chegar nesses pontos, né? Das premissas, o entendimento, a consolidação disso. Qual que é a sua maior dificuldade nesse ponto para fechar tudo?
+35:14 Speaker 5: Ai, pergunta boa, hein?
+35:20 Speaker 2: Eu acho que manter
+35:24 Speaker 5: todo mundo falando a mesma língua
+35:25 Speaker 2: é meio
+35:27 Speaker 5: difícil de você garantir que todo mundo esteja literalmente na mesma régua ali, sabe? Por exemplo, de você passar um pouco da visão que a engenharia está tendo, trazer esse mesmo ponto de vista para o comercial. E ao mesmo tempo escutar o time de Carol com financeira e modelagem e fazer com que reverbere o que a garantia do produto está dizendo lá com a engenharia. Então, é acabar meio que colocando todo mundo numa mesma régua de entendimento para conseguir refletir isso na modelagem.
+35:55 Speaker 5: Então... do ponto de vista de comunicação, de alinhamento entre as áreas, talvez seja o ponto mais trabalhoso que a gente atua, mas o que a gente tem tentado para mitigar esses pontos é cada vez mais ter alinhamentos em conjunto, ao invés de ficar fazendo algumas vezes reuniões em separado, vamos colocar todo mundo ao mesmo tempo numa mesma sala, porque otimiza mais o tempo e o entendimento de todo mundo. Acho que a gente tem sentido que isso ajuda também, inclusive em alguns... em alguns pontos que a gente está tendo de desafios nos projetos que já estão em andamento nesse momento. Então, naturalmente, a gente está performando muito bem com a Telefônica nesse momento, mas naturalmente em paralelo a isso tem muita coisa acontecendo operacional por trás, né? Questão de conectividade, questão de entrega de site e tudo mais, tudo isso está acontecendo e o time precisa estar inteiramente alinhado sobre os pontos que, tanto novos que estão chegando, mas também o que já está rodando e a gente já está entregando para o cliente.
+36:53 Speaker 2: Perfeito.
+36:54 Speaker 3: Pode falar, Carol.
+36:57 Speaker 4: Quando o César estava comentando agora, eu lembrei de uma coisa que a gente tinha antes, quando a gente estava ali no processo de construção do preço telefônico, e que eu acho que a gente não tem agora, quando a gente vai construir um novo negócio, que era tipo as reuniões meio que imersíveis dos grupos de trabalho, onde a gente dava um desafio para a área. para as áreas, tipo a área de logística, área de engenharia, área de compras, eles tinham targets, né, desafios, e aí nessas agendas eles traziam qual eram as propostas deles, tipo, a gente meio que direcionando para uma solução. Então, assim, acho que hoje o trabalho é um pouco mais difuso nesse sentido, tipo, a gente tenta um espaço com engenharia, depois tenta um espaço com compras, aí pega o input de compras, leva para a engenharia e fica meio que nesse leve trás. hoje em dia,
+37:49 Speaker 4: que talvez seja, demora mais tempo do que no passado, mas eu entendo também que no passado não era tão fluido assim, talvez a percepção que eu tenho de hoje em dia.
+38:05 Speaker 1: Falar do passado, eu
+38:07 Speaker 2: resolvi falar.
+38:10 Speaker 1: Não, só lembrando aqui com a telefônica também, foi um, vinha esse target da telefônica, ou seja, foram etapas do processo. que iam se colocando lá os preços para a solução e vinha sendo devolvido pela telefônica a cada etapa que a gente fosse passando o processo, um target. Então a gente tinha um target para se buscar. Eu não sei como é que está hoje exatamente, se as propostas que a gente tem sido feitas e tem esse target também, que aí realmente aconteceu o que o Carol estava falando. Todo mundo se juntava e vai ver. Gente, a gente entende que para chegar nesse target aqui, o Compras precisa reduzir, sei lá, 5% do CAPEX. Ou então a cotação que a gente recebeu do serviço lá da RCM tem que reduzir tantos porcento. E todo mundo se dava as mãos e guia para tentar chegar nesse target. Eu não sei como é que está hoje. O ponto que lá atrás acontecia bastante.
+39:05 Speaker 2: Perfeito.
+39:07 Speaker 1: E outro ponto que eu ia comentar também, já aproveitando, era, pelo menos na minha época, com a telefônica foi um pouquinho mais fácil porque... Parte da ideia veio da telefônica, então a gente foi construindo essa ideia. Quando a gente chega, pelo menos na época que eu participava, quando a gente chegava em outras operadoras, a aceitação não era tão de cara logo, do modelo de negócio em si. Então, sempre tinha alguma coisinha que deixava a solução diferente do que a gente estava propondo para a telefônica. Então,
+39:39 Speaker 1: é quase como se fosse uma solução personalizada para cada operadora de telefônica,
+39:45 Speaker 2: telecom.
+39:46 Speaker 1: Então, tem esse ponto também.
+39:49 Speaker 2: Perfeito.
+39:51 Speaker 3: Quer falar, César? Você ia falar alguma coisa?
+39:55 Speaker 5: Eu ia pontuar só a questão do target, que em alguns negócios a gente não chegou nessa esfera ainda, né Carol? De ter como se fosse o bate e volta com o cliente de mandar uma primeira versão e ele pontuou alguma coisa de target e a gente internamente correr atrás para alcançar esse número. Não teve nenhum, acho que o último que a gente enviou foi o da Algar, que também era na mesma linha da telefônica de modelo de negócio, mas não tivemos retorno por parte do cliente ainda.
+40:24 Speaker 2: Perfeito.
+40:25 Speaker 3: Aí eu vou entrar no... Vocês têm alguma pergunta? Eu vou entrar no último bloco, só.
+41:19 Speaker 2: Isso.
+41:20 Speaker 1: Se a gente precifica, se tem um aluguel de mil reais, se a gente tivesse um orçamento de, sei lá, X reais para poder montar a partir disso. Perfeito.
+41:37 Speaker 2: Quer falar, Dé? Talvez, eu não sei se é com vocês também essa pergunta, mas sobre o contrato de 10 anos. Esse número, 10 anos, ele surge por uma questão de saúde financeira, por uma questão da telefônica, que é, tipo assim, é o modelo que eles sempre compram as coisas. De onde que vem esses 10 anos? Vocês sabem?
+41:59 Speaker 1: Passa uma boa pergunta.
+42:01 Speaker 2: Não vem no sentido de, tipo, para ser rentável para a Moura tem que ser 10 anos, não é? Não é nesse lugar que vem, então. Não, não, não. Acho que foi
+42:13 Speaker 1: mais, talvez, estou tentando lembrar aqui, mas algo mais na linha dele. Tempo de vida útil, eu acho, da bateria de lítio, talvez. Deu 10 anos, então em tese a gente fechou o contrato de 10 anos. Mas assim, foi algo que talvez eu acho que nem eu tenha participado. Foi bem no começo mesmo. E aí foi aceito e aí seguiu esse prazo de 10 anos. E que inclusive casa quase quis. no caso de 100%, mas casa um pouco com o contrato de financiamento que a gente tem
+42:51 Speaker 2: também, que ajuda. Perfeito. Tá bom. Então
+43:00 Speaker 3: tá, vou perguntar uma coisa. Pensando no modelo que a gente tem hoje, ser mais competitivo, quais vocês acham que são as barreiras para a gente ter um melhor preço, enfim, a gente conseguir ter uma proposta mais atrativa, competitiva no
+43:13 Speaker 2: mercado?
+43:20 Speaker 4: Eu acho... Do ponto de vista financeiro, tem duas coisas que eu sei que impactam mais. O desprendimento de CAPEX inicial e a taxa de juros.
+43:33 Speaker 2: Hoje,
+43:34 Speaker 4: são os maiores norteadores do
+43:38 Speaker 2: aluguel.
+43:40 Speaker 4: Isso, mais o quanto os donos do negócio querem receber de retorno do projeto, eles têm exercido grande influência de qual é o preço que a gente vai colocar para as operadoras.
+43:54 Speaker 2: Então, a
+43:55 Speaker 4: gente vem aprendendo muito ao longo do processo com a Telefônica, inclusive ficando um pouco mais... ciente de custos que a gente não sabia antes, como essa questão dos custos da conectividade, né, dos dados, a gente também vem entendendo que talvez o risco esteja um pouquinho maior do que o que a gente imaginava no início, então a gente vem colocando mais despesas, mais custos, a gente não vem conseguindo. atribuir a mesma taxa de juros de captação que André conseguiu no passado e, por outro lado, a gente tem cobrado um retorno maior em detrimento da nossa percepção de risco também ter alterado. Então, isso acaba influenciando muito, assim,
+44:44 Speaker 4: por quanto eu vou oferecer, né? Então, se antigamente, quando André fechou o projeto, ele fechou... manter uma taxa de retorno de X% nominal. Hoje, esse mesmo X% é cobrado, mas uma taxa já real. Então, é como se agora a taxa nominal fosse X, mas inflação. Então, eu já aumentei a percepção do aluguel já. Antigamente, eu tinha um spread Y no banco, hoje eu tenho um Y, mas uma coisa a mais. Isso já piora também meu aluguel. Então, acho que tudo isso vem contribuindo negativamente. para o valor que está sendo ofertado para o cliente.
+45:28 Speaker 3: Perfeito. Tem mais algum ponto? Eu ia perguntar se vocês veem alguma coisa que pode evoluir no modelo que ajude a ser mais pressivo, mais escalável, ter um preço mais competitivo. Eu acho que essas questões do... Tem essas questões do juros, enfim, tem todas essas questões que não sei o quanto de manobra vocês têm, mas pensando na operação, pensando nessa precificação, existe alguma coisa que ajudaria esse modelo financeiro ser mais... competitivo ou escalado para diferentes clientes?
+46:00 Speaker 4: Eu acho que se a gente conseguir destravar algumas coisas na telefônica, quando é coisa no sentido de, tipo assim, resolver o problema atual de furto que a gente está tendo, resolver o problema de conectividade, eu acho que a percepção com relação ao retorno do negócio, ela tende a dar uma abrandada. E a gente começa a ter taxas melhores de previsão de furto, ter taxas melhores de retorno, melhor no sentido assim, um pouco mais enxuta, uma rentabilidade um pouco mais enxuta, isso tenderia a trazer uma visão melhor de proposta para o cliente.
+46:37 Speaker 2: Tá bom.
+46:38 Speaker 3: Tem mais alguma coisa? Não sei se André, se tem alguma...
+46:42 Speaker 2: Podem falar.
+46:45 Speaker 1: Essa era só uma dúvida para as meninas. No caso, o Carol e o César. Se a gente está enviando presos para o cliente e a gente não está tendo retorno, ou o cliente está retornando, que o preço está muito alto, que está fora da realidade, ou nesse sentido?
+47:01 Speaker 4: Dificilmente a gente tem um retorno continuando o processo. É sempre tipo, vou abrir... uma cotação de aquisição e vou comparar com o que vocês enviaram, ou se não o processo está em stand-by, coisas nesse sentido, tipo, não evolui.
+47:16 Speaker 2: Ele para, por Deus.
+47:20 Speaker 1: É, assim, na minha época não estava muito diferente disso, não, assim. Dificilmente o processo, ele tenha o bate e volta de preço. Porque na minha cabeça, pensando aqui, é que se não tem nem o bate e volta de preço, então talvez ou a gente está muito fora da realidade, que eu acho que não seja o caso, ou o modelo de negócio em si não está conseguindo, não está tendo uma aderência boa no cliente. E aí talvez é um modelo de negócio novo para o setor, não sei.
+47:48 Speaker 1: Mas... Acho que fala mais sobre o modelo do negócio do que sobre a competitividade que está sendo trazida.
+48:01 Speaker 5: Eu acho que o que a gente teve de relação com o cliente, até trazendo um exemplo de nome, teve Algar, que a gente chegou a mandar uma primeira proposta, eles ficaram de analisar, mas até o momento a gente realmente não teve retorno. E eu acho que para além disso, a própria telefônica que chegou com outro modelo, né? que foi onde desencadeou o legado que Fernandes também pontuou, que é o que a gente também tem trabalhado em paralelo. Um ponto que eu ia citar, eu acho que, para além do que Carol comentou,
+48:32 Speaker 2: de impossível
+48:33 Speaker 5: gargalo, que a gente precisaria meio que ultrapassar isso, na minha visão, é, acho que o financiamento, sim, é um ponto que virou a chave, como Carol e Dede pontuou no último processo, mas eu também acho que talvez a gente tenha um pouco mais de domínio. de entendimento, na verdade, do valor do custo operacional do cliente. Para a gente conseguir vender esse valor de forma mais expressiva, sabe? Acho que muitas vezes ele olha do ponto de vista de CAPEX e ele consegue enxergar de que,
+49:00 Speaker 5: ó, eu vou pagar esse valor mensal para você. Certo, só que eu vou trazer um exemplo de tração, não necessariamente ligada a um outro modelo de negócio, mas, por exemplo, o cliente muitas vezes tem o custo que ele tem relacionado à manutenção daquela bateria, a se essa bateria falha, ele tem o... a dor de cabeça de cuidar e de questão de procurar fornecedor para ajudar ele a capitanear a correção e tudo mais. E eu acredito que tem muito valor nisso, da gente acabar se tornando dono dessa problemática. E que na minha visão, talvez o cliente não enxergue isso com tanto valor ainda, talvez valesse a pena a gente aprofundar um pouco mais até ter uma escuta mais ativa dele nesse sentido. Entendeu? A gente está aqui disposto a resolver todos esses problemas. Me conta mais sobre que problemas são esses, o que você acha que além do que eu estou lhe propondo aqui,
+49:48 Speaker 5: a gente pode chegar mais junto, a gente pode abraçar um pouco maior, sabe? Eu acho que essas dores da operação, a gente precisa bater mais forte nesse sentido.
+50:00 Speaker 3: Perfeito. Querem fazer alguma pergunta, Lori? Não? Tá bom. E eu ia fazer uma última pergunta, acho que a gente já explorou, mas só para fechar, se a gente pudesse mudar alguma coisa hoje, que teria um grande impacto para a gente, positivo, no processo que a gente tem hoje, o que seria?
+50:32 Speaker 4: Eu acho que está de um grande impacto positivo se todo mundo que estivesse envolvido no projeto hoje soubesse do histórico. Tipo, a galera não sabe de onde veio, pegou no meio do caminho e está levando a partir daí. Então, às vezes, tem algumas considerações que foram feitas para um projeto específico e eles acabam colocando para todos os projetos porque não sabem qual foi a raiz, a razão por trás daquela consideração. Então, eu acho que entender sobre a ponta a ponta do negócio todo mundo era importante.
+51:08 Speaker 2: Um bom ponto mesmo.
+51:09 Speaker 1: Acho que teve muita mudança na... inclusive em várias áreas. São poucas pessoas que ainda estão aí falando comercial, engenharia.
+51:19 Speaker 4: Pio mudou todo mundo, engenharia mudou quase todo mundo, comercial mudou todo mundo. Tem outras áreas que não estavam envolvidas na época, que estão sendo envolvidas agora, tipo pricing, gestão de produtos industriais, produzimento integrado. Então, assim, muita coisa mudou desde a telefônica do contrato original. E tem pessoas, assim, que foram chaves na época, que ajudaram a construir o negócio, e ainda estão na organização. E tinham condições, assim, de passar o histórico para todo mundo.
+51:55 Speaker 1: Perfeito. Estou aqui, viu? Se quiser perguntar.
+52:01 Speaker 3: Eu vou fazer uma pergunta, me corrija. Eu acho esse ponto excelente, assim. Não sei se você tem alguma outra coisa para colocar. desse ponto. Não,
+52:13 Speaker 5: só ia dizer que foi um excelente ponto.
+52:16 Speaker 3: Eu vou trazer um ponto,
+52:18 Speaker 2: que é...
+52:19 Speaker 3: Tem uma transição, né? Um produto que era muito novo, estava na área de inovação, né? Ele estava mais fechado num ciclozinho e ele vai ampliando, né? Conforme ele vai operacionalizando, ele vai entrando nas áreas, né? O que eu estou entendendo é que esse processo, talvez, aqui, precisaria um pouco mais de atenção, né? De envolvimento das áreas, de entendimento histórico, e o seguinte.
+52:39 Speaker 3: Vocês já fizeram, por exemplo, BES, BES passou por um pouco disso, né? Vocês têm um modelo já de quase transferência, né? De conhecimento, de informação ou de... ampliação para as outras áreas? Vocês tiveram um modelo para fazer isso que funcionou?
+52:55 Speaker 2: Vocês sabem disso? Eu vou falar em causa
+52:58 Speaker 4: própria. Eu, hoje em dia, estou no processo do BEST e nunca me colocaram na mesma página.
+53:04 Speaker 2: Tá. Então, tá bom. Eu
+53:08 Speaker 4: realmente não sei se existe esse processo.
+53:12 Speaker 2: Que
+53:13 Speaker 1: eu saiba, não existe não.
+53:16 Speaker 2: Tá bem.
+53:20 Speaker 3: Acho que é isso. Gente, não sei se vocês têm mais alguma pergunta. Lore, Dé? Vocês têm alguma coisa para trazer para a gente, assim, que vocês acham importante a gente saber que eu não perguntei?
+53:32 Speaker 1: Acho que foi muita grande gente aqui, mas na minha cabeça,
+53:34 Speaker 2: não.
+53:38 Speaker 3: Agora, nem no momento, não. Sabe assim, vem uma coisa e fala, nossa, eu preciso falar isso, e eu não faço nenhuma pergunta que fala disso, é só para saber se tem alguma coisa que sabe. É quase que fale agora e
+53:47 Speaker 1: fale para sempre.
+53:52 Speaker 3: Não, mas se vocês lembrarem de alguma coisa ou precisarem, vocês têm os nossos e-mails, vocês podem ir mandando para a gente também. Vamos falar com o André, enfim, a gente vai estar
+54:01 Speaker 2: por aqui nessas próximas semanas.
+54:05 Speaker 1: Ah, Jo, eu fiquei só com uma dúvida, mas é do processo em si, quais seriam os próximos passos?
+54:11 Speaker 2: Os nossos? Isso.
+54:14 Speaker 3: A gente está fazendo um entendimento maior interno com vocês, né,
+54:18 Speaker 2: como que funcionou, o que funciona ou não
+54:19 Speaker 3: funciona, como que está o modelo. E aí o próximo passo é a gente vai falar com as operadoras mesmo, então a gente vai pegar a visão delas sobre a operação, sobre o modelo CAPEX, OPEX, o que eles entendem ali que é uma oportunidade, uma barreira, enfim, a gente vai explorar essa visão deles, né, sobre uma proposta de valor aí de
+54:41 Speaker 2: energia como serviço, e
+54:43 Speaker 3: aí a gente volta numa terceira etapa. que a gente constrói isso com vocês, a gente ajuda a montar essa proposta de valor, quais são essas oportunidades que vocês têm aí para atender, que premissas essas operadoras precisam, né, para esse modelo funcionar, a gente volta com vocês com essas informações para refinar a proposta de valor atual.
+55:08 Speaker 1: Legal, interessante. Muito bom,
+55:13 Speaker 3: gente. Muito obrigada, viu? Se vocês tiverem alguma coisa, enfim, podem mandar mensagem. Estamos por aqui.
+55:19 Speaker 5: Obrigada, pessoal.
+55:21 Speaker 2: Valeu, gente. Tchau, tchau. Um prazer.
+  

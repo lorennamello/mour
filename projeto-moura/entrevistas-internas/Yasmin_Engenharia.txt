@@ -1,0 +1,278 @@
+# Engenharia - Gravação de Tela 2026-07-13 180310
+
+  Meeting started: 14/07/2026, 11:58:18
+  Duration: 54 minutes
+  Participants: Speaker 1, Speaker 2, Speaker 3
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/WhTS3yKqliWuKvztz904?o=txt)
+
+    
+
+  
+
+  
+
+  ## Transcript
+
+  00:00 Speaker 1: Meu nome é Yasmin, eu estou na Moura desde 2022. Eu comecei como estagiária, passei quase dois anos e fui contratada em Recife. Eu estagiei na fábrica, em Belo Jardim. A gente tem cinco unidades lá. E faço parte da equipe de engenharia de sistemas. Inclusive, dela antes exercia um outro cargo de coordenadora de engenharia. Eu fazei parte da equipe dela e acho que há um ano ela se tornou PO.
+00:29 Speaker 2: e
+00:30 Speaker 1: agora a Aleph, que é o coordenador da nossa equipe. A gente trabalha com projetos que envolvam tanto a parte de servidização, então... energia como serviço, também o PS como serviço, que a gente está tentando também entrar no setor bancário, mais o foco, o meu foco, no caso, é a telecom, e a aplicação que envolva bateria mais alguma outra funcionalidade, além da bateria em si. Sobre o projeto, começou, eu participei quase desde o começo, quando eu entrei, a gente só tinha feito um POC com a TIM, em 2024, no final.
+01:11 Speaker 1: Deu certo a POC, mas com eles não evoluíram, porque eles estavam na dúvida se esse negócio ia dar certo. A Vivo Telefônica, que estava mais à frente desse modelo de negócio, tinha mais endereço e realmente aplicou nos novos sites e nos sites já alegados. A gente começou a primeira instalação, acho, no final do ano passado.
+01:34 Speaker 1: só aqui em Pernambuco, e foi expandindo aos poucos nas demais regiões. A gente já tem em São Paulo, tem em Minas Gerais, tem em Rio Grande do Sul, a gente só não vai ter mesmo no norte, porque nossa rede de serviço Moura, a gente não tem locação lá, então ficaria difícil fazer uma manutenção ou dar alguma assistência. Aí, como engenharia, a gente faz mais a parte de especificação do produto,
+01:58 Speaker 1: faz melhorias com base no que acontece em campo. E auxilia também, por enquanto, na instalação dos equipamentos, nos nossos técnicos, enquanto a gente não tem uma maturidade em todas as equipes. Quanto à plataforma, ela é o que muda o jogo para a gente, porque a gente tem controle dos nossos ativos em campo e isso ajuda a detectar anomalias, quando fazer manutenção, a durabilidade do contrato é bem longa, 10 anos. Então, a gente quer que o nosso equipamento tenha
+02:34 Speaker 2: um
+02:36 Speaker 1: bom desempenho ao longo desse tempo e nossos baterias também. E com a plataforma, a gente sabe que tem um controle, né? Quem entrou no site, quem abriu a porta, se a bateria entrou em falha, se teve algum alarme de incêndio, por exemplo, se a temperatura está alta, como está a tensão de barramento, se está adequada. E, além disso, na mesma plataforma, a gente também tem como gerenciar tickets, tanto de manutenção, quando tem um novo site de instalação, ou quando o pessoal que faz o gerenciamento dos tickets tem alguma dúvida técnica, e a engenharia pode ajudar, e não é tão urgente.
+03:16 Speaker 1: E também conseguimos fazer alguns comandos que talvez ajudem na operação do site. do site remotamente, sem precisar, sem ter o custo de ir a uma equipe lá para consertar algum erro, algum problema.
+03:34 Speaker 2: Quanto ao modelo de negócio,
+03:36 Speaker 1: a gente
+03:36 Speaker 2: aluga para,
+03:39 Speaker 1: na verdade, a Moura vende para a Moura Energia, que é a empresa que realmente, de fato, tem um contrato com a Telefônica e aluga a solução completa para cada site. Aí hoje a gente tem dois modelos de gabinete, que a gente chama de T11 e T2, o que difere basicamente é o espaço que a telefônica tem disponível para colocar os equipamentos dela.
+04:01 Speaker 2: E,
+04:02 Speaker 1: acredito... Ah, e fora os modelos de gabinete, a gente também tem a potência contratada por cada site. Depender do tamanho do site e de quantos equipamentos tem lá, a potência consumida vai ser maior. Então, hoje a gente tem diferenciação. Por exemplo, começa em 2.500 kW, se pode ir até 10.000. Então, se consumir pouco, ele vai pegar... a faixa, o aluguel, que tem uma potência menor, que aí a gente vai com menos baterias. Então, seria mais barato. E ao longo do tempo, a telefônica pode pedir aditivos. Então,
+04:42 Speaker 1: a gente vai lá, coloca mais baterias, oferece uma energia maior e, consequentemente, o custo também tem um aumento.
+04:53 Speaker 2: Perfeito.
+04:54 Speaker 3: Não, obrigada, obrigada pelo início da contextualização. Eu vou voltar um passinho. Vocês não são, você não é morenergia, você está junto com a CMO, certo?
+05:06 Speaker 2: Isso. Tá bom.
+05:08 Speaker 3: Me diz uma coisa. Por exemplo, a Moura recebe, ela fechou um contrato,
+05:16 Speaker 2: ela
+05:16 Speaker 3: fala com vocês para definir a parte técnica daquela instalação, o tipo de gabinete, quantidade de baterias para atender a carga energética, vocês desenham o produto, certo?
+05:28 Speaker 2: Isso.
+05:29 Speaker 1: E hoje já tem bastante coisa assim, automatizada. Quando a Moura Energia recebe um site na plataforma da Vivo, que chama Vivo Fly, Eles automaticamente já têm a lista dos sites que receberam e já passam para a engenharia, que também já foi automatizado isso, de fazer o dimensionamento. Antes era manual, por exemplo, quantas baterias precisa para esse site. E o tipo de gabinete já vem na documentação da Vivo, não é a parte técnica que escolhe. Eles que escolhem qual tipo de gabinete. Aí, como o dimensionamento já está automático, a gente só valida.
+06:07 Speaker 1: o que foi feito e a Moura Energia já pode fazer a compra da bateria, por exemplo, e dos gabinetes.
+06:14 Speaker 3: Aí vocês retornam essa informação, esse aceite para a Moura Energia, ela solicita as compras?
+06:21 Speaker 2: Isso. Tá bom.
+06:24 Speaker 3: E aí, você falou que vocês estão dando apoio ainda na instalação. mas que eu tive um entendimento que não é a função de vocês. Eu queria entender só num padrão até onde vocês seriam. No mundo ideal, a gente começa aqui e termina aqui. Mas
+06:40 Speaker 2: hoje a gente está fazendo mais um pouquinho até a estrutura estar madura.
+06:45 Speaker 1: Por conta do nosso equipamento de monitoramento, que é um IoT baseado em Raspberry, que a gente chama de Connect Plus. O pessoal em campo tem muita dificuldade de fazer a instalação correta. Então, ainda não é plug and play. A ideia é que fosse plug and play, só que na maioria dos sites ou a gente tem que validar realmente foi instalado corretamente ou a gente tem que auxiliar em caso o modem está configurado incorretamente ou ele fez algum processo que não deveria ter sido feito. Então, o que deveria acontecer é sair de fábrica, a engenharia não tem contato mais com o técnico.
+07:22 Speaker 1: Realmente, ele é capaz de fazer tudo, de ter a evidência, pegar a evidência na nossa plataforma e colocar no relatório final da instalação.
+07:32 Speaker 2: Perfeito.
+07:34 Speaker 3: Me tira uma dúvida só assim, então, no mundo ideal, a Moura, vou só voltar para o começo, Moura Energia volta para a engenharia e fala assim, temos uma, ou vocês olham lá no VivoFly, fala assim, temos um novo serviço, vocês vão, organizam, validam, volta para a Moura Energia, está correto, é isso que precisa comprar. Moura Energia compra esses produtos. Você sabe qual que é o próximo passo? Tipo, a fábrica entrega, entre aspas, avisa a Moura que está pronto. E a Moura aciona a instalação, a Moura Energia aciona a instalação, como funciona só esse finalzinho? Ah, sim,
+08:11 Speaker 1: a parte da instalação também é a Moura Energia,
+08:14 Speaker 2: com
+08:15 Speaker 1: a RSM, que é a nossa rede de serviço Mouras.
+08:18 Speaker 2: Aí,
+08:18 Speaker 1: a Moura Energia faz o pedido, aí a fábrica já se planeja, faz a produção dos gabinetes, e no final... Tem a parte da logística, já vai o gabinete direto para o campo. E nessa logística tem que encaixar com a instalação do técnico, ou seja, tem que estar a equipe lá quando o caminhão chegar e descarregar o gabinete. Aí quem faz todo o controle realmente da MET, desses dois fatores, é a Morenergia, que é Renato César. E após a instalação, a Morenergia também é responsável pela operação. Então, não só eu que fico olhando, ah, deu um alarme nesse site, nesse gabinete, esse gabinete está com problema, ou precisa de manutenção nesse gabinete. A gente fez o plano de manutenção, mas a responsabilidade é da Morenergia de seguir esse plano e ficar monitorando essa operação.
+09:13 Speaker 3: Que é o Espinosa com o Tarsígio.
+09:15 Speaker 2: Isso.
+09:16 Speaker 1: Tarsígio, Renato, Diego Souza.
+09:20 Speaker 3: Tá, a gente conheceu só os dois, tá bom. E aí me diz uma coisa. Quem questiona vocês para vocês terem certeza que vocês vão estar em contato com o técnico na hora da instalação? Como vocês ficam sabendo?
+09:32 Speaker 1: Então, hoje em dia é pouco grupo de WhatsApp. O técnico já tem nossos números, meu e de Luana principalmente, que é também da nossa equipe, e entra em contato direto com a gente via WhatsApp mesmo, perguntando se o site subiu corretamente, se foi instalado correto e pedindo evidência. Porque a gente tem a nossa plataforma, mas ainda não é liberada para o pessoal do campo ter acesso. Então, eles não conseguem nem visualizar se realmente está correto ou se houve algum erro. precisa da, ainda é manual, precisa da nossa ajuda.
+10:06 Speaker 2: Perfeito. Tá, aí vocês
+10:09 Speaker 3: validam e tá certo. Ocorre de vocês validarem e de repente não tá bem instalado, de ter algum problema na instalação?
+10:18 Speaker 1: Às vezes a gente
+10:19 Speaker 2: validou,
+10:20 Speaker 1: só que o técnico não saiu na hora que a gente tinha validado e ocorreu algum erro, só que ele já tinha evidência que tinha validado e a gente só sabe no outro dia ou quando ocorre realmente um problema maior. Fora isso também, após a instalação, por exemplo, após alguns dias, Também ocorrem alguns erros que provavelmente foi por conta de instalação incorreta. Só que na hora a gente não tinha como diagnosticar.
+10:48 Speaker 3: Perfeito. E quem que reconhece essas questões de erro?
+10:52 Speaker 1: É o Nolkin, que é o nosso sistema de gerenciamento. É uma equipe que a Maria Energia contratou para ficar monitorando tudo o que acontece nos sites 24 horas.
+11:04 Speaker 3: Que não é o Tarciso, então?
+11:06 Speaker 2: Não.
+11:07 Speaker 3: É uma outra empresa que fica monitorando. É, é o terceiro.
+11:12 Speaker 1: Aí essa empresa avisa a Tarciso, por exemplo, ah, ó, está tendo muita falha nesse site. Aí ele investiga melhor, ele dá uma atenção maior. Mas não é ele que fica gerenciando os mais de 400 sites que a gente tem hoje na plataforma.
+11:27 Speaker 3: E aí, deixa eu te fazer só uma pergunta, Yasmin. Você usa o mesmo sistema? É a mesma plataforma que o Tarciso usa? Você usa as mesmas informações? É o mesmo... É
+11:37 Speaker 1: o mesmo sistema e eu acredito que a gente está no mesmo nível de usuário. A depender, por exemplo, se for um técnico, ele só tem como visualizar a partir dos sites, mas eu tenho acesso a partir dos gráficos de gestão, de ticket, de monitoramento dos ativos, de criação de novos produtos na série de sites, da parte do dimensionamento, basicamente todas as funcionalidades.
+12:03 Speaker 3: E aí, só me tiro uma dúvida, o ITEM entra em algum momento nessa jornada com vocês?
+12:09 Speaker 1: Ele participou, o ITEM participou do começo, que foi a plataforma.
+12:15 Speaker 2: O
+12:15 Speaker 1: ITEM desenvolveu a plataforma e hoje a gente usa a API só para coletar os dados, o back-end do ITEM, mas todo o front-end da nossa TI, a CMO, e a gente pretende também ficar com essa parte do back-end. Aí no futuro a plataforma do ITEM ia ser desativada, porque a gente já teria todo o domínio. É só uma transferência de tecnologia por enquanto.
+12:40 Speaker 3: Tá certo. Então, vocês não têm nenhum contato com eles hoje?
+12:43 Speaker 1: Não, a gente ainda tem. Por exemplo, o nosso equipamento de monitoramento. Às vezes, a gente detecta alguma anomalia. E para tratar como eles desenvolveram a parte do software, aí a gente entra em contato com o item. Aqueles que têm domínio da solução.
+13:00 Speaker 3: E é vocês que fazem isso ou o Tarciso?
+13:04 Speaker 1: Não, aí a gente faz isso. É como se fosse uma intermediação entre Moro Energia e o ITEM. Sempre tem a engenharia envolvida.
+13:17 Speaker 2: Ok. Vai lá, Lore.
+14:17 Speaker 1: Isso, isso impacta no prazo e novos desenvolvimentos, porque hoje a gente tem planos de trabalho com ITEM em outros projetos e também para melhorias nos projetos atuais. Quando ocorre algum tipo de problema e como a gente não tem 100% do domínio do equipamento que está em campo, da parte do Conect, a gente tem que parar alguma etapa ou priorizar esses novos desenvolvimentos para... para sanar esse problema em campo, que normalmente é urgente, e com esse impacto nos outros projetos. Então, hoje a gente não tem, por exemplo, uma pessoa de software na nossa equipe, e com isso a gente não tem esse domínio do equipamento em si.
+14:59 Speaker 1: Mas a gente está com outros projetos também de mudar esse equipamento, ter uma nova arquitetura,
+15:04 Speaker 2: e quem
+15:06 Speaker 1: sabe também obter essa transferência tecnológica completa.
+15:18 Speaker 2: Eu queria fazer uma pergunta, só para a gente tentar dimensionar, assim, para entender, Yasmin, a equipe de vocês, por exemplo, fica 100% em energia como serviço?
+15:35 Speaker 1: Não, nossa equipe é dividida tanto em sistemas, que seria energia como serviço também, a parte de tração e a parte de litro estacionária.
+15:45 Speaker 2: Tá, então são várias frentes que vocês vão fazendo esses projetos e vão colocando ali no backlog de vocês, isso? Isso,
+15:54 Speaker 1: tem pessoas dedicadas para cada frente, eu e Luana para essa parte de sistemas, tem mais dois para a parte de litro e dois para a parte de tração.
+16:05 Speaker 3: Entendi. Lítio, quando você fala, é a compra da bateria, a instalação da bateria que foi comprada? Ah, é o produto, não.
+16:10 Speaker 1: Seria engenharia também, o produto físico.
+16:13 Speaker 3: Do produto em si. E o que é a tração?
+16:17 Speaker 1: É relacionada a, por exemplo, a bateria de empiladeira, é a bateria realmente tracionária. Tanto de... Agora de lítio, né? Antes era de chumbo, mas a Amora desenvolveu uma nova bateria de tração.
+16:32 Speaker 3: Lítio. Quer falar mais alguma coisa?
+16:38 Speaker 2: Não, eu ia entrar em outros assuntos, mas vamos continuar, Fê, eu continuo na
+16:41 Speaker 1: lógica. Inclusive também terá uma plataforma para gerenciar essa bateria, que nem a gente tem hoje no Telecom. Desenvolvida também pelo ITEM.
+16:58 Speaker 2: Tá bom.
+17:00 Speaker 3: Eu vou entrar um pouquinho só na solução técnica, tá? Como que vocês estão fazendo hoje esse dimensionamento técnico? E aí talvez eu vou dividir isso em duas coisas, né? Quando vocês estão fazendo hoje para vivo, o que vocês levam em conta para fazer esse dimensionamento técnico? Se vocês têm uma análise para chegar numa solução certa ali para cada caso, ou fazem uma análise ali?
+17:29 Speaker 3: diferente para cada um deles. Tem um grupo, de repente, que trabalha de uma forma diferente.
+17:35 Speaker 1: Basicamente, já tem uma fórmula matemática bem definida, que hoje é automatizado. Aí a gente recebe algumas informações do VivoFly, que seria o STEP, que é relativo à potência, e o DEC, que seria autonomia. Com a potência e autonomia, a gente tem a energia necessária para atender aquele caso. E a gente sabe a energia que cada bateria nossa é capaz de fornecer num deck específico, que seria entre duas e quatro horas. A gente faz só a divisão da energia requerida pelo site e a energia que cada bateria nossa fornece. Com isso, a gente está retornando para cima e tem a quantidade de baterias.
+18:20 Speaker 1: Hoje, a gente não está levando em consideração alguns aspectos... Críticos, por exemplo, como temperatura ao longo do tempo, ciclo de vida, a quantidade de ciclos que ela normalmente faria e a taxa de envelhecimento. Mas a gente sempre dimensiona um pouco para cima para ter uma folga e uma margem maior. Fora que a gente também tem um controle da potência instalada no site em tempo real e da energia que a gente consegue fornecer. Então, quando ultrapassar...
+18:53 Speaker 1: quando, por exemplo, a energia que a gente consegue fornecer for menor do que a energia que o site está requerindo, a gente vai receber um alerta e vai poder adicionar mais baterias. Então, não seria um problema.
+19:07 Speaker 3: Perfeito. Você trouxe três critérios, eu acho, que hoje a gente não está olhando, né? Que foi a questão da temperatura, quantidade de vezes acionadas
+19:15 Speaker 2: e...
+19:17 Speaker 1: E envelhecimento, isso.
+19:19 Speaker 2: Isso.
+19:20 Speaker 3: Esses critérios, você... Só para entender por que a gente não está olhando para eles e o grau de importância ali na mensuração do negócio como um todo.
+19:33 Speaker 1: É realmente... tentar reduzir o máximo o custo da adição dessa bateria e se realmente teria necessidade de colocar ela agora, por exemplo, logo no início do contrato. Ah, porque a gente não adiciona daqui cinco anos e vai reduzir esse custo que a gente teria já inicialmente. Porque, por exemplo, o nosso cliente não coloca todos os equipamentos de uma vez. Então, essa potência vai aumentando gradativamente. Então, como a gente tem controle, a gente pode ter esse CAPEX inicial. só daqui a um tempo.
+20:10 Speaker 2: Tá bom.
+20:13 Speaker 3: E aí, deixa eu te fazer uma pergunta ainda nesse tempo de dimensionamento técnico. Você chegou a fazer alguma análise para outro cliente que não é vivo?
+20:23 Speaker 1: A gente fez proposta já para algar também. Por enquanto, acho que só algar. E tinha só no início, não voltou o tema.
+20:31 Speaker 3: Eu queria entender só se tem alguma diferença nas solicitações, especificações, necessidades desses clientes para vivo.
+20:39 Speaker 1: Tem. Normalmente, a especificação técnica do gabinete muda um pouco. Ou muda o dimensional do gabinete, ou tem alguns requisitos a mais de, por exemplo, comunicação, acessórios, que seriam sensores, mas... a ideia da solução sempre é a mesma. Eles dão o deck do site, a potência, para a gente calcular o número de baterias necessários,
+21:10 Speaker 2: e tem
+21:11 Speaker 1: um espaço específico que é em unidades de rack, por exemplo, 20 unidades de rack, que é o que ele precisa para colocar os equipamentos dele, que aí depende muito do cliente, de quantos equipamentos ele possui, em média, em cada site.
+21:28 Speaker 2: Perfeito.
+21:29 Speaker 3: E aí, vou te fazer uma pergunta, pensando na
+21:31 Speaker 2: sua experiência. Fala, Lore.
+22:11 Speaker 1: Antes, a gente fazia isso todo dia. No início do dia, a gente recebia os sites e mandava até o dia seguinte, mas hoje, com o dimensionamento automatizado, digamos assim, no mesmo dia, uma hora já consegue dimensionar uma planilha de sites.
+22:41 Speaker 1: Não, aí esse retorno vai para a Morenergia, eles analisam a quantidade de baterias e em seguida emitir o pedido de compra.
+22:50 Speaker 2: Assim, não precisa casar o pedido
+22:54 Speaker 1: da bateria e o pedido do gabinete.
+23:03 Speaker 3: Isso. Aí, nessa mesma lógica da pergunta, eu vou complementar. A gente está falando que hoje a gente consegue, né, ter uma devolutiva de engenharia
+23:12 Speaker 2: rápida,
+23:13 Speaker 3: porque a gente já tem um modelo livre certinho com a Vivo. Quando são novas propostas, eu queria te ouvir de dois cenários. Quanto tempo vocês demoram para fazer essa análise e quais são os principais desafios dessa análise?
+23:27 Speaker 1: Se for uma especificação nova, de um novo gabinete, a gente demora um tempo esperando o retorno do fornecedor, porque a gente não tem a solução pronta.
+23:37 Speaker 2: Mas,
+23:38 Speaker 1: também, geralmente, já tem fornecedores que possuem esses gabinetes padrões desse
+23:44 Speaker 2: tipo
+23:48 Speaker 1: de contrato, então, mais de um não demora tanto. E a questão de dimensionamento também, hoje é mais rápida, é realmente quando a gente não tem o domínio do produto. Por exemplo, é um produto novo, a gente precisa de um certo tempo para analisar, para conseguir novos fornecedores e para fazer, por exemplo, um teste, fazer um protótipo. Porque quando a gente fez esse contrato com a Vivo, primeiro a gente fez um protótipo, fez uma POC no nosso laboratório e depois que realmente colocou em produção.
+24:22 Speaker 3: Eu queria entender um pouco da qualidade das informações que vocês recebem no momento de uma nova solicitação.
+24:28 Speaker 2: Ah, sim.
+24:30 Speaker 3: Como que é isso?
+24:32 Speaker 2: Então, a maioria das vezes tem
+24:35 Speaker 1: muita coisa em aberto, então a gente não consegue, a gente precisa de uma reunião com o cliente ou um esclarecimento por e-mail do que realmente ele precisa, como um gabinete envolve vários sistemas, assim. vários periféricos, tem uma lista de materiais maior. A gente precisa esclarecer a informação, principalmente em relação ao sistema retificador, qual a potência que ele realmente precisa, se tem restrição de eficiência, de grau de proteção.
+25:09 Speaker 2: Às
+25:10 Speaker 1: vezes eles possuem equipamento de admonitamento e não fica claro qual o tipo de comunicação eles precisam. E do modelo de serviço, geralmente é padrão telefônico, o que a gente já está acostumado. Realmente só muda a duração do contrato e, por exemplo, questão de multa, aí seria a partir do jurídico.
+25:35 Speaker 2: Mas,
+25:36 Speaker 1: basicamente,
+25:38 Speaker 2: são essas questões
+25:39 Speaker 1: da parte técnica.
+25:43 Speaker 2: Quando vocês fazem essa reunião, Yasmin, com quem vocês falam com o cliente? Qual é a área? A área de engenharia, de operação?
+25:51 Speaker 1: Não, se for essa parte técnica, é a engenharia. Aí sempre tem alguém do comercial envolvido, tanto da nossa parte quanto da parte deles.
+25:59 Speaker 2: Entendi. Vou complementar, a gente está indo juntas.
+26:07 Speaker 3: Essas reuniões e essa participação, eu queria só entender uma coisa. Existe alguém do time de engenharia que é responsável pelo acompanhamento da parte comercial? Porque você está ali criando a solução, organizando, validando o que está em operação. Existe alguém designado para esse atendimento comercial, essa visão técnica no comercial?
+26:28 Speaker 1: Não. Assim, alguém realmente só para essa função, não. Sempre entrou em contato com a gente, aí vão fazendo follow-up, e a gente que faz esse gerenciamento não completo, porque a gente também é dedicado às outras atividades, mas a gente suporta o comercial.
+26:50 Speaker 2: Perfeito. E aí, vou...
+26:53 Speaker 3: Vou mudar um pouquinho, assim, pensando na experiência que vocês tiveram até agora, né? Já foram 400 sites, acho que tem bastante aprendizado. Eu queria entender com você o que vocês aprenderam ali na prática que vocês não sabiam, né? Que aprendizados técnicos aí vocês estão recebendo aí na operação do dia a dia? E como vocês estão conseguindo incluir isso nos processos? Ou se de repente ainda não entraram?
+27:22 Speaker 1: Sim, tem uma parte de consumo de dados, que a gente tinha feito análise inicial a quanto
+27:28 Speaker 2: de
+27:30 Speaker 1: dados cada site iria consumir, a depender do tipo de gabinete e da quantidade de baterias.
+27:36 Speaker 1: A gente tinha feito essa análise com base em uma amostra bem pequena nos primeiros sites e, ao longo do tempo, a gente viu que essa análise não foi eficiente. Hoje em dia, a gente consome bem mais do que o esperado e isso impactou em custo. A gente teve que aumentar nossos planos de dados e ainda estamos tendo problemas com esse consumo excessivo da parte de configuração também de fonte. No começo, já vinha padrão do nosso fornecedor, já vinha configurado, só que em alguns lotes veio configurado incorretamente, a gente teve um retrabalho em campo, os técnicos em campo tiveram que fazer um upload de um novo arquivo, e depois que a gente fez um alinhamento, ele definiu a Moura só compra essa versão aqui de firmware embarcada no sistema reticador.
+28:28 Speaker 1: Outro problema é que, por exemplo, a gente não faz todos os testes em fábrica. A gente está implantando aos poucos. Então, alguns problemas em campo já poderiam ter, a maioria, na verdade, já poderia ter sido diagnosticado em fábrica.
+28:47 Speaker 2: E
+28:48 Speaker 1: isso impacta no tempo de instalação. Uma instalação que era para durar duas horas, dura seis horas, e impacta no nosso cliente de maior energia, que tem que pagar mais por conta dessas horas extras que o técnico fica em campo. A gente já teve problema também com firma de bateria. Assim, a gente já tem um bom banco de leções aprendidas por conta dessas instalações. Aí, a cada leção aprendida, a gente ajusta o processo para que isso não ocorra novamente.
+29:26 Speaker 2: Então, numa das primeiras conversas,
+29:30 Speaker 3: eu não sei nem como que está isso,
+29:32 Speaker 2: a gente ouviu que...
+29:33 Speaker 3: Vocês identificaram essas questões de não instalação, não instalação correta, e vocês foram criando esse processo de validação. Porém, tem alguns sites que ainda continuam sem sinal, continuam sem dados. Eu queria só entender um pouco que problema foi esse, como aconteceu, como vocês estão tentando resolver isso, enfim, como está essa frente.
+29:54 Speaker 1: Bem no início, a gente não tinha um processo bem estabelecido no NOC. Então, por exemplo, nem todos os técnicos tinham a evidência de que o equipamento foi configurado corretamente. Então, eles iam lá, instalavam, tiravam foto e no final o equipamento estava offline.
+30:12 Speaker 1: Aí, ao longo do tempo, a gente implantou alguns processos que melhoraram essa parte de instalação, só que ainda não são suficientes. porque a gente não faz todos os testes em campo. Por exemplo, o alarme de porta aberta, o técnico abriu, a gente consegue ver na plataforma. Só que tem diversos alarmes. Alarme de reticador em falha, alarme de detector de incêndio. E a gente não faz esse teste em campo, porque demanda um tempo e demanda também conhecimento da parte técnica e assistência da engenharia, porque senão eles iam precisar estar em contato com a gente ainda mais tempo. Então, por conta disso, alguns alarmes só acontecem... por exemplo, há uma queda de energia. Aí a gente descobre que aquele site não foi instalado corretamente. E para consertar, a maioria não resolve por atualização remota, porque às vezes nem é questão de firma, é questão de instalação física, tem que ir no site. Aí para ir no site é um custo e a gente espera, por exemplo, uma manutenção, ou se for aqui perto a gente consegue ir, mas raramente acontece isso.
+31:21 Speaker 1: E outra coisa também é porque a atividade da engenharia não seria só ficar dedicada a isso validando todo site. Tem dia que tem mais de 10 sites,
+31:30 Speaker 2: mais de 10 não,
+31:32 Speaker 1: já teve um dia que teve 10 sites instalados no mesmo dia.
+31:39 Speaker 2: E a
+31:40 Speaker 1: gente tem outros projetos para tocar, não temos como ficar validando tudo que o técnico fez. A gente acredita pela foto, pelos dados que sobem na plataforma, mas que às vezes não são suficientes, que foi instalado corretamente. Só depois que ocorre algum problema, algum alarme, é que a gente vai investigar melhor e ver que alguma parte do processo não foi seguida.
+32:05 Speaker 2: Então,
+32:08 Speaker 3: no modelo ideal, esse processo de validação deveria realmente estar com vocês?
+32:12 Speaker 1: Não, a gente já está trabalhando com isso, a TI já foi envolvida, a gente está criando um... uma nova aba na nossa plataforma em que o técnico vai ter acesso às informações que a gente tem hoje. Não todas, só as básicas e as que eles realmente necessitam para validar sozinho, com evidência, tirando um print da tela ou gerando PDF do que ele está vendo, que o site foi instalado corretamente. Isso também vai exigir um treinamento, provavelmente no início.
+32:45 Speaker 1: Também vão haver falhas, a engenharia vai ter que estar acompanhando e validando cada processo, mas um final é que o técnico só entra em contato com a engenharia se realmente tiver um problema que não ocorreu, não tem algum Excel ou material mostrando o que fazer e não conseguiu resolver em campo de forma nenhuma.
+33:07 Speaker 2: Perfeito, tá bem. Agora, a gente discutiu vários problemas,
+33:12 Speaker 3: várias questões técnicas aqui, alguns desafios. Quais são hoje, desses problemas que você falou, que acontecem com mais frequência em campo, seja no momento da implementação, seja depois ali na operação?
+33:32 Speaker 1: Provavelmente a partir de configuração da fonte. Ou a gente não recebe alarme depois, só recebeu no dia da instalação, então a gente não tem controle de nada, porque não vai receber, só recebe dados de tensão, corrente, temperatura, enfim. Ou o site já nasce... Offline, digamos assim. Ah, ficou online no momento que o técnico falou comigo. No outro dia, tá offline e pode ter sido várias causas. Ou o modem configurado errado, aí deu um reset e não voltou.
+34:06 Speaker 2: Ou o técnico
+34:07 Speaker 1: saiu e tava offline. Ou o chip também foi configurado, colocado errado. Eu acredito, pela experiência, ultimamente, que esses dois são os maiores problemas.
+34:25 Speaker 3: E olhando para o produto hoje que a gente tem, o que você considera que ele não está fazendo bem e ele deveria fazer? E quais são as principais limitações técnicas hoje?
+34:39 Speaker 1: O que ele não está fazendo bem, que é a dor do nosso cliente, é detectar um furto, por exemplo. Hoje a gente não tem confiança quando ocorre algum... tipo de furto no nosso gabinete, que realmente está acontecendo, e a gente está avisado, a gente não, a Moro Energia é avisado pelo cliente. O cliente vai lá, instala seus equipamentos, e vê que o gabinete foi vandalizado. E isso a gente deveria ter
+35:06 Speaker 2: pegado por
+35:07 Speaker 1: nosso equipamento de monitoramento, pelos alarmes, porque dariam alarmes padrões, digamos assim, porta aberta, falha CA, erro de comunicação com a bateria, tensão do barramento. E hoje em dia ele não faz o básico, que seria isso.
+35:28 Speaker 2: E isso
+35:29 Speaker 1: ocorre principalmente por algum
+35:32 Speaker 2: erro no processo de instalação.
+35:33 Speaker 1: Se a gente não está recebendo um alarme, ou o técnico realmente é
+35:38 Speaker 2: bem
+35:38 Speaker 1: profissional, já sabe o que fazer assim que abre o gabinete, porque tem um tempo, questão de segundos, para a gente receber algum tipo de alerta. E ele pode... já, por exemplo, acionar o sensor de porta para a gente não receber esse alarme, desligar a energia C e das baterias, que eu acho, assim, bem difícil, todos os casos que a gente teve não foram detectados ter ocorrido isso,
+36:03 Speaker 2: ou foi
+36:05 Speaker 1: configurado, algum processo foi configurado incorretamente e a gente não conseguiu receber esse tipo de alarme. E outro problema também muito grave, que é a questão de sites offline. Hoje, todo dia, a Morenergia repassa quantos sites estão offline na nossa plataforma, que aí seriam sites mortos na visão da Morenergia, a gente não sabe de nada, que são sites críticos. Então, cada vez mais esse número tem preocupado e a gente ainda não tem uma solução definitiva para ajudar nesses casos.
+36:44 Speaker 2: Aí a alimentação, mas é
+36:46 Speaker 1: porque a gente normalmente precisa ir fisicamente no site, e não são sites fáceis, a maioria de acesso, tem um processo antes para a liberação do acesso, e fora que são sites pulverizados. Então, para a gente resolver, não tem que ir só em um site, tem que ir em mais de 50, por exemplo, e não tem como fazer isso sem aguardar, por exemplo, uma manutenção programada. porque senão ia exigir muito custo, ia provavelmente repetir, não ia ajustar todos os problemas em uma única visita. A gente descobri mais depois.
+37:25 Speaker 3: Você quer perguntar alguma coisa, né?
+37:28 Speaker 2: Eu queria entender, talvez, o tamanho dos 400 sites que vocês têm hoje, quantos são inativos? Você tem uma média, assim?
+37:38 Speaker 1: Tenho, deixa eu só ver aqui.
+37:41 Speaker 2: Se eu puder falar, claro. Deixa eu ver aqui.
+38:01 Speaker 1: Assim, muda diariamente, mas vamos supor que tem... Tá, 20%, entre 20%.
+38:08 Speaker 2: Entendi, obrigada.
+38:14 Speaker 3: A Yasmin, só uma pergunta. Você falou muito dessa questão de acessibilidade e espaço. E aí vocês têm dois diferentes tipos de site, o rooftop e
+38:22 Speaker 2: o greenfield. O
+38:25 Speaker 3: que muda na solução técnica para cada um desses espaços? O que traz desafios para a operação? E se você tiver o percentual de instalação em cada um deles?
+38:39 Speaker 1: O percentual, eu acho que a gente tem na nossa plataforma. Mas a solução é a mesma. O que muda é que no rooftop, a gente não vai com o cave, que seria o gradil, que é para reforçar a segurança do gabinete. Como para o acesso em rooftop, exige uma liberação...
+39:01 Speaker 1: mais robusta, geralmente tem porteiro, tem vigilante, não é qualquer pessoa que entra no edifício. É muito difícil, a gente nunca teve um furto em um rooftop, então a gente não precisa de um gradil porque não tem necessidade dessa proteção extra. Já em Greenfield, que é onde ocorrem os furtos, a gente precisa dessa proteção extra, porque se realmente for sem o gradil, provavelmente o furto vai acontecer na semana seguinte. Então, é isso que garante alguma segurança para o nosso cliente, Moro Energia, que é o Gradil. Mas o gabinete, em si, é o mesmo produto.
+39:39 Speaker 1: Desavios
+39:40 Speaker 2: técnicos
+39:41 Speaker 1: possam ser que
+39:42 Speaker 2: o
+39:45 Speaker 1: rooftop ou o greenfield impactem na conectividade, a depender de onde for
+39:51 Speaker 2: a localização. Mas não mudamos muito para a gente, não.
+39:58 Speaker 1: A gente prefere realmente que seja rooftop pela questão de segurança. Mas também rooftop exige içamento ou então desmontagem do gabinete, talvez a parte de instalação. Se o gabinete seja desmontado para levar, por exemplo, por escada ou elevador, a depender do acesso, do tamanho da abertura que vai ter para acessar a parte de cima, o rooftop, demora um pouco mais tempo, tanto a instalação quanto a questão do transporte. Aí o percentual,
+40:30 Speaker 2: deixa eu ver aqui,
+40:32 Speaker 1: sei que é bem mais Greenfield, bem mais mesmo.
+40:52 Speaker 1: É. Tá 90%, 10%. 90% que me enfiou, 10% off-top. Tá.
+40:59 Speaker 2: Perfeito.
+41:01 Speaker 3: Aí, vou entrar numa visão aqui das outras operadoras, tá? Se você souber trazer pra gente aqui. O que você acha que o modelo que a gente tem hoje, que tá fazendo com a Vivo, enfim, que tem potencial pras outras, entrega realmente de diferencial?
+41:21 Speaker 1: Para o nosso cliente, seria o monitoramento, que não está 100% ideal do jeito que a gente gostaria, mas a gente tem uma visão do que está acontecendo em campo. A gente consegue ter algumas ações remotas, por exemplo,
+41:41 Speaker 1: de tentativas de não precisar ir ao site. E a gente tem controle das nossas baterias e de como o equipamento está funcionando. Se realmente ele está retificando corretamente, está fornecendo a energia corretamente. Se a nossa bateria, quando teve a queda, entrou e quanto tempo ela conseguiu fornecer energia. E também, a depender do site, quanto... qual é a frequência que há queda de rede lá e a duração que essa bateria fornece energia. Então, ao longo do tempo, a gente tem uma visão básica de tal região, o nosso cliente disse que o deck seria de quatro horas, pediu uma autonomia de quatro horas, só que a gente está vendo que geralmente cai e só dura duas horas a falha a ser.
+42:33 Speaker 1: Então, ao longo do tempo, a gente pode usar isso a nosso favor e refinar, por exemplo, a questão de dimensionamento, talvez usar isso também como experiência para os próximos contratos.
+42:47 Speaker 2: Acho que é isso.
+42:48 Speaker 3: Muito bom. Me diz uma coisa, essas informações que você falou que a gente entrega, tem alguma que ele não conseguiria de jeito nenhum, que ele depende da gente, da Moura, para conseguir?
+42:57 Speaker 1: Hoje ele só tem informação do contato seco, que seriam oito alarmes, um reserva. Então, ele não tem, por exemplo, monitoramento da tensão, da corrente em tempo real, ao longo do tempo, do BMS, da bateria. Ele consegue basicamente saber se o site caiu, se alguém abriu a porta, se a temperatura está elevada, se teve falha no sistema educador.
+43:30 Speaker 2: Acho que é isso. Se teve
+43:35 Speaker 1: incêndio, né? Basicamente são essas informações básicas relacionadas a se o sistema é capaz realmente de superenergia se a rede falhar, por exemplo. Mas a questão de desempenho, ele não tem informações que possam garantir que o desempenho do equipamento está bom ou está ruim, está mediano.
+44:01 Speaker 1: E também não tem informações ao longo do tempo, né? É só questão de alarme. Agora o alarme está ativo, ok, desativou daqui a uma hora. É essa informação que ele tem. Foi ativo, está ativo ou inativo e quanto tempo passou. Tá.
+44:19 Speaker 3: Aí uma pergunta. A gente fez, você falou que entrou bem no momento do teste, né, da POC com a TIM. E aí você acompanha toda a evolução ali com a Vivo. Você tem uma ideia de por que a gente não conseguiu seguir adiante com a TIM?
+44:37 Speaker 1: Então, eu acredito que a Tim realmente não quis arriscar o modelo de negócio e não ficou insatisfeita com a solução. Na verdade, eu acredito que ela ficou satisfeita com a solução. Eu já peguei o final, quem participou mais foi esse colega nosso, que agora foi para o Mora Energia, agora não, já há um tempo.
+45:01 Speaker 1: Mas a gente teve bons resultados.
+45:05 Speaker 2: E
+45:06 Speaker 1: também mostrou o valor para a TIM com os dados que a gente teve de monitoramento na amostra de 20 sites aqui na região. Eu acredito que realmente foi questão financeira. Eles acharam que não vale a pena entrar no aluguel e vale mais a pena continuar comprando.
+45:31 Speaker 2: Muito bem.
+45:32 Speaker 3: E aí, por último, se você fosse olhar o produto hoje, essa solução técnica, seja do produto físico ou da plataforma, o que você considera que é necessário evoluir para virar um modelo que funcione melhor e a gente conseguir entrar em outras operadoras?
+45:53 Speaker 1: Confiabilidade nos nossos dados de campo. No caso, no nosso equipamento. Hoje,
+45:59 Speaker 2: não
+46:01 Speaker 1: são todos os dados que agregam valor ao nosso cliente. Tem dado que ele olha e só ignora, porque sabe ou que está incorreto ou é duvidoso. Então, acho que é essa parte dos
+46:12 Speaker 2: dados mesmo.
+46:14 Speaker 3: Quem que está evoluindo a plataforma em si dos dados hoje?
+46:20 Speaker 2: É a TI,
+46:21 Speaker 1: e se a gente precisar de modificação no back-end, seria o item.
+46:26 Speaker 2: E
+46:26 Speaker 3: você sabe se ele já tem isso mapeado? Se tem um desenho aí de uma evolução da plataforma?
+46:31 Speaker 1: Ah, sim. A TI já tem sprint em andamento com melhorias, que tanto a engenharia solicita, quanto a Moura Energia também solicita, para melhorar nosso dia a dia e também melhorar aos poucos a nossa plataforma. fazer mais com os dados que a gente tem hoje, por exemplo. Algumas análises a gente ainda tem que fazer manual e a gente sabe que poderiam ser automatizadas.
+46:58 Speaker 2: Perfeito.
+47:00 Speaker 3: Eu terminei. Menina, vocês têm alguma pergunta?
+47:03 Speaker 2: Lore? Vai lá.
+48:30 Speaker 1: Então, como no contrato eles já especificaram a solução dimensional que seria composto, a gente não teve, assim, muito essa liberdade de propor uma outra solução.
+48:45 Speaker 2: E hoje
+48:48 Speaker 1: a gente segue, basicamente, o que, na verdade, eles propuseram e a gente executou, basicamente. A única engenharia responsável hoje pelo processo é a equipe da gente. Seria eu, Aleph e Luana dedicadas a essa parte. É, a gente, por exemplo, acompanha as primeiras instalações, foi no cliente, tem ainda contato com o cliente, a depender do assunto, faz melhorias no gabinete, mas não a pedido do cliente, da telefônica, a pedido da morenergia ou evolução mesmo da própria engenharia.
+49:32 Speaker 1: E busca otimizar a solução, mas de uma maneira que não afeta a especificação obrigatória da telefônica.
+49:44 Speaker 3: Mais alguma coisa, meninas?
+49:49 Speaker 2: Então tá bom. Yasmin,
+49:51 Speaker 3: acho que é isso. Tem alguma coisa que a gente não perguntou que você acha que é importante a gente saber? Algum ponto aí que passou pela sua cabeça e
+50:00 Speaker 2: de repente a gente não falou?
+50:05 Speaker 1: Ah, eu esqueci de falar. Um grande ponto, também tem o cadeado, o cadeado Bluetooth. Também é uma dor nossa. Às vezes a gente tem problema de comunicação, então
+50:16 Speaker 2: esse
+50:18 Speaker 1: problema já vem sendo sanado, mas já chegou o caso de o técnico chegar lá, não conseguir abrir o gabinete por conta de falta de comunicação entre o telefone e o cadeado via Bluetooth, porque ele fica enclausurado. Então, essa também é uma grande dor nossa.
+50:40 Speaker 3: Quem que olha para o cadeado hoje? Quem que cuida dessa solução e está vendo essa melhoria?
+50:46 Speaker 1: Então, a gente compra da Promon. O nosso fornecedor também de gabinete já fez algumas melhorias relacionadas ao proteção, porque antes esse cadeado ficava na parte externa, agora está na parte interna. Mas a gente, por enquanto, está buscando
+51:06 Speaker 2: algum outro tipo
+51:08 Speaker 1: de solução ou robustez com o próprio cadeado que possa nos ajudar. Que, inclusive, o furto é justamente no cadeado. Geralmente vão lá, acerram a parte do cadeado. Não é fácil acerrar, obviamente, só que eles têm o tempo, basicamente, o dia disponível. Para fazer isso, tiram o cadeado de lá e não precisa abrir ou fechar o cadeado, porque para abrir ou fechar, realmente precisa de uma chave, só quem dá acesso é a Moura, o nosso NOC.
+51:38 Speaker 2: Só que eles
+51:39 Speaker 1: cerram, tiram, não abrem o
+51:41 Speaker 2: cadeado e só
+51:43 Speaker 1: puxam a alavanca do cave, do gabinete, e conseguem ter acesso fácil. Não fácil, mas... consegue ter acesso sem a abertura do cadeado aos nossos ativos. A gente está procurando uma solução agora para tentar evitar o máximo que isso aconteça. Já teve algumas melhorias, só que pela experiência de campo, a gente ainda vê mais oportunidade.
+52:09 Speaker 3: Uma pergunta só, fiquei com uma dúvida. O cadeado, estão cerrando o cadeado, vocês são acionados nesse momento ou só são acionados depois que ele é aberto?
+52:19 Speaker 1: A gente não é assinado, muitas vezes a gente não sabe que encerrou naquele dia, a gente só sabe quando o cliente vai lá ou alguém vai lá e vê que realmente aconteceu aquilo. A gente não recebe essa informação, então a gente não sabe. Esse é o grande problema também.
+52:34 Speaker 3: Mas a gente não, é só uma dúvida.
+52:37 Speaker 2: Não, pode falar. Aí
+52:40 Speaker 1: outras ideias que a gente está tendo também é a parte de rastreabilidade da própria bateria. colocar algum tipo de isca para a gente tentar localizar essa bateria em caso de furto, ou para ter segurança se realmente houve ou não.
+52:57 Speaker 3: O que eu ia te perguntar do cadeado é essa questão da gente não ter essa informação, por exemplo, com o encontro do centro cerrado, por conta dos problemas que a gente tem de comunicação, ou não existe esse dado? Não existe esse rastreamento?
+53:10 Speaker 1: Não tem, por exemplo, sensor de vibração, e se ele não acionou o cadeado, se ele só pegou lá e tirou, a gente não consegue detectar, não tem um sensor que detecte isso.
+53:22 Speaker 3: Se ele não tentou violar o cadeado pela senha ou pela chave, vocês não vão ficar sabendo, então, de qualquer jeito.
+53:29 Speaker 1: É, porque é um cadeado diferente, é um cadeado Bluetooth, bem robusto, e ele só abre via Bluetooth. Aí, você entra no aplicativo, que é da Red Square, da Promon,
+53:45 Speaker 2: você precisa ter
+53:46 Speaker 1: a liberação, que aí recebe uma chave, que é aleatória e única, e expira também no mesmo dia ou uma hora, duas horas depois, a depender da configuração, e consegue abrir o cadeado e abrir a porta. Aí, como eles não conseguem violar essa plataforma, o único jeito seria realmente cerrando a parte e retirando o cadeado.
+54:11 Speaker 2: Caraca, eles fazem isso. Tá bom. Perfeito. É um profissional.
+54:17 Speaker 3: Tipo, o lado errado, mas são, né?
+54:19 Speaker 2: É.
+54:20 Speaker 1: E muitos são técnicos. É o que a gente chama de fogo amigo. Eles mesmos instalam, avisam a um técnico terceiro que vai lá depois e só sabe como executar e faz
+54:32 Speaker 2: o posto. Tá bom. Perfeito.
+54:37 Speaker 3: Acho que é isso, então, Esmin. Queria agradecer a troca, foi ótima conversa aqui, trouxe vários esclarecimentos para a gente. Então, obrigada pelo tempo, pela conversa. Obrigada. E se tiver mais alguma coisa, lembrar de alguma coisa, se tem os nossos...
+  
