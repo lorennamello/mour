@@ -1,0 +1,1 @@
+Faz sentido sim, repita para todos o resto e criar um site em html, igual como vc fez para os roteiros das entrevisas internas lá no chat do cloude code, para que eu possa consultar tudo de uma vez de uma formal visialmete mais vavorável
