@@ -1,0 +1,951 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guia de Entrevista — Daniel Garcia & Washington Araujo | MJV</title>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Archivo:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --impulso: #6200BE;
+            --insight: #4B238D;
+            --estrutura: #2A005D;
+            --enfase: #1CB78D;
+            --aeris: #EEE7FD;
+            --lumina: #F6F3FE;
+            --dark: #1E2336;
+            --branco: #FFFFFF;
+            --daniel: #0046C1;
+            --daniel-light: #dbeafe;
+            --washington: #6200BE;
+            --washington-light: #EEE7FD;
+            --bloco-bg: #F8F9FC;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Archivo', sans-serif;
+            background: #F0F2F8;
+            color: var(--dark);
+            font-size: 14px;
+            line-height: 1.6;
+        }
+
+        /* PAGE HEADER */
+        .page-header {
+            background: var(--estrutura);
+            color: white;
+            padding: 36px 48px 28px;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+            flex-wrap: wrap;
+            gap: 16px;
+        }
+        .page-header-left h1 {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 22px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: -0.3px;
+            margin-bottom: 6px;
+        }
+        .page-header-left p {
+            font-size: 13px;
+            opacity: 0.7;
+        }
+        .page-header-right {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 12px;
+            opacity: 0.6;
+            text-align: right;
+        }
+
+        /* TAB NAV */
+        .tab-nav {
+            display: flex;
+            background: var(--branco);
+            border-bottom: 1px solid rgba(0,0,0,0.08);
+            padding: 0 48px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+        }
+        .tab-btn {
+            padding: 16px 24px;
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 12px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            border: none;
+            background: none;
+            cursor: pointer;
+            border-bottom: 3px solid transparent;
+            color: #888;
+            transition: all 0.2s;
+        }
+        .tab-btn:hover { color: var(--dark); }
+        .tab-btn.active-daniel { color: var(--daniel); border-bottom-color: var(--daniel); }
+        .tab-btn.active-washington { color: var(--washington); border-bottom-color: var(--washington); }
+
+        /* MAIN CONTENT */
+        .main { max-width: 960px; margin: 0 auto; padding: 36px 24px 80px; }
+
+        /* PERSON SECTION */
+        .person-section { display: none; }
+        .person-section.active { display: block; }
+
+        /* PERSON HEADER */
+        .person-header {
+            border-radius: 14px;
+            padding: 28px 32px;
+            margin-bottom: 28px;
+            display: flex;
+            gap: 24px;
+            align-items: flex-start;
+            flex-wrap: wrap;
+        }
+        .person-header.daniel { background: var(--daniel); color: white; }
+        .person-header.washington { background: var(--washington); color: white; }
+
+        .person-avatar {
+            width: 56px; height: 56px;
+            border-radius: 50%;
+            display: flex; align-items: center; justify-content: center;
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 20px; font-weight: 700;
+            background: rgba(255,255,255,0.2);
+            flex-shrink: 0;
+        }
+        .person-info { flex: 1; }
+        .person-name { font-family: 'Space Grotesk', sans-serif; font-size: 22px; font-weight: 700; margin-bottom: 4px; }
+        .person-role { font-size: 13px; opacity: 0.85; margin-bottom: 12px; }
+        .person-tags { display: flex; gap: 8px; flex-wrap: wrap; }
+        .person-tag {
+            background: rgba(255,255,255,0.18);
+            border: 1px solid rgba(255,255,255,0.3);
+            border-radius: 20px;
+            padding: 3px 12px;
+            font-size: 11px;
+            font-family: 'Space Grotesk', sans-serif;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        /* OBJETIVOS */
+        .objetivos-box {
+            background: var(--branco);
+            border-radius: 12px;
+            padding: 24px 28px;
+            margin-bottom: 24px;
+            border: 1px solid rgba(0,0,0,0.06);
+        }
+        .objetivos-title {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 12px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            margin-bottom: 14px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid;
+        }
+        .objetivos-title.daniel { color: var(--daniel); border-color: var(--daniel); }
+        .objetivos-title.washington { color: var(--washington); border-color: var(--washington); }
+
+        .obj-list { list-style: none; }
+        .obj-list li {
+            padding: 7px 0;
+            font-size: 13.5px;
+            line-height: 1.5;
+            border-bottom: 1px solid rgba(0,0,0,0.05);
+            padding-left: 18px;
+            position: relative;
+        }
+        .obj-list li:last-child { border-bottom: none; }
+        .obj-list li::before {
+            content: '—';
+            position: absolute;
+            left: 0;
+            color: #bbb;
+            font-size: 12px;
+        }
+
+        /* BLOCOS OVERVIEW */
+        .blocos-overview {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 10px;
+            margin-bottom: 28px;
+        }
+        .bloco-card {
+            background: var(--branco);
+            border-radius: 10px;
+            padding: 16px;
+            border: 1px solid rgba(0,0,0,0.06);
+            text-align: center;
+        }
+        .bloco-number {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            margin-bottom: 6px;
+        }
+        .bloco-number.daniel { color: var(--daniel); }
+        .bloco-number.washington { color: var(--washington); }
+        .bloco-name {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 12px;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: var(--estrutura);
+            line-height: 1.3;
+        }
+        .bloco-desc {
+            font-size: 11px;
+            color: #888;
+            margin-top: 4px;
+            line-height: 1.4;
+        }
+
+        /* ROTEIRO */
+        .roteiro-section {
+            background: var(--branco);
+            border-radius: 14px;
+            padding: 28px 32px;
+            margin-bottom: 20px;
+            border: 1px solid rgba(0,0,0,0.06);
+        }
+
+        .intro-box {
+            background: var(--bloco-bg);
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin-bottom: 24px;
+            border-left: 4px solid #ddd;
+        }
+        .intro-box.daniel { border-left-color: var(--daniel); }
+        .intro-box.washington { border-left-color: var(--washington); }
+
+        .intro-label {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 10px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            margin-bottom: 8px;
+            color: #888;
+        }
+        .intro-text {
+            font-size: 13.5px;
+            line-height: 1.7;
+            color: var(--dark);
+            font-style: italic;
+        }
+
+        /* BLOCO */
+        .bloco {
+            margin-bottom: 28px;
+        }
+        .bloco-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 16px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgba(0,0,0,0.08);
+        }
+        .bloco-badge {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 10px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            padding: 4px 12px;
+            border-radius: 20px;
+            white-space: nowrap;
+        }
+        .bloco-badge.daniel { background: var(--daniel-light); color: var(--daniel); }
+        .bloco-badge.washington { background: var(--washington-light); color: var(--washington); }
+
+        .bloco-header-title {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 14px;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: var(--estrutura);
+        }
+        .bloco-subtitle {
+            font-size: 12px;
+            color: #777;
+            margin-top: 2px;
+        }
+
+        /* PERGUNTAS */
+        .perguntas-list { list-style: none; }
+        .pergunta-item {
+            display: flex;
+            gap: 14px;
+            padding: 12px 0;
+            border-bottom: 1px solid rgba(0,0,0,0.05);
+        }
+        .pergunta-item:last-child { border-bottom: none; }
+
+        .pnum {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 13px;
+            font-weight: 700;
+            min-width: 28px;
+            padding-top: 1px;
+        }
+        .pnum.daniel { color: var(--daniel); }
+        .pnum.washington { color: var(--washington); }
+
+        .pcontent { flex: 1; }
+        .ptext {
+            font-size: 14px;
+            line-height: 1.55;
+            color: var(--dark);
+            font-weight: 500;
+        }
+        .ptext strong { font-weight: 700; }
+
+        .psub {
+            font-size: 12px;
+            color: #666;
+            margin-top: 6px;
+            line-height: 1.5;
+            font-style: italic;
+        }
+
+        .psub-list {
+            list-style: none;
+            margin-top: 8px;
+        }
+        .psub-list li {
+            font-size: 12.5px;
+            color: #555;
+            padding: 3px 0 3px 16px;
+            position: relative;
+            line-height: 1.4;
+        }
+        .psub-list li::before {
+            content: 'a.';
+            position: absolute;
+            left: 0;
+            color: #aaa;
+            font-size: 11px;
+        }
+        .psub-list li:nth-child(2)::before { content: 'b.'; }
+        .psub-list li:nth-child(3)::before { content: 'c.'; }
+        .psub-list li:nth-child(4)::before { content: 'd.'; }
+        .psub-list li:nth-child(5)::before { content: 'e.'; }
+
+        /* ORIGEM TAG */
+        .origem-tag {
+            display: inline-block;
+            font-size: 10px;
+            font-family: 'Space Grotesk', sans-serif;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            padding: 2px 8px;
+            border-radius: 4px;
+            margin-left: 8px;
+            vertical-align: middle;
+        }
+        .origem-andrea { background: #fef3c7; color: #92400e; }
+        .origem-pesquisa { background: #dcfce7; color: #166534; }
+
+        /* NOTE BOX */
+        .note-box {
+            background: #fffbeb;
+            border: 1px solid #fde68a;
+            border-radius: 10px;
+            padding: 14px 18px;
+            margin-top: 20px;
+            font-size: 12.5px;
+            color: #78350f;
+            line-height: 1.6;
+        }
+        .note-box strong { font-weight: 700; }
+
+        @media print {
+            .tab-nav { display: none; }
+            .person-section { display: block !important; page-break-after: always; }
+            body { background: white; font-size: 12px; }
+        }
+        @media (max-width: 600px) {
+            .main { padding: 20px 16px 60px; }
+            .roteiro-section { padding: 20px 18px; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="page-header">
+    <div class="page-header-left">
+        <h1>Guia de Entrevistas — Terça-feira, 07/07</h1>
+        <p>MJV Technology & Innovation · Projeto Moura Energia | Energia como Serviço · Fase 1 — Diagnóstico Estratégico</p>
+    </div>
+    <div class="page-header-right">
+        SP-00028<br>Entrevistas internas · Recife
+    </div>
+</div>
+
+<div class="tab-nav">
+    <button class="tab-btn active-daniel" onclick="showPerson('daniel', this)">
+        Daniel Garcia — Ger. Adm. Financeiro
+    </button>
+    <button class="tab-btn" onclick="showPerson('washington', this)">
+        Washington Araujo — Ger. de Engenharia
+    </button>
+</div>
+
+<div class="main">
+
+<!-- ======================================================
+     DANIEL GARCIA
+     ====================================================== -->
+<div class="person-section active" id="section-daniel">
+
+    <div class="person-header daniel">
+        <div class="person-avatar">DG</div>
+        <div class="person-info">
+            <div class="person-name">Daniel Garcia</div>
+            <div class="person-role">Gerente Administrativo Financeiro · Moura Energia</div>
+            <div class="person-tags">
+                <span class="person-tag">Presencial / Recife</span>
+                <span class="person-tag">Moura Energia</span>
+                <span class="person-tag">Gestão do Contrato</span>
+                <span class="person-tag">Visão Financeira</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- OBJETIVOS -->
+    <div class="objetivos-box">
+        <div class="objetivos-title daniel">Objetivos da Entrevista</div>
+        <ul class="obj-list">
+            <li>Compreender como o modelo de negócio da Moura Energia funciona do ponto de vista financeiro e administrativo — receitas, custos, riscos e o que sustenta o contrato vigente;</li>
+            <li>Entender como Daniel percebe a saúde atual do negócio e quais são as principais alavancas e gargalos para sua sustentabilidade;</li>
+            <li>Mapear quais são os riscos financeiros e operacionais que ele já identificou no modelo e que impactam diretamente a escalabilidade;</li>
+            <li>Explorar sua visão sobre o que seria necessário para o modelo crescer de forma consistente — o que falta do ponto de vista financeiro e de gestão;</li>
+            <li>Identificar como ele enxerga a evolução do negócio para novos clientes e o que muda na lógica financeira quando se pensa em escala.</li>
+        </ul>
+        <div class="note-box">
+            <strong>Nota:</strong> Daniel tem visão de helicóptero — é o guardião financeiro do contrato com a Vivo e acompanha faturamento, furto, riscos e balanço. Para novos negócios e modelagem financeira, o processo passa pela área de PO (Andrea). Não é o responsável por modelar novas propostas, mas é um validador importante e tem percepção clara sobre o que está funcionando ou não no modelo atual.
+        </div>
+    </div>
+
+    <!-- VISÃO DOS BLOCOS -->
+    <div class="blocos-overview">
+        <div class="bloco-card">
+            <div class="bloco-number daniel">Bloco 0</div>
+            <div class="bloco-name">Introdução</div>
+            <div class="bloco-desc">Contexto e aquecimento</div>
+        </div>
+        <div class="bloco-card">
+            <div class="bloco-number daniel">Bloco 1</div>
+            <div class="bloco-name">Modelo Atual</div>
+            <div class="bloco-desc">Como funciona financeiramente hoje</div>
+        </div>
+        <div class="bloco-card">
+            <div class="bloco-number daniel">Bloco 2</div>
+            <div class="bloco-name">Desafios e Riscos</div>
+            <div class="bloco-desc">O que pressiona o negócio</div>
+        </div>
+        <div class="bloco-card">
+            <div class="bloco-number daniel">Bloco 3</div>
+            <div class="bloco-name">Escalabilidade</div>
+            <div class="bloco-desc">O que muda ao crescer</div>
+        </div>
+        <div class="bloco-card">
+            <div class="bloco-number daniel">Bloco 4</div>
+            <div class="bloco-name">Visão de Futuro</div>
+            <div class="bloco-desc">Para onde ele enxerga o negócio</div>
+        </div>
+    </div>
+
+    <!-- ROTEIRO -->
+    <div class="roteiro-section">
+
+        <!-- INTRO -->
+        <div class="intro-box daniel">
+            <div class="intro-label">Introdução — fala de abertura sugerida</div>
+            <div class="intro-text">
+                "Daniel, obrigada por nos receber. A gente está nesse processo de imersão no projeto de Energia como Serviço, e você é uma das pessoas centrais para a gente entender como o negócio funciona na prática — especialmente do ponto de vista financeiro e de gestão. A nossa conversa é mais um bate-papo mesmo, sem respostas certas ou erradas. A gente quer ouvir a sua perspectiva sobre o modelo atual, os desafios que você enxerga e como você vê o futuro desse negócio. Pode gravar?"
+            </div>
+        </div>
+
+        <!-- BLOCO 0 -->
+        <div class="bloco">
+            <div class="bloco-header">
+                <span class="bloco-badge daniel">Bloco 0</span>
+                <div>
+                    <div class="bloco-header-title">Apresentação e Contexto</div>
+                    <div class="bloco-subtitle">Entender trajetória, tempo na empresa e como chegou até esse papel</div>
+                </div>
+            </div>
+            <ul class="perguntas-list">
+                <li class="pergunta-item">
+                    <span class="pnum daniel">1.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Me conta um pouco da sua trajetória na Moura — há quanto tempo você está aqui e como chegou a esse papel dentro da Moura Energia?</div>
+                        <div class="psub">Entender o tempo de empresa, o contexto de entrada e se acompanhou a origem do projeto de servitização.</div>
+                    </div>
+                </li>
+                <li class="pergunta-item">
+                    <span class="pnum daniel">2.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Como você descreveria o seu papel dentro da Moura Energia — o que fica na sua responsabilidade no dia a dia?</div>
+                        <div class="psub">Mapear claramente o que cabe ao Daniel: gestão do contrato, faturamento, acompanhamento de riscos, interface com jurídico/fiscal, etc.</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <!-- BLOCO 1 -->
+        <div class="bloco">
+            <div class="bloco-header">
+                <span class="bloco-badge daniel">Bloco 1</span>
+                <div>
+                    <div class="bloco-header-title">O Modelo Atual — Como Funciona na Prática</div>
+                    <div class="bloco-subtitle">Entender a lógica financeira e operacional do contrato vigente com a Vivo</div>
+                </div>
+            </div>
+            <ul class="perguntas-list">
+                <li class="pergunta-item">
+                    <span class="pnum daniel">3.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Como você descreve o modelo de negócio da Moura Energia hoje — como ele funciona do ponto de vista financeiro e de gestão?
+                            <span class="origem-tag origem-andrea">Andrea</span>
+                        </div>
+                        <div class="psub">Entender a estrutura básica: quem paga quem, como flui o dinheiro, quais são as principais obrigações de cada parte.</div>
+                    </div>
+                </li>
+                <li class="pergunta-item">
+                    <span class="pnum daniel">4.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Quais são os principais custos que você acompanha dentro da operação — o que mais pesa no resultado?
+                            <span class="origem-tag origem-andrea">Andrea</span>
+                        </div>
+                        <div class="psub">Identificar as principais categorias de custo operacional: manutenção, furto, logística, conectividade, RSM, etc.</div>
+                    </div>
+                </li>
+                <li class="pergunta-item">
+                    <span class="pnum daniel">5.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Como é feito o acompanhamento do contrato com a Vivo — o que você monitora regularmente e o que te preocupa nesse acompanhamento?
+                            <span class="origem-tag origem-andrea">Andrea</span>
+                        </div>
+                        <div class="psub">Entender quais indicadores ele rastreia, qual a frequência e quais situações geram alarme.</div>
+                    </div>
+                </li>
+                <li class="pergunta-item">
+                    <span class="pnum daniel">6.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Como você avalia a maturidade do modelo hoje — o negócio está onde vocês esperavam que estaria nesse momento?</div>
+                        <div class="psub">Capturar a percepção dele sobre o estágio atual — se está dentro, abaixo ou acima das expectativas originais.</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <!-- BLOCO 2 -->
+        <div class="bloco">
+            <div class="bloco-header">
+                <span class="bloco-badge daniel">Bloco 2</span>
+                <div>
+                    <div class="bloco-header-title">Desafios e Riscos</div>
+                    <div class="bloco-subtitle">O que está pressionando o modelo e quais os riscos que ele enxerga</div>
+                </div>
+            </div>
+            <ul class="perguntas-list">
+                <li class="pergunta-item">
+                    <span class="pnum daniel">7.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Quais são os maiores riscos financeiros que você enxerga no modelo atual — o que te mantém acordado pensando no negócio?
+                            <span class="origem-tag origem-andrea">Andrea</span>
+                        </div>
+                        <div class="psub">Furto, inadimplência, reajuste de contrato, custo de campo, degradação de bateria — o que pesa mais na visão dele.</div>
+                    </div>
+                </li>
+                <li class="pergunta-item">
+                    <span class="pnum daniel">8.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Como a questão do furto aparece na gestão do contrato — qual o impacto real no resultado e como vocês estão lidando com isso?
+                            <span class="origem-tag origem-andrea">Andrea</span>
+                        </div>
+                        <div class="psub">Explorar o peso financeiro do furto, como o cap funciona na prática e se está sendo suficiente ou não.</div>
+                    </div>
+                </li>
+                <li class="pergunta-item">
+                    <span class="pnum daniel">9.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Existe algo no modelo atual que, na sua visão, precisa ser revisado para o negócio ser mais sustentável no longo prazo?</div>
+                        <div class="psub">Capturar sua percepção sobre gaps estruturais — o que ele mudaria se pudesse.</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <!-- BLOCO 3 -->
+        <div class="bloco">
+            <div class="bloco-header">
+                <span class="bloco-badge daniel">Bloco 3</span>
+                <div>
+                    <div class="bloco-header-title">Escalabilidade</div>
+                    <div class="bloco-subtitle">O que muda financeiramente e operacionalmente quando o portfólio cresce</div>
+                </div>
+            </div>
+            <ul class="perguntas-list">
+                <li class="pergunta-item">
+                    <span class="pnum daniel">10.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Na sua visão, o que precisaria mudar no modelo para a Moura Energia conseguir crescer — ter mais clientes, mais sites — de forma sustentável?
+                            <span class="origem-tag origem-andrea">Andrea</span>
+                        </div>
+                        <div class="psub">Identificar os gargalos financeiros e de gestão que ele enxerga para escalar: capital, processos, time, produto, etc.
+                            <ul class="psub-list">
+                                <li>O que muda na lógica financeira quando o portfólio dobra ou triplica de tamanho?</li>
+                                <li>Quais são as condições que precisariam existir para o negócio ser escalável de verdade?</li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <!-- BLOCO 4 -->
+        <div class="bloco">
+            <div class="bloco-header">
+                <span class="bloco-badge daniel">Bloco 4</span>
+                <div>
+                    <div class="bloco-header-title">Visão de Futuro</div>
+                    <div class="bloco-subtitle">Como ele enxerga o negócio daqui para frente</div>
+                </div>
+            </div>
+            <ul class="perguntas-list">
+                <li class="pergunta-item">
+                    <span class="pnum daniel">11.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Como você enxerga o negócio da Moura Energia daqui a três ou cinco anos — onde ele deveria estar?</div>
+                        <div class="psub">Capturar a visão dele sobre o tamanho, o posicionamento e o que seria um cenário de sucesso.</div>
+                    </div>
+                </li>
+                <li class="pergunta-item">
+                    <span class="pnum daniel">12.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Se você pudesse mudar uma coisa no modelo agora que teria o maior impacto positivo no negócio, o que seria?</div>
+                        <div class="psub">Pergunta de fechamento que revela prioridades e convicções — o que ele acredita que é mais crítico resolver.</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+    </div><!-- /roteiro-section -->
+</div><!-- /section-daniel -->
+
+
+<!-- ======================================================
+     WASHINGTON ARAUJO
+     ====================================================== -->
+<div class="person-section" id="section-washington">
+
+    <div class="person-header washington">
+        <div class="person-avatar">WA</div>
+        <div class="person-info">
+            <div class="person-name">Washington Araujo</div>
+            <div class="person-role">Gerente de Engenharia · CMO (Acumuladores Moura)</div>
+            <div class="person-tags">
+                <span class="person-tag">Presencial / Recife</span>
+                <span class="person-tag">CMO / Fábrica</span>
+                <span class="person-tag">Engenharia do Produto</span>
+                <span class="person-tag">Desde o Início do Projeto</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- OBJETIVOS -->
+    <div class="objetivos-box">
+        <div class="objetivos-title washington">Objetivos da Entrevista</div>
+        <ul class="obj-list">
+            <li>Compreender o papel da engenharia no suporte ao modelo de energia como serviço — o que ela faz, onde está envolvida e quais são seus limites;</li>
+            <li>Entender como o dimensionamento técnico da solução é feito e quais são as principais variáveis que afetam esse processo;</li>
+            <li>Mapear quais são os problemas técnicos mais recorrentes em campo e o que a engenharia já aprendeu com eles;</li>
+            <li>Capturar a percepção dele sobre o que precisa evoluir no produto para o modelo funcionar melhor — e o que impede essa evolução hoje;</li>
+            <li>Explorar sua visão sobre onde outras operadoras não avançaram e o que ele acredita que está faltando para o modelo ganhar escala.</li>
+        </ul>
+        <div class="note-box">
+            <strong>Nota:</strong> Washington está na CMO (fábrica), não na Moura Energia. Ele está envolvido no projeto desde o início — participou das primeiras discussões técnicas sobre a solução. É uma fonte rica sobre o histórico técnico do produto, a percepção sobre outras operadoras e os limites do que é possível entregar hoje. A Andrea sinalizou que ele pode falar sobre quem são as pessoas certas dentro das operadoras — vale explorar isso também.
+        </div>
+    </div>
+
+    <!-- VISÃO DOS BLOCOS -->
+    <div class="blocos-overview">
+        <div class="bloco-card">
+            <div class="bloco-number washington">Bloco 0</div>
+            <div class="bloco-name">Introdução</div>
+            <div class="bloco-desc">Contexto e papel</div>
+        </div>
+        <div class="bloco-card">
+            <div class="bloco-number washington">Bloco 1</div>
+            <div class="bloco-name">Papel e Envolvimento</div>
+            <div class="bloco-desc">O que a engenharia faz no projeto</div>
+        </div>
+        <div class="bloco-card">
+            <div class="bloco-number washington">Bloco 2</div>
+            <div class="bloco-name">Solução Técnica</div>
+            <div class="bloco-desc">Como funciona e o que foi aprendido</div>
+        </div>
+        <div class="bloco-card">
+            <div class="bloco-number washington">Bloco 3</div>
+            <div class="bloco-name">Desafios e Gargalos</div>
+            <div class="bloco-desc">O que não está funcionando bem</div>
+        </div>
+        <div class="bloco-card">
+            <div class="bloco-number washington">Bloco 4</div>
+            <div class="bloco-name">Escala e Mercado</div>
+            <div class="bloco-desc">Por que não avançou em outras operadoras</div>
+        </div>
+        <div class="bloco-card">
+            <div class="bloco-number washington">Bloco 5</div>
+            <div class="bloco-name">Evolução e Futuro</div>
+            <div class="bloco-desc">O que precisa mudar tecnicamente</div>
+        </div>
+    </div>
+
+    <!-- ROTEIRO -->
+    <div class="roteiro-section">
+
+        <!-- INTRO -->
+        <div class="intro-box washington">
+            <div class="intro-label">Introdução — fala de abertura sugerida</div>
+            <div class="intro-text">
+                "Washington, obrigada por nos receber. A gente está nessa etapa de imersão no projeto de Energia como Serviço, e você é uma das pessoas que esteve desde o começo — então sua visão é especialmente valiosa pra gente. A nossa conversa é exploratória mesmo, queremos entender como a solução foi desenvolvida, o que foi aprendido no caminho e como você enxerga os desafios e oportunidades daqui para frente. Pode gravar?"
+            </div>
+        </div>
+
+        <!-- BLOCO 0 -->
+        <div class="bloco">
+            <div class="bloco-header">
+                <span class="bloco-badge washington">Bloco 0</span>
+                <div>
+                    <div class="bloco-header-title">Apresentação e Contexto</div>
+                    <div class="bloco-subtitle">Trajetória, tempo de empresa e como se envolveu com o projeto</div>
+                </div>
+            </div>
+            <ul class="perguntas-list">
+                <li class="pergunta-item">
+                    <span class="pnum washington">1.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Me conta um pouco da sua trajetória na Moura — há quanto tempo você está aqui e como chegou a esse papel de gerente de engenharia?</div>
+                        <div class="psub">Entender o tempo de empresa e o contexto de chegada para calibrar a profundidade do conhecimento histórico.</div>
+                    </div>
+                </li>
+                <li class="pergunta-item">
+                    <span class="pnum washington">2.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Como você se envolveu com o projeto de Energia como Serviço — desde quando e de que forma a engenharia entrou nessa história?
+                            <span class="origem-tag origem-andrea">Andrea</span>
+                        </div>
+                        <div class="psub">A Andrea sinalizou que ele esteve desde o início. Explorar como foi esse envolvimento e o que ele vivenciou no processo de construção da solução.</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <!-- BLOCO 1 -->
+        <div class="bloco">
+            <div class="bloco-header">
+                <span class="bloco-badge washington">Bloco 1</span>
+                <div>
+                    <div class="bloco-header-title">Papel da Engenharia no Modelo Atual</div>
+                    <div class="bloco-subtitle">O que a engenharia faz, onde entra e onde termina sua responsabilidade</div>
+                </div>
+            </div>
+            <ul class="perguntas-list">
+                <li class="pergunta-item">
+                    <span class="pnum washington">3.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Como a engenharia está envolvida na operação do contrato com a Vivo hoje — qual é o papel de vocês no dia a dia?
+                            <span class="origem-tag origem-andrea">Andrea</span>
+                        </div>
+                        <div class="psub">Entender onde a engenharia entra: dimensionamento de novas RFPs, suporte a problemas de campo, evolução de produto, interface com ITEMM, etc.</div>
+                    </div>
+                </li>
+                <li class="pergunta-item">
+                    <span class="pnum washington">4.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Quando aparece um problema técnico em campo, como funciona o processo — quem chama a engenharia e o que ela resolve?</div>
+                        <div class="psub">Mapear o fluxo de problemas técnicos e o papel da engenharia na resolução versus o ITEMM e a RSM.</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <!-- BLOCO 2 -->
+        <div class="bloco">
+            <div class="bloco-header">
+                <span class="bloco-badge washington">Bloco 2</span>
+                <div>
+                    <div class="bloco-header-title">A Solução Técnica — O Que Foi Aprendido</div>
+                    <div class="bloco-subtitle">Como o dimensionamento funciona e o que o campo ensinou</div>
+                </div>
+            </div>
+            <ul class="perguntas-list">
+                <li class="pergunta-item">
+                    <span class="pnum washington">5.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Como funciona o dimensionamento técnico de cada site — o que você leva em conta e como chega na solução certa para cada caso?
+                            <span class="origem-tag origem-andrea">Andrea</span>
+                        </div>
+                        <div class="psub">Entender as variáveis técnicas que entram no dimensionamento: consumo energético, autonomia exigida, tipo de site, região, etc.</div>
+                    </div>
+                </li>
+                <li class="pergunta-item">
+                    <span class="pnum washington">6.</span>
+                    <div class="pcontent">
+                        <div class="ptext">O que o campo ensinou que vocês não sabiam quando começaram — que aprendizados técnicos surgiram com a operação real?</div>
+                        <div class="psub">Capturar as surpresas técnicas — o que o modelo ideal previa versus o que a realidade mostrou no campo.</div>
+                    </div>
+                </li>
+                <li class="pergunta-item">
+                    <span class="pnum washington">7.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Como a diferença entre sites greenfield e rooftop afeta a solução técnica e o que isso implica na operação?</div>
+                        <div class="psub">Entender as diferenças práticas de instalação, custo e complexidade entre os dois tipos de site.</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <!-- BLOCO 3 -->
+        <div class="bloco">
+            <div class="bloco-header">
+                <span class="bloco-badge washington">Bloco 3</span>
+                <div>
+                    <div class="bloco-header-title">Desafios e Gargalos Técnicos</div>
+                    <div class="bloco-subtitle">O que não está funcionando bem e o que está limitando a solução</div>
+                </div>
+            </div>
+            <ul class="perguntas-list">
+                <li class="pergunta-item">
+                    <span class="pnum washington">8.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Quais são os problemas técnicos que aparecem com mais frequência em campo e que mais impactam a operação?
+                            <span class="origem-tag origem-andrea">Andrea</span>
+                        </div>
+                        <div class="psub">Identificar os problemas recorrentes: falhas de produto, instalação, conectividade, degradação, furto — o que pesa mais na visão da engenharia.</div>
+                    </div>
+                </li>
+                <li class="pergunta-item">
+                    <span class="pnum washington">9.</span>
+                    <div class="pcontent">
+                        <div class="ptext">O que você considera que o produto atual ainda não faz bem — quais são as principais limitações técnicas da solução hoje?</div>
+                        <div class="psub">Capturar os gaps técnicos do Connect+, do gabinete, do sistema de monitoramento ou de qualquer outro componente da solução.</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <!-- BLOCO 4 -->
+        <div class="bloco">
+            <div class="bloco-header">
+                <span class="bloco-badge washington">Bloco 4</span>
+                <div>
+                    <div class="bloco-header-title">Por Que Não Avançou em Outras Operadoras</div>
+                    <div class="bloco-subtitle">A percepção técnica sobre as barreiras de adoção — e quem são as pessoas certas</div>
+                </div>
+            </div>
+            <ul class="perguntas-list">
+                <li class="pergunta-item">
+                    <span class="pnum washington">10.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Na sua percepção, por que o modelo avançou com a Vivo e não foi adiante com TIM e Claro — o que você acha que fez a diferença?
+                            <span class="origem-tag origem-andrea">Andrea</span>
+                        </div>
+                        <div class="psub">Explorar as barreiras que ele enxerga: técnicas, comerciais, de relacionamento, de produto ou de timing.
+                            <ul class="psub-list">
+                                <li>O que as outras operadoras pediram que a Moura não conseguiu entregar?</li>
+                                <li>Teve alguma barreira técnica específica que dificultou o avanço com elas?</li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="pergunta-item">
+                    <span class="pnum washington">11.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Pelo que você acompanhou, quem são as pessoas dentro das operadoras que entendem melhor o valor do que vocês entregam — quem é o interlocutor certo?
+                            <span class="origem-tag origem-andrea">Andrea</span>
+                        </div>
+                        <div class="psub">A Andrea sinalizou que ele pode ter percepção sobre os interlocutores dentro das operadoras. Entender se a Moura está falando com as pessoas certas.</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <!-- BLOCO 5 -->
+        <div class="bloco">
+            <div class="bloco-header">
+                <span class="bloco-badge washington">Bloco 5</span>
+                <div>
+                    <div class="bloco-header-title">Evolução da Solução e Visão de Futuro</div>
+                    <div class="bloco-subtitle">O que precisa evoluir tecnicamente para o modelo escalar</div>
+                </div>
+            </div>
+            <ul class="perguntas-list">
+                <li class="pergunta-item">
+                    <span class="pnum washington">12.</span>
+                    <div class="pcontent">
+                        <div class="ptext">O que você considera que precisa evoluir na solução técnica para o modelo de energia como serviço funcionar melhor e ser mais escalável?
+                            <span class="origem-tag origem-andrea">Andrea</span>
+                        </div>
+                        <div class="psub">Explorar a visão de roadmap técnico — produto, monitoramento, processo de instalação, gestão de campo, etc.</div>
+                    </div>
+                </li>
+                <li class="pergunta-item">
+                    <span class="pnum washington">13.</span>
+                    <div class="pcontent">
+                        <div class="ptext">Se você tivesse que identificar o maior gargalo técnico que impede a Moura Energia de crescer mais rápido, qual seria?</div>
+                        <div class="psub">Pergunta de fechamento que força priorização — o que ele considera o obstáculo técnico mais crítico para a escala.</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+    </div><!-- /roteiro-section -->
+
+    <!-- LEGENDA -->
+    <div style="display:flex; gap:16px; flex-wrap:wrap; margin-top:8px; font-size:12px; color:#666;">
+        <span><span class="origem-tag origem-andrea">Andrea</span> Ponto sugerido ou validado pela Andrea na conversa de hoje</span>
+        <span><span class="origem-tag origem-pesquisa">Pesquisa</span> Ponto identificado pela consultoria com base na imersão</span>
+    </div>
+
+</div><!-- /section-washington -->
+
+</div><!-- /main -->
+
+<script>
+function showPerson(person, btn) {
+    // Hide all sections
+    document.querySelectorAll('.person-section').forEach(s => s.classList.remove('active'));
+    // Remove active from all buttons
+    document.querySelectorAll('.tab-btn').forEach(b => {
+        b.classList.remove('active-daniel', 'active-washington');
+    });
+    // Show selected
+    document.getElementById('section-' + person).classList.add('active');
+    btn.classList.add('active-' + person);
+}
+</script>
+
+</body>
+</html>
