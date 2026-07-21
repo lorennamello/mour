@@ -10,32 +10,20 @@ def esc(s):
 # tag: None | ('hipotese', 'H1.1') | ('dor', None)
 
 BLOCKS = [
-    (1, "Contexto e Organização Atual", "Mapear como a operadora decide hoje, sem induzir resposta", [
+    (1, "Panorama Geral", "Abertura ampla — entender o cenário antes de entrar em qualquer tema específico", [
         ("Como funciona hoje a gestão de energia/backup dos seus sites — quem participa de cada etapa (especificação, compra, instalação, manutenção, monitoramento)?",
          "Mapear a estrutura de decisão real, sem induzir nenhuma resposta.", None),
         ("Me conta sobre a última vez que algo deu errado na energia de um site — o que aconteceu, como vocês ficaram sabendo, e como foi resolvido?",
-         "Captura comportamento real, útil para cruzar depois com as dores do Bloco 2.", None),
+         "Captura comportamento real, de forma ampla — os blocos seguintes aprofundam pontos específicos.", None),
         ("Quais são hoje os maiores problemas ou frustrações que vocês têm com a infraestrutura de energia dos sites?",
-         "Pergunta de controle aberta — o que surge espontaneamente é o sinal mais forte de prioridade real.", None),
+         "Pergunta de controle aberta — o que surge espontaneamente é o sinal mais forte de prioridade real e ajuda a calibrar o peso dos blocos seguintes.", None),
     ]),
-    (2, "Validação das Dores Operacionais Percebidas", "Dores identificadas na imersão interna da Moura — testadas aqui sem presumir que são verdadeiras", [
-        ("Se eu pedisse para saber quantas baterias estão instaladas e funcionando corretamente num site específico agora, quanto tempo levaria para vocês responderem com confiança?",
-         "Testa o “apagão de inventário” percebido internamente, sem presumir que ele existe.", ("dor", None)),
-        ("Quando uma bateria é furtada, qual é o processo desde a descoberta até a reposição funcionando de novo no site? Quanto tempo isso costuma levar?",
-         "Valida (ou não) a burocracia de reposição de até 90 dias identificada internamente.", ("dor", None)),
-        ("Quantos alertas ou chamados relacionados a energia a equipe de vocês recebe, em média, por dia ou semana? Como vocês decidem quais merecem atenção imediata?",
-         "Testa a sobrecarga de alarmes/falsos positivos sem citar os números que a Moura já tem internamente.", ("dor", None)),
-        ("Hoje, vocês conseguem saber com antecedência que uma bateria está degradando, ou só descobrem quando ela já falhou?",
-         "Testa se o monitoramento do cliente é reativo (binário) ou já tem componente preditivo.", ("dor", None)),
-        ("O espaço físico disponível nos sites já foi um fator limitante em algum projeto? Como isso é resolvido hoje?",
-         "Valida a dor de m² cobrado pelas torreiras, percebida internamente.", ("dor", None)),
-        ("Quando um problema de energia em um site chega a afetar o cliente final, quantas áreas diferentes da empresa costumam ser acionadas até ele ser resolvido?",
-         "Valida a dor de departamentalização/conflito entre áreas, sem perguntar diretamente sobre conflito.", ("dor", None)),
-        ("Do total de sites que vocês têm hoje, que proporção você diria que já tem infraestrutura de backup mais antiga ou desatualizada?",
-         "Valida a percepção interna de que uma fatia grande do parque é “legado”.", ("dor", None)),
-    ]),
-    (3, "Modelo Financeiro e Contratual", "Testa CAPEX/OPEX, hard saving, disponibilidade e flexibilidade de prazo", [
-        ("Como funciona o processo orçamentário para investimento em infraestrutura de energia dos sites?",
+    (2, "Fornecedores e Modelo de Contratação", "Como a contratação funciona hoje, antes de entrar em orçamento, comparação de propostas e prazos", [
+        ("Como funciona, de forma geral, a contratação de empresas fornecedoras de infraestrutura para vocês — como costuma ser esse processo, do início ao fim?",
+         "Abertura do bloco: entende o processo de contratação em geral antes de perguntar sobre orçamento especificamente.", None),
+        ("E especificamente para energia/backup dos sites, como isso funciona hoje — vocês têm um fornecedor principal ou vários, contratos curtos ou longos?",
+         "Ponte entre o processo geral de contratação e o domínio específico de energia.", None),
+        ("Como funciona o processo orçamentário quando um projeto desses precisa de investimento?",
          "Estabelece se CAPEX é, de fato, um recurso escasso e disputado na empresa como um todo.", ("hipotese", "H1.1")),
         ("Se hoje vocês tivessem esse capital livre para outra finalidade, para onde ele provavelmente iria?",
          "Testa o motor real da hipótese: CAPEX→OPEX só tem valor se libera capital para algo mais valioso.", ("hipotese", "H1.1")),
@@ -46,7 +34,27 @@ BLOCKS = [
         ("Já tiveram algum contrato de longo prazo que, com o tempo, deixou de fazer sentido pela mudança na necessidade real? O que aconteceu?",
          "Evento real de desalinhamento entre contrato e necessidade — sinal direto da barreira de prazo engessado.", ("hipotese", "H1.5")),
     ]),
-    (4, "Sites Legados e Transição de Ativos", "Testa se a recompra (buy-and-lease-back) destravaria o parque já instalado", [
+    (3, "Operação do Dia a Dia: Monitoramento, Alarmes e Furto", "Como o acompanhamento dos sites acontece na prática, antes de perguntar sobre volume de alarmes, inventário e furto", [
+        ("No dia a dia, como funciona o acompanhamento dos sites — quem monitora, com que frequência, o que é rotina e o que costuma ser exceção?",
+         "Abertura do bloco: entende a rotina de monitoramento antes de perguntar sobre volume de alarmes ou inventário.", None),
+        ("Quantos alertas ou chamados relacionados a energia a equipe de vocês recebe, em média, por dia ou semana? Como vocês decidem quais merecem atenção imediata?",
+         "Testa a sobrecarga de alarmes/falsos positivos sem citar os números que a Moura já tem internamente.", ("dor", None)),
+        ("Se eu pedisse para saber quantas baterias estão instaladas e funcionando corretamente num site específico agora, quanto tempo levaria para vocês responderem com confiança?",
+         "Testa o “apagão de inventário” percebido internamente, sem presumir que ele existe.", ("dor", None)),
+        ("Hoje, vocês conseguem saber com antecedência que uma bateria está degradando, ou só descobrem quando ela já falhou?",
+         "Testa se o monitoramento do cliente é reativo (binário) ou já tem componente preditivo.", ("dor", None)),
+        ("Quando uma bateria é furtada, qual é o processo desde a descoberta até a reposição funcionando de novo no site? Quanto tempo isso costuma levar?",
+         "Valida (ou não) a burocracia de reposição de até 90 dias identificada internamente.", ("dor", None)),
+        ("Existe algum padrão nos furtos que vocês já notaram — horário, tipo de site, região?",
+         "Aprofundamento opcional sobre o padrão de furto, se o tema já surgiu naturalmente.", ("dor", None)),
+    ]),
+    (4, "Infraestrutura Física e Legado dos Sites", "Como é o parque de sites hoje, antes de perguntar sobre espaço físico e substituição de equipamentos", [
+        ("Como é composto hoje o parque de sites de vocês — é bem heterogêneo em idade e tipo de instalação, ou razoavelmente padronizado?",
+         "Abertura do bloco: estabelece o panorama do parque antes de perguntar sobre legado ou espaço físico.", None),
+        ("Que proporção você diria que já tem infraestrutura de backup mais antiga ou desatualizada?",
+         "Valida a percepção interna de que uma fatia grande do parque é “legado”.", ("dor", None)),
+        ("O espaço físico disponível nos sites já foi um fator limitante em algum projeto? Como isso é resolvido hoje?",
+         "Valida a dor de m² cobrado pelas torreiras, percebida internamente.", ("dor", None)),
         ("Como vocês pensam o ciclo de vida de um equipamento como bateria ou gabinete depois de instalado — existe um tempo mínimo esperado de uso antes de considerar substituição?",
          "Testa a pré-condição da barreira: se não existe lógica de “aproveitar o que já paguei”, a barreira provavelmente não se sustenta.", ("hipotese", "H1.3")),
         ("Já aconteceu de vocês quererem trocar de fornecedor desse tipo de equipamento mesmo com o atual ainda funcionando bem? O que motivou, e o que fizeram com o que já estava instalado?",
@@ -54,7 +62,13 @@ BLOCKS = [
         ("E quando um equipamento é de fato substituído ou um site desativado, o que normalmente acontece com o que foi removido?",
          "Testa se já existe canal próprio de revenda/sucata — o que mudaria a proposta de recompra.", ("hipotese", "H1.3")),
     ]),
-    (5, "Confiança e Dependência de Fornecedor Único", "Testa o medo de perder domínio da operação e o peso do histórico de relação", [
+    (5, "Fornecedores Críticos: Confiança e Dependência", "Quantos fornecedores críticos existem hoje e como essa relação funciona, antes de perguntar sobre terceirizar e sobre a Moura", [
+        ("Hoje, quantos fornecedores diferentes vocês têm envolvidos na parte crítica da operação de energia, e como essas relações costumam ser estruturadas — contratos curtos, parcerias de longo prazo, uma mistura dos dois?",
+         "Abertura do bloco: mapeia o cenário real de fornecedores antes de perguntar sobre terceirização crítica.", None),
+        ("Quando um problema de energia em um site chega a afetar o cliente final, quantas áreas diferentes da empresa costumam ser acionadas até ele ser resolvido?",
+         "Valida a dor de departamentalização/conflito entre áreas, sem perguntar diretamente sobre conflito.", ("dor", None)),
+        ("De forma geral, como a empresa decide o que manter sob controle direto e o que pode ser delegado a terceiros, quando se trata de funções críticas?",
+         "Estabelece o princípio institucional antes de pedir um exemplo específico.", ("hipotese", "H2.4")),
         ("Vocês já tiveram alguma experiência — boa ou ruim — terceirizando uma parte crítica da operação para um único fornecedor? O que aprenderam com isso?",
          "Experiência real e específica — normalmente revela a origem real de qualquer receio.", ("hipotese", "H2.4")),
         ("Quando avaliam um fornecedor para um contrato novo e maior, o desempenho dele em contratos menores ou anteriores que já existem entra na decisão?",
@@ -62,7 +76,9 @@ BLOCKS = [
         ("Como você descreveria o histórico da relação de vocês com a Moura até aqui?",
          "Pergunta aberta e neutra — não presume desgaste, deixa a pessoa trazer isso com as próprias palavras.", ("hipotese", "H6.1")),
     ]),
-    (6, "Físico vs. Dados/Plataforma vs. Gestão Total", "Testa qual das duas hipóteses divergentes domina, e o apetite por consolidação de fornecedores", [
+    (6, "Prioridades: O Que Mais Preocupa na Energia dos Sites", "Volta aos incidentes já mencionados no Bloco 1 para entender o que mais pesa: visibilidade, proteção física ou fragmentação de fornecedores", [
+        ("Entre os problemas de energia que vocês têm hoje, quais vocês diriam que geram mais trabalho ou custo para resolver, depois que acontecem?",
+         "Retoma o que já foi mencionado no Bloco 1, agora pedindo para comparar o peso relativo dos problemas.", None),
         ("Pensando nos últimos incidentes relacionados à energia dos sites, o que aconteceu, e o que vocês só descobriram depois de já ter causado impacto?",
          "Evento real recente — a resposta espontânea sobre “o que só descobrimos depois” já sinaliza onde está a maior dor.", ("hipotese", "H2.1 / H4.2")),
         ("Se vocês tivessem que escolher entre investir em melhorar a visibilidade sobre os sites ou reforçar a proteção física dos equipamentos, sem poder fazer as duas coisas ao mesmo tempo, o que teria prioridade?",
@@ -72,15 +88,17 @@ BLOCKS = [
         ("Especificamente para a energia de um site — bateria, retificador, climatização, gerador, monitoramento — quantos fornecedores diferentes estão envolvidos hoje?",
          "Estabelece a linha de base real antes de qualquer pergunta sobre consolidação de fornecedores.", ("hipotese", "H3.2")),
     ]),
-    (7, "Regulatório, Monetização e ESG", "Testa o peso do argumento Anatel, o apetite por monetização de energia e critérios de sustentabilidade", [
-        ("O risco de multa da Anatel por indisponibilidade de rede pesa nas decisões de investimento em energia dos sites?",
-         "Mede se compliance regulatório já é um critério ativo de decisão.", ("hipotese", "H1.4")),
+    (7, "Regulatório, Monetização e Sustentabilidade", "O que já é monitorado hoje em termos regulatórios, antes de perguntar sobre peso na decisão, monetização e ESG", [
+        ("Quais exigências regulatórias vocês monitoram hoje em relação à disponibilidade de rede?",
+         "Abertura factual do bloco, antes de perguntar se isso pesa na decisão.", None),
+        ("Isso pesa nas decisões de investimento em energia dos sites? Já aconteceu de vocês serem penalizados ou notificados por indisponibilidade?",
+         "Evento concreto — se existir, é a evidência mais forte de que esse argumento pesa mais que o financeiro puro.", ("hipotese", "H1.4")),
         ("Existe algum uso hoje, ou em estudo, para a capacidade de energia instalada nos sites além do backup da própria rede?",
          "Testa a maturidade da operadora para pensar em monetização de capacidade ociosa (VPP).", ("hipotese", "H4.1")),
         ("Quais critérios de sustentabilidade, se algum, aparecem hoje nos editais ou processos de compra de vocês?",
          "Testa se ESG já é critério eliminatório ou ainda é diferencial opcional.", ("hipotese", "H5.1")),
     ]),
-    (8, "Ecossistema: Torreiras e Redes Neutras", "Testa se faz sentido consolidar energia e espaço físico no mesmo fornecedor", [
+    (8, "Ecossistema: Espaço Físico e Energia", "Testa se faz sentido consolidar energia e espaço físico no mesmo fornecedor", [
         ("Hoje, como funciona a relação de vocês com quem administra o espaço físico dos sites — é o mesmo fornecedor que cuida da energia, ou são sempre entidades diferentes?",
          "Factual, mapeia a estrutura real do ecossistema para essa operadora.", ("hipotese", "H7.1")),
         ("Vocês já perceberam alguma vantagem ou desvantagem em ter fornecedores separados para espaço físico e para energia?",
