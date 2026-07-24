@@ -1,0 +1,2 @@
+Em relação aos cases da vertente 1, me traga com mais profundidade o case.
+Como a empresa funcionava quando vendia só o produto, como funciona agora. Qual foi o ganho da empresa, e do cliente. O que o cliente de fato "leva" agora e qual a diferença, quais foram as vantanges e desvantagens. Como é o financeiro como se ganha dinheiro com isso. Como essa nova proposta é vendda pela empresa, tem um time especifico? etc. Procuse mais a fundo esses detalhe, se possível em cases mais estudados, entrevistas que acontecem e me traga novamente com mais profundidade
