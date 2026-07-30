@@ -200,9 +200,36 @@
     border-top: 1px solid var(--card-border);
     padding-top: 14px;
   }
+  .qa-section { max-width: 1520px; margin: 0 auto; display: flex; flex-direction: column; gap: 14px; }
+  .qa-card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 10px;
+    padding: 16px 22px;
+  }
+  .qa-card-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 14.5px;
+    font-weight: 800;
+    color: var(--label-color);
+    margin-bottom: 10px;
+  }
+  .qa-card-title .dot { width: 9px; height: 9px; border-radius: 50%; flex-shrink: 0; }
+  .dot-alto { background: var(--red); }
+  .dot-medio { background: var(--amber); }
+  .qa-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px 26px; }
+  .qa-item { padding: 8px 0; border-top: 1px dashed var(--card-border); }
+  .qa-item:nth-child(-n+2) { border-top: none; padding-top: 0; }
+  .qa-q { font-size: 12px; font-weight: 700; color: var(--accent); margin-bottom: 3px; }
+  .qa-a { font-size: 12px; line-height: 1.55; color: var(--body-color); }
   @media (max-width: 1100px) {
     .row-mid { grid-template-columns: 1fr; }
     .row-top, .row-bottom { width: 100%; }
+    .qa-grid { grid-template-columns: 1fr; }
+    .qa-item:nth-child(-n+2) { border-top: 1px dashed var(--card-border); padding-top: 8px; }
+    .qa-item:first-child { border-top: none; padding-top: 0; }
   }
   @media (max-width: 820px) {
     .header { border-radius: 20px; padding: 18px 20px; }
@@ -296,6 +323,59 @@
         <li>Redução de demanda via software (desligar 5G, manter só 4G) estica a autonomia sem precisar de mais bateria — resolve o problema sem hardware novo<em>Claro/Fabiano</em></li>
         <li>Em ambos os casos documentados (Claro e TIM), o cliente optou pelo modelo de <b>compra e manutenção própria</b> em vez do aluguel, mesmo reconhecendo os benefícios operacionais do EaaS<em>Claro/Fabiano; TIM/Vinícius</em></li>
       </ul>
+    </div>
+  </div>
+
+</div>
+
+<div class="section-title">Perguntas-guia respondidas, força por força</div>
+<div class="section-sub">As mesmas cinco perguntas usadas para orientar cada força, respondidas com base nas evidências das entrevistas e dos relatórios de mercado.</div>
+
+<div class="qa-section">
+
+  <div class="qa-card">
+    <div class="qa-card-title"><span class="dot dot-alto"></span>Rivalidade entre concorrentes</div>
+    <div class="qa-grid">
+      <div class="qa-item"><div class="qa-q">Quem são os principais concorrentes?</div><div class="qa-a">Por bateria: UCB Power, EnerSys, Polarium. Por operação: Aggreko, IPT PowerTech, Hybrico. Por infra: Camusat/Aktivco, Vertiv. Por plataforma: Huawei Digital Power. Nacionais: Delta Brasil, Nilko, Grupo Alpha. No segmento ISP: TS Shara/NHS/Intelbras, locadoras de diesel, distribuidoras, integradores solares, Voltz e Nuvem Energia.</div></div>
+      <div class="qa-item"><div class="qa-q">Como eles competem?</div><div class="qa-a">Cada arquétipo numa dimensão diferente: bateria compete por movimento estratégico (UCB Power comprando carteira/patente da EP Telecom); operação compete por SLA/contrato (Camusat com +6.600 sites); plataforma compete por IA (Huawei SmartSite/CloudLi); startups de EaaS competem por foco em nicho (PME/assinatura).</div></div>
+      <div class="qa-item"><div class="qa-q">Preço, qualidade, inovação ou atendimento?</div><div class="qa-a">As quatro ao mesmo tempo: preço (célula chinesa, TS Shara/NHS), qualidade (hoje é piso, não diferencial — elogiada nas duas entrevistas), inovação (Huawei/UCB à frente da Moura em serviço/digitalização), atendimento (Camusat vendendo por SLA).</div></div>
+      <div class="qa-item"><div class="qa-q">O mercado é muito disputado? Crescimento lento ou rápido?</div><div class="qa-a">Muito disputado — ~20 concorrentes mapeados, Claro cotou 4 fornecedores e TIM testou 2 em paralelo no mesmo piloto. Crescimento rápido — 78% de interesse declarado em assinatura no segmento ISP e startups de EaaS já classificadas como "risco alto/emergente".</div></div>
+    </div>
+  </div>
+
+  <div class="qa-card">
+    <div class="qa-card-title"><span class="dot dot-alto"></span>Poder de barganha dos compradores</div>
+    <div class="qa-grid">
+      <div class="qa-item"><div class="qa-q">O cliente consegue trocar facilmente de fornecedor? Custo de troca é baixo?</div><div class="qa-a">Sim — interoperabilidade via SNMP deixa a TIM misturar bateria de fabricantes diferentes na mesma fonte; Claro e TIM cotaram/testaram vários fornecedores lado a lado. Nos ISPs o custo de troca também é baixo, mas o problema real é falta de capital para entrar, não dificuldade de sair.</div></div>
+      <div class="qa-item"><div class="qa-q">O preço pesa muito na decisão?</div><div class="qa-a">Foi o único fator que decidiu os dois casos documentados. Nem TIM nem Claro contestaram a qualidade técnica — os pilotos caíram exclusivamente porque o payback/TCO não fechou o teto financeiro interno.</div></div>
+      <div class="qa-item"><div class="qa-q">O cliente consegue pressionar por melhores condições?</div><div class="qa-a">Com força máxima: cotar 4 fornecedores em paralelo (Claro) e rodar 2 pilotos concorrentes ao mesmo tempo (TIM) é pressão institucionalizada. A Claro ainda desenvolveu plataforma própria agnóstica, reduzindo a dependência de qualquer fornecedor a quase zero.</div></div>
+    </div>
+  </div>
+
+  <div class="qa-card">
+    <div class="qa-card-title"><span class="dot dot-medio"></span>Poder de negociação dos fornecedores</div>
+    <div class="qa-grid">
+      <div class="qa-item"><div class="qa-q">Existem muitos ou poucos fornecedores? Quais são eles?</div><div class="qa-a">Polarizado: só 1 homologado para gabinete metálico; muitos para célula de lítio (mercado chinês pulverizado); poucos e caros provedores de capital (BNB e similares). Também depende da Promon para a trava antifurto.</div></div>
+      <div class="qa-item"><div class="qa-q">Eles oferecem algo difícil de substituir? É fácil trocar?</div><div class="qa-a">O de gabinete sim — monopólio de fato, impossível trocar. A célula não — abundante, fácil trocar, preço em queda. O capital sim — estruturalmente necessário, poucas linhas adequadas ao perfil de longo prazo.</div></div>
+      <div class="qa-item"><div class="qa-q">Conseguem aumentar preços ou impor condições?</div><div class="qa-a">O de gabinete sim, por ausência de alternativa. O de capital também — a viabilidade do modelo "explode" quando a taxa de captação sobe, segundo o próprio Diagnóstico. Os de célula não — tendência é de commoditização e preço em queda.</div></div>
+    </div>
+  </div>
+
+  <div class="qa-card">
+    <div class="qa-card-title"><span class="dot dot-alto"></span>Ameaça de novos entrantes</div>
+    <div class="qa-grid">
+      <div class="qa-item"><div class="qa-q">É caro entrar? O que está envolvido?</div><div class="qa-a">Assimétrico — caro para quem entra do zero fabricando bateria e financiando capital de giro; barato para quem já tem ativo adjacente (towerco com a torre, integrador solar que já vende BESS+solar, rede neutra com o site de colocation). Envolve capital de giro, homologação técnica e cada vez menos software proprietário.</div></div>
+      <div class="qa-item"><div class="qa-q">Precisa de tecnologia, certificação ou marca forte?</div><div class="qa-a">Tecnologia sim, mas commoditizando rápido (interoperabilidade já confirmada). Certificação existe mas não é proibitiva — Claro e TIM testaram 4 e 2 fornecedores homologados sem dificuldade. Marca forte não pesou em nenhuma das duas decisões — ambas foram 100% por número de TCO.</div></div>
+      <div class="qa-item"><div class="qa-q">É difícil conquistar clientes? Barreiras altas ou baixas?</div><div class="qa-a">Não tão difícil — decisão movida por matemática de payback, um entrante com melhor engenharia financeira entra rápido na mesa. Barreiras mistas: altas em capital para quem entra do zero, baixas em tecnologia e conquista de cliente — por isso a força é classificada como alta.</div></div>
+    </div>
+  </div>
+
+  <div class="qa-card">
+    <div class="qa-card-title"><span class="dot dot-medio"></span>Ameaça de produtos/serviços substitutos</div>
+    <div class="qa-grid">
+      <div class="qa-item"><div class="qa-q">Existe outra maneira de atender essa necessidade? Quais?</div><div class="qa-a">Quatro identificadas: gestão própria (equipe/software interno), gerador a diesel, redesenho da demanda via software (autolimitar a rede em vez de crescer a bateria) e internalização via M&A (grupos que compram ISPs e padronizam a gestão de energia).</div></div>
+      <div class="qa-item"><div class="qa-q">O cliente já utiliza alternativas?</div><div class="qa-a">Sim — nos dois casos documentados, Claro e TIM hoje gerenciam energia com equipe própria, e foi para essa alternativa que voltaram depois de rejeitar o piloto de EaaS.</div></div>
+      <div class="qa-item"><div class="qa-q">São mais baratas, rápidas ou convenientes? Quão fácil é a substituição?</div><div class="qa-a">A gestão própria venceu no cálculo financeiro das próprias operadoras. O diesel não é mais barato no longo prazo, mas é mais rápido de manter (já instalado). O redesenho via software é o mais barato (zero hardware novo). A substituição é muito fácil — é a opção padrão, "continuar como já é".</div></div>
     </div>
   </div>
 
