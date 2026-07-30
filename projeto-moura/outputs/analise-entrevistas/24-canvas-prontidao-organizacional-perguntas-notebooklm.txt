@@ -1,0 +1,239 @@
+CANVAS DE PRONTIDÃO ORGANIZACIONAL — MOURA ENERGIA
+Estrutura de perguntas (sem respostas), para uso no NotebookLM
+
+INSTRUÇÃO DE USO (apagar esta seção antes de colar no NotebookLM, ou usar como prompt):
+Para cada um dos 9 blocos abaixo, use as fontes carregadas (transcrições de entrevistas, documentos internos) para responder às perguntas-guia e organizar a resposta em dois grupos:
+1) COMO É HOJE — o que as fontes mostram sobre a situação atual, com citação literal e indicação de quem falou / em qual arquivo.
+2) O QUE ESTÁ FALTANDO — a lacuna que aparece implícita ou explícita nas fontes em relação a cada pergunta.
+Se não houver evidência nas fontes para alguma pergunta, diga explicitamente "sem evidência nas fontes" em vez de inferir ou inventar.
+
+===================================================================
+BLOCO 1 — CONTEXTO CULTURAL
+(faixa que atravessa todos os demais blocos)
+===================================================================
+
+Liderança
+- Quais líderes são responsáveis pelo sucesso da entrega de resultados do produto?
+- Quão comprometidos eles estão com as mudanças que o produto exige?
+- Quão confiantes eles estão de que as mudanças serão bem-sucedidas?
+- Quais são os fatores motivacionais para promoção dentro da estrutura que sustenta o produto?
+- Os objetivos para a avaliação da liderança vão mudar por causa do produto?
+
+Qualidade
+- Quais são os fatores motivacionais para resultados do produto com qualidade?
+- Como a execução do produto está incorporada a incentivos que reconheçam o trabalho de quem o entrega?
+- O sucesso do produto tem sido medido em resultados de qualidade?
+- A excelência do produto é definida e bem compreendida em toda a organização?
+- A excelência do produto é uma competência essencial na estratégia da organização?
+
+Aceitação
+- Os indivíduos deixariam, voluntariamente, a organização, como resultado de mudanças ligadas ao produto?
+- Se sim, como isso afeta o produto?
+- Como os indivíduos afetados ou responsáveis pelo produto interpretam o motivo das mudanças?
+- Existem atitudes, práticas ou metas de desempenho que fornecem incentivos contra a cooperação ou a mudança?
+
+Treinamento
+- Como é ministrado o treinamento em gerenciamento de mudanças relacionadas ao produto?
+- As metas para medir o sucesso incluem a implementação bem-sucedida da mudança?
+- Quais são as metas-chave?
+- Como as mudanças afetam o treinamento de liderança na organização?
+
+===================================================================
+BLOCO 2 — CONTEXTO DE NEGÓCIO DO PRODUTO
+(bloco-âncora)
+===================================================================
+
+Por que o produto existe
+- Qual é o produto que se pretende realizar?
+- Por que o produto foi criado?
+
+Mudança
+- O que levou ao início desta análise?
+- Quão bem o produto opera no ambiente de negócios atual?
+- Quão bem ele poderia ser adaptado se o ambiente mudasse?
+- Quais são os riscos do produto — externos, ambientais e internos?
+- O produto pode ser adaptado a esses riscos?
+- Outras ações podem mitigar os riscos?
+
+Tecnologia
+- Quais são os sistemas que suportam ou habilitam esse produto?
+- Quão sustentáveis são esses sistemas?
+
+Estratégia e Metas
+- Onde o produto se encaixa na cadeia de valor da organização?
+- O produto está alinhado aos objetivos estratégicos?
+- O produto gera valor para a organização?
+- Quão crítico é o produto?
+
+===================================================================
+BLOCO 3 — GOVERNANÇA E REGRAS DE NEGÓCIO
+(inclui Controle de Processo)
+===================================================================
+
+Completude
+- As regras existentes cobrem, de forma compreensiva, todos os cenários e diretivas de decisão que podem acontecer na execução do produto?
+- Existem lacunas de lógica, ambiguidades ou contradições nas regras que governam alguma área do produto?
+
+Adequação
+- As áreas dependentes ou inter-relacionadas são governadas por regras consistentes (ou contraditórias) entre si?
+- As regras de negócio estão alinhadas com a saída esperada do produto?
+- As regras atuais causam obstáculos ao exigir aprovações, etapas ou restrições desnecessárias que deveriam ser eliminadas?
+- Quando e por que as regras atuais foram criadas? Como foram definidas?
+
+Mudança
+- Qual poderia ser o resultado de eliminar determinadas regras?
+- Que processo existe para gerenciar mudanças nas regras de negócio do produto?
+
+Controles existentes
+- Existem riscos em controles legais ou regulatórios que devem ser considerados em relação ao produto?
+- Quem são os órgãos governamentais ou agências regulatórias que regulam o produto?
+- Esses agentes precisam ser informados de mudanças no produto?
+- Quais são os impactos ambientais do produto? Precisam ser controlados?
+
+Pessoas e treinamento (controle)
+- Que competências e papéis já existem para executar e supervisionar os controles do produto?
+- As estruturas e procedimentos de controle do produto são bem documentados e compreendidos?
+- Existe suporte de treinamento e certificação para garantir entendimento e execução?
+- As relações entre relatórios garantem independência entre quem controla a qualidade/processo e quem executa?
+
+===================================================================
+BLOCO 4 — CAPACIDADES
+(inclui Variação / Dimensionamento)
+===================================================================
+
+Dimensionamento
+- O produto pode ser dimensionado para cima?
+- Se os volumes aumentarem, em que momento o produto falharia?
+- Quão bem o produto é dimensionado para baixo?
+- Qual é o custo do produto quando ocioso?
+
+Dependências
+- O que acontece ao produto quando materiais e suprimentos estão atrasados ou indisponíveis?
+- Quando o ritmo do produto aumenta ou reduz, o que acontece com as etapas seguintes?
+
+Necessidade de variação
+- Até que ponto a variação (de execução, de configuração) é tolerável para o produto?
+- Essa variação é necessária ou desejável?
+
+Eliminação de variação
+- Em quais pontos a variação tem mais chance de ocorrer?
+- Esses pontos podem ser eliminados? Se sim, quais recomendações?
+- A automação pode ajudar a eliminar essa variação?
+
+===================================================================
+BLOCO 5 — HANDOFFS E GARGALOS
+===================================================================
+
+Atrasos
+- Quais são as transferências (entre áreas/etapas) mais prováveis de atrasar o produto?
+- Existe algum gargalo de informações ou serviços?
+- Os gargalos resultam de uma transferência que acontece rápido demais?
+- Os gargalos estão criando atrasos na sequência?
+
+Eficiência
+- Alguma transferência pode ser eliminada?
+- Onde os fluxos de informação se juntam?
+- O momento e a sequência dos fluxos estão precisos?
+
+Restrições (gargalo)
+- O que está sendo restringido — informação, produto físico ou serviço?
+- O gargalo é resultado de uma restrição interna ou externa?
+- Qual a natureza da restrição — disponibilidade de recursos, regras, dependência de outra área?
+
+Fatores contribuintes (gargalo)
+- Quais fatores contribuem para o gargalo — humanos, organizacionais, de sistema?
+- O gargalo ocorre em torno das transferências entre múltiplos grupos?
+- Existem especializações de regras ou silos organizacionais desnecessários?
+- Existem pontos de checagem geradores de gargalo que poderiam ser eliminados?
+
+Fluidez
+- Se vários fluxos processam informação em paralelo, eles se reúnem ao mesmo tempo ou um espera pelo outro?
+
+===================================================================
+BLOCO 6 — ENVOLVIMENTO HUMANO
+===================================================================
+
+Variabilidade
+- Quanta variabilidade é introduzida pelo elemento humano na entrega do produto?
+- Essa variabilidade é desejável? É tolerável?
+
+Automação
+- As tarefas relacionadas ao produto podem ser automatizadas?
+- A automação traria resultado para o produto?
+- A automação traria resultado para o elemento humano e para a cultura organizacional?
+
+Complexidade
+- Quão complexas são as tarefas envolvidas?
+- Que habilidades são requeridas?
+- Como as pessoas são treinadas para essas tarefas?
+
+Desempenho e feedback
+- Como as pessoas respondem a eventos externos durante a execução das tarefas?
+- Como elas sabem quando uma tarefa foi bem-feita?
+- Que sistemas de feedback estão implantados para guiá-las?
+- O que elas podem fazer com esse feedback — o que podem mudar a partir dele?
+
+Conhecimento
+- As pessoas sabem onde suas tarefas estão dentro do fluxo do produto?
+- Elas conhecem os resultados das tarefas seguintes?
+- Elas sabem o que acontece antes da própria tarefa?
+- O que fazem diante de variações nas entradas da tarefa?
+- Quanto conhecimento está disponível para completar a tarefa? É suficiente?
+- Conseguem identificar variações antes de a tarefa ser concluída?
+
+===================================================================
+BLOCO 7 — MEDIÇÃO DE DESEMPENHO
+(nota: esta categoria aparecia no material de referência apenas como título;
+as perguntas abaixo foram adaptadas a partir de "Qualidade" e "Desempenho e
+Feedback" do próprio material, mais elaboração própria — sinalizar isso ao
+usar no NotebookLM)
+===================================================================
+
+- Como o sucesso do produto é medido hoje, internamente?
+- Essa medição é sobre qualidade real de entrega, ou apenas sobre volume/prazo?
+- As premissas usadas para planejar o produto (financeiras, de risco, operacionais) são revisadas periodicamente contra o que de fato acontece?
+- A excelência do produto é uma competência reconhecida e incentivada na estratégia da organização?
+- Existem métricas formais de desempenho do produto, ou apenas percepção informal?
+
+===================================================================
+BLOCO 8 — CUSTO DA FRICÇÃO INTERNA
+(saída do canvas — equivalente à "Margin" na Cadeia de Valor de Porter)
+===================================================================
+
+Custos existentes
+- Qual é o custo total de sustentar o produto internamente?
+- Esse custo pode ser desmembrado em pequenos custos de alocação (por área, por atividade)?
+- O custo de eventuais falhas/retrabalho é absorvido diretamente pelo cliente ou é um custo do negócio?
+
+Mudança em custos
+- O custo está alinhado com as melhores práticas de mercado?
+- O custo pode ser reduzido por automação ou melhorias tecnológicas?
+- Se a redução for possível, como e em que extensão?
+
+===================================================================
+BLOCO 9 — INTERAÇÕES COM CLIENTES
+(lente interna — mecânica por trás da relação, não a lógica de negócio dela)
+===================================================================
+
+Clientes
+- Quem são os clientes do produto?
+- Por que eles escolhem participar deste modelo, em vez de resolver o problema de outra forma?
+- Que sugestões os clientes têm para melhorar o produto?
+- Como recebemos essas sugestões?
+
+Interações
+- Quantas vezes um cliente interage com o produto/processo de entrega?
+- Como o cliente deseja interagir com o produto?
+- O quão coerentes são as informações do cliente, processadas e usadas (do ponto de vista dele)?
+- Existem redundâncias nessas interações?
+- Se o produto sustenta atividades internas do cliente, quais são os efeitos diretos ou indiretos para ele?
+
+Satisfação
+- Como sabemos se o cliente está satisfeito?
+- Quais são as métricas de satisfação do cliente?
+- Essas métricas estão dentro da normalidade?
+- Quais são as expectativas ou objetivos do cliente em relação ao produto?
+
+===================================================================
+FIM DO CANVAS
+===================================================================
