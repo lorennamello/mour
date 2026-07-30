@@ -1,0 +1,312 @@
+<title>Canvas de Prontidão Organizacional — Modelo</title>
+<style>
+  :root {
+    --header-bg: #1c1c1e;
+    --page-bg: #f1f1f0;
+    --card-bg: #ffffff;
+    --card-border: #e2e2e0;
+    --card-border-dashed: #c8c2e0;
+    --label-color: #111111;
+    --prompt-color: #6a6a6a;
+    --body-color: #2b2b2b;
+    --accent: #6200BE;
+    --accent-light: #EEE7FD;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--page-bg);
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--body-color);
+    padding: 28px;
+  }
+  .page-title {
+    max-width: 1560px;
+    margin: 0 auto 18px;
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 700;
+  }
+  .header {
+    max-width: 1560px;
+    margin: 0 auto 22px;
+    background: var(--header-bg);
+    border-radius: 40px;
+    padding: 22px 40px;
+    text-align: center;
+  }
+  .header h1 { margin: 0; color: #fff; font-size: 25px; font-weight: 800; }
+  .header .light { font-weight: 400; opacity: 0.85; }
+  .note {
+    max-width: 1560px;
+    margin: 0 auto 22px;
+    background: var(--accent-light);
+    border-left: 4px solid var(--accent);
+    border-radius: 8px;
+    padding: 14px 20px;
+    font-size: 13.5px;
+    line-height: 1.6;
+    color: #3a2361;
+  }
+  .draft-badge {
+    display: inline-block;
+    background: #fff3cd;
+    color: #8a6300;
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    padding: 4px 12px;
+    border-radius: 20px;
+    margin-bottom: 14px;
+  }
+  .wrap { max-width: 1560px; margin: 0 auto; }
+
+  .band {
+    background: linear-gradient(135deg, var(--header-bg), #33235a);
+    border-radius: 12px;
+    padding: 16px 24px;
+    margin-bottom: 14px;
+    color: #fff;
+  }
+  .band-title { font-size: 15px; font-weight: 800; margin-bottom: 6px; }
+  .band-sub { font-size: 11.5px; opacity: 0.75; margin-bottom: 10px; font-style: italic; }
+  .band-questions {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+  }
+  .band-q {
+    background: rgba(255,255,255,0.08);
+    border: 1px dashed rgba(255,255,255,0.3);
+    border-radius: 8px;
+    padding: 10px 12px;
+    font-size: 11.5px;
+    line-height: 1.45;
+  }
+
+  .anchor {
+    background: var(--card-bg);
+    border: 2px solid var(--accent);
+    border-radius: 12px;
+    padding: 16px 22px;
+    margin-bottom: 14px;
+  }
+  .anchor-title { font-size: 15px; font-weight: 800; color: var(--accent); margin-bottom: 4px; }
+  .anchor-sub { font-size: 11.5px; color: var(--prompt-color); margin-bottom: 10px; font-style: italic; }
+  .anchor-questions { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+
+  .engine {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr) 0.9fr;
+    gap: 12px;
+    align-items: stretch;
+    margin-bottom: 14px;
+  }
+  .col-card {
+    background: var(--card-bg);
+    border: 1px dashed var(--card-border-dashed);
+    border-radius: 10px;
+    padding: 14px 16px;
+    display: flex;
+    flex-direction: column;
+  }
+  .col-title { font-size: 13px; font-weight: 800; color: var(--label-color); margin-bottom: 3px; }
+  .col-extrap { display: inline-block; font-size: 9px; font-weight: 700; color: #8a6300; background: #fff3cd; border-radius: 10px; padding: 1px 7px; margin-bottom: 8px; }
+  .col-card ul { margin: 0; padding-left: 15px; flex: 1; }
+  .col-card li { font-size: 10.8px; line-height: 1.45; margin-bottom: 7px; color: var(--body-color); }
+  .col-card li:last-child { margin-bottom: 0; }
+  .empty-slot {
+    margin-top: 8px;
+    border: 1px dashed var(--card-border);
+    border-radius: 6px;
+    padding: 6px 8px;
+    font-size: 9.5px;
+    color: #b0b0b0;
+    text-align: center;
+    font-style: italic;
+  }
+
+  .arrow-out {
+    background: var(--accent);
+    border-radius: 10px;
+    padding: 14px 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+    position: relative;
+  }
+  .arrow-out::before {
+    content: "";
+    position: absolute;
+    left: -14px;
+    top: 50%;
+    transform: translateY(-50%);
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+    border-left: 14px solid var(--accent);
+  }
+  .arrow-out .col-title { color: #fff; }
+  .arrow-out li { color: #eee7fd; }
+
+  .band-bottom {
+    background: var(--card-bg);
+    border: 1px dashed var(--card-border-dashed);
+    border-radius: 12px;
+    padding: 16px 22px;
+  }
+  .band-bottom .col-title { color: var(--label-color); font-size: 15px; }
+  .band-bottom .questions { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-top: 8px; }
+  .band-bottom .band-q { background: var(--accent-light); border: 1px dashed #c8b8ec; color: #3a2361; border-radius: 8px; padding: 10px 12px; font-size: 11.5px; line-height: 1.45; }
+
+  .legend {
+    max-width: 1560px;
+    margin: 20px auto 0;
+    display: flex;
+    gap: 18px;
+    flex-wrap: wrap;
+    font-size: 11.5px;
+    color: var(--prompt-color);
+  }
+  .legend-item { display: flex; align-items: center; gap: 6px; }
+  .legend-swatch { width: 12px; height: 12px; border-radius: 3px; }
+
+  .footer-note {
+    max-width: 1560px;
+    margin: 26px auto 10px;
+    font-size: 11.5px;
+    color: #8a8a8a;
+    line-height: 1.6;
+    border-top: 1px solid var(--card-border);
+    padding-top: 14px;
+  }
+
+  @media (max-width: 1300px) {
+    .engine { grid-template-columns: repeat(3, 1fr); }
+    .arrow-out { grid-column: span 3; }
+    .band-questions, .band-bottom .questions { grid-template-columns: repeat(2, 1fr); }
+    .anchor-questions { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 760px) {
+    .engine { grid-template-columns: 1fr; }
+    .arrow-out { grid-column: span 1; }
+    .band-questions, .band-bottom .questions { grid-template-columns: 1fr; }
+    .header { border-radius: 20px; padding: 18px 20px; }
+  }
+</style>
+
+<div class="page-title">Projeto Moura Energia · Proposta de Modelo · Ainda sem dados preenchidos</div>
+<div class="header"><h1>Canvas de Prontidão Organizacional <span class="light">/ modelo em branco</span></h1></div>
+
+<div class="note"><b>O que é isto:</b> um terceiro canvas, complementar ao Business Model Canvas (lógica de negócio) e às 5 Forças de Porter (atratividade de mercado). Este responde: <b>a organização está pronta para sustentar, na prática, o que o BMC promete?</b> Inspirado no worksheet de diagnóstico de um livro de BPM (perguntas adaptadas de "processo" para "produto") e no formato visual da Cadeia de Valor de Porter (faixa que atravessa tudo + colunas + resultado). <b>Este documento ainda não tem dado da imersão — é só a estrutura para validação antes do preenchimento.</b></div>
+
+<div class="wrap">
+
+  <div class="band">
+    <div class="band-title">Contexto Cultural <span style="font-weight:400;opacity:.7;">— faixa que atravessa todos os blocos abaixo</span></div>
+    <div class="band-sub">Cultura não é um departamento — é o ambiente em que todos os outros blocos operam.</div>
+    <div class="band-questions">
+      <div class="band-q"><b>Liderança</b> — quem é responsável pelo sucesso do produto, e quão comprometido está com mudanças nele?</div>
+      <div class="band-q"><b>Qualidade</b> — a excelência do produto é definida e compreendida da mesma forma em toda a organização?</div>
+      <div class="band-q"><b>Aceitação</b> — os afetados pelo produto entendem e aceitam o motivo das mudanças que ele exige?</div>
+      <div class="band-q"><b>Treinamento</b> — como o treinamento sobre o produto é conduzido, e acompanha suas mudanças?</div>
+    </div>
+  </div>
+
+  <div class="anchor">
+    <div class="anchor-title">Contexto de Negócio do Produto <span style="font-weight:400;opacity:.7;font-size:11px;">— bloco-âncora</span></div>
+    <div class="anchor-sub">Equivalente à Proposta de Valor no BMC: por que este produto existe e para onde ele deveria estar indo.</div>
+    <div class="anchor-questions">
+      <div class="band-q" style="background:var(--accent-light);border:1px dashed #c8b8ec;color:#3a2361;">Por que o produto existe? Essa razão original ainda é válida? Onde ele se encaixa na cadeia de valor e nos objetivos estratégicos?</div>
+      <div class="band-q" style="background:var(--accent-light);border:1px dashed #c8b8ec;color:#3a2361;">Quão bem opera no ambiente atual — e quão bem se adaptaria se esse ambiente mudasse?</div>
+      <div class="band-q" style="background:var(--accent-light);border:1px dashed #c8b8ec;color:#3a2361;">Quais riscos (externos e internos) o produto enfrenta? Que tecnologia o sustenta, e quão sustentável ela é?</div>
+    </div>
+  </div>
+
+  <div class="engine">
+    <div class="col-card">
+      <div class="col-title">Governança e Regras de Negócio</div>
+      <ul>
+        <li>As regras que governam o produto cobrem, de forma completa, os cenários reais — ou há lacunas/contradições?</li>
+        <li>Áreas que dependem umas das outras são regidas por regras consistentes entre si?</li>
+        <li>Existem aprovações/etapas que geram obstáculo sem necessidade real?</li>
+        <li>Quando as regras atuais foram criadas — foram atualizadas desde então?</li>
+      </ul>
+      <div class="empty-slot">a preencher com a releitura das 15 entrevistas</div>
+    </div>
+
+    <div class="col-card">
+      <div class="col-title">Capacidades <span class="col-extrap">extrapolado</span></div>
+      <ul>
+        <li>Que competências a organização precisa ter para sustentar o produto em escala?</li>
+        <li>Quais já são maduras, versus quais dependem de um MVP que "virou produção" sem validação industrial?</li>
+        <li>Há plano deliberado para desenvolver as que faltam, ou isso é reativo?</li>
+      </ul>
+      <div class="empty-slot">a preencher com a releitura das 15 entrevistas</div>
+    </div>
+
+    <div class="col-card">
+      <div class="col-title">Handoffs e Gargalos</div>
+      <ul>
+        <li>Quais transferências entre áreas mais atrasam o produto?</li>
+        <li>Existe gargalo de informação/serviço? Nasce de transferência malfeita ou de etapa rápida demais?</li>
+        <li>Algum handoff pode ser eliminado sem perda?</li>
+      </ul>
+      <div class="empty-slot">a preencher com a releitura das 15 entrevistas</div>
+    </div>
+
+    <div class="col-card">
+      <div class="col-title">Envolvimento Humano <span class="col-extrap">extrapolado</span></div>
+      <ul>
+        <li>Quanto do produto depende de esforço manual ou decisão individual, não de processo documentado?</li>
+        <li>O que acontece quando uma pessoa-chave sai? O conhecimento fica documentado ou se perde?</li>
+        <li>Existem pessoas cuja saída muda a qualidade/ritmo de entrega?</li>
+      </ul>
+      <div class="empty-slot">a preencher com a releitura das 15 entrevistas</div>
+    </div>
+
+    <div class="col-card">
+      <div class="col-title">Medição de Desempenho <span class="col-extrap">extrapolado</span></div>
+      <ul>
+        <li>Como o sucesso do produto é medido — qualidade real, ou só volume/prazo?</li>
+        <li>As premissas de planejamento são revisadas periodicamente contra a realidade?</li>
+        <li>A excelência do produto é incentivada na estratégia, ou invisível nos incentivos de quem executa?</li>
+      </ul>
+      <div class="empty-slot">a preencher com a releitura das 15 entrevistas</div>
+    </div>
+
+    <div class="col-card arrow-out">
+      <div class="col-title">Custo da Fricção Interna <span class="col-extrap" style="background:#fff;color:#6200BE;">extrapolado</span></div>
+      <ul>
+        <li>Quanto custa o retrabalho gerado pelos gargalos e handoffs?</li>
+        <li>Quanto custa o turnover e a perda de conhecimento?</li>
+        <li>Quanto custa a decisão feita em silo?</li>
+        <li>Esses custos aparecem no orçamento, ou são absorvidos como "jeito que as coisas são"?</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="band-bottom">
+    <div class="col-title">Interações com Clientes <span style="font-weight:400;opacity:.6;font-size:11px;">— lente interna, faixa da base</span></div>
+    <div class="band-sub" style="color:var(--prompt-color);">Diferente do "Relacionamento com Clientes" do BMC (a lógica prometida) — aqui é a mecânica interna por trás dela.</div>
+    <div class="questions">
+      <div class="band-q">Quem dentro da organização realmente ouve o cliente — e essa pessoa tem poder de decisão, ou só registra?</div>
+      <div class="band-q">As sugestões/reclamações do cliente chegam a quem poderia agir? Há redundância ou ruído no caminho?</div>
+      <div class="band-q">A organização sabe, com dado (não impressão), se o cliente está satisfeito?</div>
+      <div class="band-q">Existe dúvida interna sobre se estamos falando com as pessoas certas dentro do cliente?</div>
+    </div>
+  </div>
+
+</div>
+
+<div class="legend">
+  <div class="legend-item"><span class="legend-swatch" style="background:var(--header-bg);"></span> Faixas que atravessam o canvas (cultura, interações com cliente)</div>
+  <div class="legend-item"><span class="legend-swatch" style="background:var(--accent);"></span> Bloco-âncora e saída (contexto de negócio, custo da fricção)</div>
+  <div class="legend-item"><span class="legend-swatch" style="background:#fff3cd;"></span> Categoria com perguntas extrapoladas por mim (livro de referência cortou antes de detalhar)</div>
+  <div class="legend-item"><span class="legend-swatch" style="background:#fff;border:1px dashed #b0b0b0;"></span> Slot vazio — preenchido só depois da releitura das entrevistas</div>
+</div>
+
+<div class="footer-note">Documento de modelo, não de análise — nenhum bloco acima tem dado da imersão ainda. Estrutura derivada do worksheet de diagnóstico de processo (livro de BPM enviado pela usuária, perguntas adaptadas de "processo" para "produto") e do formato visual da Cadeia de Valor de Porter. Documento markdown com o racional completo, a fronteira com o BMC e a validação contra os 11 "Desafios complementares" já mapeados: <code>22-canvas-visao-interna-organizacional-modelo.md</code>.</div>
