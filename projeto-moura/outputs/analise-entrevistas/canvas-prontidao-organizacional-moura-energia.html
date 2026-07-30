@@ -1,0 +1,403 @@
+<title>Canvas de Prontidão Organizacional — Moura Energia</title>
+<style>
+  :root {
+    --header-bg: #1c1c1e;
+    --page-bg: #f1f1f0;
+    --card-bg: #ffffff;
+    --card-border: #e2e2e0;
+    --label-color: #111111;
+    --prompt-color: #6a6a6a;
+    --body-color: #2b2b2b;
+    --source-color: #8a8a8a;
+    --accent: #6200BE;
+    --accent-light: #EEE7FD;
+    --asis-bg: #f4f4f4;
+    --asis-line: #111111;
+    --gap-bg: #fff3cd;
+    --gap-line: #a06d00;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--page-bg);
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--body-color);
+    padding: 28px;
+  }
+  .page-title {
+    max-width: 1620px;
+    margin: 0 auto 18px;
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 700;
+  }
+  .header {
+    max-width: 1620px;
+    margin: 0 auto 22px;
+    background: var(--header-bg);
+    border-radius: 40px;
+    padding: 22px 40px;
+    text-align: center;
+  }
+  .header h1 { margin: 0; color: #fff; font-size: 25px; font-weight: 800; }
+  .header .light { font-weight: 400; opacity: 0.85; }
+  .note {
+    max-width: 1620px;
+    margin: 0 auto 22px;
+    background: var(--accent-light);
+    border-left: 4px solid var(--accent);
+    border-radius: 8px;
+    padding: 14px 20px;
+    font-size: 13.5px;
+    line-height: 1.6;
+    color: #3a2361;
+  }
+  .wrap { max-width: 1620px; margin: 0 auto; }
+
+  .subhead {
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+  }
+  .subhead.asis { color: #444; }
+  .subhead.gap { color: var(--gap-line); }
+  .sub-block { border-radius: 7px; padding: 8px 10px; margin-bottom: 8px; }
+  .sub-block.asis { background: var(--asis-bg); border-left: 3px solid var(--asis-line); }
+  .sub-block.gap { background: var(--gap-bg); border-left: 3px solid var(--gap-line); }
+  .sub-block ul { margin: 0; padding-left: 14px; }
+  .sub-block li { margin-bottom: 5px; line-height: 1.4; }
+  .sub-block li:last-child { margin-bottom: 0; }
+  .sub-block li em { display: block; color: var(--source-color); font-style: normal; font-size: 0.9em; margin-top: 1px; }
+
+  .band {
+    background: linear-gradient(135deg, var(--header-bg), #33235a);
+    border-radius: 12px;
+    padding: 16px 24px;
+    margin-bottom: 14px;
+    color: #fff;
+  }
+  .band-title { font-size: 15px; font-weight: 800; margin-bottom: 2px; }
+  .band-sub { font-size: 11px; opacity: 0.7; margin-bottom: 10px; font-style: italic; }
+  .band-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .band .sub-block.asis { background: rgba(255,255,255,0.10); border-left-color: #fff; color: #fff; }
+  .band .sub-block.gap { background: rgba(255,224,130,0.18); border-left-color: #ffe082; color: #ffe082; }
+  .band .sub-block li em { color: rgba(255,255,255,0.55); }
+  .band .subhead.asis { color: rgba(255,255,255,0.75); }
+  .band .subhead.gap { color: #ffe082; }
+  .band li { font-size: 11.5px; }
+
+  .anchor {
+    background: var(--card-bg);
+    border: 2px solid var(--accent);
+    border-radius: 12px;
+    padding: 16px 22px;
+    margin-bottom: 14px;
+  }
+  .anchor-title { font-size: 15px; font-weight: 800; color: var(--accent); margin-bottom: 8px; }
+  .anchor-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .anchor li { font-size: 12px; }
+
+  .engine {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr) 0.95fr;
+    gap: 12px;
+    align-items: stretch;
+    margin-bottom: 14px;
+  }
+  .col-card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 10px;
+    padding: 13px 14px;
+    display: flex;
+    flex-direction: column;
+  }
+  .col-title { font-size: 12.5px; font-weight: 800; color: var(--label-color); margin-bottom: 8px; }
+  .col-card li { font-size: 10.5px; }
+
+  .arrow-out {
+    background: var(--accent);
+    border-radius: 10px;
+    padding: 14px;
+    color: #fff;
+    position: relative;
+  }
+  .arrow-out::before {
+    content: "";
+    position: absolute;
+    left: -14px;
+    top: 50%;
+    transform: translateY(-50%);
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+    border-left: 14px solid var(--accent);
+  }
+  .arrow-out .col-title { color: #fff; }
+  .arrow-out .sub-block.asis { background: rgba(255,255,255,0.12); border-left-color: #fff; }
+  .arrow-out .sub-block.asis li em { color: rgba(255,255,255,0.6); }
+  .arrow-out .sub-block.gap { background: #fff; border-left-color: var(--accent); }
+  .arrow-out .subhead.asis { color: rgba(255,255,255,0.8); }
+  .arrow-out .subhead.gap { color: var(--accent); }
+  .arrow-out .sub-block.gap li, .arrow-out .sub-block.gap .subhead { color: #3a2361; }
+
+  .band-bottom {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 12px;
+    padding: 16px 22px;
+  }
+  .band-bottom .band-title { color: var(--label-color); font-size: 15px; }
+  .band-bottom .band-sub { color: var(--prompt-color); opacity: 1; }
+  .band-bottom li { font-size: 11.5px; color: var(--body-color); }
+
+  .synthesis {
+    max-width: 1620px;
+    margin: 22px auto 0;
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-left: 4px solid var(--accent);
+    border-radius: 10px;
+    padding: 16px 22px;
+    font-size: 13px;
+    line-height: 1.65;
+  }
+  .synthesis b { color: var(--accent); }
+
+  .legend {
+    max-width: 1620px;
+    margin: 18px auto 0;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    font-size: 11.5px;
+    color: var(--prompt-color);
+  }
+  .legend-item { display: flex; align-items: center; gap: 6px; }
+  .legend-swatch { width: 12px; height: 12px; border-radius: 3px; }
+
+  .footer-note {
+    max-width: 1620px;
+    margin: 22px auto 10px;
+    font-size: 11.5px;
+    color: #8a8a8a;
+    line-height: 1.6;
+    border-top: 1px solid var(--card-border);
+    padding-top: 14px;
+  }
+
+  @media (max-width: 1350px) {
+    .engine { grid-template-columns: repeat(3, 1fr); }
+    .arrow-out { grid-column: span 3; }
+    .band-cols, .anchor-cols { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 760px) {
+    .engine { grid-template-columns: 1fr; }
+    .arrow-out { grid-column: span 1; }
+    .header { border-radius: 20px; padding: 18px 20px; }
+  }
+</style>
+
+<div class="page-title">Projeto Moura Energia · Imersão Interna · Complementar ao BMC</div>
+<div class="header"><h1>Canvas de Prontidão Organizacional <span class="light">— Moura Energia</span></h1></div>
+
+<div class="note"><b>O que é isto:</b> terceiro canvas, complementar ao BMC (lógica de negócio) e às 5 Forças de Porter (mercado). Responde: <b>a organização está pronta para sustentar, na prática, o que o BMC promete?</b> Cada bloco traz <b>Como é hoje</b> (cinza) e <b>O que está faltando</b> (âmbar) — evidência extraída diretamente das 15 transcrições brutas da imersão interna, com falante indicado.</div>
+
+<div class="wrap">
+
+  <div class="band">
+    <div class="band-title">Contexto Cultural <span style="font-weight:400;opacity:.7;">— faixa que atravessa todos os blocos</span></div>
+    <div class="band-sub">Liderança · Qualidade · Aceitação · Treinamento</div>
+    <div class="band-cols">
+      <div class="sub-block asis">
+        <div class="subhead asis">Como é hoje</div>
+        <ul>
+          <li>Organização reconhece que "ainda está departamentalizada" — falta alguém do ITEM/Engenharia dedicado ao produto como o time de TI já tem<em>Francisco, TI</em></li>
+          <li>Liderança comprometida, mas ritmo de adaptação interna não acompanha o mercado: "o mercado não espera, ele atropela"<em>José Espinosa</em></li>
+          <li>Reestruturação já em desenho para trazer "lógica mais mercadológica" ao produto<em>Thiago</em></li>
+        </ul>
+      </div>
+      <div class="sub-block gap">
+        <div class="subhead gap">O que está faltando</div>
+        <ul>
+          <li>Dono de produto com viés de mercado (escuta, treinamento), não só financeiro</li>
+          <li>Handover formal e documentado entre ITEM (concepção) e Engenharia (operação)</li>
+          <li>"Força-tarefa perdida" (BMC) não tem citação literal — só evidência indireta via perda de braço de precificação</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="anchor">
+    <div class="anchor-title">Contexto de Negócio do Produto — bloco-âncora</div>
+    <div class="anchor-cols">
+      <div class="sub-block asis">
+        <div class="subhead asis">Como é hoje</div>
+        <ul>
+          <li>Razão de ser clara: curar a "dor de CAPEX" da operadora, terceirizando a gestão de energia<em>Karina</em></li>
+          <li>Furto é risco estrutural do negócio, não efeito colateral: bateria tem valor de mercado negro<em>Andrea</em></li>
+          <li>Risco de funding já pressiona o preço: piora na taxa de captação "já piora meu aluguel"<em>Time Financeiro</em></li>
+        </ul>
+      </div>
+      <div class="sub-block gap">
+        <div class="subhead gap">O que está faltando</div>
+        <ul>
+          <li>Modelo de captação de capital mais estável</li>
+          <li>Mecanismo estrutural de mitigação de furto (hoje o risco só é absorvido no preço, não reduzido na causa)</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="engine">
+    <div class="col-card">
+      <div class="col-title">Governança e Regras de Negócio</div>
+      <div class="sub-block asis">
+        <div class="subhead asis">Hoje</div>
+        <ul>
+          <li>Decisão comercial via orquestração pessoal, não SLA formal<em>Maria Cecília</em></li>
+          <li>Sem papel dedicado de interface Eng.↔Comercial<em>Yasmin</em></li>
+          <li>SLA existe com o cliente, mas não é cumprido internamente<em>Consultor Vivo</em></li>
+        </ul>
+      </div>
+      <div class="sub-block gap">
+        <div class="subhead gap">Falta</div>
+        <ul>
+          <li>SLA interno entre áreas</li>
+          <li>Papel dedicado de interface</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="col-card">
+      <div class="col-title">Capacidades <span style="font-weight:400;color:#999;font-size:9px;">(+Variação)</span></div>
+      <div class="sub-block asis">
+        <div class="subhead asis">Hoje</div>
+        <ul>
+          <li>Hardware é "MVP que virou produção" — de 15 para 400+ sites sem redesenho industrial<em>Francisco</em></li>
+          <li>Erros de instalação documentados (fio errado, energia não ligada)<em>Vanessa/ITEM</em></li>
+          <li>RSM não cobre todo o território, por decisão deliberada<em>Andrea</em></li>
+        </ul>
+      </div>
+      <div class="sub-block gap">
+        <div class="subhead gap">Falta</div>
+        <ul>
+          <li>Versão industrial madura da plataforma</li>
+          <li>Testes completos em fábrica</li>
+          <li>Parceiro terceirizado para geografias fora do RSM</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="col-card">
+      <div class="col-title">Handoffs e Gargalos</div>
+      <div class="sub-block asis">
+        <div class="subhead asis">Hoje</div>
+        <ul>
+          <li>Handover ITEM→Engenharia deficiente<em>Francisco</em></li>
+          <li>Maior gargalo da precificação é o tempo de resposta da Engenharia<em>Time Financeiro</em></li>
+          <li>Pedidos já se perderam por troca de pessoas<em>Karina</em></li>
+        </ul>
+      </div>
+      <div class="sub-block gap">
+        <div class="subhead gap">Falta</div>
+        <ul>
+          <li>Processo formal de handover (hoje é "força de vontade")</li>
+          <li>SLA de tempo de resposta entre áreas</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="col-card">
+      <div class="col-title">Envolvimento Humano</div>
+      <div class="sub-block asis">
+        <div class="subhead asis">Hoje</div>
+        <ul>
+          <li><b>Turnover comercial de 100%</b> em um ano<em>Karina</em></li>
+          <li>"Resgatando e-mails, resgatando pedidos" perdidos<em>Karina</em></li>
+          <li>Rotatividade também na operação — "não existe mais o time inicial" em 2 anos<em>José Espinosa</em></li>
+        </ul>
+      </div>
+      <div class="sub-block gap">
+        <div class="subhead gap">Falta</div>
+        <ul>
+          <li>Repositório de conhecimento histórico compartilhado (sugerido pelo próprio Financeiro)</li>
+          <li>Onboarding formal quando pessoa-chave sai</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="col-card">
+      <div class="col-title">Medição de Desempenho</div>
+      <div class="sub-block asis">
+        <div class="subhead asis">Hoje</div>
+        <ul>
+          <li>Risco percebido já maior do que o premissado inicialmente<em>Time Financeiro</em></li>
+          <li>Papel do PO é "viés muito financeiro", falta abordagem mercadológica<em>Thiago</em></li>
+          <li>Propostas comerciais já "morreram" silenciosamente por turnover<em>Karina</em></li>
+        </ul>
+      </div>
+      <div class="sub-block gap">
+        <div class="subhead gap">Falta</div>
+        <ul>
+          <li>Recalibração periódica de premissas</li>
+          <li>PO com escopo além do financeiro</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="col-card arrow-out">
+      <div class="col-title">Custo da Fricção Interna</div>
+      <div class="sub-block asis">
+        <div class="subhead asis">Hoje (sempre qualitativo)</div>
+        <ul>
+          <li>Retrabalho por dados não confiáveis<em>Consultor Vivo</em></li>
+          <li>Retrabalho de campo por falha de fábrica não testada<em>Yasmin</em></li>
+          <li>Captação pior pressiona o preço do aluguel<em>Time Financeiro</em></li>
+        </ul>
+      </div>
+      <div class="sub-block gap">
+        <div class="subhead gap">Falta</div>
+        <ul>
+          <li><b>Medir o próprio custo.</b> Nenhuma das 15 entrevistas quantifica em R$ retrabalho, turnover ou captação — só relato qualitativo. O custo existe e não aparece em nenhuma linha de orçamento.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="band-bottom">
+    <div class="band-title">Interações com Clientes <span style="font-weight:400;opacity:.6;font-size:11px;">— lente interna, faixa da base</span></div>
+    <div class="band-sub">Diferente do "Relacionamento com Clientes" do BMC — aqui é a mecânica interna por trás da relação.</div>
+    <div class="band-cols">
+      <div class="sub-block asis">
+        <div class="subhead asis">Como é hoje</div>
+        <ul>
+          <li>Dúvida explícita e repetida por 2 entrevistados: "não sabemos se estamos falando com as pessoas certas"<em>Thiago; Gustavo Moura</em></li>
+          <li>Quem fala com o cliente está fragmentado: Comercial, área de "Contratos" (Josi) e Operação (José Espinosa) — sem dono único<em>Aline Souza</em></li>
+          <li>"Escuta ativa" do cliente é algo a desenvolver, não processo já existente<em>Maria Cecília</em></li>
+        </ul>
+      </div>
+      <div class="sub-block gap">
+        <div class="subhead gap">O que está faltando</div>
+        <ul>
+          <li>Mapeamento formal de quem são "as pessoas certas" em cada operadora</li>
+          <li>Canal estruturado de escuta/feedback do cliente — nenhuma menção encontrada nas 15 entrevistas</li>
+          <li>Dono único e claro da relação com o cliente</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="synthesis"><b>O padrão que se repete:</b> a Moura tem pessoas competentes fazendo o trabalho de um processo que ainda não existe. Onde deveria haver handover documentado, há follow-up informal. Onde deveria haver SLA interno, há orquestração pessoal. Onde deveria haver conhecimento compartilhado, há resgate manual de e-mail. Onde deveria haver medição de custo de fricção, há apenas relato qualitativo. Não é falta de competência individual — é estrutura que não acompanhou o crescimento.</div>
+
+<div class="legend">
+  <div class="legend-item"><span class="legend-swatch" style="background:var(--asis-bg);border:1px solid #ccc;"></span> Como é hoje (AS IS) — evidência direta das transcrições</div>
+  <div class="legend-item"><span class="legend-swatch" style="background:var(--gap-bg);"></span> O que está faltando — gap explícito ou inferido</div>
+</div>
+
+<div class="footer-note">Fontes: 15 transcrições brutas da imersão interna (<code>entrevistas-internas/*.txt</code>), levantadas especificamente para este canvas. Documento markdown completo, com citações estendidas e nota metodológica sobre limitações de evidência: <code>23-canvas-prontidao-organizacional-moura-energia.md</code>. Modelo original (estrutura em branco, para referência): <code>canvas-prontidao-organizacional-modelo.html</code>.</div>
