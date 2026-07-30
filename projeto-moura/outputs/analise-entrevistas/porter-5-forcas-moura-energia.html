@@ -224,6 +224,19 @@
   .qa-item:nth-child(-n+2) { border-top: none; padding-top: 0; }
   .qa-q { font-size: 12px; font-weight: 700; color: var(--accent); margin-bottom: 3px; }
   .qa-a { font-size: 12px; line-height: 1.55; color: var(--body-color); }
+  .callout {
+    max-width: 1520px;
+    margin: 0 auto;
+    background: var(--accent-light);
+    border-left: 4px solid var(--accent);
+    border-radius: 8px;
+    padding: 14px 20px;
+  }
+  .callout-title { font-size: 12.5px; font-weight: 800; color: var(--accent); margin-bottom: 6px; text-transform: uppercase; letter-spacing: 0.02em; }
+  .callout p { font-size: 12.5px; line-height: 1.65; color: #3a2361; margin: 0 0 8px; }
+  .callout p:last-child { margin-bottom: 0; }
+  .callout ol, .callout ul { margin: 6px 0; padding-left: 20px; }
+  .callout li { font-size: 12.5px; line-height: 1.6; color: #3a2361; margin-bottom: 4px; }
   @media (max-width: 1100px) {
     .row-mid { grid-template-columns: 1fr; }
     .row-top, .row-bottom { width: 100%; }
@@ -352,6 +365,22 @@
     </div>
   </div>
 
+</div>
+
+<div class="callout">
+  <div class="callout-title">Troca de fornecedor: além da bateria, a solução energética completa</div>
+  <p>A oferta da Moura não é só a célula — é um pacote de 4 camadas, e a facilidade de troca não é igual em todas:</p>
+  <ol>
+    <li><b>Bateria</b> — fácil de trocar, comoditizada (interoperabilidade SNMP confirmada pela TIM).</li>
+    <li><b>Gabinete/estrutura física</b> — não se troca separado; vem embutido no pacote de quem for o fornecedor escolhido. O cliente troca o fornecedor inteiro, não só essa peça.</li>
+    <li><b>Software/monitoramento</b> — mais fácil de trocar que a própria bateria: a Claro construiu plataforma própria agnóstica de fabricante justamente para não depender do software de nenhum fornecedor.</li>
+    <li><b>Serviço de instalação/O&M</b> — já contratado à parte, por SLA e penalidade, sem vínculo com o fabricante do equipamento.</li>
+    <li><b>Modelo contratual (comprar vs. alugar)</b> — único ponto de atrito real: um aluguel plurianual prenderia o cliente por anos. É exatamente por isso que as duas operadoras recusaram esse modelo — preferem baixo custo de troca em tudo o resto a um compromisso de longo prazo com um único fornecedor.</li>
+  </ol>
+</div>
+
+<div class="qa-section">
+
   <div class="qa-card">
     <div class="qa-card-title"><span class="dot dot-medio"></span>Poder de negociação dos fornecedores</div>
     <div class="qa-grid">
@@ -360,6 +389,16 @@
       <div class="qa-item"><div class="qa-q">Conseguem aumentar preços ou impor condições?</div><div class="qa-a">O de gabinete sim, por ausência de alternativa. O de capital também — a viabilidade do modelo "explode" quando a taxa de captação sobe, segundo o próprio Diagnóstico. Os de célula não — tendência é de commoditização e preço em queda.</div></div>
     </div>
   </div>
+
+</div>
+
+<div class="callout">
+  <div class="callout-title">Quem é o único fornecedor homologado de gabinete no Brasil?</div>
+  <p>Nenhum material disponível — nem o Diagnóstico Fase 1, nem as transcrições internas — nomeia essa empresa. O Diagnóstico só descreve a situação ("há apenas uma opção viável de fornecedor homologado no Brasil para fabricar a estrutura metálica dos gabinetes") sem citar o nome. Nas entrevistas internas o fornecedor sempre aparece de forma genérica: Karina (Comercial) diz <i>"eu não tenho uma opção China, duas, três opções China"</i> ao falar do gabinete, e Yasmin (Engenharia) se refere a ele só como <i>"nosso fornecedor... de gabinete"</i>.</p>
+  <p>Ou seja: os materiais confirmam <b>que existe</b> essa concentração de fornecedor único, mas não revelam <b>quem</b> é essa empresa — provavelmente uma informação de Compras/Suprimentos que não apareceu nas entrevistas às quais tivemos acesso. Para o nome exato, é necessário perguntar diretamente ao time de Compras/Operações da Moura.</p>
+</div>
+
+<div class="qa-section">
 
   <div class="qa-card">
     <div class="qa-card-title"><span class="dot dot-alto"></span>Ameaça de novos entrantes</div>
@@ -376,6 +415,70 @@
       <div class="qa-item"><div class="qa-q">Existe outra maneira de atender essa necessidade? Quais?</div><div class="qa-a">Quatro identificadas: gestão própria (equipe/software interno), gerador a diesel, redesenho da demanda via software (autolimitar a rede em vez de crescer a bateria) e internalização via M&A (grupos que compram ISPs e padronizam a gestão de energia).</div></div>
       <div class="qa-item"><div class="qa-q">O cliente já utiliza alternativas?</div><div class="qa-a">Sim — nos dois casos documentados, Claro e TIM hoje gerenciam energia com equipe própria, e foi para essa alternativa que voltaram depois de rejeitar o piloto de EaaS.</div></div>
       <div class="qa-item"><div class="qa-q">São mais baratas, rápidas ou convenientes? Quão fácil é a substituição?</div><div class="qa-a">A gestão própria venceu no cálculo financeiro das próprias operadoras. O diesel não é mais barato no longo prazo, mas é mais rápido de manter (já instalado). O redesenho via software é o mais barato (zero hardware novo). A substituição é muito fácil — é a opção padrão, "continuar como já é".</div></div>
+    </div>
+  </div>
+
+</div>
+
+<div class="callout">
+  <div class="callout-title">Como o redesenho de demanda substitui a solução de energia da Moura, na prática</div>
+  <p>A pergunta certa não é "essa tecnologia é melhor que bateria" — é "dá pra resolver o mesmo problema do cliente sem comprar ou alugar mais energia?".</p>
+  <p>O problema que o EaaS da Moura resolve: <i>"quando a energia da concessionária cai, por quanto tempo o site continua funcionando com a bateria que tem?"</i> A resposta padrão da indústria é aumentar a <b>oferta</b> — comprar/alugar mais capacidade de bateria.</p>
+  <p>Fabiano descreve o caminho oposto: reduzir a <b>demanda</b> durante a crise. Uma torre roda 2G, 3G, 4G e 5G ao mesmo tempo, todas consumindo da mesma bateria. Se a energia cai, o sistema pode ir desligando as camadas menos essenciais por software (5G primeiro, depois 3G/2G), deixando só o 4G (que já cobre voz e dados) — sem trocar nenhum equipamento. Na fala dele, isso pode transformar <i>"uma hora de backup de energia em 4 horas"</i>, com a mesma bateria já instalada.</p>
+  <p>É por isso que conta como <b>substituto</b>, não como mais um concorrente: nenhuma empresa de energia — Moura inclusa — vende esse tipo de solução. Quem resolve é o time de engenharia de rede da operadora, mudando como a rede se comporta, não quem fornece bateria. Se a Claro multiplica por 4 a autonomia só reconfigurando a rede, ela reduz exatamente a necessidade que levaria o cliente a contratar mais EaaS.</p>
+</div>
+
+<div class="section-title">Direcionadores clássicos do modelo, força por força</div>
+<div class="section-sub">Os mesmos critérios de diagnóstico do seu material de referência (Figura 3.21), aplicados a cada força com a evidência já levantada.</div>
+
+<div class="qa-section">
+
+  <div class="qa-card">
+    <div class="qa-card-title"><span class="dot dot-alto"></span>Rivalidade entre concorrentes existentes</div>
+    <div class="qa-grid">
+      <div class="qa-item"><div class="qa-q">Número / diversidade de concorrentes</div><div class="qa-a">Alto e diverso — ~20 mapeados no benchmark interno mais 6 frentes no relatório de ISPs, em 4 arquétipos muito diferentes entre si.</div></div>
+      <div class="qa-item"><div class="qa-q">Concentração / crescimento do mercado</div><div class="qa-a">Concentração baixa-média no núcleo de EaaS, mas alta em adjacências (4 towercos concentram 63,68% das torres). Crescimento rápido — reduz um pouco a pressão de "briga pelo mesmo pedaço".</div></div>
+      <div class="qa-item"><div class="qa-q">Diferenças de qualidade / lealdade à marca</div><div class="qa-a">Qualidade virou piso entre os players sérios (elogiada em ambas entrevistas). Lealdade à marca baixa — decisões 100% por número financeiro.</div></div>
+      <div class="qa-item"><div class="qa-q">Barreiras à existência / mudança de custos</div><div class="qa-a">Barreira de saída média-alta para quem já capitalizou como fabricante (dezenas de milhões imobilizados em fábrica/gabinetes). Custo de troca baixo para o comprador.</div></div>
+    </div>
+  </div>
+
+  <div class="qa-card">
+    <div class="qa-card-title"><span class="dot dot-alto"></span>Poder de barganha dos compradores</div>
+    <div class="qa-grid">
+      <div class="qa-item"><div class="qa-q">Número de clientes / tamanho do pedido</div><div class="qa-a">Poucos clientes concentrando quase toda a receita (3 grandes operadoras), cada pedido cobrindo milhares de sites — poder desproporcional por decisão.</div></div>
+      <div class="qa-item"><div class="qa-q">Diferenças entre concorrentes / sensibilidade ao preço</div><div class="qa-a">Ofertas parecidas entre si (qualidade virou piso) + sensibilidade ao preço altíssima — foi o único fator que decidiu os dois casos documentados.</div></div>
+      <div class="qa-item"><div class="qa-q">Habilidade do comprador em substituir</div><div class="qa-a">Alta — Claro já construiu plataforma própria agnóstica; ambas operadoras já geriam energia internamente e voltaram a isso.</div></div>
+      <div class="qa-item"><div class="qa-q">Disponibilidade de informação / mudança de custos</div><div class="qa-a">Alta disponibilidade de informação (times técnicos próprios auditam qualquer proposta) e baixo custo de troca (ver callout acima sobre a solução completa).</div></div>
+    </div>
+  </div>
+
+  <div class="qa-card">
+    <div class="qa-card-title"><span class="dot dot-medio"></span>Poder de barganha dos fornecedores</div>
+    <div class="qa-grid">
+      <div class="qa-item"><div class="qa-q">Número e tamanho dos fornecedores</div><div class="qa-a">Polarizado por insumo: 1 só para gabinete, muitos para célula de lítio, poucos e caros para capital de giro.</div></div>
+      <div class="qa-item"><div class="qa-q">Singularidade dos produtos de cada fornecedor</div><div class="qa-a">Alta para gabinete (nenhum substituto homologado), baixa para célula (commodity), média para capital (fungível, mas linha compatível é escassa).</div></div>
+      <div class="qa-item"><div class="qa-q">Habilidade da Moura em substituir</div><div class="qa-a">Baixa para gabinete e capital (sem alternativa real hoje); alta para célula (excesso de oferta chinesa).</div></div>
+    </div>
+  </div>
+
+  <div class="qa-card">
+    <div class="qa-card-title"><span class="dot dot-alto"></span>Ameaça de novos entrantes</div>
+    <div class="qa-grid">
+      <div class="qa-item"><div class="qa-q">Barreiras à entrada / economias de escala</div><div class="qa-a">Mistas — altas em capital para quem entra do zero, favorecendo incumbentes de capital pesado; baixas em tecnologia, favorecendo entrantes "leves" (startups de EaaS).</div></div>
+      <div class="qa-item"><div class="qa-q">Lealdade à marca / requisitos de capital</div><div class="qa-a">Lealdade baixa (não pesou em nenhuma decisão). Capital alto só para o modelo de assinatura de longo prazo — CAPEX tradicional qualquer integrador solar já faz.</div></div>
+      <div class="qa-item"><div class="qa-q">Experiência cumulativa / políticas de governo</div><div class="qa-a">Curva de aprendizado baixa como barreira (Claro/TIM homologaram vários fornecedores rápido). Políticas de governo neutras a favoráveis (linhas subsidiadas como BNB).</div></div>
+      <div class="qa-item"><div class="qa-q">Canais de distribuição / mudança de custos</div><div class="qa-a">Canais relativamente abertos — towercos e redes neutras já têm relação direta com o cliente via seus próprios contratos de locação.</div></div>
+    </div>
+  </div>
+
+  <div class="qa-card">
+    <div class="qa-card-title"><span class="dot dot-medio"></span>Ameaça de produtos substitutos</div>
+    <div class="qa-grid">
+      <div class="qa-item"><div class="qa-q">Número de substitutos / propensão à substituição</div><div class="qa-a">4 substitutos identificados; propensão alta — nos dois casos documentados o comprador de fato migrou de volta para o substituto.</div></div>
+      <div class="qa-item"><div class="qa-q">Desempenho de preço relativo do substituto</div><div class="qa-a">Favorável ao substituto no horizonte de payback usado pelas operadoras (até 3 anos) — por isso ele venceu nos dois casos.</div></div>
+      <div class="qa-item"><div class="qa-q">Valor percebido da diferenciação do produto</div><div class="qa-a">Alto tecnicamente (elogios explícitos), baixo financeiramente — não se traduziu em disposição de pagar mais.</div></div>
+      <div class="qa-item"><div class="qa-q">Mudança de custos</div><div class="qa-a">Baixíssima — voltar à gestão própria não exige investimento novo, é a opção "natural".</div></div>
     </div>
   </div>
 
