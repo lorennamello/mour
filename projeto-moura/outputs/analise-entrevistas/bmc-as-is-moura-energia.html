@@ -1,0 +1,387 @@
+<title>BMC AS IS — Moura Energia</title>
+<style>
+  :root {
+    --header-bg: #1c1c1e;
+    --page-bg: #f1f1f0;
+    --card-bg: #ffffff;
+    --card-border: #e2e2e0;
+    --label-color: #111111;
+    --prompt-color: #6a6a6a;
+    --body-color: #2b2b2b;
+    --source-color: #8a8a8a;
+    --accent: #6200BE;
+    --accent-light: #EEE7FD;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--page-bg);
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--body-color);
+    padding: 28px;
+  }
+  .page-title {
+    max-width: 1720px;
+    margin: 0 auto 18px;
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 700;
+  }
+  .header {
+    max-width: 1720px;
+    margin: 0 auto 22px;
+    background: var(--header-bg);
+    border-radius: 40px;
+    padding: 22px 40px;
+    text-align: center;
+  }
+  .header h1 {
+    margin: 0;
+    color: #fff;
+    font-size: 26px;
+    font-weight: 800;
+    letter-spacing: 0.01em;
+  }
+  .header h1 .light { font-weight: 400; opacity: 0.85; }
+  .note {
+    max-width: 1720px;
+    margin: 0 auto 20px;
+    background: var(--accent-light);
+    border-left: 4px solid var(--accent);
+    border-radius: 8px;
+    padding: 14px 20px;
+    font-size: 13.5px;
+    line-height: 1.6;
+    color: #3a2361;
+  }
+  .grid-top {
+    max-width: 1720px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1.05fr 1.05fr 1.15fr 1.05fr 1.05fr;
+    gap: 16px;
+  }
+  .grid-bottom {
+    max-width: 1720px;
+    margin: 16px auto 0;
+    display: grid;
+    grid-template-columns: 1.15fr 1fr;
+    gap: 16px;
+  }
+  .col-stack { display: flex; flex-direction: column; gap: 16px; }
+  .card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 10px;
+    padding: 18px 20px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+  }
+  .card-label {
+    font-size: 15px;
+    font-weight: 800;
+    color: var(--label-color);
+    margin-bottom: 4px;
+  }
+  .card-prompt {
+    font-size: 11.5px;
+    color: var(--prompt-color);
+    margin-bottom: 12px;
+    line-height: 1.4;
+    font-style: italic;
+  }
+  .card ul {
+    margin: 0;
+    padding-left: 18px;
+  }
+  .card li {
+    font-size: 12.3px;
+    line-height: 1.55;
+    margin-bottom: 9px;
+  }
+  .card li:last-child { margin-bottom: 0; }
+  .card li b { color: var(--label-color); }
+  .card li em {
+    display: block;
+    color: var(--source-color);
+    font-style: normal;
+    font-size: 10.8px;
+    margin-top: 2px;
+  }
+  .quote {
+    background: #faf8ff;
+    border-radius: 6px;
+    padding: 6px 9px;
+    display: inline-block;
+    margin: 3px 0;
+  }
+  .fill-tall .card { flex: 1; }
+  .section-title {
+    max-width: 1720px;
+    margin: 40px auto 14px;
+    font-size: 20px;
+    font-weight: 800;
+    color: var(--label-color);
+    border-bottom: 3px solid var(--accent);
+    display: inline-block;
+    padding-bottom: 6px;
+  }
+  .section-wrap { max-width: 1720px; margin: 0 auto; }
+  .section-sub {
+    font-size: 13px;
+    color: var(--prompt-color);
+    max-width: 1720px;
+    margin: 0 auto 18px;
+    line-height: 1.6;
+  }
+  .challenges-grid {
+    max-width: 1720px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+  }
+  .challenge-card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-left: 4px solid var(--accent);
+    border-radius: 8px;
+    padding: 14px 18px;
+  }
+  .challenge-num {
+    font-size: 11px;
+    font-weight: 800;
+    color: var(--accent);
+    margin-bottom: 4px;
+  }
+  .challenge-title {
+    font-size: 13.5px;
+    font-weight: 700;
+    color: var(--label-color);
+    margin-bottom: 6px;
+    line-height: 1.35;
+  }
+  .challenge-body {
+    font-size: 12px;
+    line-height: 1.55;
+    color: var(--body-color);
+  }
+  .footer-note {
+    max-width: 1720px;
+    margin: 30px auto 10px;
+    font-size: 11.5px;
+    color: var(--source-color);
+    line-height: 1.6;
+    border-top: 1px solid var(--card-border);
+    padding-top: 14px;
+  }
+  @media (max-width: 1400px) {
+    .grid-top { grid-template-columns: repeat(3, 1fr); }
+    .grid-bottom { grid-template-columns: repeat(2, 1fr); }
+    .challenges-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 820px) {
+    .grid-top { grid-template-columns: 1fr; }
+    .grid-bottom { grid-template-columns: 1fr; }
+    .challenges-grid { grid-template-columns: 1fr; }
+    .header { border-radius: 20px; padding: 18px 20px; }
+  }
+</style>
+
+<div class="page-title">Projeto Moura Energia · Imersão Interna · Fase 1</div>
+<div class="header"><h1>Moura Energia — Business Model Canvas <span class="light">/ AS IS</span></h1></div>
+
+<div class="note"><b>Escopo:</b> o produto <b>Energia como Serviço</b> como ele existe hoje, ancorado no contrato real com a <b>Telefônica/Vivo</b> (único em operação plena), com o episódio da <b>TIM</b> (trial sem conversão) como contraponto. Construído a partir das 15 transcrições da imersão interna.</div>
+
+<div class="grid-top">
+
+  <div class="col-stack">
+    <div class="card">
+      <div class="card-label">Parceiros-chave</div>
+      <div class="card-prompt">Quais são seus principais parceiros para obter vantagem competitiva?</div>
+      <ul>
+        <li><b>ITEM</b> — P&D/hardware; ainda dá suporte porque a transferência tecnológica p/ Moura Energia não terminou<em>Vanessa, Francisco</em></li>
+        <li><b>Fornecedores de fonte/retificador</b> — Delta (parou de fornecer) e NRSys hoje; <b>só 1 fornecedor homologado</b> de gabinete<em>Vanessa</em></li>
+        <li><b>Esfera Labs</b> — parceria por trás do dispositivo Connect Plus<em>Vanessa</em></li>
+        <li><b>AWS</b> — infraestrutura de nuvem; metodologia "working backwards" definiu os 3 pilares do produto<em>Francisco</em></li>
+        <li><b>BNB</b> (Banco do Nordeste) — project finance, taxa subsidiada, viabiliza o CAPEX do contrato Vivo<em>Daniel Garcia</em></li>
+        <li>Consultoria de marca (Silvio Meira/TDS) — sugeriu o nome "MEX"<em>Andrea</em></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="col-stack">
+    <div class="card">
+      <div class="card-label">Atividades principais</div>
+      <div class="card-prompt">Quais são as principais etapas para avançar em direção aos seus clientes?</div>
+      <ul>
+        <li>Fabricação de gabinete/bateria e comissionamento antes de ir a campo</li>
+        <li>Instalação em campo (rollout) — ritmo de ~100 sites/mês no contrato Vivo<em>Francisco, Josi</em></li>
+        <li>Operação e monitoramento da plataforma (NOC)</li>
+        <li>Manutenção preventiva (semestral via RSM) e corretiva/furto</li>
+        <li>Modelagem financeira e precificação de propostas comerciais</li>
+        <li>Negociação comercial e gestão de RFPs</li>
+        <li>Desenho de novos modelos (ex.: sale-and-leaseback para sites legados)</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="card-label">Principais recursos</div>
+      <div class="card-prompt">De quais recursos você precisa para fazer sua ideia funcionar?</div>
+      <ul>
+        <li>Capacidade industrial própria (fábrica, Unidade 10 — Belo Jardim)</li>
+        <li><b>RSM</b> — braço de campo herdado da operação tradicional da Moura<em>Gustavo Moura</em></li>
+        <li>Capital para funding do CAPEX (~R$60mi no contrato Vivo) + project finance BNB<em>Daniel Garcia, Gustavo Moura</em></li>
+        <li>Marca/reputação do grupo Moura — "a RSM, a marca, o balanço, a tecnologia, a fábrica"<em>Gustavo Moura</em></li>
+        <li>Plataforma de monitoramento (Connect Plus + camada "MEX") — ainda em maturação<em>Vanessa</em></li>
+        <li>Time de operação dedicado (Espinosa, Tarcísio, NOC)</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="col-stack fill-tall">
+    <div class="card">
+      <div class="card-label">Propostas principais</div>
+      <div class="card-prompt">Como você deixará a vida dos seus clientes mais feliz?</div>
+      <ul>
+        <li>Backup de energia <b>contínuo como serviço</b> — gabinete completo + monitoramento + manutenção, em aluguel de longo prazo; Moura assume ativo, risco de furto (até um teto) e responsabilidade operacional<em>doc 00 §1</em></li>
+        <li>Zero CAPEX para o cliente; SLA de reposição mais rápido que compra tradicional</li>
+        <li>Granularidade de monitoramento superior aos sistemas "pobres" que a operadora já tinha<em>Daniel Garcia</em></li>
+        <li>Reciclagem/logística reversa do material</li>
+        <li class="quote">"Faz o que você é bom e deixa a energia que a gente resolve"<em>Aline Souza</em></li>
+        <li class="quote">"Eu sou especialista no que eu faço e deixo você ser especialista no que você faz"<em>Espinosa, Driele</em></li>
+        <li><b>Ressalva do próprio time:</b> hoje a Moura "aluga a caixa d'água, não garante o banho" — fornece backup por tempo determinado (2, 3 ou 4h via DEC), não disponibilidade garantida de fato<em>Thiago Mello</em></li>
+        <li>O diferencial real está no <b>"como"</b> (execução, proatividade), não no produto físico em si — o mesmo há 20 anos<em>Consultor de Projetos/Vivo</em></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="col-stack">
+    <div class="card">
+      <div class="card-label">Relacionamento com o consumidor</div>
+      <div class="card-prompt">Com que frequência você interagirá com seus clientes?</div>
+      <ul>
+        <li>Contrato de 10 anos, altamente customizado — ainda não é produto "de prateleira"</li>
+        <li>Ponto de contato operacional dedicado (José Espinosa); manutenção semestral via RSM</li>
+        <li>Cliente <b>não acessa a plataforma completa</b> — recebe relatórios; só vê o espelhamento nativo exigido pela Anatel<em>Francisco, Vanessa</em></li>
+        <li>SLA formal, flexível na prática — mas <b>SLA interno lento</b> gera atrito<em>Driele</em></li>
+        <li>Relação em expansão: novo projeto em desenho para assumir sites <b>legados</b> da própria Vivo<em>Driele, Josi, Andrea</em></li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="card-label">Canais</div>
+      <div class="card-prompt">Como você vai alcançar seus clientes?</div>
+      <ul>
+        <li>Venda direta/institucional — sem canal indireto ou parceiro de revenda</li>
+        <li>Executivas de conta conduzem RFP e negociação (Aline, Karina, Driele)</li>
+        <li>Divulgação ativa do case permitida por cláusula contratual — funciona como prova social</li>
+        <li>Ciclo de venda longo e artesanal: quase 1 ano até assinar com a Vivo</li>
+        <li class="quote">"A Telefônica nos comprou", não o inverso — processo já estava aberto no cliente<em>Gustavo Moura</em></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="col-stack">
+    <div class="card">
+      <div class="card-label">Segmentos de clientes</div>
+      <div class="card-prompt">Quem são seus clientes? Descreva seu público-alvo em poucas palavras.</div>
+      <ul>
+        <li><b>Maduro/ativo:</b> Telefônica/Vivo — 10 anos, ~1.950 sites</li>
+        <li><b>Tentou e não converteu:</b> TIM — comprou o ativo, não o serviço</li>
+        <li><b>Não abordada ainda:</b> Claro — mapeada como mais conservadora/"patrimonialista"</li>
+        <li><b>Mercados "tateados", não validados:</b> bancos, hospitais, tração<em>Gustavo Moura</em></li>
+        <li>Dentro de cada operadora, múltiplos públicos internos (Engenharia, Compras, Operações) decidem diferente — "falar com a pessoa certa" é dúvida recorrente</li>
+      </ul>
+    </div>
+  </div>
+
+</div>
+
+<div class="grid-bottom">
+  <div class="card">
+    <div class="card-label">Estrutura de custos</div>
+    <div class="card-prompt">Quanto você planeja gastar no desenvolvimento do produto e em marketing por um determinado período?</div>
+    <ul>
+      <li>CAPEX de fabricação e instalação do gabinete — maior item de investimento por site</li>
+      <li><b>Furto/reposição</b> — cap contratual ~R$1.350/site/ano no contrato Vivo, já superado (~R$100 mil acima do previsto)<em>Daniel Garcia</em></li>
+      <li><b>Frete</b> — altamente variável por região, ameaça direta à margem</li>
+      <li>Custo de captação/funding — sensível a juros; taxas piores que no passado</li>
+      <li>Plano de dados 4G — consumo real muito acima do premissado, forçou planos maiores</li>
+      <li>Manutenção preventiva/corretiva via RSM</li>
+      <li>Turnover do time comercial + ineficiência de SLA interno (retrabalho)</li>
+    </ul>
+  </div>
+  <div class="card">
+    <div class="card-label">Fluxos de receita</div>
+    <div class="card-prompt">Quanto você planeja ganhar em um determinado período? Compare seus custos e receitas.</div>
+    <ul>
+      <li>Aluguel mensal recorrente por site — ~R$2.000/mês em média (depreciação + financiamento + margem + "efeito medo"/furto)<em>Daniel Garcia</em></li>
+      <li>Faturamento do contrato Vivo: acima de R$1 milhão/mês</li>
+      <li>Cláusula de reajuste periódico existente (periodicidade não confirmada)</li>
+      <li><b>Nota de contraste:</b> este é o modelo de receita do produto "Energia como Serviço" — a receita do <i>grupo</i> Moura ainda vem majoritariamente da venda tradicional de bateria, que segue dominante financeiramente hoje</li>
+    </ul>
+  </div>
+</div>
+
+<div class="section-title">Desafios complementares</div>
+<div class="section-sub">O Canvas descreve a lógica estática do negócio — mas boa parte do que a imersão revelou é sobre <b>maturidade, governança e cultura interna</b>, sem caixa própria no BMC. São pontos que influenciam diretamente se o modelo acima é sustentável em escala.</div>
+
+<div class="challenges-grid">
+  <div class="challenge-card">
+    <div class="challenge-num">01</div>
+    <div class="challenge-title">Hardware "MVP que virou produção"</div>
+    <div class="challenge-body">O Connect Plus nasceu como teste rápido e foi escalado antes de virar produto industrial maduro. Decisão pendente: manter o básico ou investir em robustez (roadmap "Moura Cube" não implementado).</div>
+  </div>
+  <div class="challenge-card">
+    <div class="challenge-num">02</div>
+    <div class="challenge-title">Governança fragmentada</div>
+    <div class="challenge-body">Entre ITEM, Engenharia e TI — problemas técnicos são atribuídos ao "Connect"/ITEM por padrão, mas a investigação raramente confirma essa causa. Falta handover claro de responsabilidade.</div>
+  </div>
+  <div class="challenge-card">
+    <div class="challenge-num">03</div>
+    <div class="challenge-title">Modelagem original subestimou o risco</div>
+    <div class="challenge-body">Furto premissado em 2% vs. 6-7% observado; rooftop (menor risco) premissado em 15% vs. 10% real — a exposição ao risco é estruturalmente maior do que o modelo previu.</div>
+  </div>
+  <div class="challenge-card">
+    <div class="challenge-num">04</div>
+    <div class="challenge-title">Cultura departamentalizada</div>
+    <div class="challenge-body">Uma força-tarefa antiga que unia áreas para fechar preço se perdeu. Hoje a precificação é feita em silos, alongando prazos e gerando retrabalho.</div>
+  </div>
+  <div class="challenge-card">
+    <div class="challenge-num">05</div>
+    <div class="challenge-title">Turnover e perda de conhecimento</div>
+    <div class="challenge-body">Pessoas novas aplicam premissas antigas sem saber a origem, repetindo erros de modelagem já identificados no passado.</div>
+  </div>
+  <div class="challenge-card">
+    <div class="challenge-num">06</div>
+    <div class="challenge-title">Proposta de valor pouco quantificada</div>
+    <div class="challenge-body">Mesmo internamente, quase ninguém consegue tangibilizar em números o risco que a Moura assume em nome do cliente.</div>
+  </div>
+  <div class="challenge-card">
+    <div class="challenge-num">07</div>
+    <div class="challenge-title">"Estamos falando com as pessoas certas?"</div>
+    <div class="challenge-body">Dúvida recorrente e não resolvida, levantada por múltiplos entrevistados, sobre se os interlocutores certos dentro das operadoras estão sendo ouvidos.</div>
+  </div>
+  <div class="challenge-card">
+    <div class="challenge-num">08</div>
+    <div class="challenge-title">Medo de perda de emprego no cliente</div>
+    <div class="challenge-body">Barreira de venda em TIM e Claro — resistência de quem hoje opera a energia internamente, não necessariamente dos decisores formais.</div>
+  </div>
+  <div class="challenge-card">
+    <div class="challenge-num">09</div>
+    <div class="challenge-title">Legado: a maior oportunidade não capturada</div>
+    <div class="challenge-body">~90% dos sites contratados hoje são instalações novas ("Greenfield"). O parque já existente do cliente — dezenas de milhares de sites só na Vivo — ainda não é atacado comercialmente.</div>
+  </div>
+  <div class="challenge-card">
+    <div class="challenge-num">10</div>
+    <div class="challenge-title">Escopo deliberadamente limitado</div>
+    <div class="challenge-body">Não inclui rede elétrica pública, ar-condicionado nem gerador — já perguntados por clientes, mas fora do escopo por decisão própria, não por incapacidade técnica identificada.</div>
+  </div>
+  <div class="challenge-card">
+    <div class="challenge-num">11</div>
+    <div class="challenge-title">Confusão institucional sobre quem detém o CAPEX</div>
+    <div class="challenge-body">Ajuda a explicar por que a TIM comprou o ativo em vez de contratar o serviço, enquanto a Telefônica enxergou o benefício contábil (IFRS16) do modelo de serviço.</div>
+  </div>
+</div>
+
+<div class="footer-note">Fontes: 15 transcrições da imersão interna (documentos <code>00</code> a <code>12</code> + Karina/Comercial, Yasmin/Engenharia, Time do Financeiro) e planilha <code>Moura_Telecom_Phase_1__Interviews</code>. Documento markdown completo com citação por fonte: <code>20-bmc-as-is-moura-energia.md</code>.</div>

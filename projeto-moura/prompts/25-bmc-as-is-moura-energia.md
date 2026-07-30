@@ -1,0 +1,5 @@
+Após a imersão interna com o time da Moura eu fiz um compilado final dos principais insights que sairam. Criei aquela planilha com várias abas onde trouxe principais visões sobre alguns aspectos da Moura Energia. Ainda dentro desse processo de imersão interna, gostaria de analisar os dados que vieram das entrevistas baseado no Business Model Canvas. A ideia é pegar as princpais informações que vieram dos entrevistados internos e montar o BMC do AS IS de como é hoje o produto da Moura Energia. Entendendo também que vão existir desafios envovlidos no modelo que não vão se encaixar dentro do BMC mas que ainda sim são imporatntes de serem trazidos. Então, além de trazer a visão do BMC, trazer outras visões complementarem que não necessairamente se encaixa nessa visão. Vc tem informações suficiente para fazer essa modelagem?
+
+[Anexo: imagem de um template de Business Model Canvas em branco ("Vibra Energia - Business Model Canvas / AS IS"), usado como referência de layout visual]
+
+Resposta: confirmação de escopo (produto Energia como Serviço, ancorado no caso Vivo) e formato de entrega — markdown + canvas visual em HTML, no mesmo layout do template enviado.
