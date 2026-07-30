@@ -176,15 +176,35 @@
     border-top: 1px solid var(--card-border);
     padding-top: 14px;
   }
+  .qa-section {
+    max-width: 1720px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+  }
+  .qa-card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 10px;
+    padding: 16px 20px;
+  }
+  .qa-card-title { font-size: 13.5px; font-weight: 800; color: var(--label-color); margin-bottom: 10px; }
+  .qa-item { padding: 7px 0; border-top: 1px dashed var(--card-border); }
+  .qa-item:first-child { border-top: none; padding-top: 0; }
+  .qa-q { font-size: 11.5px; font-weight: 700; color: var(--accent); margin-bottom: 3px; }
+  .qa-a { font-size: 11.5px; line-height: 1.5; color: var(--body-color); }
   @media (max-width: 1400px) {
     .grid-top { grid-template-columns: repeat(3, 1fr); }
     .grid-bottom { grid-template-columns: repeat(2, 1fr); }
     .challenges-grid { grid-template-columns: repeat(2, 1fr); }
+    .qa-section { grid-template-columns: repeat(2, 1fr); }
   }
   @media (max-width: 820px) {
     .grid-top { grid-template-columns: 1fr; }
     .grid-bottom { grid-template-columns: 1fr; }
     .challenges-grid { grid-template-columns: 1fr; }
+    .qa-section { grid-template-columns: 1fr; }
     .header { border-radius: 20px; padding: 18px 20px; }
   }
 </style>
@@ -192,7 +212,7 @@
 <div class="page-title">Projeto Moura Energia · Imersão Interna · Fase 1</div>
 <div class="header"><h1>Moura Energia — Business Model Canvas <span class="light">/ AS IS</span></h1></div>
 
-<div class="note"><b>Escopo:</b> o produto <b>Energia como Serviço</b> como ele existe hoje, ancorado no contrato real com a <b>Telefônica/Vivo</b> (único em operação plena), com o episódio da <b>TIM</b> (trial sem conversão) como contraponto. Construído a partir das 15 transcrições da imersão interna.</div>
+<div class="note"><b>Escopo:</b> o produto <b>Energia como Serviço</b> como ele existe hoje, ancorado no contrato real com a <b>Telefônica/Vivo</b> (único em operação plena), com o episódio da <b>TIM</b> (trial sem conversão) como contraponto. Construído a partir das 15 transcrições da imersão interna. <b>Diferente das 5 Forças de Porter</b> (que olham para fora — o quão atrativo é o mercado), <b>o BMC olha para dentro</b> — como a própria Moura está estruturada para entregar esse produto hoje.</div>
 
 <div class="grid-top">
 
@@ -321,6 +341,76 @@
       <li><b>Nota de contraste:</b> este é o modelo de receita do produto "Energia como Serviço" — a receita do <i>grupo</i> Moura ainda vem majoritariamente da venda tradicional de bateria, que segue dominante financeiramente hoje</li>
     </ul>
   </div>
+</div>
+
+<div class="section-title">Perguntas-guia respondidas, bloco por bloco</div>
+<div class="section-sub">As perguntas clássicas do framework (mesma lista do seu material de referência), respondidas com a lente sempre interna: o que a Moura tem, faz e cobra hoje — não o que o mercado permite.</div>
+
+<div class="qa-section">
+
+  <div class="qa-card">
+    <div class="qa-card-title">Segmentos de clientes</div>
+    <div class="qa-item"><div class="qa-q">Para quem estamos criando valor?</div><div class="qa-a">Hoje, na prática, para uma operadora só de forma plena: a Telefônica/Vivo.</div></div>
+    <div class="qa-item"><div class="qa-q">Quem são nossos clientes mais importantes?</div><div class="qa-a">A Vivo, disparado — único contrato em execução, ~1.950 sites, > R$1mi/mês. TIM comprou o ativo, não o serviço. Claro nem é cliente ainda.</div></div>
+    <div class="qa-item"><div class="qa-q">Quais são os arquétipos de clientes?</div><div class="qa-a">Operadora que já vê benefício contábil do serviço (Vivo/IFRS16); operadora que prefere manter CAPEX próprio (TIM); mercados adjacentes não validados (bancos, hospitais, tração).</div></div>
+  </div>
+
+  <div class="qa-card">
+    <div class="qa-card-title">Proposta de Valor</div>
+    <div class="qa-item"><div class="qa-q">Qual é o valor que entregamos?</div><div class="qa-a">Tirar da operadora a responsabilidade de gerenciar backup de energia — capital, operação e atenção.</div></div>
+    <div class="qa-item"><div class="qa-q">Qual problema estamos resolvendo? Quais necessidades satisfazemos?</div><div class="qa-a">Continuidade operacional sem imobilizar capital nem manter equipe própria; previsibilidade de custo; monitoramento mais granular.</div></div>
+    <div class="qa-item"><div class="qa-q">Qual é o produto mínimo viável?</div><div class="qa-a">Ainda no limite do MVP: o Connect Plus "nasceu como teste rápido e foi escalado" antes de virar produto industrial maduro.</div></div>
+  </div>
+
+  <div class="qa-card">
+    <div class="qa-card-title">Relacionamento com Clientes</div>
+    <div class="qa-item"><div class="qa-q">Como conseguimos, mantemos e aumentamos clientes?</div><div class="qa-a">Conseguimos por relacionamento direto. Mantemos via ponto de contato dedicado e manutenção semestral. Aumentamos expandindo dentro da base (projeto de sites legados da Vivo).</div></div>
+    <div class="qa-item"><div class="qa-q">Que relacionamento estabelecemos? Como se integra ao resto do modelo?</div><div class="qa-a">Assistido e customizado (contrato de 10 anos). Integração parcial: cliente só vê relatórios e o espelhamento nativo exigido pela Anatel.</div></div>
+    <div class="qa-item"><div class="qa-q">Quanto custam?</div><div class="qa-a">O SLA interno de resposta lento é o custo de relacionamento mais citado — hoje absorvido como ineficiência, não medido como métrica.</div></div>
+  </div>
+
+  <div class="qa-card">
+    <div class="qa-card-title">Canais</div>
+    <div class="qa-item"><div class="qa-q">Por quais canais os clientes desejam ser atendidos? Como atendemos hoje?</div><div class="qa-a">Diretamente, via relacionamento institucional — só venda direta/institucional (Aline, Karina, Driele), sem canal indireto.</div></div>
+    <div class="qa-item"><div class="qa-q">Quais funcionam melhor?</div><div class="qa-a">O único canal testado: relacionamento direto de longo prazo — foi assim que o contrato Vivo nasceu (de forma reativa: "a Telefônica nos comprou").</div></div>
+    <div class="qa-item"><div class="qa-q">Quais são mais econômicos?</div><div class="qa-a">Sem dado de custo por canal — o ciclo é caro por natureza (quase 1 ano de negociação artesanal por contrato).</div></div>
+  </div>
+
+  <div class="qa-card">
+    <div class="qa-card-title">Fluxo de Receita</div>
+    <div class="qa-item"><div class="qa-q">De que valor os clientes estão dispostos a pagar? Pelo que pagam hoje?</div><div class="qa-a">Pela transferência de risco e capital, não pelo hardware (especificado pela operadora há 20 anos). Mensalidade fixa ~R$2.000/site (depreciação + financiamento + margem + risco de furto).</div></div>
+    <div class="qa-item"><div class="qa-q">Qual é o modelo de receita?</div><div class="qa-a">Assinatura/aluguel recorrente de longo prazo (10 anos), com reajuste periódico.</div></div>
+    <div class="qa-item"><div class="qa-q">Quais são as táticas de preços?</div><div class="qa-a">Precificação customizada por contrato, sem tabela padronizada; risco de furto premissado em 2% vs. 6-7% observado sugere que o preço pode não cobrir o risco real assumido.</div></div>
+  </div>
+
+  <div class="qa-card">
+    <div class="qa-card-title">Recursos-chave</div>
+    <div class="qa-item"><div class="qa-q">O que a proposta de valor exige?</div><div class="qa-a">Capacidade industrial própria, capital de funding e uma plataforma de monitoramento minimamente confiável.</div></div>
+    <div class="qa-item"><div class="qa-q">O que os canais e o relacionamento exigem?</div><div class="qa-a">Marca/reputação do grupo e relacionamento pessoal das executivas de conta; time de operação dedicado (Espinosa, Tarcísio, NOC) e estrutura de campo (RSM).</div></div>
+    <div class="qa-item"><div class="qa-q">O que o fluxo de receita exige?</div><div class="qa-a">Capital de giro/funding de longo prazo — o recurso mais crítico e mais escasso do modelo.</div></div>
+  </div>
+
+  <div class="qa-card">
+    <div class="qa-card-title">Atividades-chave</div>
+    <div class="qa-item"><div class="qa-q">O que a proposta de valor exige?</div><div class="qa-a">Fabricação/comissionamento do gabinete, instalação em campo, operação/monitoramento via NOC e manutenção (incluindo resposta a furto).</div></div>
+    <div class="qa-item"><div class="qa-q">O que os canais e o relacionamento exigem?</div><div class="qa-a">Negociação comercial e gestão de RFPs; gestão multi-área do relacionamento (operacional, financeiro, comercial), hoje em silos.</div></div>
+    <div class="qa-item"><div class="qa-q">O que o fluxo de receita exige?</div><div class="qa-a">Modelagem financeira e precificação — ainda com premissas desatualizadas e sem a força-tarefa multi-área que existia antes.</div></div>
+  </div>
+
+  <div class="qa-card">
+    <div class="qa-card-title">Parceiros-chave</div>
+    <div class="qa-item"><div class="qa-q">Quem são os parceiros e fornecedores principais?</div><div class="qa-a">ITEM, Esfera Labs, AWS, BNB, consultoria de marca, Polícia (emergente). Fornecedores: Delta (parado) e NRSys; <b>só 1 homologado para o gabinete</b>.</div></div>
+    <div class="qa-item"><div class="qa-q">Quais atividades os parceiros realizam?</div><div class="qa-a">O ITEM ainda executa suporte técnico de hardware — a transferência tecnológica para a Moura Energia não terminou.</div></div>
+    <div class="qa-item"><div class="qa-q">Que recursos adquirimos deles?</div><div class="qa-a">Capital subsidiado (BNB), componentes homologados, infraestrutura de nuvem (AWS) e direcionamento estratégico de produto/marca.</div></div>
+  </div>
+
+  <div class="qa-card">
+    <div class="qa-card-title">Estrutura de Custos</div>
+    <div class="qa-item"><div class="qa-q">Quais recursos-chave são mais caros?</div><div class="qa-a">Capital de funding — o mais sensível de todos, com dificuldade recente em captar nas mesmas taxas do passado.</div></div>
+    <div class="qa-item"><div class="qa-q">Quais atividades-chave são mais caras?</div><div class="qa-a">CAPEX de fabricação/instalação do gabinete (maior investimento inicial); manutenção via RSM (maior custo recorrente).</div></div>
+    <div class="qa-item"><div class="qa-q">Quais são os custos mais importantes do modelo?</div><div class="qa-a">Frete, furto/reposição (já acima do teto contratual) e plano de dados 4G subestimado. Captação de capital e fornecedor único de gabinete são os mesmos pontos que aparecem como Poder dos Fornecedores em Porter.</div></div>
+  </div>
+
 </div>
 
 <div class="section-title">Desafios complementares</div>
