@@ -1,0 +1,3 @@
+Agora me traga tudo isso de forma que eu consiga visualizar aqui no html, como vc fez antes
+
+Resposta: criado `canvas-prontidao-organizacional-minucioso.html`, mantendo o mesmo layout em cruz das versões anteriores (faixa de Contexto Cultural no topo, bloco-âncora de Contexto de Negócio, 5 colunas centrais + saída de Custo da Fricção, faixa de Interações com Clientes na base). Cada um dos 9 blocos agora traz os subtemas do documento `25-canvas-prontidao-organizacional-minucioso.md` como blocos expansíveis (clicáveis, `<details>/<summary>`) — o canvas abre visualmente limpo e cada subtema expande sob demanda, mostrando a síntese detalhada com citações. Fundo âmbar destaca os pontos de "o que está faltando" dentro de cada subtema. Publicado como artifact.

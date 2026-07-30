@@ -1,0 +1,473 @@
+<title>Canvas de Prontidão Organizacional — Versão Minuciosa</title>
+<style>
+  :root {
+    --header-bg: #1c1c1e;
+    --page-bg: #f1f1f0;
+    --card-bg: #ffffff;
+    --card-border: #e2e2e0;
+    --label-color: #111111;
+    --prompt-color: #6a6a6a;
+    --body-color: #2b2b2b;
+    --source-color: #8a8a8a;
+    --accent: #6200BE;
+    --accent-light: #EEE7FD;
+    --gap-bg: #fff3cd;
+    --gap-line: #a06d00;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--page-bg);
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--body-color);
+    padding: 28px;
+  }
+  .page-title {
+    max-width: 1680px;
+    margin: 0 auto 18px;
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 700;
+  }
+  .header {
+    max-width: 1680px;
+    margin: 0 auto 22px;
+    background: var(--header-bg);
+    border-radius: 40px;
+    padding: 22px 40px;
+    text-align: center;
+  }
+  .header h1 { margin: 0; color: #fff; font-size: 25px; font-weight: 800; }
+  .header .light { font-weight: 400; opacity: 0.85; }
+  .note {
+    max-width: 1680px;
+    margin: 0 auto 22px;
+    background: var(--accent-light);
+    border-left: 4px solid var(--accent);
+    border-radius: 8px;
+    padding: 14px 20px;
+    font-size: 13.5px;
+    line-height: 1.6;
+    color: #3a2361;
+  }
+  .note b.tip { color: var(--accent); }
+  .wrap { max-width: 1680px; margin: 0 auto; }
+
+  .block-def { font-size: 11.5px; line-height: 1.5; color: var(--prompt-color); margin-bottom: 10px; font-style: italic; }
+
+  details.subtema {
+    background: #fafafa;
+    border: 1px solid var(--card-border);
+    border-radius: 7px;
+    margin-bottom: 6px;
+    padding: 7px 10px;
+  }
+  details.subtema[open] { background: #fff; border-color: #d8cdf0; }
+  details.subtema summary {
+    font-size: 11.3px;
+    font-weight: 800;
+    color: var(--label-color);
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  details.subtema summary::before {
+    content: "▸";
+    color: var(--accent);
+    font-size: 10px;
+    transition: transform 0.15s;
+  }
+  details.subtema[open] summary::before { transform: rotate(90deg); }
+  details.subtema summary::-webkit-details-marker { display: none; }
+  .subtema-body { font-size: 10.8px; line-height: 1.55; color: var(--body-color); margin-top: 7px; }
+  .subtema-body i { color: #4a4a4a; }
+  .subtema-gap {
+    margin-top: 6px;
+    background: var(--gap-bg);
+    border-left: 3px solid var(--gap-line);
+    border-radius: 5px;
+    padding: 5px 8px;
+    font-size: 10.3px;
+    color: #5c4300;
+  }
+  .subtema-gap b { color: var(--gap-line); }
+
+  .band {
+    background: linear-gradient(135deg, var(--header-bg), #33235a);
+    border-radius: 12px;
+    padding: 16px 24px;
+    margin-bottom: 14px;
+    color: #fff;
+  }
+  .band-title { font-size: 15px; font-weight: 800; margin-bottom: 2px; }
+  .band .block-def { color: rgba(255,255,255,0.65); }
+  .band-cols { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; }
+  .band details.subtema { background: rgba(255,255,255,0.08); border-color: rgba(255,255,255,0.2); }
+  .band details.subtema[open] { background: rgba(255,255,255,0.14); }
+  .band details.subtema summary { color: #fff; }
+  .band .subtema-body { color: rgba(255,255,255,0.85); }
+  .band .subtema-body i { color: rgba(255,255,255,0.6); }
+  .band .subtema-gap { background: rgba(255,224,130,0.18); border-left-color: #ffe082; color: #ffe082; }
+  .band .subtema-gap b { color: #ffe082; }
+
+  .anchor {
+    background: var(--card-bg);
+    border: 2px solid var(--accent);
+    border-radius: 12px;
+    padding: 16px 22px;
+    margin-bottom: 14px;
+  }
+  .anchor-title { font-size: 15px; font-weight: 800; color: var(--accent); margin-bottom: 2px; }
+  .anchor-cols { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; }
+
+  .engine {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr) 0.9fr;
+    gap: 12px;
+    align-items: stretch;
+    margin-bottom: 14px;
+  }
+  .col-card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 10px;
+    padding: 13px 14px;
+    display: flex;
+    flex-direction: column;
+  }
+  .col-title { font-size: 12.5px; font-weight: 800; color: var(--label-color); margin-bottom: 2px; }
+
+  .arrow-out {
+    background: var(--accent);
+    border-radius: 10px;
+    padding: 14px;
+    color: #fff;
+    position: relative;
+  }
+  .arrow-out::before {
+    content: "";
+    position: absolute;
+    left: -14px;
+    top: 50%;
+    transform: translateY(-50%);
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+    border-left: 14px solid var(--accent);
+  }
+  .arrow-out .col-title { color: #fff; }
+  .arrow-out .block-def { color: rgba(255,255,255,0.65); }
+  .arrow-out details.subtema { background: rgba(255,255,255,0.1); border-color: rgba(255,255,255,0.25); }
+  .arrow-out details.subtema[open] { background: #fff; }
+  .arrow-out details.subtema summary { color: #fff; }
+  .arrow-out details.subtema[open] summary { color: var(--accent); }
+  .arrow-out .subtema-body { color: rgba(255,255,255,0.85); }
+  .arrow-out details.subtema[open] .subtema-body { color: var(--body-color); }
+  .arrow-out .subtema-gap { background: #fff8e1; }
+
+  .band-bottom {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 12px;
+    padding: 16px 22px;
+  }
+  .band-bottom .band-cols { grid-template-columns: repeat(5, 1fr); }
+
+  .synthesis {
+    max-width: 1680px;
+    margin: 22px auto 0;
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-left: 4px solid var(--accent);
+    border-radius: 10px;
+    padding: 16px 22px;
+    font-size: 13px;
+    line-height: 1.65;
+  }
+  .synthesis b { color: var(--accent); }
+  .synthesis ol { margin: 8px 0 0; padding-left: 20px; }
+  .synthesis li { margin-bottom: 6px; }
+
+  .footer-note {
+    max-width: 1680px;
+    margin: 22px auto 10px;
+    font-size: 11.5px;
+    color: #8a8a8a;
+    line-height: 1.6;
+    border-top: 1px solid var(--card-border);
+    padding-top: 14px;
+  }
+
+  @media (max-width: 1500px) {
+    .engine { grid-template-columns: repeat(3, 1fr); }
+    .arrow-out { grid-column: span 3; }
+    .band-cols, .anchor-cols { grid-template-columns: repeat(3, 1fr); }
+  }
+  @media (max-width: 900px) {
+    .engine { grid-template-columns: 1fr; }
+    .arrow-out { grid-column: span 1; }
+    .band-cols, .anchor-cols { grid-template-columns: 1fr; }
+    .header { border-radius: 20px; padding: 18px 20px; }
+  }
+</style>
+
+<div class="page-title">Projeto Moura Energia · Imersão Interna · Complementar ao BMC · Versão Minuciosa</div>
+<div class="header"><h1>Canvas de Prontidão Organizacional <span class="light">— por subtema</span></h1></div>
+
+<div class="note">Mesma estrutura em cruz da versão anterior, agora com cada bloco decomposto em subtemas. <b class="tip">Clique em qualquer subtema para expandir</b> e ver a síntese detalhada com citações da imersão interna — o card fecha para manter o canvas visualmente limpo. Fundo âmbar = "o que está faltando" dentro daquele subtema específico.</div>
+
+<div class="wrap">
+
+  <div class="band">
+    <div class="band-title">Contexto Cultural <span style="font-weight:400;opacity:.7;">— faixa que atravessa todos os blocos</span></div>
+    <div class="block-def">Liderança, definição compartilhada de qualidade, aceitação a mudanças, treinamento e departamentalização — o "clima" em que o produto é construído.</div>
+    <div class="band-cols">
+      <details class="subtema">
+        <summary>Liderança e comprometimento</summary>
+        <div class="subtema-body">Thiago Mello é o dono reconhecido da iniciativa (<i>"ele que foi atrás desse negócio"</i> — Andrea). Gustavo Moura (acionista) está altamente comprometido, mas de forma condicional — já reteve investimento em outra unidade por falta de qualidade de entrega. Uma reestruturação de liderança do produto já estava sendo desenhada (Thiago, em confidência). Karina, ao assumir a gerência comercial, percebeu a situação pior do que parecia de fora.</div>
+        <div class="subtema-gap"><b>Falta:</b> um dono de produto com mandato de mercado, não só técnico/financeiro.</div>
+      </details>
+      <details class="subtema">
+        <summary>Qualidade como valor compartilhado</summary>
+        <div class="subtema-body">Cultura de <i>conformidade</i> ("seguir o que foi pedido" — José Espinosa), não de inovação — o próprio entrevistado reconhece a lacuna. Diferencial percebido pelo cliente está mais na comunicação do que no produto físico. Meta comercial já pesa rentabilidade (60%) mais que volume, mas não inclui qualidade técnica de entrega como critério formal.</div>
+        <div class="subtema-gap"><b>Falta:</b> qualidade técnica de entrega como critério medido e incentivado.</div>
+      </details>
+      <details class="subtema">
+        <summary>Aceitação / resistência interna</summary>
+        <div class="subtema-body"><b>Sem evidência de resistência deliberada</b> de ninguém dentro da Moura. O padrão é outro: pessoas competentes tentando acompanhar um ritmo que a estrutura não sustenta — <i>"o mercado não espera, ele atropela"</i> (José Espinosa). O atrito real é entre áreas (ex.: Vanessa/ITEM teve acesso ao cliente cortado por decisão de outra área), não indivíduos relutando em mudar.</div>
+        <div class="subtema-gap"><b>Boa notícia:</b> o obstáculo é capacidade, não vontade.</div>
+      </details>
+      <details class="subtema">
+        <summary>Treinamento</summary>
+        <div class="subtema-body">Lacuna confirmada por múltiplas vozes independentes: Driele pede treinamento técnico robusto; o próprio Thiago Mello reconhece que o time <i>"está longe de estar capacitado"</i>; Karina descreve o processo hoje como reativo, ainda em construção. Aline aponta falta de expertise dedicada a materiais/apresentações de nível C-level.</div>
+        <div class="subtema-gap"><b>Falta:</b> programa de treinamento técnico estruturado, não reativo.</div>
+      </details>
+      <details class="subtema">
+        <summary>Departamentalização / silos</summary>
+        <div class="subtema-body">Não existe time dedicado exclusivo ao produto — comercial, compras e engenharia são "emprestados" da operação tradicional de baterias (CMO). Confirmado por Francisco (TI), Karina e Vanessa, cada um do seu lado. Carol traz a evidência mais próxima de uma "força-tarefa perdida": reuniões conjuntas orientadas a meta que existiam antes e hoje se perderam.</div>
+        <div class="subtema-gap"><b>Falta:</b> time permanente e dedicado, mais retomada de rituais de trabalho conjunto.</div>
+      </details>
+    </div>
+  </div>
+
+  <div class="anchor">
+    <div class="anchor-title">Contexto de Negócio do Produto <span style="font-weight:400;opacity:.7;font-size:11px;">— bloco-âncora</span></div>
+    <div class="block-def">Por que o produto existe, que riscos carrega, que tecnologia o sustenta e o quanto está alinhado à estratégia do grupo.</div>
+    <div class="anchor-cols">
+      <details class="subtema">
+        <summary>Origem e razão de ser</summary>
+        <div class="subtema-body">Dupla origem: defensiva (perda de ~86% de market share em bateria telecom para o lítio chinês — Gustavo Moura) e de dor real do cliente (<i>"eu quero essa bateria funcionando, não quero me preocupar em instalar"</i> — Thiago Mello, citando provocação de cliente). Primeiro cliente (TIM/trial) foi "comprado" pelo cliente, não vendido ativamente.</div>
+      </details>
+      <details class="subtema">
+        <summary>Riscos externos e internos</summary>
+        <div class="subtema-body">Furto: premissa original de 2% vs. realidade de 7% (Consultor de Projetos); estouro de ~R$100 mil no cap contratual (Daniel Garcia). Funding: modelo "capital intensivo" já no "sinal amarelo" (Gustavo Moura), frente a R$9 bi de investimento potencial no setor. Regulatório: obrigação de disponibilidade decorre diretamente de exigência da Anatel. Concorrencial: leitura interna ainda inconsistente — mesma entrevistada cita UCB Power como ameaça e depois diz "não temos concorrência".</div>
+      </details>
+      <details class="subtema">
+        <summary>Tecnologia habilitadora</summary>
+        <div class="subtema-body">Nasceu de parceria com AWS (metodologia "working backwards", 3 pilares: hardware/firmware/software). Cresceu de ~15 para 400+ sites sem nunca alcançar "versão final estável" em hardware (Francisco, TI). Dependência de terceiro (Promon) para o cadeado/trava física — fragilidade reconhecida internamente.</div>
+      </details>
+      <details class="subtema">
+        <summary>Alinhamento estratégico</summary>
+        <div class="subtema-body">Forte no nível dos acionistas — <i>"brilho nos olhos dos acionistas"</i> (Gustavo Moura). Mas ainda depende de evangelização ativa: diferente do BES (negócio já maduro de mercado), em telecom <i>"a gente que está fazendo eles quererem"</i> (Andrea) — a demanda não é puxada de fora ainda.</div>
+      </details>
+      <details class="subtema">
+        <summary>Criticidade vs. negócio tradicional</summary>
+        <div class="subtema-body">Sem comparação formal de prioridade orçamentária nas entrevistas. Contraste de tom é revelador: Gustavo fala de telecom com satisfação plena, oposto ao tom usado para outra unidade onde reteve investimento. Karina lembra que cliente não separa as marcas: <i>"a nossa cara é a mesma"</i> — problema em um negócio contamina o outro.</div>
+      </details>
+    </div>
+  </div>
+
+  <div class="engine">
+    <div class="col-card">
+      <div class="col-title">Governança e Regras de Negócio</div>
+      <div class="block-def">Quem decide o quê, completude das regras, aprovações, origem das regras e controles regulatórios.</div>
+      <details class="subtema">
+        <summary>Completude das regras</summary>
+        <div class="subtema-body">Sem papel formal de interface Eng.↔Comercial (<i>"alguém só para essa função, não"</i> — Yasmin). Sem SLA interno formalizado (Driele). Papel do financeiro na modelagem é ambíguo — "participa mas não tem responsabilidade" (Andrea).</div>
+      </details>
+      <details class="subtema">
+        <summary>Aprovações e burocracia</summary>
+        <div class="subtema-body">Precificação lenta, "muitas idas e vindas" (André). Maior gargalo é tempo de resposta da Engenharia (Carol). Aprovação de preço concentrada em poucas pessoas (Gustavo/Thiago Tasso — Aline). Burocracia interna citada como o maior desafio do dia a dia comercial (Driele).</div>
+      </details>
+      <details class="subtema">
+        <summary>Origem e atualização das regras</summary>
+        <div class="subtema-body">Nem sempre se sabe por que uma regra existe — o próprio André hesita sobre a origem do prazo de 10 anos de contrato. Carol: premissas antigas se repetem "porque não sabem qual foi a raiz". Furto foi recalibrado com a experiência — evidência de que a organização corrige, mas de forma reativa, não como rotina.</div>
+      </details>
+      <details class="subtema">
+        <summary>Controles regulatórios (Anatel)</summary>
+        <div class="subtema-body">Lítio ainda sem homologação Anatel — "vira uma feira louca" de concorrência desregulada (Aline). Moura já ajuda a Anatel a estruturar os testes (50-60% já feitos). Exigência de disponibilidade da Anatel se traduz em obrigação técnica direta de dimensionamento do produto (Vanessa).</div>
+      </details>
+      <details class="subtema">
+        <summary>Papéis e donos formais</summary>
+        <div class="subtema-body">O mapeamento existe (Andrea sabe exatamente quem cuida de cada frente), mas só na cabeça de uma pessoa — não documentado formalmente em nenhum lugar encontrado nas entrevistas.</div>
+        <div class="subtema-gap"><b>Falta:</b> registro documentado de donos de decisão, não só memória de uma pessoa.</div>
+      </details>
+    </div>
+
+    <div class="col-card">
+      <div class="col-title">Capacidades <span style="font-weight:400;color:#999;font-size:9px;">(+Variação)</span></div>
+      <div class="block-def">Maturidade de hardware, padronização de instalação, escala geográfica, dependência de terceiros e variação entre sites.</div>
+      <details class="subtema">
+        <summary>Maturidade de hardware/plataforma</summary>
+        <div class="subtema-body"><i>"É o MVP que virou produção"</i> (Francisco, TI) — nunca recebeu versão final estável porque o ITEM nunca "fechou" a v1 para a Engenharia assumir. Detecção de furto hoje não é confiável (Yasmin).</div>
+      </details>
+      <details class="subtema">
+        <summary>Padronização de instalação</summary>
+        <div class="subtema-body"><b>30-35% dos sites</b> com erro de instalação detectado, principalmente na fonte (Francisco). ITEM documentou erros básicos (fio errado, energia não ligada). Causa raiz: testes não são feitos por completo em fábrica (Yasmin).</div>
+      </details>
+      <details class="subtema">
+        <summary>Capacidade de escalar geografia</summary>
+        <div class="subtema-body">RSM não cobre o Norte — decisão deliberada (Andrea). Mesmo dentro da cobertura, distância compromete SLA crítico: caso Uberlândia/MG, 6-7h até a base vs. SLA de 4h (Consultor de Projetos), que já propõe quarteirização como solução.</div>
+      </details>
+      <details class="subtema">
+        <summary>Dependência de terceiros (ITEM)</summary>
+        <div class="subtema-body">ITEM se descreve quase como "terceirizado" interno da Moura Energia (Vanessa). Transferência tecnológica de hardware para a Engenharia ainda não aconteceu — "pode gerar um certo gargalo porque o nosso time não é grande".</div>
+      </details>
+      <details class="subtema">
+        <summary>Variação entre sites</summary>
+        <div class="subtema-body">Cada instalação é, na prática, um projeto customizado — "para cada companhia, uma solução diferente" (Driele). Precificação virou "quase um projeto personalizado", não planilha padrão (André). Cada site tem características físicas próprias que mudam o dimensionamento.</div>
+      </details>
+    </div>
+
+    <div class="col-card">
+      <div class="col-title">Handoffs e Gargalos</div>
+      <div class="block-def">Pontos de passagem entre áreas e estrangulamentos de fluxo que atrasam o produto.</div>
+      <details class="subtema">
+        <summary>Handover ITEM → Engenharia</summary>
+        <div class="subtema-body">O ITEM deveria conceber e entregar; a Engenharia assumir e evoluir — "hoje ainda não está desse jeito" (Francisco). Risco explicado: se o ITEM não solta, perde o foco de olhar para frente. Confirmado do lado do ITEM por Vanessa: ainda dão suporte de hardware que já deveria ter sido transferido.</div>
+      </details>
+      <details class="subtema">
+        <summary>Handover Comercial → Eng/Financeiro</summary>
+        <div class="subtema-body">Fluxo real é informal, sem SLA: "depende muito. A gente não tem um padrão" (Driele). Maria Cecília se descreve como o elo humano que substitui um processo formal entre áreas.</div>
+      </details>
+      <details class="subtema">
+        <summary>Tempo de resposta entre áreas</summary>
+        <div class="subtema-body">Resposta é rápida só quando o pedido repete um padrão já conhecido (Vivo); para especificação nova, o tempo de espera cresce muito (Yasmin) — risco direto para expandir a TIM/Claro. Tempo de resposta é, segundo o próprio cliente Vivo, o que mais preocupa hoje (Consultor de Projetos).</div>
+      </details>
+      <details class="subtema">
+        <summary>Perda de informação na transição</summary>
+        <div class="subtema-body">Repricing feito após pedido fechado quase custou o orçamento anual do cliente (Karina). Cliente mapeado (iSystems) perdido no repasse entre executivos — não se sabe se chegou a ser abordado (Driele).</div>
+      </details>
+      <details class="subtema">
+        <summary>Gargalos de dados/informação</summary>
+        <div class="subtema-body">Dado não confiável gera retrabalho e "retardo" (Consultor de Projetos) — às vezes ele sabe de um furto pelo próprio cliente, não pela plataforma. Falta processo de transformar dado bruto em informação útil (Francisco).</div>
+      </details>
+    </div>
+
+    <div class="col-card">
+      <div class="col-title">Envolvimento Humano</div>
+      <div class="block-def">Dependência de esforço, conhecimento e permanência de pessoas específicas.</div>
+      <details class="subtema">
+        <summary>Turnover e rotatividade</summary>
+        <div class="subtema-body">Confirmado por múltiplas vozes com termos fortes — "giro importante" (Thiago), "rotatividade muito grande, não existe mais o time inicial" em 2 anos (José Espinosa). <i>Nota: o percentual "100%" citado em síntese anterior não aparece literalmente nas transcrições brutas revisadas.</i></div>
+      </details>
+      <details class="subtema">
+        <summary>Dependência de pessoas-chave</summary>
+        <div class="subtema-body">Thiago Mello: "esse conhecimento está muito comigo". Daniel Garcia descreve cadeia com poucas pessoas cobrindo pontas inteiras (13 pessoas ao todo). Andrea: fase inicial foi "ato heróico" individual, não processo.</div>
+      </details>
+      <details class="subtema">
+        <summary>Trabalho manual não automatizado</summary>
+        <div class="subtema-body">Campo não tem acesso à própria plataforma — coordenação real é via WhatsApp (Yasmin). Informação "não vomitada", exige garimpo manual (Consultor de Projetos).</div>
+      </details>
+      <details class="subtema">
+        <summary>Complexidade e habilidades exigidas</summary>
+        <div class="subtema-body">"Produto técnico" exige preparo que o comercial hoje não tem (Driele). Mesmo o dimensionamento "automatizado" ignora variáveis técnicas conhecidas (temperatura, ciclo de vida — Yasmin).</div>
+      </details>
+      <details class="subtema">
+        <summary>Feedback e desenvolvimento</summary>
+        <div class="subtema-body"><b>Sem evidência</b> de sistema formal de feedback/avaliação individual. Único loop de feedback citado vem do cliente, não é mecanismo de desenvolvimento de pessoas. Existe "banco de lições aprendidas" — mas ajusta processo, não desenvolve gente.</div>
+        <div class="subtema-gap"><b>Falta:</b> sistema de feedback/desenvolvimento de pessoas, hoje inexistente.</div>
+      </details>
+    </div>
+
+    <div class="col-card">
+      <div class="col-title">Medição de Desempenho</div>
+      <div class="block-def">Como o sucesso do produto é medido — e se as premissas são atualizadas com o tempo.</div>
+      <details class="subtema">
+        <summary>Premissas financeiras e de risco</summary>
+        <div class="subtema-body">Teto de furto por site já superado pela realidade (Andrea). Taxa de financiamento do contrato original (Vivo) não é replicável em novos contratos — métrica de referência já desatualizada.</div>
+      </details>
+      <details class="subtema">
+        <summary>Papel do Product Owner</summary>
+        <div class="subtema-body">Crítica mais direta do canvas: PO (Andrea) tem "visão muito interna, viés financeiro", falta abordagem mercadológica (Thiago Mello). Cargo nasceu de uma função de engenharia — explica o viés técnico/financeiro.</div>
+      </details>
+      <details class="subtema">
+        <summary>Acompanhamento de propostas</summary>
+        <div class="subtema-body">Sem processo formal de follow-up. Proposta "morreu" sem que o time seguinte soubesse (Karina). Pedido de diretor sem resposta por meses (José Espinosa).</div>
+      </details>
+      <details class="subtema">
+        <summary>Indicadores de qualidade</summary>
+        <div class="subtema-body">Subtema com evidência mais forte: taxa de erro de instalação (30-35%), disponibilidade (+quase 1pp no trial TIM), SLA escalonado por criticidade (4h/6h/12h), instalação que deveria durar 2h leva 6h com custo ao cliente.</div>
+      </details>
+      <details class="subtema">
+        <summary>Incentivos ligados a desempenho</summary>
+        <div class="subtema-body"><b>Sem evidência</b> de bônus/meta individual ligados à qualidade de entrega. Planejamento estratégico usa OKR próprio (diferente do GPD do grupo), mas monitora resultado agregado, não desempenho individual.</div>
+      </details>
+    </div>
+
+    <div class="col-card arrow-out">
+      <div class="col-title">Custo da Fricção Interna</div>
+      <div class="block-def">O que as lacunas anteriores custam — e se isso é sequer visível em algum orçamento.</div>
+      <details class="subtema">
+        <summary>Custo de retrabalho</summary>
+        <div class="subtema-body">Falha de configuração de fábrica → upload manual em campo (Yasmin). Instalação de 2h vira 6h. Sites "invisíveis" na plataforma por falha de processo no início do NOC.</div>
+      </details>
+      <details class="subtema">
+        <summary>Custo de turnover</summary>
+        <div class="subtema-body">Decisão explícita de contratar de fora para evitar curva de maturidade interna (Thiago) — evidência indireta de custo reconhecido. Nenhum valor em R$ encontrado para turnover especificamente.</div>
+      </details>
+      <details class="subtema">
+        <summary>Custo de captação/funding</summary>
+        <div class="subtema-body">CAPEX inicial + taxa de juros são os dois maiores "norteadores" do preço do aluguel (André). Vantagem do funding BNB é vista como não-permanente pela própria Andrea.</div>
+      </details>
+      <details class="subtema">
+        <summary>Valores em R$ já citados (nunca somados)</summary>
+        <div class="subtema-body"><b>R$10 mil</b> de frete em alguns locais (Andrea/Daniel, mesma cifra). <b>R$1 mil → R$5 mil/mês</b> de dados por calibração errada do IoT (Andrea). <b>~R$100 mil</b> de estouro do cap de furto (Daniel Garcia).</div>
+        <div class="subtema-gap"><b>Falta:</b> consolidar esses 3 números — já existem, espalhados, nunca somados num só lugar.</div>
+      </details>
+    </div>
+  </div>
+
+  <div class="band-bottom">
+    <div class="band-title">Interações com Clientes <span style="font-weight:400;opacity:.6;font-size:11px;">— lente interna, faixa da base</span></div>
+    <div class="block-def">Quem fala com o cliente, como sugestões chegam (ou não) a quem decide, e se a satisfação é medida de fato.</div>
+    <div class="band-cols" style="margin-top:8px;">
+      <details class="subtema">
+        <summary>Quem fala com o cliente</summary>
+        <div class="subtema-body">Fragmentado entre 3 frentes sem dono único: Comercial, área de "Contratos" (Josi, que conecta internamente) e Operação (José Espinosa) — mapeado por Aline e Andrea. Consultor de Projetos reconhece não ter acesso à camada estratégica do cliente.</div>
+      </details>
+      <details class="subtema">
+        <summary>Canal de escuta de sugestões</summary>
+        <div class="subtema-body"><b>Sem evidência</b> de canal formal (ouvidoria, pesquisa). "Escuta ativa" é citada como algo a desenvolver, não processo existente (Maria Cecília). Canal real de campo é grupo de WhatsApp informal.</div>
+        <div class="subtema-gap"><b>Falta:</b> canal estruturado de escuta do cliente.</div>
+      </details>
+      <details class="subtema">
+        <summary>Como a satisfação é medida</summary>
+        <div class="subtema-body">Toda menção encontrada é impressionista, não métrica — "o cliente está satisfeito" (Gustavo), "nossa impressão é muito positiva" (Consultor de Projetos, que reconhece ser "percepção da percepção"). Nenhuma menção a NPS ou pesquisa formal.</div>
+      </details>
+      <details class="subtema">
+        <summary>Dúvida sobre "pessoas certas"</summary>
+        <div class="subtema-body">Achado mais repetido do canvas — 4 entrevistados diferentes (Thiago, Gustavo, Josi, Andrea), em momentos independentes, levantam a mesma dúvida sem resposta. Gustavo, questionado diretamente: "eu não sei".</div>
+      </details>
+      <details class="subtema">
+        <summary>Redundância / ruído interno</summary>
+        <div class="subtema-body">Excesso de pessoas num projeto gera ruído que chega ao cliente (Driele). Episódio concreto de má interpretação de dado do cliente, corrigido só "depois de muita luta" (Josi). Casos em que o cliente sabe de um problema antes da própria Moura.</div>
+      </details>
+    </div>
+  </div>
+
+</div>
+
+<div class="synthesis">
+  <b>O que muda nesta versão minuciosa:</b> três achados só aparecem quando se olha subtema por subtema, não bloco por bloco.
+  <ol>
+    <li>A resistência à mudança <b>não é o problema</b> — nenhuma evidência de alguém "torcendo contra" o produto. O obstáculo é capacidade e ritmo, não vontade.</li>
+    <li>A dúvida <b>"estamos falando com as pessoas certas"</b> é o achado mais repetido de toda a imersão — 4 vozes independentes, mesma pergunta, ainda sem resposta.</li>
+    <li>Já existem <b>números concretos de custo de fricção interna</b> (frete, dados, furto) — o gap não é falta de dado, é falta de consolidação.</li>
+  </ol>
+</div>
+
+<div class="footer-note">Fontes: 15 transcrições brutas da imersão interna, mineradas por 3 agentes de pesquisa em paralelo com instrução de extrair por subtema. Documento markdown completo, com todas as citações estendidas e nota metodológica: <code>25-canvas-prontidao-organizacional-minucioso.md</code>.</div>
