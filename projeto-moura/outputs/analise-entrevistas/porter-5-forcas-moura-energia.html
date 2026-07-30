@@ -1,0 +1,342 @@
+<title>5 Forças de Porter — Moura Energia</title>
+<style>
+  :root {
+    --header-bg: #1c1c1e;
+    --page-bg: #f1f1f0;
+    --card-bg: #ffffff;
+    --card-border: #e2e2e0;
+    --label-color: #111111;
+    --prompt-color: #6a6a6a;
+    --body-color: #2b2b2b;
+    --source-color: #8a8a8a;
+    --accent: #6200BE;
+    --accent-light: #EEE7FD;
+    --red: #d64545;
+    --amber: #c98a1f;
+    --green: #2f9e59;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--page-bg);
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--body-color);
+    padding: 28px;
+  }
+  .page-title {
+    max-width: 1720px;
+    margin: 0 auto 18px;
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 700;
+  }
+  .header {
+    max-width: 1720px;
+    margin: 0 auto 22px;
+    background: var(--header-bg);
+    border-radius: 40px;
+    padding: 22px 40px;
+    text-align: center;
+  }
+  .header h1 {
+    margin: 0;
+    color: #fff;
+    font-size: 26px;
+    font-weight: 800;
+    letter-spacing: 0.01em;
+  }
+  .header h1 .light { font-weight: 400; opacity: 0.85; }
+  .note {
+    max-width: 1720px;
+    margin: 0 auto 20px;
+    background: var(--accent-light);
+    border-left: 4px solid var(--accent);
+    border-radius: 8px;
+    padding: 14px 20px;
+    font-size: 13.5px;
+    line-height: 1.6;
+    color: #3a2361;
+  }
+  .porter-wrap {
+    max-width: 1520px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+  }
+  .row-top, .row-bottom { width: 46%; min-width: 340px; }
+  .row-mid {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1.15fr 1fr;
+    gap: 16px;
+    align-items: stretch;
+  }
+  .connector {
+    width: 2px;
+    height: 16px;
+    background: var(--card-border);
+    margin: -4px auto;
+  }
+  .card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 10px;
+    padding: 18px 20px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+    height: 100%;
+  }
+  .card-top-row {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 4px;
+  }
+  .card-label {
+    font-size: 15px;
+    font-weight: 800;
+    color: var(--label-color);
+  }
+  .badge {
+    flex-shrink: 0;
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    padding: 3px 9px;
+    border-radius: 20px;
+    white-space: nowrap;
+    margin-top: 1px;
+  }
+  .badge-alto { background: #fbe9e9; color: var(--red); }
+  .badge-medio { background: #fbf1e0; color: var(--amber); }
+  .badge-baixo { background: #e6f5ec; color: var(--green); }
+  .card-prompt {
+    font-size: 11.5px;
+    color: var(--prompt-color);
+    margin-bottom: 12px;
+    line-height: 1.4;
+    font-style: italic;
+  }
+  .card ul { margin: 0; padding-left: 18px; }
+  .card li {
+    font-size: 12.2px;
+    line-height: 1.55;
+    margin-bottom: 9px;
+  }
+  .card li:last-child { margin-bottom: 0; }
+  .card li b { color: var(--label-color); }
+  .card li em {
+    display: block;
+    color: var(--source-color);
+    font-style: normal;
+    font-size: 10.6px;
+    margin-top: 2px;
+  }
+  .verdict {
+    margin-top: 12px;
+    padding-top: 10px;
+    border-top: 1px dashed var(--card-border);
+    font-size: 11.5px;
+    line-height: 1.5;
+    color: #3a2361;
+  }
+  .verdict b { color: var(--accent); }
+  .section-title {
+    max-width: 1520px;
+    margin: 42px auto 14px;
+    font-size: 20px;
+    font-weight: 800;
+    color: var(--label-color);
+    border-bottom: 3px solid var(--accent);
+    display: inline-block;
+    padding-bottom: 6px;
+  }
+  .section-wrap { max-width: 1520px; margin: 0 auto; }
+  .section-sub {
+    font-size: 13px;
+    color: var(--prompt-color);
+    max-width: 1520px;
+    margin: 0 auto 18px;
+    line-height: 1.6;
+  }
+  .summary-table {
+    max-width: 1520px;
+    margin: 0 auto;
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 10px;
+    overflow: hidden;
+    font-size: 12.5px;
+  }
+  .summary-table th {
+    background: var(--header-bg);
+    color: #fff;
+    text-align: left;
+    padding: 10px 14px;
+    font-weight: 700;
+    font-size: 11.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+  }
+  .summary-table td {
+    padding: 12px 14px;
+    border-top: 1px solid var(--card-border);
+    line-height: 1.5;
+    vertical-align: top;
+  }
+  .footer-note {
+    max-width: 1520px;
+    margin: 30px auto 10px;
+    font-size: 11.5px;
+    color: var(--source-color);
+    line-height: 1.6;
+    border-top: 1px solid var(--card-border);
+    padding-top: 14px;
+  }
+  @media (max-width: 1100px) {
+    .row-mid { grid-template-columns: 1fr; }
+    .row-top, .row-bottom { width: 100%; }
+  }
+  @media (max-width: 820px) {
+    .header { border-radius: 20px; padding: 18px 20px; }
+    .summary-table { font-size: 11px; }
+  }
+</style>
+
+<div class="page-title">Projeto Moura Energia · Imersão Externa + Análise de Mercado · Fase 2</div>
+<div class="header"><h1>Moura Energia — As 5 Forças de Porter</h1></div>
+
+<div class="note"><b>Escopo:</b> atratividade do mercado de <b>Energia como Serviço</b> em que a Moura compete, a partir das entrevistas completas com <b>Claro</b> (Fabiano) e <b>TIM</b> (Vinícius/Luiz), do <b>Diagnóstico Fase 1</b> (benchmark interno de ~20 concorrentes) e do relatório <b>Mercado de ISPs e Operadoras Regionais no Brasil</b>. Cada quadrante traz o nível de intensidade da força e as fontes que sustentam a leitura.</div>
+
+<div class="porter-wrap">
+
+  <div class="row-top">
+    <div class="card">
+      <div class="card-top-row">
+        <div class="card-label">Ameaça de novos entrantes</div>
+        <div class="badge badge-alto">Alto</div>
+      </div>
+      <div class="card-prompt">É fácil para um player novo entrar nesse mercado e roubar espaço rapidamente?</div>
+      <ul>
+        <li><b>Startups nacionais de EaaS</b> (Voltz, Nuvem Energia) — classificadas como maior risco de médio prazo por já construírem assinatura para PMEs<em>Relatório Mercado ISPs, seção 10</em></li>
+        <li><b>Towercos</b> (American Tower, Highline, SBA, Sitios LatAm) já controlam 63,68% das torres — passo natural é embutir energia na locação de infraestrutura<em>Relatório Mercado ISPs, seção 6/10</em></li>
+        <li><b>Redes neutras</b> (V.tal, Fibrasil) já anunciam estações de energia com autonomia 4h+ como parte do colocation<em>Relatório Mercado ISPs, seção 6</em></li>
+        <li>Interoperabilidade entre baterias de fabricantes diferentes derruba a barreira técnica que existia<em>TIM/Vinícius</em></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="connector"></div>
+
+  <div class="row-mid">
+    <div class="card">
+      <div class="card-top-row">
+        <div class="card-label">Poder de negociação dos fornecedores</div>
+        <div class="badge badge-medio">Médio-alto</div>
+      </div>
+      <div class="card-prompt">Fornecedores de insumos e capital conseguem apertar a margem da Moura?</div>
+      <ul>
+        <li><b>Apenas 1 fornecedor homologado</b> de estrutura metálica de gabinete no Brasil<em>Diagnóstico Fase 1</em></li>
+        <li>Entrada maciça de células de lítio chinesas baratas pressiona preço em ambas direções (custo e concorrência)<em>Diagnóstico Fase 1; Claro/Fabiano</em></li>
+        <li>Dependência de fornecedor externo (Promon) para antifurto, com componentes chineses sem auditoria — risco de cibersegurança<em>Diagnóstico Fase 1</em></li>
+        <li>Modelo de aluguel é sensível à taxa de captação — funding/bancos funcionam como fornecedor crítico e caro<em>Diagnóstico Fase 1</em></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <div class="card-top-row">
+        <div class="card-label">Rivalidade entre concorrentes</div>
+        <div class="badge badge-alto">Alto</div>
+      </div>
+      <div class="card-prompt">Quais são as estratégias que eles estão usando; quão acirrada é a briga hoje?</div>
+      <ul>
+        <li><b>UCB Power</b> — concorrente mais próximo e perigoso: já anunciou BaaS, comprou carteira/patente antifurto da EP Telecom<em>Diagnóstico Fase 1, risco "alto"</em></li>
+        <li>Especialistas em operação (Aggreko, IPT PowerTech, <b>Hybrico</b> — modelo mais parecido ao da Moura) e em infra de telecom (Camusat/Aktivco, Vertiv)<em>Diagnóstico Fase 1</em></li>
+        <li>Huawei Digital Power já com plataforma full-stack de IA/VPP; Polarium, EnerSys e UCB à frente da Moura em "serviço/digitalização"<em>Diagnóstico Fase 1, matriz de posicionamento</em></li>
+        <li>No segmento ISP: TS Shara/NHS, locação de diesel, distribuidoras, integradores solar, Huawei/Vertiv/Schneider<em>Relatório Mercado ISPs, seção 10</em></li>
+        <li>Confirmado em campo: TIM testou Moura <b>e</b> Unicoba no mesmo piloto; Claro cotou Moura, ZTE, Unicoba e SE Power juntos<em>TIM/Vinícius; Claro/Fabiano</em></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <div class="card-top-row">
+        <div class="card-label">Poder de barganha dos compradores</div>
+        <div class="badge badge-alto">Alto (grandes) / Baixo (ISPs)</div>
+      </div>
+      <div class="card-prompt">O cliente consegue ditar preço e condição, ou trocar de fornecedor sem custo?</div>
+      <ul>
+        <li>TIM rodou <b>2 pilotos</b> de EaaS com a Moura, tecnicamente positivos, travados pelo CFO por não fechar payback em 3 anos: <i>"só tem benefícios, mas não fecha a conta"</i><em>TIM/Vinícius</em></li>
+        <li>Claro cotou 4 fornecedores em paralelo e recusou por TCO mesmo elogiando o produto: <i>"eu não vou comprar um negócio que se eu investisse eu teria um retorno"</i><em>Claro/Fabiano</em></li>
+        <li>Claro desenvolveu solução própria agnóstica de monitoramento para não depender de fornecedor único<em>Claro/Fabiano</em></li>
+        <li>Interoperabilidade (SNMP) permite à TIM misturar bateria Moura/Narada/Unicoba/Huawei na mesma fonte — zero custo de troca<em>TIM/Vinícius</em></li>
+        <li>Contraste: 11.853 ISPs pulverizados, 89% citam CAPEX como barreira, 78% de interesse em assinatura — poder de compra muito menor<em>Relatório Mercado ISPs, seção 13 (estimativa)</em></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="connector"></div>
+
+  <div class="row-bottom">
+    <div class="card">
+      <div class="card-top-row">
+        <div class="card-label">Ameaça de produtos/serviços substitutos</div>
+        <div class="badge badge-medio">Média-alta</div>
+      </div>
+      <div class="card-prompt">Existe uma forma totalmente diferente de resolver o mesmo problema do cliente?</div>
+      <ul>
+        <li><b>Gestão própria/interna</b> é o "concorrente invisível" dominante — Claro e TIM hoje gerenciam energia com equipe e software próprios<em>Claro/Fabiano; TIM/Vinícius</em></li>
+        <li>Gerador a diesel segue padrão em sites remotos e ISPs; 72% dos usuários gostariam de trocar mas não têm CAPEX<em>Relatório Mercado ISPs, seção 13</em></li>
+        <li>Redução de demanda via software (desligar 5G, manter só 4G) estica a autonomia sem precisar de mais bateria — resolve o problema sem hardware novo<em>Claro/Fabiano</em></li>
+        <li>Em ambos os casos documentados (Claro e TIM), o cliente optou pelo modelo de <b>compra e manutenção própria</b> em vez do aluguel, mesmo reconhecendo os benefícios operacionais do EaaS<em>Claro/Fabiano; TIM/Vinícius</em></li>
+      </ul>
+    </div>
+  </div>
+
+</div>
+
+<div class="section-title">Síntese — onde a pressão está concentrada</div>
+<div class="section-sub">As duas forças mais altas (poder do comprador grande e rivalidade) já se manifestaram na prática, nas duas tentativas reais registradas nas entrevistas externas — não são projeções teóricas.</div>
+
+<table class="summary-table">
+  <tr>
+    <th style="width:26%">Força</th>
+    <th style="width:16%">Intensidade</th>
+    <th>Em uma frase</th>
+  </tr>
+  <tr>
+    <td>Poder de barganha dos compradores</td>
+    <td><span class="badge badge-alto">Alto</span> / <span class="badge badge-baixo">Baixo</span></td>
+    <td>O mesmo produto encontra dois mercados opostos dentro do setor de telecom: grandes operadoras travam no financeiro, ISPs regionais têm menos poder de recusa.</td>
+  </tr>
+  <tr>
+    <td>Rivalidade entre concorrentes</td>
+    <td><span class="badge badge-alto">Alto</span></td>
+    <td>Nenhum concorrente fechou o mercado ainda, mas vários avançam mais rápido em "serviço" do que a Moura.</td>
+  </tr>
+  <tr>
+    <td>Ameaça de novos entrantes</td>
+    <td><span class="badge badge-alto">Alto</span></td>
+    <td>Entra gente por três portas ao mesmo tempo: startups de EaaS, towercos/redes neutras e fabricantes globais baratos.</td>
+  </tr>
+  <tr>
+    <td>Poder de negociação dos fornecedores</td>
+    <td><span class="badge badge-medio">Médio-alto</span></td>
+    <td>Concentração perigosa em um insumo (gabinete) e em capital, mas o custo de célula tende a cair estruturalmente.</td>
+  </tr>
+  <tr>
+    <td>Ameaça de substitutos</td>
+    <td><span class="badge badge-medio">Média-alta</span></td>
+    <td>O adversário mais forte hoje não é um concorrente — é o cliente decidindo continuar fazendo sozinho.</td>
+  </tr>
+</table>
+
+<div class="footer-note">
+  Fontes: transcrições completas da imersão externa (Claro/Fabiano, TIM/Vinícius-Luiz) · Diagnóstico Fase 1 (MJV × Moura, 60 páginas, benchmark de ~20 concorrentes) · Mercado de ISPs e Operadoras Regionais no Brasil (MJV × Moura, 78 páginas) — a seção 13 desse relatório é marcada pela própria MJV como síntese ilustrativa baseada em fontes secundárias, não pesquisa primária; tratada aqui como hipótese de mercado. Documento complementar: <code>21-porter-5-forcas-moura-energia.md</code> traz o raciocínio completo de cada quadrante ("como eu preenchi") e um guia de apresentação.
+</div>
