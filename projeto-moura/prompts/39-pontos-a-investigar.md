@@ -1,0 +1,3 @@
+Traga no sentido do que eles devem fazer, por exemplo sobre oferta modular pode ser investigar o que da oferta toda tem valor - traga mais como pontos para investigar
+
+Resposta: renomeada a seção "Oportunidades" do Bloco 1 para "Pontos a investigar", reescrevendo os 6 itens em formato de ação concreta (verbo no infinitivo: mapear, testar, investigar, revisitar), cada um apontando o que fazer para decidir com dado, sem prescrever a resposta final. Ex.: sobre resistência a "quebrar o pacote" — "investigar o que, dentro da oferta completa, o cliente realmente valoriza isoladamente versus o que só valoriza porque vem junto com o resto."
