@@ -1,0 +1,356 @@
+<title>Roteiro Fase 2 — Adaptado para Compras (Alessandra/Claro)</title>
+<style>
+  :root {
+    --header-bg: #1c1c1e;
+    --page-bg: #f1f1f0;
+    --card-bg: #ffffff;
+    --card-border: #e2e2e0;
+    --label-color: #111111;
+    --prompt-color: #6a6a6a;
+    --body-color: #2b2b2b;
+    --source-color: #8a8a8a;
+    --accent: #6200BE;
+    --accent-light: #EEE7FD;
+    --red: #d64545;
+    --red-bg: #fbe9e9;
+    --amber: #c98a1f;
+    --amber-bg: #fbf1e0;
+    --gray: #6a6a6a;
+    --gray-bg: #ececec;
+    --new-bg: #eaf6ec;
+    --new-line: #2f9e59;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--page-bg);
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--body-color);
+    padding: 28px;
+  }
+  .page-title {
+    max-width: 980px;
+    margin: 0 auto 18px;
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 700;
+  }
+  .header {
+    max-width: 980px;
+    margin: 0 auto 22px;
+    background: var(--header-bg);
+    border-radius: 28px;
+    padding: 22px 36px;
+    text-align: center;
+  }
+  .header h1 { margin: 0; color: #fff; font-size: 22px; font-weight: 800; }
+  .header .sub { color: rgba(255,255,255,0.7); font-size: 13px; margin-top: 6px; }
+  .note {
+    max-width: 980px;
+    margin: 0 auto 16px;
+    background: var(--accent-light);
+    border-left: 4px solid var(--accent);
+    border-radius: 8px;
+    padding: 14px 20px;
+    font-size: 13px;
+    line-height: 1.6;
+    color: #3a2361;
+  }
+  .note b { color: var(--accent); }
+  .wrap { max-width: 980px; margin: 0 auto; }
+
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 18px;
+    font-size: 12px;
+  }
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 20px;
+    padding: 5px 12px;
+  }
+  .dot { width: 9px; height: 9px; border-radius: 50%; flex-shrink: 0; }
+  .dot-red { background: var(--red); }
+  .dot-amber { background: var(--amber); }
+  .dot-gray { background: var(--gray); }
+  .dot-new { background: var(--new-line); }
+
+  .summary-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 10px;
+    overflow: hidden;
+    font-size: 13px;
+    margin-bottom: 26px;
+  }
+  .summary-table th {
+    background: var(--header-bg);
+    color: #fff;
+    text-align: left;
+    padding: 9px 14px;
+    font-weight: 700;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+  }
+  .summary-table td {
+    padding: 8px 14px;
+    border-top: 1px solid var(--card-border);
+  }
+
+  .badge {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    padding: 3px 10px;
+    border-radius: 20px;
+    white-space: nowrap;
+  }
+  .badge-red { background: var(--red-bg); color: var(--red); }
+  .badge-amber { background: var(--amber-bg); color: var(--amber); }
+  .badge-gray { background: var(--gray-bg); color: var(--gray); }
+
+  .block-card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 12px;
+    padding: 18px 22px;
+    margin-bottom: 16px;
+    border-left: 5px solid var(--gray);
+  }
+  .block-card.prio-red { border-left-color: var(--red); }
+  .block-card.prio-amber { border-left-color: var(--amber); }
+  .block-card.prio-gray { border-left-color: var(--gray); }
+
+  .block-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 4px;
+  }
+  .block-title { font-size: 16px; font-weight: 800; color: var(--label-color); }
+  .block-note {
+    font-size: 12px;
+    font-style: italic;
+    color: var(--prompt-color);
+    margin-bottom: 10px;
+  }
+  .block-card ul { margin: 0; padding-left: 20px; }
+  .block-card li { font-size: 13.5px; line-height: 1.6; margin-bottom: 7px; }
+  .block-card li:last-child { margin-bottom: 0; }
+  .block-card li b { color: var(--label-color); }
+
+  .new-block {
+    margin-top: 12px;
+    background: var(--new-bg);
+    border-left: 3px solid var(--new-line);
+    border-radius: 8px;
+    padding: 10px 16px;
+  }
+  .new-block-title {
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--new-line);
+    margin-bottom: 6px;
+  }
+  .new-block ul { margin: 0; padding-left: 18px; }
+  .new-block li { font-size: 13.5px; line-height: 1.6; margin-bottom: 8px; color: #1d4a2c; }
+  .new-block li:last-child { margin-bottom: 0; }
+  .new-block li i { display: block; color: #4a7057; font-style: normal; font-size: 11.5px; margin-top: 2px; }
+
+  .final-box {
+    max-width: 980px;
+    margin: 20px auto 10px;
+    background: var(--header-bg);
+    color: #fff;
+    border-radius: 14px;
+    padding: 20px 26px;
+  }
+  .final-box .title { font-size: 15px; font-weight: 800; margin-bottom: 10px; color: #fff; }
+  .final-box ol { margin: 0; padding-left: 20px; }
+  .final-box li { font-size: 13.5px; line-height: 1.7; margin-bottom: 4px; color: rgba(255,255,255,0.92); }
+
+  @media (max-width: 700px) {
+    .header { border-radius: 16px; padding: 16px 20px; }
+    .summary-table { font-size: 11.5px; }
+  }
+</style>
+
+<div class="page-title">Projeto Moura Energia · Fase 2 · Entrevista de hoje</div>
+<div class="header">
+  <h1>Roteiro Fase 2 — Adaptado para Compras</h1>
+  <div class="sub">Entrevista: Alessandra, Gerente de Compras — Claro</div>
+</div>
+
+<div class="note">Mesma estrutura de 9 blocos (0-8) do roteiro geral (<code>Fase_2_Conversa_com_as_Operadoras_Hipoteses_e_Roteiro_1.docx</code>) — nada foi removido, só repriorizado e complementado, para você alternar entre os dois documentos sem se perder. <b>Objetivo extra desta entrevista:</b> testar 3 hipóteses que hoje só temos por inferência interna — (1) a Claro compara "aluguel completo" contra preço seco de equipamento sem TCO formal; (2) existe diretriz corporativa/global que penaliza contrato de serviço puro (OPEX) frente à posse do ativo (CAPEX); (3) a Claro mantém múltiplos fornecedores de energia deliberadamente, por estratégia de barganha.</div>
+
+<div class="wrap">
+
+<div class="legend">
+  <div class="legend-item"><span class="dot dot-red"></span> Aprofundar</div>
+  <div class="legend-item"><span class="dot dot-amber"></span> Padrão</div>
+  <div class="legend-item"><span class="dot dot-gray"></span> Leve / secundário</div>
+  <div class="legend-item"><span class="dot dot-new"></span> Pergunta nova (não estava no roteiro geral)</div>
+</div>
+
+<table class="summary-table">
+  <tr><th style="width:8%">Bloco</th><th>Tema</th><th style="width:22%">Prioridade</th></tr>
+  <tr><td>0</td><td>Apresentação e contexto</td><td><span class="badge badge-amber">Padrão</span></td></tr>
+  <tr><td>1</td><td>Como a operação de energia funciona hoje</td><td><span class="badge badge-gray">Secundário</span></td></tr>
+  <tr><td>2</td><td>Infraestrutura e sites legados</td><td><span class="badge badge-amber">Padrão</span></td></tr>
+  <tr><td>3</td><td>Dores e gargalos operacionais</td><td><span class="badge badge-gray">Secundário</span></td></tr>
+  <tr><td>4</td><td>Relação com fornecedores e contratos de longo prazo</td><td><span class="badge badge-red">Aprofundar</span></td></tr>
+  <tr><td>5</td><td>CAPEX, OPEX e modelos de serviço</td><td><span class="badge badge-red">Aprofundar</span></td></tr>
+  <tr><td>6</td><td>Telemetria e inteligência de dados</td><td><span class="badge badge-amber">Padrão</span></td></tr>
+  <tr><td>7</td><td>Sustentabilidade</td><td><span class="badge badge-red">Aprofundar</span></td></tr>
+  <tr><td>8</td><td>Visão de futuro</td><td><span class="badge badge-amber">Padrão</span></td></tr>
+</table>
+
+<div class="block-card prio-amber">
+  <div class="block-head"><div class="block-title">Bloco 0 — Apresentação e contexto</div><span class="badge badge-amber">Padrão</span></div>
+  <ul>
+    <li>Me conta um pouco do seu papel — o que passa pela sua mão quando o assunto é infraestrutura de rede e energia dos sites?</li>
+    <li>Como você descreveria o momento atual da sua operadora em relação à expansão de rede (5G) e modernização de infraestrutura?</li>
+  </ul>
+  <div class="new-block">
+    <div class="new-block-title">🆕 Nova</div>
+    <ul><li>Há quanto tempo você está nessa função, e o que já passou pela sua mão em termos de contratos de energia/infraestrutura especificamente? <i>Calibra o repertório histórico dela sem soar como pergunta de RH.</i></li></ul>
+  </div>
+</div>
+
+<div class="block-card prio-gray">
+  <div class="block-head"><div class="block-title">Bloco 1 — Como a operação de energia funciona hoje</div><span class="badge badge-gray">Secundário</span></div>
+  <div class="block-note">Trate como contexto rápido, não como bloco de aprofundamento com ela.</div>
+  <ul>
+    <li>Rotina de monitoramento/manutenção — quem é o time responsável, como está estruturado, o que ocupa mais tempo.</li>
+    <li>Como vocês têm visibilidade do que acontece em cada site?</li>
+  </ul>
+  <div class="new-block">
+    <div class="new-block-title">🆕 Nova</div>
+    <ul><li>Dessas questões operacionais — furto, indisponibilidade, chamados técnicos — o que chega até você, e em que formato? <i>A própria rasteza da resposta já é dado sobre o quão desconectada Compras está da dor operacional.</i></li></ul>
+  </div>
+</div>
+
+<div class="block-card prio-amber">
+  <div class="block-head"><div class="block-title">Bloco 2 — Infraestrutura física e legado dos sites</div><span class="badge badge-amber">Padrão</span></div>
+  <ul>
+    <li>Composição do parque (idade, tipo de instalação, padronização, proporção antigos x recentes).</li>
+    <li>Como calculam energia necessária num site novo; existe margem de segurança aplicada?</li>
+    <li>Como lidam com atualização de sites legados; ciclo de vida de bateria/gabinete; o que acontece com o material removido.</li>
+    <li>Relação com quem administra o espaço físico (Torreiras) — mesmo fornecedor de energia ou entidades diferentes?</li>
+    <li>Já perceberam vantagem/desvantagem em ter fornecedores separados para espaço físico e energia?</li>
+  </ul>
+</div>
+
+<div class="block-card prio-gray">
+  <div class="block-head"><div class="block-title">Bloco 3 — Dores e gargalos operacionais</div><span class="badge badge-gray">Secundário</span></div>
+  <div class="block-note">Pergunte de forma mais aberta e mais curta do que o roteiro geral sugere — o valor aqui é o que sobe até ela, não o processo operacional em si.</div>
+  <ul>
+    <li>Quais problemas aparecem com mais frequência com energia dos sites — quais geram mais custo do ponto de vista orçamentário pra ela?</li>
+    <li>Furto de baterias — como isso aparece pra você? Número de reposição no orçamento, ou visibilidade do processo todo?</li>
+    <li>Impactos regulatórios (Anatel) — como pesa nas decisões que passam por Compras? Existe consequência contratual formal para o fornecedor?</li>
+  </ul>
+</div>
+
+<div class="block-card prio-red">
+  <div class="block-head"><div class="block-title">Bloco 4 — Relação com fornecedores e contratos de longo prazo</div><span class="badge badge-red">Aprofundar</span></div>
+  <div class="block-note">Bloco central da entrevista. Reserve o maior tempo aqui.</div>
+  <ul>
+    <li>Como funciona a contratação de fornecedores para infraestrutura — fornecedor principal por área ou vários; contratos curtos ou longos.</li>
+    <li>Para energia/backup especificamente — quantos fornecedores diferentes hoje? O que funciona bem, o que gera mais atrito ao gerenciar separadamente?</li>
+    <li>O que você espera de um fornecedor de energia; o que costuma gerar insatisfação?</li>
+    <li>Depois de instalado, como funciona o suporte do fornecedor — em que situações precisam acioná-lo de novo?</li>
+    <li>Processo de contratação/renovação: quem decide, o que pesa, quais critérios.</li>
+    <li><b>Insista:</b> além do preço do equipamento, quais custos entram na conta (manutenção, visitas, reposição por furto)? Esses custos ficam no <b>mesmo orçamento</b> que aprova a compra do equipamento, ou em áreas diferentes?</li>
+    <li>Contratos mais longos (5-10 anos) — posicionamento padrão ou depende do caso? O que é indispensável para assinar um contrato longo em fornecimento crítico?</li>
+    <li>Existe pagamento atrelado a resultado/nível de serviço hoje? Já negociaram garantia de desempenho com penalidade?</li>
+  </ul>
+  <div class="new-block">
+    <div class="new-block-title">🆕 Novas</div>
+    <ul>
+      <li>Como funciona por dentro um processo de RFP/BID — quantos fornecedores cotam, pontuação é só preço ou matriz com peso técnico/comercial/financeiro? Quem tem poder de veto?</li>
+      <li>Vocês calculam formalmente TCO ao comparar propostas, ou a comparação principal ainda é preço de aquisição?</li>
+      <li>A Claro prefere consolidar num fornecedor único de energia, ou mantém vários deliberadamente por poder de negociação?</li>
+      <li>Sem citar nomes: como você compara, de forma geral, os fornecedores de energia já cotados — preço, condição, confiança? <i>Pergunta delicada — não insista se ela desviar; registre sem puxar o fio se surgir espontaneamente algo sobre reajuste malconduzido.</i></li>
+    </ul>
+  </div>
+</div>
+
+<div class="block-card prio-red">
+  <div class="block-head"><div class="block-title">Bloco 5 — CAPEX, OPEX e modelos de serviço</div><span class="badge badge-red">Aprofundar</span></div>
+  <div class="block-note">Segundo bloco mais importante — deixe ela responder livre antes de sugerir qualquer coisa.</div>
+  <ul>
+    <li>Como funciona a aprovação de investimento? Já aconteceu de projeto ser adiado/reduzido por falta de orçamento?</li>
+    <li>Comprar ativo vs. contratar serviço — vantagens/desvantagens; preferência clara ou depende do caso; já existe área em modelo de serviço contratado?</li>
+    <li>Em outras áreas, já terceirizaram algo antes gerenciado internamente? O que motivou?</li>
+    <li><b>Central:</b> como decidem o que manter sob controle direto e o que pode ser delegado? O que pesa mais (histórico, estrutura da empresa, cláusulas)? Em energia, o que fariam questão de manter internamente mesmo podendo terceirizar, e por quê?</li>
+    <li>Se tivessem esse capital livre hoje, para onde provavelmente iria?</li>
+  </ul>
+  <div class="new-block">
+    <div class="new-block-title">🆕 Novas — a mais valiosa do roteiro é a primeira</div>
+    <ul>
+      <li>Existe diretriz corporativa/global <b>formal</b> — não só preferência cultural — que trata OPEX (serviço puro) diferente de CAPEX (posse do ativo) na hora de aprovar? Como isso é aplicado na prática pela sua área?</li>
+      <li>Sem citar fornecedor: já apareceu proposta de "aluguel só do hardware", separada da gestão/dados? Isso faz sentido contratar separado, ou preferem pacote fechado?</li>
+      <li>Para um contrato de serviço de longo prazo em energia, que nível de aprovação seria necessário — fica na sua alçada, passa por regional, ou vai para o board/global?</li>
+    </ul>
+  </div>
+</div>
+
+<div class="block-card prio-amber">
+  <div class="block-head"><div class="block-title">Bloco 6 — Telemetria e inteligência de dados</div><span class="badge badge-amber">Padrão</span></div>
+  <ul>
+    <li>Como a empresa usa dados/análises para decisões operacionais — cultura de dados já existe ou em construção?</li>
+    <li>O que fazem quando precisam saber algo específico sobre um site — como a informação chega, quanto esforço/tempo leva?</li>
+    <li>Que tipos de informação gostariam de ter e não têm — o que mudaria na decisão?</li>
+    <li>Com acesso constante a esse tipo de informação, o que mudaria na forma de decidir?</li>
+  </ul>
+</div>
+
+<div class="block-card prio-red">
+  <div class="block-head"><div class="block-title">Bloco 7 — Sustentabilidade</div><span class="badge badge-red">Aprofundar</span></div>
+  <div class="block-note">Ela é provavelmente a entrevistada com resposta mais precisa e processual de toda a Fase 2 nesse tema.</div>
+  <ul>
+    <li>Como critérios de sustentabilidade entram na avaliação de fornecedores? Formal com peso definido, ou ainda informal?</li>
+    <li>Já aconteceu de um fornecedor perder pontos ou ser desclassificado por critério ambiental/social? Peça exemplo concreto.</li>
+  </ul>
+  <div class="new-block">
+    <div class="new-block-title">🆕 Nova</div>
+    <ul><li>Existe alguma certificação ou selo específico que vocês exigem hoje dos fornecedores de energia/infraestrutura?</li></ul>
+  </div>
+</div>
+
+<div class="block-card prio-amber">
+  <div class="block-head"><div class="block-title">Bloco 8 — Visão de futuro</div><span class="badge badge-amber">Padrão</span></div>
+  <ul>
+    <li>Se pudesse resolver um problema da infraestrutura de energia hoje que tiraria um peso da operação, o que seria?</li>
+    <li>Como enxerga a gestão de energia nos sites daqui a alguns anos — o que vai mudar, o que gostaria que fosse diferente?</li>
+  </ul>
+</div>
+
+</div>
+
+<div class="final-box">
+  <div class="title">Se o tempo apertar, o que não pode faltar</div>
+  <ol>
+    <li>Custos indiretos no mesmo orçamento ou não (Bloco 4).</li>
+    <li>Existe TCO formal ou é comparação de preço seco (Bloco 4, novo).</li>
+    <li>Diretriz corporativa CAPEX×OPEX formal ou cultural (Bloco 5, novo).</li>
+    <li>O que a Claro faz questão de manter internamente mesmo podendo terceirizar (Bloco 5).</li>
+    <li>Matriz de sustentabilidade formal ou informal (Bloco 7).</li>
+  </ol>
+</div>
