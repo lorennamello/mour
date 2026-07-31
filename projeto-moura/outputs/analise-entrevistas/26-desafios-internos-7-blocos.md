@@ -1,21 +1,41 @@
-# Desafios Internos — Moura Energia, organizados em 7 blocos (bottom-up)
+# Desafios Internos — Moura Energia, organizados em 8 blocos (bottom-up)
 
-*Diferente do `25-canvas-prontidao-organizacional-minucioso.md` (que partiu de uma estrutura pré-definida de um livro de BPM), este documento foi construído de baixo para cima: primeiro levantamos ~40 desafios distintos direto da imersão interna e da planilha `Moura_Telecom_Phase_1__Interviews`, depois agrupamos em 7 blocos que emergiram dos próprios dados — não de um framework externo. Cada bloco só existe porque resolve um tipo de problema que exige um tipo de intervenção diferente dos outros blocos (ver critério de corte abaixo).*
+*Diferente do `25-canvas-prontidao-organizacional-minucioso.md` (que partiu de uma estrutura pré-definida de um livro de BPM), este documento foi construído de baixo para cima: primeiro levantamos ~40 desafios distintos direto da imersão interna e da planilha `Moura_Telecom_Phase_1__Interviews`, depois agrupamos em blocos que emergiram dos próprios dados — não de um framework externo. Cada bloco só existe porque resolve um tipo de problema que exige um tipo de intervenção diferente dos outros blocos (ver critério de corte abaixo). O bloco 1 (Visão Geral da Solução) foi adicionado numa segunda passada: são desafios que não são de produto, nem de software, nem de operação de campo especificamente — são desafios da solução "Moura Energia como Serviço" como proposição de negócio.*
 
 **Fontes:** 15 transcrições brutas da imersão interna (`entrevistas-internas/*.txt`) e a planilha `Moura_Telecom_Phase_1__Interviews_4.xlsx` (abas Desafios, Áreas internas, Áreas internas Conflitos, Resumo 5 pontos, Clientes). Excluído deliberadamente todo conteúdo de mercado/comportamento do cliente (abas Barreiras de Expansão, Ecossistema e mercado, Hipóteses) — o foco aqui é só a visão interna.
 
 ---
 
-## 1. Produto & Tecnologia
+## 1. Visão Geral da Solução — Moura Energia como Serviço
+*Não é produto, não é software, não é operação de campo — é a solução como proposição de negócio: o que ela promete, o quanto é replicável, e onde seu próprio desenho cria atrito.*
+
+**Como é hoje:**
+- Cada cliente/site exige solução técnica **e comercial** sob medida — não existe um pacote padronizado que se repita entre clientes. Isso é diferente de "o produto não é plug-and-play" (bloco 2): aqui o problema é que a **oferta inteira** — engenharia, precificação, contrato — é remontada do zero a cada negociação. *"Para cada companhia, vai ser uma solução diferente. Vai ser uma abordagem diferente, porque entra propósito, entra valor da empresa, o que eles buscam. Eu acredito que é um projeto muito customizável para cada cliente."* — **Driele**, `Driele_Expansao_do_modelo_de_servitizacao_em_telecom.txt`. Confirmado do lado financeiro: *"deixa de ser uma solução (...) de bate-pronto e passa a ser algo quase como se fosse um negócio, um projeto personalizado para o cliente (...) complexo do que somente precificar lá."* — **André**, `Time_Financeiro_Andre_Carol_Maria_Cecilia.txt`.
+- A solução tem só **um playbook validado (Vivo)** — para qualquer outro cliente, o modelo comercial inteiro é reconstruído do zero, não adaptado de um padrão existente. Síntese do documento `13-visao-executiva-por-tema.md` (tema 4), cruzando as 12 entrevistas internas: *"a Moura tem um único playbook comprovado e automatizado (Vivo) e nenhum playbook repetível para qualquer outro cliente."*
+- A própria promessa do serviço é mais limitada do que o discurso comercial sugere: o serviço garante **backup por um tempo determinado** (autonomia contratada via DEC — 2, 3 ou 4h), não disponibilidade de energia de fato. O próprio diretor comercial que lidera a iniciativa nomeia essa limitação com uma analogia direta: *"a gente na prática está alugando a caixa d'água, a gente não está garantindo banho (...) eu consigo colocar uma caixa d'água de 20 mil litros. Agora, se tu chama tua família inteira pra passar o final de semana (...) e todo mundo toma 5 banhos por dia [...] você não tá enchendo ela."* — **Thiago Mello**, `Thiago_Energia_como_Servico_em_Telecom_TIM_Claro_Vivo_Evolucao_de_Produto_e_Estrategia_Comercial.txt`. Ele mesmo já identifica isso como limite estrutural do modelo atual, não só uma nuance contratual: *"eu consigo visualizar com muita clareza hoje que só alugar a caixa d'água não será suficiente no longo prazo."*
+- O escopo da solução é deliberadamente restrito — não inclui rede elétrica pública, ar-condicionado nem gerador, mesmo já tendo sido perguntado por clientes; é decisão própria, não limitação técnica identificada (síntese cruzando Vanessa, Francisco, Andrea, Thiago Mello, Driele, José Espinosa, Daniel Garcia — `20-bmc-as-is-moura-energia.md`, item 10).
+- Quando o cliente quer contratar só uma parte da solução (ex.: só o monitoramento, mantendo as baterias que já tem), a Moura resiste a "quebrar o pacote" — mesmo havendo demanda real por isso. *"No caso ele queria continuar com as baterias que ele tinha lá, os equipamentos que ele tinha lá, mas ele teoricamente queria essa parte do monitoramento, se fosse vendável."* — **Josiele, Fábrica** (planilha, aba Hipóteses).
+- O argumento comercial usado para vender a solução (liberar capital para o core business) ainda não é o argumento que o comprador típico usa para decidir — ele decide por "hard saving" (custo direto da bateria), não por custo de oportunidade do capital liberado. Síntese do documento `13` (tema 1): *"a Moura está tentando vender um argumento que o comprador típico ainda não usa para decidir."*
+
+**O que falta:**
+- Uma versão padronizada e replicável da solução — técnica e comercial — que não precise ser reconstruída do zero a cada cliente novo.
+- Um segundo playbook validado (além do da Vivo) que prove que o modelo se repete, não que só funcionou uma vez.
+- Evoluir de "alugar a caixa d'água" para "garantir o banho" — o próprio Thiago Mello já aponta esse caminho como necessário, ainda não realizado.
+- Decisão explícita (não só implícita) sobre se o escopo restrito da solução é definitivo ou se há intenção de ampliá-lo.
+- Uma oferta modular real para os casos em que o cliente quer só parte da solução, em vez de resistência automática a "quebrar o pacote".
+- Um argumento comercial que fale a língua que o comprador já usa para decidir (hard saving), em vez de depender de convencê-lo a adotar um critério de decisão novo (custo de oportunidade).
+
+---
+
+## 2. Produto & Tecnologia
 *O artefato físico/digital em si — maturidade, confiabilidade, design — independente de quem opera.*
 
 **Como é hoje:**
 - O hardware de monitoramento (Connect Plus) nasceu como POC/MVP (placa Raspberry, modems comerciais) e foi escalado para produção antes de virar produto industrial maduro. *"Isso não era produto. Isso ainda era experimental (...) A POC acabou virando produto muito rápido e ela setou um CAPEX enxuto. A gente de P&D tava tentando amadurecer o produto enquanto ele já tava sendo instalado."* — **Vanessa, P&D/ITEMM** (planilha, aba Desafios). Confirmado por **Francisco, TI**: *"É o MVP que virou produção (...) essa versão final estável nunca chegou, em termos de hardware."*
-- O dispositivo IoT não é plug-and-play, o que já é, em si, um problema de design (distinto do erro humano de instalação, tratado no bloco 2). *"O pessoal em campo tem muita dificuldade de fazer a instalação correta. Então, ainda não é plug and play."* — **Yasmin, Engenharia** (planilha, aba Desafios).
+- O dispositivo IoT não é plug-and-play, o que já é, em si, um problema de design (distinto do erro humano de instalação, tratado no bloco 3). *"O pessoal em campo tem muita dificuldade de fazer a instalação correta. Então, ainda não é plug and play."* — **Yasmin, Engenharia** (planilha, aba Desafios).
 - A detecção de furto pela própria plataforma não é confiável — o cliente às vezes descobre antes da Moura. *"Geralmente vão lá, acerram a parte do cadeado (...) a gente só sabe quando o cliente vai lá."* — **Yasmin** (planilha, aba Desafios). Confirmado por **Consultor de Projetos**: *"acontece muitas vezes de eu saber pelo cliente (...) Aí vou olhar a plataforma e não está dizendo nada."* (`0708_Entrevista_Consultor_de_Projetos_da_Moura_Energia_Operacao_Vivo.txt`)
 - A trava/cadeado de segurança física é um componente terceirizado (Promon), fora do controle direto da Moura, e a infraestrutura usa componentes chineses sem padrão de segurança da informação auditado — risco de cibersegurança sem plano de contingência. — **Francisco, TI** (planilha, aba Desafios): *"se sistema desse terceiro for hackeado, a Moura perde imediatamente o acesso físico a todas as baterias ou pode sofrer vazamento de dados críticos (...) sem ter nenhum plano de contingência ou redundância."*
 - Consumo de dados 4G ficou muito acima do premissado, elevando o OPEX. *"Hoje em dia, a gente consome bem mais do que o esperado e isso impactou em custo. A gente teve que aumentar nossos planos de dados."* — **Yasmin**, `Yasmin_Engenharia.txt`.
-- Cada instalação é, na prática, um projeto customizado — não existe produto padronizado "de prateleira" que se repita entre clientes. *"Para cada companhia, vai ser uma solução diferente (...) muito customizável para cada cliente."* — **Driele**, `Driele_Expansao_do_modelo_de_servitizacao_em_telecom.txt`.
 
 **O que falta:**
 - Versão industrial madura, testada de ponta a ponta (o próprio upgrade "2.0" já em andamento, mas tardio frente ao volume atual).
@@ -23,11 +43,10 @@
 - Confiabilidade real do sistema de detecção automática de furto.
 - Auditoria de segurança da informação e plano de contingência para o componente terceirizado.
 - Recalibração de premissas de consumo de dados antes de assinar novos contratos.
-- Um produto mais padronizado, com menos customização obrigatória por cliente.
 
 ---
 
-## 2. Operação de Campo & Processos
+## 3. Operação de Campo & Processos
 *Como o trabalho físico é executado e coordenado dia a dia — logística, handoffs técnicos, capacidade geográfica.*
 
 **Como é hoje:**
@@ -51,7 +70,7 @@
 
 ---
 
-## 3. Pessoas & Cultura Organizacional
+## 4. Pessoas & Cultura Organizacional
 *O indivíduo e o clima — retenção, conhecimento tácito, valores, o que a empresa reconhece como "bom trabalho".*
 
 **Como é hoje:**
@@ -70,7 +89,7 @@
 
 ---
 
-## 4. Colaboração entre Áreas & Estrutura Organizacional
+## 5. Colaboração entre Áreas & Estrutura Organizacional
 *Como diferentes funções — não indivíduos — se conectam: papéis, SLA interno, decisão compartilhada, desenho de time.*
 
 **Como é hoje:**
@@ -92,7 +111,7 @@
 
 ---
 
-## 5. Capacidade Comercial
+## 6. Capacidade Comercial
 *A habilidade específica de vender — discurso, material, postura, foco em quem abordar.*
 
 **Como é hoje:**
@@ -113,7 +132,7 @@
 
 ---
 
-## 6. Financeiro, Risco & Custo
+## 7. Financeiro, Risco & Custo
 *Dinheiro — estrutura de capital, premissas de risco, custo de ineficiência.*
 
 **Como é hoje:**
@@ -131,7 +150,7 @@
 
 ---
 
-## 7. Relação com o Cliente
+## 8. Relação com o Cliente
 *Não "estamos falando com as pessoas certas" — mas o quanto a Moura realmente conhece a rotina/operação do cliente, e se personaliza ou trata todos igual.*
 
 **Como é hoje:**
@@ -149,6 +168,7 @@
 ## Critério usado para separar os blocos
 
 Um bloco só existe separado dos outros se **o tipo de intervenção para resolver o problema for diferente**:
+- **Visão Geral da Solução** se resolve redesenhando a proposição de negócio em si — o que ela promete, o quanto se repete, onde o pacote é rígido demais.
 - **Produto & Tecnologia** se resolve reprojetando o artefato.
 - **Operação de Campo** se resolve com logística, normativa e processo de execução.
 - **Pessoas & Cultura** se resolve com liderança, retenção e valores — sobre como as pessoas se comportam.
@@ -160,4 +180,4 @@ Um bloco só existe separado dos outros se **o tipo de intervenção para resolv
 Casos de fronteira que exigiram decisão deliberada (documentados para você poder contestar se discordar):
 - *IoT não ser plug-and-play* → Produto (falha de design), separado de *erro do técnico ao instalar* → Operação (falha de execução) — mesmo fenômeno observável (30-35% de erro), duas causas e dois remédios diferentes.
 - *Gargalo de compras* → Operação (processo de abastecimento), não Financeiro, porque a causa citada é eficiência de processo, não modelagem de capital.
-- *Cada instalação ser um projeto customizado* → Produto (falta de padronização de solução), não Comercial, porque a raiz é o desenho da oferta, não a habilidade de vender.
+- *Cada instalação ser um projeto customizado* → **Visão Geral da Solução** (falta de padronização da oferta como um todo — engenharia + comercial + contrato juntos), não Produto nem Comercial isoladamente, porque a raiz é o desenho da proposição de negócio, não um componente técnico nem uma habilidade de venda específica. Repare que a *causa raiz de instalação* (IoT não plug-and-play) fica em Produto, mas a *consequência de a oferta inteira precisar ser remontada por cliente* fica na Visão Geral da Solução — são camadas diferentes do mesmo sintoma.
