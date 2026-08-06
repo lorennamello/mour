@@ -1,0 +1,6 @@
+[Contexto: apresentação executiva com narrativa de 9 tópicos (Cascata da Inovação, Pirâmide PMF, Mindset BMC/Strategyzer, Mercado/Porter, Solução/BMC, Diagnóstico interno, Customer segment, Cruzamento AS IS x operadora, Suposições/E se). Anexo: print do board de Porter em Miro/FigJam.]
+
+"Estou montando agora o slide de mercado, que vai se basear nas 5 forças de porter que fizemos em um canvas... Como posso levar os dados que estão lá de forma executiva? Quais principais informações posso levar em um slide e como? Que sintetize (mas não perca a especificidade) essa visão de mercado dentro das forças de porter"
+Depois: "Sim" (confirmando pedido de mockup visual).
+
+Resposta: explicados princípios gerais de "executivização" (um slide = um argumento; número/citação bate categoria; detalhe vira apêndice; intensidade como badge, não parágrafo; toda análise termina em "e daí"). Condensadas as 5 forças em 1 badge + 1 frase cada, com destaque central pro achado mais forte da análise (2 pilotos reais — TIM e Claro — aprovados tecnicamente, recusados no financeiro) e uma linha de síntese final conectando ao próximo passo da narrativa. Criado `slide-04-mercado-porter-executivo.html`, mockup de slide 16:9 pronto pra replicar em PowerPoint/Keynote, reaproveitando o sistema visual já estabelecido no projeto (cores, badges de intensidade). Publicado como artifact.
