@@ -92,54 +92,107 @@
   }
   h1 b { color: var(--accent); }
 
-  .hero {
-    display: flex;
-    align-items: center;
-    gap: clamp(16px, 2vw, 30px);
-    background: var(--ink);
-    border-radius: 12px;
-    padding: clamp(14px, 1.7vw, 22px) clamp(20px, 2.4vw, 32px);
-    color: #fff;
-  }
-  .hero-num {
-    font-size: clamp(15px, 1.55vw, 22px);
-    font-weight: 800;
-    line-height: 1.28;
-    letter-spacing: -0.01em;
-    flex: 1.35;
-  }
-  .hero-num em { color: #d9b8ff; font-style: normal; }
-  .hero-sub {
-    flex: 1;
-    font-size: clamp(10.5px, 0.95vw, 13px);
-    line-height: 1.5;
-    color: rgba(255,255,255,0.72);
-    border-left: 2px solid rgba(255,255,255,0.22);
-    padding-left: clamp(14px, 1.6vw, 22px);
-  }
-
-  .forces {
+  .board {
     flex: 1;
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: 1.15fr 1fr;
+    gap: clamp(10px, 1.2vw, 16px);
+    min-height: 0;
+  }
+
+  /* Spotlight: Compradores */
+  .spotlight {
+    background: var(--ink);
+    border-radius: 12px;
+    padding: clamp(14px, 1.6vw, 22px) clamp(16px, 1.8vw, 26px);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: clamp(7px, 0.9vw, 11px);
+    min-height: 0;
+  }
+  .spotlight-top {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 8px;
+  }
+  .spotlight-name {
+    font-size: clamp(11.5px, 1vw, 14px);
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: rgba(255,255,255,0.6);
+  }
+  .spotlight-badges { display: flex; gap: 6px; flex-wrap: wrap; }
+  .badge-on-dark {
+    font-size: clamp(8.5px, 0.72vw, 10.5px);
+    font-weight: 800;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    padding: 2px 9px;
+    border-radius: 20px;
+    white-space: nowrap;
+  }
+  .badge-on-dark.hi { background: #4a2020; color: #ff9d9d; }
+  .badge-on-dark.lo { background: #1c3226; color: #7fe0ab; }
+  .spotlight-claim {
+    font-size: clamp(13px, 1.25vw, 17px);
+    font-weight: 700;
+    line-height: 1.32;
+    color: #fff;
+  }
+  .spotlight-claim em { color: #d9b8ff; font-style: normal; }
+  .spotlight-body {
+    font-size: clamp(10px, 0.9vw, 12.5px);
+    line-height: 1.52;
+    color: rgba(255,255,255,0.78);
+  }
+  .spotlight-body b { color: #fff; font-weight: 700; }
+  .spotlight-proof {
+    display: flex;
     gap: clamp(8px, 1vw, 14px);
+    margin-top: auto;
+    padding-top: clamp(6px, 0.8vw, 10px);
+    border-top: 1px solid rgba(255,255,255,0.16);
+  }
+  .proof {
+    flex: 1;
+    font-size: clamp(9px, 0.8vw, 11px);
+    line-height: 1.4;
+    color: rgba(255,255,255,0.72);
+  }
+  .proof b { display: block; color: #fff; font-size: clamp(10px, 0.88vw, 12px); margin-bottom: 1px; }
+
+  /* Grid of the other 4 forces */
+  .forces {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: clamp(8px, 1vw, 12px);
     min-height: 0;
   }
   .force {
     border: 1px solid var(--card-border);
     border-radius: 10px;
-    padding: clamp(9px, 1.1vw, 14px) clamp(9px, 1vw, 13px);
+    padding: clamp(8px, 1vw, 13px) clamp(10px, 1.1vw, 15px);
     display: flex;
     flex-direction: column;
-    gap: clamp(5px, 0.6vw, 9px);
+    gap: clamp(3px, 0.5vw, 6px);
     min-width: 0;
+    min-height: 0;
+  }
+  .force-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 6px;
   }
   .force-name {
     font-size: clamp(10.5px, 0.92vw, 13px);
     font-weight: 800;
     color: var(--label);
     line-height: 1.25;
-    min-height: clamp(24px, 2.6vw, 34px);
   }
   .badge {
     align-self: flex-start;
@@ -150,14 +203,16 @@
     padding: 2px 8px;
     border-radius: 20px;
     white-space: nowrap;
+    flex-shrink: 0;
   }
   .badge-red { background: var(--red-bg); color: var(--red); }
   .badge-amber { background: var(--amber-bg); color: var(--amber); }
   .force-line {
-    font-size: clamp(9.5px, 0.86vw, 11.5px);
-    line-height: 1.42;
+    font-size: clamp(9.5px, 0.85vw, 11.5px);
+    line-height: 1.45;
     color: var(--body);
   }
+  .force-line b { color: var(--label); }
 
   .synth {
     background: var(--accent-light);
@@ -197,40 +252,44 @@
     <span class="tag">Mercado · 04 de 09</span>
     <h1>As 5 Forças de Porter confirmam: o mercado não está fechado — mas <b>quem manda é o comprador</b></h1>
 
-    <div class="hero">
-      <div class="hero-num">2 pilotos reais.<br><em>Aprovados tecnicamente.</em><br>Recusados no financeiro.</div>
-      <div class="hero-sub">TIM e Claro testaram o modelo de Energia como Serviço — nenhuma objeção técnica registrada em nenhum dos dois casos. Os dois pararam na mesma etapa: payback.</div>
+    <div class="board">
+      <div class="spotlight">
+        <div class="spotlight-top">
+          <span class="spotlight-name">Poder de barganha dos compradores — a força que mais aperta hoje</span>
+          <div class="spotlight-badges">
+            <span class="badge-on-dark hi">Alto · 3 grandes operadoras</span>
+            <span class="badge-on-dark lo">Baixo · 11.853 ISPs regionais</span>
+          </div>
+        </div>
+        <div class="spotlight-claim">O produto passou no teste técnico duas vezes — e perdeu as duas <em>só</em> na conta financeira.</div>
+        <div class="spotlight-body">TIM e Claro pilotaram o modelo de Energia como Serviço com a Moura e não registraram nenhuma objeção técnica. Mas cada uma cotou o mercado inteiro em paralelo (Claro comparou 4 fornecedores; TIM testou 2 lado a lado) e o CFO travou por não fechar o payback dentro do teto de 3 anos — <b>"só tem benefícios, mas não fecha a conta"</b>, na fala do decisor da TIM. É um comprador concentrado (só 3 operadoras no país), com informação total sobre o mercado e capacidade de fazer sozinho — por isso dita as regras. Nos <b>11.853 ISPs regionais</b>, pulverizados e sem musculatura financeira pra travar um payback assim, o poder se inverte: é o segmento que o próprio relatório de mercado recomenda como prioridade de entrada.</div>
+        <div class="spotlight-proof">
+          <div class="proof"><b>TIM — 2 pilotos</b>Aprovado tecnicamente, recusado no financeiro (payback fora do teto de 3 anos).</div>
+          <div class="proof"><b>Claro — 4 fornecedores cotados</b>Elogiou a qualidade do produto Moura, recusou por TCO (break-even de 2–2,5 anos não foi atrativo).</div>
+        </div>
+      </div>
+
+      <div class="forces">
+        <div class="force">
+          <div class="force-top"><span class="force-name">Novos entrantes</span><span class="badge badge-red">Alto</span></div>
+          <div class="force-line">3 portas abertas ao mesmo tempo: <b>startups de EaaS</b> (Voltz, Nuvem Energia) mirando o mesmo público, <b>towercos</b> que já controlam 64% das torres do país podendo empacotar energia na locação, e <b>fabricantes chineses</b> de célula derrubando o break-even de ~10 para ~2,5 anos.</div>
+        </div>
+        <div class="force">
+          <div class="force-top"><span class="force-name">Rivalidade</span><span class="badge badge-red">Alta</span></div>
+          <div class="force-line">~20 concorrentes mapeados em 4 perfis (bateria, operação, infra, plataforma) — ninguém fechou o mercado ainda, mas <b>UCB Power, Huawei e Polarium</b> já competem por serviço/digitalização, à frente da Moura nessa frente.</div>
+        </div>
+        <div class="force">
+          <div class="force-top"><span class="force-name">Fornecedores</span><span class="badge badge-amber">Médio-alto</span></div>
+          <div class="force-line">Só <b>1 fabricante de gabinete homologado</b> no Brasil (quase monopólio) e o modelo de aluguel depende de capital de giro caro — a conta piora rápido se a taxa de captação sobe.</div>
+        </div>
+        <div class="force">
+          <div class="force-top"><span class="force-name">Substitutos</span><span class="badge badge-amber">Média-alta</span></div>
+          <div class="force-line">O concorrente mais forte <b>não vende nada</b>: é o cliente gerindo energia sozinho, sem assinatura — e essa opção venceu as 2 vezes em que foi testada contra a proposta da Moura.</div>
+        </div>
+      </div>
     </div>
 
-    <div class="forces">
-      <div class="force">
-        <div class="force-name">Novos entrantes</div>
-        <span class="badge badge-red">Alto</span>
-        <div class="force-line">3 portas abertas ao mesmo tempo: startups de EaaS, redes neutras/towercos e fabricantes chineses baratos.</div>
-      </div>
-      <div class="force">
-        <div class="force-name">Fornecedores</div>
-        <span class="badge badge-amber">Médio-alto</span>
-        <div class="force-line">Só 1 fornecedor homologado de gabinete no Brasil, mais dependência de capital externo.</div>
-      </div>
-      <div class="force">
-        <div class="force-name">Rivalidade</div>
-        <span class="badge badge-red">Alto</span>
-        <div class="force-line">20+ concorrentes mapeados — ninguém fechou o mercado, mas vários avançam mais rápido em serviço.</div>
-      </div>
-      <div class="force">
-        <div class="force-name">Compradores</div>
-        <span class="badge badge-red">Alto / Baixo</span>
-        <div class="force-line">Alto nas grandes operadoras, baixo nos ISPs regionais — o produto perde no TCO, não na técnica.</div>
-      </div>
-      <div class="force">
-        <div class="force-name">Substitutos</div>
-        <span class="badge badge-amber">Média-alta</span>
-        <div class="force-line">O maior concorrente não vende nada: é o cliente gerindo energia sozinho — e venceu as 2 vezes testado.</div>
-      </div>
-    </div>
-
-    <div class="synth"><b>Leitura para a liderança:</b> o produto já passou no teste técnico duas vezes seguidas — e perdeu as duas no teste financeiro. O gargalo hoje não é o mercado estar fechado: é a Moura ainda não ter resolvido TCO/payback para quem mais pesa a decisão, o comprador grande.</div>
+    <div class="synth"><b>Leitura para a liderança:</b> o gargalo hoje não é o mercado estar fechado — é a Moura ainda não ter resolvido TCO/payback para quem mais pesa a decisão. Enquanto isso não muda, o caminho mais rápido para tração está no comprador com menos poder de barganha: os ISPs regionais.</div>
 
     <div class="foot">
       <span>Moura Energia — Diagnóstico de Produto</span>
